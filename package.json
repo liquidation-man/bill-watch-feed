@@ -1,0 +1,10 @@
+{
+  "name": "bill-watch-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test lib/*.test.mjs",
+    "mock": "node scripts/mock-poll.mjs",
+    "poll": "node scripts/poll.mjs"
+  }
+}
