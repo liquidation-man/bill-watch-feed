@@ -1,0 +1,21 @@
+{
+  "billId": "sample-2200001",
+  "title": "(샘플) ○○법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "홍길동 의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "date": "2026-08-01",
+      "stage": "발의",
+      "detail": "의안이 접수됐습니다.",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-08-10",
+      "stage": "입법예고",
+      "detail": "입법예고 기간이 시작됐습니다.",
+      "sourceUrl": ""
+    }
+  ]
+}
