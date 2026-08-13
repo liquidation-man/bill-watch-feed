@@ -16,7 +16,9 @@ jobs:
     runs-on: [self-hosted, windows, korea-net]
     defaults:
       run:
-        shell: bash
+        # self-hosted 러너는 NETWORK SERVICE 계정으로 도는데, 그 PATH 에는 Git Bash
+        # 가 없다("bash: command not found", 2026-08-13 실측) — 전체 경로로 지정한다.
+        shell: 'C:\Program Files\Git\usr\bin\bash.exe {0}'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
