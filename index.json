@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-08-14T08:24:50.443Z",
+  "generatedAt": "2026-08-14T08:26:11.890Z",
   "items": [
     {
-      "billId": "ADMRUL_2100000283726",
-      "title": "도로안전시설 설치 및 관리지침",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-14",
-      "tags": [
-        "부동산"
-      ]
-    },
-    {
-      "billId": "LAW_288761",
-      "title": "국방부와 그 소속기관 직제",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-14",
-      "tags": [
-        "행정"
-      ]
-    },
-    {
-      "billId": "LAW_288935",
-      "title": "국방부와 그 소속기관 직제 시행규칙",
+      "billId": "LAW_288937",
+      "title": "방위사업청과 그 소속기관 직제 시행규칙",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -33,19 +11,8 @@
       "tags": []
     },
     {
-      "billId": "LAW_288759",
-      "title": "방위사업청과 그 소속기관 직제",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-14",
-      "tags": [
-        "행정"
-      ]
-    },
-    {
-      "billId": "LAW_288937",
-      "title": "방위사업청과 그 소속기관 직제 시행규칙",
+      "billId": "LAW_288935",
+      "title": "국방부와 그 소속기관 직제 시행규칙",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -62,113 +29,36 @@
       "tags": []
     },
     {
-      "billId": "ADMRUL_2100000283934",
-      "title": "통계작성의 작성승인(협의) 고시(한국영화산업사업체조사)",
-      "stage": "제정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283926",
-      "title": "통계작성의 변경승인(협의) 고시(정선군기본통계)",
+      "billId": "LAW_288761",
+      "title": "국방부와 그 소속기관 직제",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "tags": [
-        "고시"
+        "행정"
       ]
     },
     {
-      "billId": "ADMRUL_2100000283948",
-      "title": "통계작성의 변경 승인(협의) 고시(창원시경제지표조사)",
+      "billId": "LAW_288759",
+      "title": "방위사업청과 그 소속기관 직제",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "tags": [
-        "고시"
+        "행정"
       ]
     },
     {
-      "billId": "ADMRUL_2100000283924",
-      "title": "통계작성의 변경승인(협의) 고시(지능정보사회이용자패널조사)",
+      "billId": "ADMRUL_2100000283726",
+      "title": "도로안전시설 설치 및 관리지침",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283920",
-      "title": "통계작성의 변경승인(협의) 고시(세종특별자치시기본통계)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283936",
-      "title": "통계작성의 변경승인(협의) 고시(의료급여통계)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283898",
-      "title": "통계작성의 변경승인(협의) 고시(중소기업정보화수준조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283946",
-      "title": "통계작성의 변경승인(협의) 고시(동해시기본통계)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283900",
-      "title": "통계작성의 변경승인(협의) 고시(뿌리산업실태조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283944",
-      "title": "통계작성의 변경승인(협의) 고시(항공산업실태조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
+        "부동산"
       ]
     },
     {
@@ -185,83 +75,6 @@
     {
       "billId": "ADMRUL_2100000283960",
       "title": "통계작성의 변경승인(협의) 고시(고령화연구패널조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283916",
-      "title": "통계작성의 변경승인(협의) 고시(중견기업경기전망조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283932",
-      "title": "통계작성의 변경승인(협의) 고시(바이오헬스산업실태조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283918",
-      "title": "통계작성의 변경승인(협의) 고시(블록체인산업실태조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283952",
-      "title": "통계작성의 변경승인(협의) 고시(공공의료기관현황)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283912",
-      "title": "통계작성의 변경승인(협의) 고시(평창군기본통계)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283922",
-      "title": "통계작성의 변경승인(협의) 고시(어업생산동향조사)",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-13",
-      "tags": [
-        "고시"
-      ]
-    },
-    {
-      "billId": "ADMRUL_2100000283902",
-      "title": "통계작성의 변경승인(협의) 고시(서울서베이)",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -293,9 +106,185 @@
       ]
     },
     {
-      "billId": "ADMRUL_2100000283822",
-      "title": "국립수목원 입장료의 면제대상 고시",
+      "billId": "ADMRUL_2100000283952",
+      "title": "통계작성의 변경승인(협의) 고시(공공의료기관현황)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283948",
+      "title": "통계작성의 변경 승인(협의) 고시(창원시경제지표조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283946",
+      "title": "통계작성의 변경승인(협의) 고시(동해시기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283944",
+      "title": "통계작성의 변경승인(협의) 고시(항공산업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283936",
+      "title": "통계작성의 변경승인(협의) 고시(의료급여통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283934",
+      "title": "통계작성의 작성승인(협의) 고시(한국영화산업사업체조사)",
       "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283932",
+      "title": "통계작성의 변경승인(협의) 고시(바이오헬스산업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283926",
+      "title": "통계작성의 변경승인(협의) 고시(정선군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283924",
+      "title": "통계작성의 변경승인(협의) 고시(지능정보사회이용자패널조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283922",
+      "title": "통계작성의 변경승인(협의) 고시(어업생산동향조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283920",
+      "title": "통계작성의 변경승인(협의) 고시(세종특별자치시기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283918",
+      "title": "통계작성의 변경승인(협의) 고시(블록체인산업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283916",
+      "title": "통계작성의 변경승인(협의) 고시(중견기업경기전망조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283912",
+      "title": "통계작성의 변경승인(협의) 고시(평창군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283902",
+      "title": "통계작성의 변경승인(협의) 고시(서울서베이)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283900",
+      "title": "통계작성의 변경승인(협의) 고시(뿌리산업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283898",
+      "title": "통계작성의 변경승인(협의) 고시(중소기업정보화수준조사)",
+      "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-08-13",
@@ -307,6 +296,17 @@
       "billId": "ADMRUL_2100000283896",
       "title": "통계작성의 변경승인(협의) 고시(산업기술인력수급실태조사)",
       "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": [
+        "고시"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000283822",
+      "title": "국립수목원 입장료의 면제대상 고시",
+      "stage": "제정",
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-08-13",
@@ -466,15 +466,6 @@
       "tags": []
     },
     {
-      "billId": "ADMRUL_2100000283780",
-      "title": "기획예산처 동호회 운영규정",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-12",
-      "tags": []
-    },
-    {
       "billId": "ADMRUL_2100000283888",
       "title": "농촌진흥청 공무원 특별성과 포상금제도 운영규정",
       "stage": "일부개정",
@@ -495,6 +486,15 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000283870",
+      "title": "국립어린이청소년도서관 영상정보처리기기 설치ㆍ운영 규정",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-12",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000283856",
       "title": "자율기구 산림사업품질혁신지원단의 설치 및 운영에 관한 규정",
       "stage": "제정",
@@ -504,9 +504,9 @@
       "tags": []
     },
     {
-      "billId": "ADMRUL_2100000283870",
-      "title": "국립어린이청소년도서관 영상정보처리기기 설치ㆍ운영 규정",
-      "stage": "전부개정",
+      "billId": "ADMRUL_2100000283780",
+      "title": "기획예산처 동호회 운영규정",
+      "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-08-12",
@@ -798,17 +798,6 @@
       "tags": []
     },
     {
-      "billId": "LAW_288751",
-      "title": "농어업재해대책법 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "농업"
-      ]
-    },
-    {
       "billId": "LAW_288757",
       "title": "반도체산업 경쟁력 강화 및 지원에 관한 특별법 시행규칙",
       "stage": "제정",
@@ -825,6 +814,17 @@
       "administration": "이재명정부",
       "date": "2026-08-11",
       "tags": []
+    },
+    {
+      "billId": "LAW_288751",
+      "title": "농어업재해대책법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "LAW_288709",
