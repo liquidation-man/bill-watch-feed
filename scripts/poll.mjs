@@ -108,7 +108,7 @@ async function main() {
   }
 
   const items = [...tracked.values()]
-    .flatMap((b) => b.events.map((e) => ({ billId: b.billId, title: b.title, stage: e.stage, date: e.date, tags: b.tags || [] })))
+    .flatMap((b) => b.events.map((e) => ({ billId: b.billId, title: b.title, stage: e.stage, category: e.category, date: e.date, tags: b.tags || [] })))
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .slice(0, FEED_LIMIT);
 
