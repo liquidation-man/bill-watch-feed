@@ -1,0 +1,31 @@
+{
+  "billId": "LAWHIST_스토킹방지및피해자보호등에관한법률시행령",
+  "title": "스토킹방지 및 피해자보호 등에 관한 법률 시행령",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-11",
+      "detail": "성평등가족부 · 대통령령 · 공포번호 제 33631호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=252389&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "성평등가족부 · 대통령령 · 공포번호 제 35806호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277447&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "detail": "성평등가족부 · 대통령령 · 공포번호 제 36571호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288675&type=HTML"
+    }
+  ],
+  "tags": []
+}

@@ -14,16 +14,29 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { buildFeedItems } from '../lib/build-index.mjs';
 import { stagesFromRecord, toBill } from '../lib/stages.mjs';
 import { tagBill } from '../lib/tags.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
+const DECREES_DIR = join(root, 'decrees');
+const LAWS_DIR = join(root, 'laws');
 const INDEX_PATH = join(root, 'index.json');
 const API_BASE = 'https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn';
 const AGE = 22;
 const RECENT_PAGE_SIZE = 50;
-const FEED_LIMIT = 100;
+
+/** decrees/*.json·laws/*.json — poll-decrees.mjs·poll-law-history.mjs가 채운다.
+ *  없어도(디렉터리 자체가 없어도) 빈 배열. */
+async function loadOtherEntities(dir) {
+  const files = await readdir(dir).catch(() => []);
+  const items = [];
+  for (const f of files.filter((f) => f.endsWith('.json'))) {
+    items.push(JSON.parse(await readFile(join(dir, f), 'utf8')));
+  }
+  return items;
+}
 
 const KEY = process.env.ASSEMBLY_API_KEY;
 if (!KEY) {
@@ -107,20 +120,9 @@ async function main() {
     await writeFile(join(BILLS_DIR, `${bill.billId}.json`), JSON.stringify(bill, null, 2) + '\n');
   }
 
-  const items = [...tracked.values()]
-    .flatMap((b) =>
-      b.events.map((e) => ({
-        billId: b.billId,
-        title: b.title,
-        stage: e.stage,
-        category: e.category,
-        administration: e.administration,
-        date: e.date,
-        tags: b.tags || [],
-      })),
-    )
-    .sort((a, b) => (a.date < b.date ? 1 : -1))
-    .slice(0, FEED_LIMIT);
+  const decrees = await loadOtherEntities(DECREES_DIR);
+  const laws = await loadOtherEntities(LAWS_DIR);
+  const items = buildFeedItems([...tracked.values()], decrees, laws);
 
   await writeFile(INDEX_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + '\n');
   console.log(`poll: 의안 ${tracked.size}건 추적 중, 피드 ${items.length}건`);
