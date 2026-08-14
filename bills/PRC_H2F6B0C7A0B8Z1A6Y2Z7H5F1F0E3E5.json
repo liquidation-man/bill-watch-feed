@@ -1,7 +1,7 @@
 {
   "billId": "PRC_H2F6B0C7A0B8Z1A6Y2Z7H5F1F0E3E5",
   "title": "산림조합법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "주철현의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -11,5 +11,8 @@
       "detail": "주철현의원 등 10인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F6B0C7A0B8Z1A6Y2Z7H5F1F0E3E5&ageFrom=22&ageTo=22"
     }
+  ],
+  "tags": [
+    "농업"
   ]
 }

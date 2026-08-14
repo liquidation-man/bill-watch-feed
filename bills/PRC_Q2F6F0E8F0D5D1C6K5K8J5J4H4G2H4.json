@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2F6F0E8F0D5D1C6K5K8J5J4H4G2H4",
   "title": "산업안전보건법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "이헌승의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -11,5 +11,8 @@
       "detail": "이헌승의원 등 12인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2F6F0E8F0D5D1C6K5K8J5J4H4G2H4&ageFrom=22&ageTo=22"
     }
+  ],
+  "tags": [
+    "환경"
   ]
 }
