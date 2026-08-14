@@ -3,6 +3,326 @@
   "title": "국방부와 그 소속기관 직제",
   "org": "국방부,행정안전부",
   "kind": "대통령령",
+  "articles": [
+    {
+      "number": "1",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제1장 총칙"
+    },
+    {
+      "number": "1",
+      "isChapterHeading": false,
+      "title": "목적",
+      "content": "제1조(목적) 이 영은 국방부와 그 소속기관의 조직과 직무범위, 그 밖에 필요한 사항을 규정함을 목적으로 한다."
+    },
+    {
+      "number": "2",
+      "isChapterHeading": false,
+      "title": "소속기관",
+      "content": "제2조(소속기관) 국방부장관의 관장사무를 지원하기 위하여 「책임운영기관의 설치ㆍ운영에 관한 법률」 제4조제1항, 같은 법 시행령 제2조제1항 및 별표 1에 따라 국방부장관 소속의 책임운영기관으로 국방홍보원 및 국방전산정보원을 둔다."
+    },
+    {
+      "number": "3",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제2장 국방부"
+    },
+    {
+      "number": "3",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제3조(직무) 국방부는 국방에 관련된 군정 및 군령과 그 밖에 군사에 관한 사무를 관장한다."
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제4조(하부조직)"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "차관보",
+      "content": "제4조의2(차관보)"
+    },
+    {
+      "number": "5",
+      "isChapterHeading": false,
+      "title": "국방보좌관",
+      "content": "제5조(국방보좌관)"
+    },
+    {
+      "number": "6",
+      "isChapterHeading": false,
+      "title": "대변인",
+      "content": "제6조(대변인)"
+    },
+    {
+      "number": "7",
+      "isChapterHeading": false,
+      "title": "장관정책보좌관",
+      "content": "제7조(장관정책보좌관)"
+    },
+    {
+      "number": "7",
+      "isChapterHeading": false,
+      "title": "기획조정실장",
+      "content": "제7조의2(기획조정실장)"
+    },
+    {
+      "number": "8",
+      "isChapterHeading": false,
+      "title": "법무관리관",
+      "content": "제8조(법무관리관)"
+    },
+    {
+      "number": "9",
+      "isChapterHeading": false,
+      "title": "감사관",
+      "content": "제9조(감사관)"
+    },
+    {
+      "number": "9",
+      "isChapterHeading": false,
+      "title": "정보보안정책관",
+      "content": "제9조의2(정보보안정책관)"
+    },
+    {
+      "number": "10",
+      "isChapterHeading": false,
+      "title": "운영지원과",
+      "content": "제10조(운영지원과)"
+    },
+    {
+      "number": "11",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제11조 삭제 <2013.3.23>"
+    },
+    {
+      "number": "12",
+      "isChapterHeading": false,
+      "title": "국방정책실",
+      "content": "제12조(국방정책실)"
+    },
+    {
+      "number": "13",
+      "isChapterHeading": false,
+      "title": "인사복지실",
+      "content": "제13조(인사복지실)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제14조 삭제 <2026.1.2>"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "국방인공지능기획국",
+      "content": "제14조의2(국방인공지능기획국)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "전력정책국",
+      "content": "제14조의3(전력정책국)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "국방정보화국",
+      "content": "제14조의4(국방정보화국)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "군수관리국",
+      "content": "제14조의5(군수관리국)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "군사시설국",
+      "content": "제14조의6(군사시설국)"
+    },
+    {
+      "number": "15",
+      "isChapterHeading": false,
+      "title": "군무회의",
+      "content": "제15조(군무회의)"
+    },
+    {
+      "number": "16",
+      "isChapterHeading": false,
+      "title": "위임규정",
+      "content": "제16조(위임규정)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제3장 삭제 <2024.6.25>"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제17조 삭제 <2024.6.25>"
+    },
+    {
+      "number": "18",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제18조 삭제 <2024.6.25>"
+    },
+    {
+      "number": "19",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제19조 삭제 <2024.6.25>"
+    },
+    {
+      "number": "20",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제4장 국방홍보원"
+    },
+    {
+      "number": "20",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제20조(직무) 국방홍보원은 국방일보 및 국군방송 등의 제작에 관한 사무를 관장한다."
+    },
+    {
+      "number": "21",
+      "isChapterHeading": false,
+      "title": "하부조직의 설치 등",
+      "content": "제21조(하부조직의 설치 등)"
+    },
+    {
+      "number": "22",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제5장 국방전산정보원 <개정 2009.5.6>"
+    },
+    {
+      "number": "22",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제22조(직무) 국방전산정보원은 국방부와 그 소속기관의 정보화업무 지원 및 국방자원관리 정보체계의 구축ㆍ운영에 관한 사무를 관장한다. <개정 2009.5.6>"
+    },
+    {
+      "number": "23",
+      "isChapterHeading": false,
+      "title": "하부조직의 설치 등",
+      "content": "제23조(하부조직의 설치 등)"
+    },
+    {
+      "number": "24",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제24조 삭제 <2016.2.29>"
+    },
+    {
+      "number": "25",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제6장 공무원의 정원 등"
+    },
+    {
+      "number": "25",
+      "isChapterHeading": false,
+      "title": "국방부에 두는 공무원의 정원",
+      "content": "제25조(국방부에 두는 공무원의 정원)"
+    },
+    {
+      "number": "26",
+      "isChapterHeading": false,
+      "title": "소속기관에 두는 공무원의 정원",
+      "content": "제26조(소속기관에 두는 공무원의 정원) 국방홍보원 및 국방전산정보원에 「책임운영기관의 설치ㆍ운영에 관한 법률 시행령」 별표 1의2에 따른 공무원 외에 필요에 따라 군인을 둘 수 있으며, 그 정원은 국방부장관이 행정안전부장관과 협의를 거쳐서 정한다."
+    },
+    {
+      "number": "27",
+      "isChapterHeading": false,
+      "title": "개방형 직위에 대한 특례",
+      "content": "제27조(개방형 직위에 대한 특례) 실ㆍ국장급 4개 직위 범위에서 국방부장관이 훈령ㆍ예규 및 그 밖의 방법으로 정하는 개방형 직위는 임기제공무원으로 보할 수 있다. <개정 2015.1.6, 2023.8.30>"
+    },
+    {
+      "number": "27",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제6장의2 평가대상 조직 <신설 2026.1.2>"
+    },
+    {
+      "number": "27",
+      "isChapterHeading": false,
+      "title": "평가대상 조직",
+      "content": "제27조의2(평가대상 조직)"
+    },
+    {
+      "number": "28",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제7장 한시조직 및 한시정원 <개정 2012.7.24>"
+    },
+    {
+      "number": "28",
+      "isChapterHeading": false,
+      "title": "핵추진잠수함정책기획단",
+      "content": "제28조(핵추진잠수함정책기획단)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "군공항이전사업단",
+      "content": "제29조(군공항이전사업단)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "군인권개선추진단장",
+      "content": "제29조의2(군인권개선추진단장)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "방위산업수출기획과",
+      "content": "제29조의3(방위산업수출기획과)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "중동아프리카정책과",
+      "content": "제29조의4(중동아프리카정책과)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제29조의5 삭제 <2026.1.2>"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "국방연구개발기획과",
+      "content": "제29조의6(국방연구개발기획과)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제29조의7 삭제 <2026.1.2>"
+    },
+    {
+      "number": "30",
+      "isChapterHeading": false,
+      "title": "한시정원",
+      "content": "제30조(한시정원)"
+    }
+  ],
   "events": [
     {
       "stage": "일부개정",
