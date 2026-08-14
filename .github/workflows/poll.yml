@@ -28,11 +28,17 @@ jobs:
       - run: node scripts/poll.mjs
         env:
           ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
+      - run: node scripts/poll-decrees.mjs
+        env:
+          LAWGO_OC: ${{ secrets.LAWGO_OC }}
+      - run: node scripts/poll-law-history.mjs
+        env:
+          LAWGO_OC: ${{ secrets.LAWGO_OC }}
       - name: 변경사항 커밋
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bills/ index.json
+          git add bills/ decrees/ laws/ index.json
           git diff --cached --quiet
           if ($LASTEXITCODE -ne 0) {
             $ts = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
