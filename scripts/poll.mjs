@@ -15,6 +15,7 @@ import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { stagesFromRecord, toBill } from '../lib/stages.mjs';
+import { tagBill } from '../lib/tags.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
@@ -80,14 +81,19 @@ async function main() {
   }
 
   // 2. 아직 안 끝난 추적 중 의안 — 진행 단계 갱신
+  // 소관위원회는 발의 때 비어 있다가 나중에 채워진다 — 그때 태그도 다시 계산해야
+  // 한다(2026-08-14, 태깅 규칙 도입 전엔 여기서 안 옮겨서 소급이 안 됐던 버그).
   const open = [...tracked.values()].filter((b) => !isBillConcluded(b));
   for (const bill of open) {
     const rows = await callApi({ pIndex: 1, pSize: 1, BILL_ID: bill.billId });
     if (rows.length === 0) continue;
     const incoming = stagesFromRecord(rows[0]);
     const { events, addedCount } = mergeEvents(bill.events, incoming);
-    if (addedCount > 0) {
-      tracked.set(bill.billId, { ...bill, events });
+    const committee = rows[0].COMMITTEE || bill.committee;
+    const tags = tagBill({ committee, title: bill.title });
+    const committeeChanged = committee !== bill.committee;
+    if (addedCount > 0 || committeeChanged) {
+      tracked.set(bill.billId, { ...bill, committee, events, tags });
       changed = true;
     }
   }
@@ -102,7 +108,7 @@ async function main() {
   }
 
   const items = [...tracked.values()]
-    .flatMap((b) => b.events.map((e) => ({ billId: b.billId, title: b.title, stage: e.stage, date: e.date })))
+    .flatMap((b) => b.events.map((e) => ({ billId: b.billId, title: b.title, stage: e.stage, date: e.date, tags: b.tags || [] })))
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .slice(0, FEED_LIMIT);
 
