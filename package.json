@@ -6,6 +6,7 @@
     "test": "node --test lib/*.test.mjs",
     "mock": "node scripts/mock-poll.mjs",
     "poll": "node scripts/poll.mjs",
-    "poll-law-history": "node scripts/poll-law-history.mjs"
+    "poll-law-history": "node scripts/poll-law-history.mjs",
+    "poll-approval": "node scripts/poll-approval.mjs"
   }
 }
