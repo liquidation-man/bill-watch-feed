@@ -3,6 +3,380 @@
   "title": "방위사업청과 그 소속기관 직제",
   "org": "방위사업청,행정안전부",
   "kind": "대통령령",
+  "articles": [
+    {
+      "number": "1",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제1장 총칙"
+    },
+    {
+      "number": "1",
+      "isChapterHeading": false,
+      "title": "목적",
+      "content": "제1조(목적) 이 영은 방위사업청과 그 소속기관의 조직과 직무범위 그 밖에 필요한 사항을 규정함을 목적으로 한다."
+    },
+    {
+      "number": "2",
+      "isChapterHeading": false,
+      "title": "소속기관",
+      "content": "제2조(소속기관) 방위사업청장의 관장사무를 지원하기 위하여 방위사업청장 소속하에 기반전력사업본부, 미래전력사업본부 및 방위사업교육원을 둔다. <개정 2011.6.7, 2019.9.17, 2020.12.31>"
+    },
+    {
+      "number": "3",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제2장 방위사업청"
+    },
+    {
+      "number": "3",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제3조(직무) 방위사업청은 방위력개선사업, 군수물자의 조달 및 방위산업의 육성과 그 밖에 방위사업에 관한 사무를 관장한다. <개정 2018.11.27>"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제4조(하부조직)"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "차장",
+      "content": "제4조의2(차장) 차장은 고위공무원단에 속하는 일반직공무원으로 보한다. <개정 2013.12.24>"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "대변인",
+      "content": "제4조의3(대변인)"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제4조의4 삭제 <2018.11.27>"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "방위사업감독관",
+      "content": "제4조의5(방위사업감독관)"
+    },
+    {
+      "number": "5",
+      "isChapterHeading": false,
+      "title": "기획조정관",
+      "content": "제5조(기획조정관)"
+    },
+    {
+      "number": "5",
+      "isChapterHeading": false,
+      "title": "국제협력관",
+      "content": "제5조의2(국제협력관)"
+    },
+    {
+      "number": "6",
+      "isChapterHeading": false,
+      "title": "감사관",
+      "content": "제6조(감사관)"
+    },
+    {
+      "number": "6",
+      "isChapterHeading": false,
+      "title": "조직인사담당관",
+      "content": "제6조의2(조직인사담당관)"
+    },
+    {
+      "number": "7",
+      "isChapterHeading": false,
+      "title": "운영지원과",
+      "content": "제7조(운영지원과)"
+    },
+    {
+      "number": "8",
+      "isChapterHeading": false,
+      "title": "방위사업정책국",
+      "content": "제8조(방위사업정책국)"
+    },
+    {
+      "number": "9",
+      "isChapterHeading": false,
+      "title": "방위산업진흥국",
+      "content": "제9조(방위산업진흥국)"
+    },
+    {
+      "number": "10",
+      "isChapterHeading": false,
+      "title": "국방기술개발보호국",
+      "content": "제10조(국방기술개발보호국)"
+    },
+    {
+      "number": "11",
+      "isChapterHeading": false,
+      "title": "위임규정",
+      "content": "제11조(위임규정) 「행정기관의 조직과 정원에 관한 통칙」 제12조제3항 및 제14조제4항의 규정에 의하여 방위사업청에 두는 보조기관 또는 보좌기관은 방위사업청에 두는 정원의 범위 안에서 국방부령으로 정한다. <개정 2006.12.29>"
+    },
+    {
+      "number": "12",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제3장 기반전력사업본부 <개정 2019.9.17>"
+    },
+    {
+      "number": "12",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제12조(직무) 기반전력사업본부는 다음 사무를 관장한다."
+    },
+    {
+      "number": "13",
+      "isChapterHeading": false,
+      "title": "본부장",
+      "content": "제13조(본부장)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제14조(하부조직)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "기반전력사업지원부",
+      "content": "제14조의2(기반전력사업지원부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "기동사업부",
+      "content": "제14조의3(기동사업부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "화력사업부",
+      "content": "제14조의4(화력사업부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "함정사업부",
+      "content": "제14조의5(함정사업부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제14조의6 삭제 <2020.12.31>"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "항공기사업부",
+      "content": "제14조의7(항공기사업부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "헬기사업부",
+      "content": "제14조의8(헬기사업부)"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제14조의9 삭제 <2019.9.17>"
+    },
+    {
+      "number": "14",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제14조의10 삭제 <2011.6.7>"
+    },
+    {
+      "number": "15",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제4장 미래전력사업본부 <개정 2019.9.17>"
+    },
+    {
+      "number": "15",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제15조(직무) 미래전력사업본부는 다음 사무를 관장한다."
+    },
+    {
+      "number": "16",
+      "isChapterHeading": false,
+      "title": "본부장",
+      "content": "제16조(본부장)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제17조(하부조직)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제17조의2 삭제 <2013.9.17>"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "미래전력사업지원부",
+      "content": "제17조의3(미래전력사업지원부)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "우주지휘통신사업부",
+      "content": "제17조의4(우주지휘통신사업부)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "유도무기사업부",
+      "content": "제17조의5(유도무기사업부)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "감시전자사업부",
+      "content": "제17조의6(감시전자사업부)"
+    },
+    {
+      "number": "17",
+      "isChapterHeading": false,
+      "title": "첨단기술사업단",
+      "content": "제17조의7(첨단기술사업단)"
+    },
+    {
+      "number": "18",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제5장 방위사업교육원 <신설 2020.12.31>"
+    },
+    {
+      "number": "18",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제18조(직무) 방위사업교육원은 다음 사무를 관장한다."
+    },
+    {
+      "number": "19",
+      "isChapterHeading": false,
+      "title": "원장",
+      "content": "제19조(원장)"
+    },
+    {
+      "number": "20",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제20조(하부조직) 「행정기관의 조직과 정원에 관한 통칙」 제12조제3항 및 제14조제4항에 따라 방위사업교육원에 두는 보조기관 또는 보좌기관은 방위사업청의 소속기관에 두는 정원의 범위에서 국방부령으로 정한다."
+    },
+    {
+      "number": "21",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제6장 공무원의 정원 등"
+    },
+    {
+      "number": "21",
+      "isChapterHeading": false,
+      "title": "방위사업청에 두는 공무원의 정원",
+      "content": "제21조(방위사업청에 두는 공무원의 정원)"
+    },
+    {
+      "number": "22",
+      "isChapterHeading": false,
+      "title": "소속기관에 두는 공무원의 정원",
+      "content": "제22조(소속기관에 두는 공무원의 정원)"
+    },
+    {
+      "number": "22",
+      "isChapterHeading": false,
+      "title": "군인이 아닌 방위사업청과 그 소속기관 공무원의 구성비율",
+      "content": "제22조의2(군인이 아닌 방위사업청과 그 소속기관 공무원의 구성비율)"
+    },
+    {
+      "number": "23",
+      "isChapterHeading": false,
+      "title": "개방형 직위에 대한 특례",
+      "content": "제23조(개방형 직위에 대한 특례) 국장급 이상 4개 직위 범위에서 방위사업청장이 훈령ㆍ예규 및 그 밖의 방법으로 정하는 개방형 직위는 임기제공무원으로 보할 수 있다. <개정 2015.1.6, 2015.5.12, 2023.8.30>"
+    },
+    {
+      "number": "23",
+      "isChapterHeading": false,
+      "title": "전문직공무원 정원의 배정 및 운영에 대한 특례",
+      "content": "제23조의2(전문직공무원 정원의 배정 및 운영에 대한 특례)"
+    },
+    {
+      "number": "24",
+      "isChapterHeading": false,
+      "title": "군인의 정원에 대한 특례",
+      "content": "제24조(군인의 정원에 대한 특례) 방위사업청 및 그 소속기관에 두는 군인의 정원은 576명의 범위에서 국방부장관이 행정안전부장관과 협의를 거쳐서 정한다. <개정 2007.7.26, 2008.12.31, 2013.9.17, 2014.11.19, 2015.5.12, 2016.3.22, 2017.7.26, 2020.12.31, 2021.11.23>"
+    },
+    {
+      "number": "24",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제6장의2 평가대상 조직 <신설 2025.12.30>"
+    },
+    {
+      "number": "24",
+      "isChapterHeading": false,
+      "title": "평가대상 조직",
+      "content": "제24조의2(평가대상 조직)"
+    },
+    {
+      "number": "25",
+      "isChapterHeading": true,
+      "title": "",
+      "content": "제7장 한시조직 및 한시정원 <개정 2023.12.12>"
+    },
+    {
+      "number": "25",
+      "isChapterHeading": false,
+      "title": "한국형전투기사업단 및 그 정원",
+      "content": "제25조(한국형전투기사업단 및 그 정원)"
+    },
+    {
+      "number": "26",
+      "isChapterHeading": false,
+      "title": "핵추진잠수함사업단 및 그 정원",
+      "content": "제26조(핵추진잠수함사업단 및 그 정원)"
+    },
+    {
+      "number": "27",
+      "isChapterHeading": false,
+      "title": "한국형기동헬기사업팀",
+      "content": "제27조(한국형기동헬기사업팀)"
+    },
+    {
+      "number": "28",
+      "isChapterHeading": false,
+      "title": "소형무장헬기사업팀",
+      "content": "제28조(소형무장헬기사업팀)"
+    },
+    {
+      "number": "29",
+      "isChapterHeading": false,
+      "title": "한시정원",
+      "content": "제29조(한시정원)"
+    },
+    {
+      "number": "30",
+      "isChapterHeading": false,
+      "title": "",
+      "content": "제30조 삭제 <2017.12.29>"
+    }
+  ],
   "events": [
     {
       "stage": "일부개정",

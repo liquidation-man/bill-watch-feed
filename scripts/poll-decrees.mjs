@@ -17,14 +17,27 @@ import { fileURLToPath } from 'node:url';
 import { buildFeedItems } from '../lib/build-index.mjs';
 import { administrationFromDate } from '../lib/administration.mjs';
 import { eventFromAdmrulRow, eventFromLawRow, parseAdmrulSearchXml, parseLawSearchXml } from '../lib/decree.mjs';
+import { parseLawBodyXml } from '../lib/law-body.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
 const DECREES_DIR = join(root, 'decrees');
 const LAWS_DIR = join(root, 'laws');
 const INDEX_PATH = join(root, 'index.json');
-const API_BASE = 'http://www.law.go.kr/DRF/lawSearch.do';
+const SEARCH_API_BASE = 'http://www.law.go.kr/DRF/lawSearch.do';
+const BODY_API_BASE = 'http://www.law.go.kr/DRF/lawService.do';
 const RECENT_DISPLAY = 30; // 회차당 조회 건수 — 호출 예의(poll-law-history.mjs와 동일 원칙)
+const MAX_ORG_BODY_FETCHES = 5; // "직제" 본문은 커서(194KB급) — 회차당 상한
+
+/**
+ * "OO부와 그 소속기관 직제" — 오너 지시(2026-08-14 "조직도 같은 것도 없네")
+ * 에 대한 답. 별도 조직도 API는 없지만, 각 부처 "직제" 대통령령의 조문이
+ * 그 부처 조직(국·과·소속기관)의 법적 원본이다(2026-08-14 실물 확인,
+ * lib/law-body.mjs). 새로 잡힌 "직제"류 법령만 본문(조문)까지 받아둔다.
+ */
+function isOrgDecree(title) {
+  return /직제$/.test(title);
+}
 
 const OC = process.env.LAWGO_OC;
 if (!OC) {
@@ -33,7 +46,7 @@ if (!OC) {
 }
 
 async function callApi(target) {
-  const url = new URL(API_BASE);
+  const url = new URL(SEARCH_API_BASE);
   url.searchParams.set('OC', OC);
   url.searchParams.set('target', target);
   url.searchParams.set('type', 'XML'); // law·admrul은 XML이 유효하다(lsHistory와 다름, 2026-08-14 실측)
@@ -43,6 +56,19 @@ async function callApi(target) {
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`법제처 API HTTP ${res.status}`);
   return res.text();
+}
+
+/** 법령 하나의 전체 조문(본문)을 받는다. mst는 법령일련번호. */
+async function fetchLawBody(mst) {
+  const url = new URL(BODY_API_BASE);
+  url.searchParams.set('OC', OC);
+  url.searchParams.set('target', 'law');
+  url.searchParams.set('MST', mst);
+  url.searchParams.set('type', 'XML');
+
+  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: AbortSignal.timeout(15000) });
+  if (!res.ok) throw new Error(`법제처 API HTTP ${res.status}`);
+  return parseLawBodyXml(await res.text());
 }
 
 async function loadJsonDir(dir) {
@@ -58,12 +84,13 @@ async function loadJsonDir(dir) {
 /** decree.mjs의 이벤트 하나를 decrees/<id>.json 파일 형태로 바꾼다.
  *  bills/*.json과 같은 최상위 모양(billId·title·events·tags)을 맞춰서
  *  bill-watch 쪽 fetchBill이 같은 방식으로 읽을 수 있게 한다. */
-function eventToDecreeFile(event) {
+function eventToDecreeFile(event, articles) {
   return {
     billId: event.id,
     title: event.title,
     org: event.org,
     kind: event.kind,
+    articles, // "직제" 류만 채워진다("조직도" 답) — 나머진 undefined, 지어내지 않는다
     events: [
       {
         stage: event.stage,
@@ -87,9 +114,22 @@ async function main() {
   const lawEvents = parseLawSearchXml(lawXml).map(eventFromLawRow);
   const admrulEvents = parseAdmrulSearchXml(admrulXml).map(eventFromAdmrulRow);
 
+  let orgBodyFetches = 0;
   for (const event of [...lawEvents, ...admrulEvents]) {
     if (tracked.has(event.id)) continue; // 법령일련번호/행정규칙일련번호는 개정마다 새로 매겨진다 — 이미 있으면 그대로 둔다
-    tracked.set(event.id, eventToDecreeFile(event));
+
+    let articles;
+    if (isOrgDecree(event.title) && event.id.startsWith('LAW_') && orgBodyFetches < MAX_ORG_BODY_FETCHES) {
+      orgBodyFetches += 1;
+      const mst = event.id.slice('LAW_'.length);
+      try {
+        articles = (await fetchLawBody(mst)).articles;
+      } catch (err) {
+        console.log(`poll-decrees: "${event.title}" 본문 조회 실패(${err.message}) — 조문 없이 저장`);
+      }
+    }
+
+    tracked.set(event.id, eventToDecreeFile(event, articles));
     changed = true;
   }
 
