@@ -1,7 +1,7 @@
 {
   "billId": "PRC_X2F6G0E7F2D4C1C4Y2Y2X4Y8W1W3V6",
   "title": "지방세특례제한법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "안철수의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "행정"
   ]
 }

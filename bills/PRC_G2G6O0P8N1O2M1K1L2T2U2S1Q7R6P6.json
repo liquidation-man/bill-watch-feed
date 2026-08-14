@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2G6O0P8N1O2M1K1L2T2U2S1Q7R6P6",
   "title": "마약류 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "박은정의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "보건"
   ]
 }

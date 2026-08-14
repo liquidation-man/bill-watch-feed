@@ -1,7 +1,7 @@
 {
   "billId": "PRC_B2C6A0B8I1H1I1G4H1F7G3N6M4M8L2",
   "title": "형사사법절차 전자화 촉진법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "김승원의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "법"
   ]
 }

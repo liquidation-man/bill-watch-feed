@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2J6H0I3Q0R6P1P0O3O5N4V7V8T5U5",
   "title": "도시공원 및 녹지 등에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "김정재의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "부동산"
   ]
 }

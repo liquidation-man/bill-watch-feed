@@ -1,7 +1,7 @@
 {
   "billId": "PRC_X2V6W0V8V0R5P1Q1O1P8N1O7W9U6U8",
   "title": "고용보험법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "김재섭의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "환경"
   ]
 }

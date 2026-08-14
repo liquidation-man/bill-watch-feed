@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2R6P0Q7O1N5N1V4W3U8V2T2T5S9A8",
   "title": "인구감소지역 지원 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임종득의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "행정"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_W2V6V0T8U1C0D1B5A5A5Y3Z7V7V0T4",
   "title": "검역법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "이만희의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "보건"
   ]
 }

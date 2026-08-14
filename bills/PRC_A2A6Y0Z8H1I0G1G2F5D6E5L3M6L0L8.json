@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2A6Y0Z8H1I0G1G2F5D6E5L3M6L0L8",
   "title": "은행법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "김태호의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "금융"
   ]
 }

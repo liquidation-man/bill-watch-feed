@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2R6P0O4P2N0O1V6U5V0T2U0S8S5B0",
+  "title": "국민건강보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김미애의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-04-21",
+      "detail": "김미애의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R6P0O4P2N0O1V6U5V0T2U0S8S5B0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-29",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R6P0O4P2N0O1V6U5V0T2U0S8S5B0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R6P0O4P2N0O1V6U5V0T2U0S8S5B0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

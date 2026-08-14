@@ -1,0 +1,807 @@
+{
+  "billId": "LAWHIST_정보통신망이용촉진및정보보호등에관한법률시행령",
+  "title": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1986-05-12",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 03848호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=573&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1986-12-31",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 12049호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26420&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1989-04-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 12680호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26421&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-02-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 13282호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26422&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-07-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 13413호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26537&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-08-10",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 04393호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=574&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-12-14",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 04439호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=575&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-12-31",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 13558호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26538&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1992-06-30",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 13674호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26539&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1992-10-07",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 체신부령 · 공포번호 제 00847호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=45751&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1992-12-08",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 04528호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=576&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-08-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 04969호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=577&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-06",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 04998호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=578&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 14847호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26540&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-03-14",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 14947호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26541&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-03-18",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 정보통신부령 · 공포번호 제 00021호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=45752&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-12-30",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 05219호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=579&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-02-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 15282호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26542&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-01-21",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 05669호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=580&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-08",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 05835호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=581&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-05-24",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 05986호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=582&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-06-30",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 16456호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=26543&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-07-13",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 정보통신부령 · 공포번호 제 00077호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=45753&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-07-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 16883호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52201&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-07-10",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 정보통신부령 · 공포번호 제 00099호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=45754&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-01-16",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 06360호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=51505&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-12-31",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 06585호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52421&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2002-12-18",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 06797호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=56372&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-01-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07142호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58579&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-01-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07139호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58583&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-12-30",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07262호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=65879&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-12-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07796호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=72336&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-12-30",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07812호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=72439&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-03-24",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 07917호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=73423&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-10-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08031호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=75731&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-10-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08030호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=75700&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-01-26",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08289호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=77227&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-05-25",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08486호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=79153&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-12-21",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08778호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=81883&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08867호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=84962&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 08852호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=84963&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-06-13",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 09119호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=87471&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-04-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 09637호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=92783&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-17",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 10138호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=103422&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 10166호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=103829&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 10165호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=103818&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-03-29",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 10465호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=111334&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-04-05",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 10560호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=111970&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-09-15",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 11048호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=116791&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-02-17",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 11322호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=123210&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 11690호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=137254&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-05-28",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 12681호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=154247&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 12844호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=162094&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-01-20",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 13014호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=167388&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-03-27",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 13280호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=169551&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-06-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 13344호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=172210&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-06-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 13343호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=172209&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-12-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 13520호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=176679&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-03-22",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 14080호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=181842&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2017-03-14",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 14580호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=192306&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 14839호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=195040&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-06-12",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 15628호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=203723&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-09-18",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 15751호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=204481&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-24",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 16021호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206009&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-24",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 16019호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206006&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-12-10",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 16825호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=212277&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-02-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 16955호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=213949&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 17358호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218937&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 17354호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218921&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 17348호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218859&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 17347호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218841&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 17344호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218767&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-02-02",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 31429호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=228951&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-06-08",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 18201호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=232619&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-12-07",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 32179호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=237339&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-12-28",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 32274호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=238603&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-06-10",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 18871호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=242879&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-08-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 32868호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=244187&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-12-09",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 33039호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=245873&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-01-03",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 19154호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=247261&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-03",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 33612호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=252257&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-26",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 34024호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=257215&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-23",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 20069호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=259007&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-02-13",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 20260호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=260225&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-02-27",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 34258호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=260797&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-02-27",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 34234호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=260735&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-07-23",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 34723호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=264263&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-08-13",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 34821호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=264903&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-03",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 20534호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=266671&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-31",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 35172호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=267793&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-01-21",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 20678호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=268525&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2025-05-20",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 35533호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=271151&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 21066호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277377&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 35810호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277569&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-11-04",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 35837호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=279313&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-01-06",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 21305호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282481&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 21445호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283843&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 36220호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284861&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-31",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 법률 · 공포번호 제 21500호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285199&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-07-07",
+      "detail": "과학기술정보통신부,방송미디어통신위원회 · 대통령령 · 공포번호 제 36502호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288033&type=HTML"
+    }
+  ],
+  "tags": []
+}

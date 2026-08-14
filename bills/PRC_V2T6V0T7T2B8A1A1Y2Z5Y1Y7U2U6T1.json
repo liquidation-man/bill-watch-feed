@@ -1,7 +1,7 @@
 {
   "billId": "PRC_V2T6V0T7T2B8A1A1Y2Z5Y1Y7U2U6T1",
   "title": "한국농어촌공사 및 농지관리기금법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "윤준병의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "농업"
   ]
 }

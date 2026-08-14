@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_D2Y6D0B7S0C9Q1T7E0V6J5U7I6P1X5",
+  "title": "제9회 전국동시지방선거 투표용지 부족사태 및 선거관리 부실 등 국민참정권 침해 진상규명을 위한 특별검사 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "한병도의원 등 161인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-07-09",
+      "detail": "한병도의원 등 161인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Y6D0B7S0C9Q1T7E0V6J5U7I6P1X5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-27",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Y6D0B7S0C9Q1T7E0V6J5U7I6P1X5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Y6D0B7S0C9Q1T7E0V6J5U7I6P1X5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-07-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Y6D0B7S0C9Q1T7E0V6J5U7I6P1X5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

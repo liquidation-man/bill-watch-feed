@@ -1,7 +1,7 @@
 {
   "billId": "PRC_X2W6W0F8D1D0C1C5B5W0X3V7W6U7V5",
   "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "오세희의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "산업"
   ]
 }

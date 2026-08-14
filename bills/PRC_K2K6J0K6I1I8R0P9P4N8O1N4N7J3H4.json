@@ -1,7 +1,7 @@
 {
   "billId": "PRC_K2K6J0K6I1I8R0P9P4N8O1N4N7J3H4",
   "title": "전자금융거래법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "노종면의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "금융"
   ]
 }

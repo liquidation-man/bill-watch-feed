@@ -1,7 +1,7 @@
 {
   "billId": "PRC_T2R6S0Q8W1W0V1W5U5U5C2D0B9Z4A0",
   "title": "결핵예방법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "이만희의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,8 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
+  ],
+  "tags": [
+    "보건"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_O2O6M0N8L1M0U1U1T4R4S4Q3R8G8G1",
   "title": "국회법 일부개정법률안",
-  "committee": "",
+  "committee": "국회운영위원회",
   "proposer": "문금주의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -13,5 +13,6 @@
       "category": "입법안",
       "administration": "이재명정부"
     }
-  ]
+  ],
+  "tags": []
 }
