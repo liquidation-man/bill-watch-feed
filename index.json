@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-08-14T08:26:11.890Z",
+  "generatedAt": "2026-08-14T13:17:17.541Z",
   "items": [
     {
-      "billId": "LAW_288937",
-      "title": "방위사업청과 그 소속기관 직제 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-14",
-      "tags": []
-    },
-    {
-      "billId": "LAW_288935",
+      "billId": "LAWHIST_국방부와그소속기관직제시행규칙",
       "title": "국방부와 그 소속기관 직제 시행규칙",
       "stage": "일부개정",
       "category": "개정",
@@ -20,7 +11,7 @@
       "tags": []
     },
     {
-      "billId": "LAW_288763",
+      "billId": "LAWHIST_방위산업기술보호법시행령",
       "title": "방위산업기술 보호법 시행령",
       "stage": "타법개정",
       "category": "개정",
@@ -29,7 +20,7 @@
       "tags": []
     },
     {
-      "billId": "LAW_288761",
+      "billId": "LAWHIST_국방부와그소속기관직제",
       "title": "국방부와 그 소속기관 직제",
       "stage": "일부개정",
       "category": "개정",
@@ -38,6 +29,24 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "LAWHIST_방위사업청과그소속기관직제시행규칙",
+      "title": "방위사업청과 그 소속기관 직제 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-14",
+      "tags": []
+    },
+    {
+      "billId": "LAWHIST_방위사업청과그소속기관직제시행규칙",
+      "title": "방위사업청과 그 소속기관 직제 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-14",
+      "tags": []
     },
     {
       "billId": "LAW_288759",
@@ -49,6 +58,15 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000283914",
+      "title": "복권위원회 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-14",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000283726",
@@ -106,6 +124,15 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000283954",
+      "title": "방위사업청 소속기관의 하부조직 편성에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000283952",
       "title": "통계작성의 변경승인(협의) 고시(공공의료기관현황)",
       "stage": "일부개정",
@@ -115,6 +142,15 @@
       "tags": [
         "통계"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000283950",
+      "title": "국방부 위임전결 훈령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000283948",
@@ -181,6 +217,24 @@
       "tags": [
         "통계"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000283930",
+      "title": "무기체계 부품국산화개발 관리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000283928",
+      "title": "지식재산처 방첩업무규정 시행세칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-13",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000283926",
@@ -734,6 +788,55 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_반도체산업경쟁력강화및지원에관한특별법시행규칙",
+      "title": "반도체산업 경쟁력 강화 및 지원에 관한 특별법 시행규칙",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": []
+    },
+    {
+      "billId": "LAWHIST_법무부와그소속기관직제시행규칙",
+      "title": "법무부와 그 소속기관 직제 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": []
+    },
+    {
+      "billId": "LAWHIST_농어업재해대책법시행규칙",
+      "title": "농어업재해대책법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_농어업재해대책법시행규칙",
+      "title": "농어업재해대책법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_축산물위생관리법시행규칙",
+      "title": "축산물 위생관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-08-11",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_축산물위생관리법시행령",
       "title": "축산물 위생관리법 시행령",
       "stage": "일부개정",
@@ -867,44 +970,6 @@
       "tags": []
     },
     {
-      "billId": "LAW_288757",
-      "title": "반도체산업 경쟁력 강화 및 지원에 관한 특별법 시행규칙",
-      "stage": "제정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": []
-    },
-    {
-      "billId": "LAW_288755",
-      "title": "법무부와 그 소속기관 직제 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": []
-    },
-    {
-      "billId": "LAW_288751",
-      "title": "농어업재해대책법 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "농업"
-      ]
-    },
-    {
-      "billId": "LAW_288709",
-      "title": "축산물 위생관리법 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": []
-    },
-    {
       "billId": "PRC_Z2X6X0F7G1E0D1D4B5C8K0L8J7I8I8",
       "title": "국가재정법 일부개정법률안",
       "stage": "발의",
@@ -957,83 +1022,6 @@
       "date": "2026-08-11",
       "tags": [
         "금융"
-      ]
-    },
-    {
-      "billId": "PRC_T2R6S0Q7P1P0L0M9K2I7J5H7I8Q2Q4",
-      "title": "소방시설 설치 및 관리에 관한 법률 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "행정"
-      ]
-    },
-    {
-      "billId": "PRC_K2K6J0H8I0G4G1P4P5N0O5N0L2L7T6",
-      "title": "호스피스·완화의료 및 임종과정에 있는 환자의 연명의료결정에 관한 법률 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "PRC_J2H6H0F8H0F4F1B7Z4A6Y3Z2X8Y8G4",
-      "title": "소득세법 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "세금"
-      ]
-    },
-    {
-      "billId": "PRC_H2P6Q0O8P0N5N1M0U0V2T2T1S6S4Q8",
-      "title": "농업기계화 촉진법 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "농업"
-      ]
-    },
-    {
-      "billId": "PRC_E2L6M0L8J1J0H1I4E2E2D5B4C4A1B6",
-      "title": "물류시설의 개발 및 운영에 관한 법률 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "교통"
-      ]
-    },
-    {
-      "billId": "PRC_D2B6B0A8B0Z6Z0H9G5G3E3F1D2U3U1",
-      "title": "자본시장과 금융투자업에 관한 법률 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "금융"
-      ]
-    },
-    {
-      "billId": "PRC_C2D6B0B7A1Y0Z1V4V5T8U4T9R5R5Z5",
-      "title": "국민연금법 일부개정법률안",
-      "stage": "발의",
-      "category": "입법안",
-      "administration": "이재명정부",
-      "date": "2026-08-11",
-      "tags": [
-        "보건"
       ]
     }
   ]
