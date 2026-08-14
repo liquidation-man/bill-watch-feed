@@ -34,11 +34,16 @@ jobs:
       - run: node scripts/poll-law-history.mjs
         env:
           LAWGO_OC: ${{ secrets.LAWGO_OC }}
+      # 한국갤럽 사이트 구조가 바뀌면 파싱이 깨질 수 있다 — 그래도 위의
+      # 확립된 폴러들(의안·대통령령·법령이력)까지 막히면 안 되므로 이 한
+      # 걸음만 실패를 허용한다(2026-08-14, 지지율 파일럿).
+      - run: node scripts/poll-approval.mjs
+        continue-on-error: true
       - name: 변경사항 커밋
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bills/ decrees/ laws/ index.json
+          git add bills/ decrees/ laws/ index.json approval.json
           git diff --cached --quiet
           if ($LASTEXITCODE -ne 0) {
             $ts = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")

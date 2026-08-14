@@ -1,0 +1,33 @@
+{
+  "source": "한국갤럽",
+  "reportTitle": "데일리 오피니언 제671호(2026년 8월 2주) - 보완수사권 폐지, 부동산 세제개편안, 정책적 개입 수준, 주택 시장 안정화",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1653",
+  "period": "2026년 8월 둘째 주(11~13일)",
+  "approval": {
+    "approvePct": 44,
+    "disapprovePct": 46,
+    "undecidedPct": 10
+  },
+  "partySupport": {
+    "parties": [
+      {
+        "name": "더불어민주당",
+        "pct": 41
+      },
+      {
+        "name": "국민의힘",
+        "pct": 25
+      },
+      {
+        "name": "개혁신당",
+        "pct": 3
+      },
+      {
+        "name": "조국혁신당",
+        "pct": 2
+      }
+    ],
+    "undecidedPct": 28
+  },
+  "fetchedAt": "2026-08-14T10:24:26.183Z"
+}
