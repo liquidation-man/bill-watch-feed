@@ -15,8 +15,13 @@ import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildFeedItems } from '../lib/build-index.mjs';
-import { administrationFromDate } from '../lib/administration.mjs';
-import { eventFromAdmrulRow, eventFromLawRow, parseAdmrulSearchXml, parseLawSearchXml } from '../lib/decree.mjs';
+import {
+  eventFromAdmrulRow,
+  eventFromLawRow,
+  eventToDecreeFile,
+  parseAdmrulSearchXml,
+  parseLawSearchXml,
+} from '../lib/decree.mjs';
 import { parseLawBodyXml } from '../lib/law-body.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
@@ -79,30 +84,6 @@ async function loadJsonDir(dir) {
     items.set(item.billId, item);
   }
   return items;
-}
-
-/** decree.mjs의 이벤트 하나를 decrees/<id>.json 파일 형태로 바꾼다.
- *  bills/*.json과 같은 최상위 모양(billId·title·events·tags)을 맞춰서
- *  bill-watch 쪽 fetchBill이 같은 방식으로 읽을 수 있게 한다. */
-function eventToDecreeFile(event, articles) {
-  return {
-    billId: event.id,
-    title: event.title,
-    org: event.org,
-    kind: event.kind,
-    articles, // "직제" 류만 채워진다("조직도" 답) — 나머진 undefined, 지어내지 않는다
-    events: [
-      {
-        stage: event.stage,
-        category: event.category,
-        administration: administrationFromDate(event.date),
-        date: event.date,
-        detail: '',
-        sourceUrl: event.sourceUrl,
-      },
-    ],
-    tags: event.tags,
-  };
 }
 
 async function main() {
