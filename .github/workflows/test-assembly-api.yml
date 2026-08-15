@@ -8,9 +8,15 @@ jobs:
         shell: bash
     steps:
       - run: |
-          echo "=== 회의록 ==="
-          curl -sL "https://open.assembly.go.kr/portal/openapi/nqabvrkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
-          echo "=== 청원 ==="
-          curl -sL "https://open.assembly.go.kr/portal/openapi/jkvxopqrhedrtoda?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
-          echo "=== 국정감사 ==="
-          curl -sL "https://open.assembly.go.kr/portal/openapi/eoworfkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
+          echo "=== 의안정보 통합 (기존) ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=1&AGE=22" | head -30
+          echo "=== 회의록 (정확한 ID) ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/nxqvrkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=1&AGE=22" | head -30
+          echo "=== 청원 (정확한 ID) ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/ptfvrkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=1&AGE=22" | head -30
+          echo "=== 국정감사 (정확한 ID) ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/eoworkkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=1&AGE=22" | head -30
+          echo "=== 법제처 법령검색 (기존 OC) ==="
+          curl -sL "http://www.law.go.kr/DRF/lawSearch.do?OC=${{ secrets.LAWGO_OC }}&target=law&type=XML&query=국민&search=1&display=1" | head -30
+          echo "=== 법제처 행정규칙 ==="
+          curl -sL "http://www.law.go.kr/DRF/lawSearch.do?OC=${{ secrets.LAWGO_OC }}&target=admrul&type=XML&query=환경&search=1&display=1" | head -30
