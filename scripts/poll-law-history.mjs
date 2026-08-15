@@ -28,6 +28,8 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
 const DECREES_DIR = join(root, 'decrees');
 const LAWS_DIR = join(root, 'laws');
+const GWANBO_DIR = join(root, 'gwanbo');
+const POLICY_DIR = join(root, 'policy');
 const INDEX_PATH = join(root, 'index.json');
 const API_BASE = 'http://www.law.go.kr/DRF/lawSearch.do';
 const MAX_QUERIES_PER_RUN = 10; // 호출 예의 — 한 번에 너무 많이 안 부른다
@@ -125,7 +127,9 @@ async function main() {
     return;
   }
 
-  const items = buildFeedItems([...bills.values()], [...decrees.values()], [...tracked.values()]);
+  const gwanbo = [...(await loadJsonDir(GWANBO_DIR)).values()];
+  const policy = [...(await loadJsonDir(POLICY_DIR)).values()];
+  const items = buildFeedItems([...bills.values()], [...decrees.values()], [...tracked.values()], gwanbo, policy);
   await writeFile(INDEX_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + '\n');
   console.log(`poll-law-history: ${written}/${toQuery.length}건 저장, 법령 ${tracked.size}건 추적 중, 피드 ${items.length}건`);
 }

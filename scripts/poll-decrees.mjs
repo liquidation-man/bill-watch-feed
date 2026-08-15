@@ -28,6 +28,8 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
 const DECREES_DIR = join(root, 'decrees');
 const LAWS_DIR = join(root, 'laws');
+const GWANBO_DIR = join(root, 'gwanbo');
+const POLICY_DIR = join(root, 'policy');
 const INDEX_PATH = join(root, 'index.json');
 const SEARCH_API_BASE = 'http://www.law.go.kr/DRF/lawSearch.do';
 const BODY_API_BASE = 'http://www.law.go.kr/DRF/lawService.do';
@@ -125,7 +127,9 @@ async function main() {
 
   const bills = [...(await loadJsonDir(BILLS_DIR)).values()];
   const laws = [...(await loadJsonDir(LAWS_DIR)).values()];
-  const items = buildFeedItems(bills, [...tracked.values()], laws);
+  const gwanbo = [...(await loadJsonDir(GWANBO_DIR)).values()];
+  const policy = [...(await loadJsonDir(POLICY_DIR)).values()];
+  const items = buildFeedItems(bills, [...tracked.values()], laws, gwanbo, policy);
   await writeFile(INDEX_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + '\n');
   console.log(`poll-decrees: 법령·행정규칙 ${tracked.size}건 추적 중, 피드 ${items.length}건`);
 }

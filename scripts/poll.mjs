@@ -22,6 +22,8 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
 const DECREES_DIR = join(root, 'decrees');
 const LAWS_DIR = join(root, 'laws');
+const GWANBO_DIR = join(root, 'gwanbo');
+const POLICY_DIR = join(root, 'policy');
 const INDEX_PATH = join(root, 'index.json');
 const API_BASE = 'https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn';
 const AGE = 22;
@@ -122,7 +124,9 @@ async function main() {
 
   const decrees = await loadOtherEntities(DECREES_DIR);
   const laws = await loadOtherEntities(LAWS_DIR);
-  const items = buildFeedItems([...tracked.values()], decrees, laws);
+  const gwanbo = await loadOtherEntities(GWANBO_DIR);
+  const policy = await loadOtherEntities(POLICY_DIR);
+  const items = buildFeedItems([...tracked.values()], decrees, laws, gwanbo, policy);
 
   await writeFile(INDEX_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + '\n');
   console.log(`poll: 의안 ${tracked.size}건 추적 중, 피드 ${items.length}건`);

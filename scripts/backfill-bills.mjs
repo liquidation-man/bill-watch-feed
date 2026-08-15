@@ -32,6 +32,8 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
 const DECREES_DIR = join(root, 'decrees');
 const LAWS_DIR = join(root, 'laws');
+const GWANBO_DIR = join(root, 'gwanbo');
+const POLICY_DIR = join(root, 'policy');
 const INDEX_PATH = join(root, 'index.json');
 const STATE_PATH = join(root, 'backfill-state.json');
 const API_BASE = 'https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn';
@@ -121,7 +123,9 @@ async function main() {
   const bills = await loadJsonDir(BILLS_DIR);
   const decrees = await loadJsonDir(DECREES_DIR);
   const laws = await loadJsonDir(LAWS_DIR);
-  const items = buildFeedItems(bills, decrees, laws);
+  const gwanbo = await loadJsonDir(GWANBO_DIR);
+  const policy = await loadJsonDir(POLICY_DIR);
+  const items = buildFeedItems(bills, decrees, laws, gwanbo, policy);
   await writeFile(INDEX_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + '\n');
   console.log(
     `backfill-bills: ${written}건 신규 저장, 누적 ${tracked.size}건, 피드 ${items.length}건 (state: AGE${state.age} pIndex${state.pIndex} done=${state.done})`,
