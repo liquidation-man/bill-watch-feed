@@ -1,0 +1,13 @@
+name: test-assembly-api
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: [self-hosted, korea-net]
+    steps:
+      - run: |
+          echo "=== 회의록 ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/nqabvrkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
+          echo "=== 청원 ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/jkvxopqrhedrtoda?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
+          echo "=== 국정감사 ==="
+          curl -sL "https://open.assembly.go.kr/portal/openapi/eoworfkdkdfbbrql?KEY=${{ secrets.ASSEMBLY_API_KEY }}&Type=json&pSize=2&AGE=22" | head -50
