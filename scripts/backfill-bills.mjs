@@ -10,7 +10,12 @@
  * AGE=21·22 둘 다 조회한다. 22대(2024-05-30~)는 임기 자체가 컷오프 이후라
  * 전체를 담고, 21대는 컷오프 이후분만 남긴다(lib/backfill.mjs 참고).
  *
- * 규모가 크다(22대만 17,200건+) — 한 번에 다 안 부른다. backfill-state.json에
+ * **2026-08-15 확장 — 18~22대 전체 백필.** 18대(2012-05-30~2016-05-29)·
+ * 19대(2012-05-30~2016-05-29)·20대(2016-05-30~2020-05-29)는 컷오프(2022-05-10)
+ * 이전 임기라 전체를 담는다(splitPageByCutoff가 age!==21이면 컷오프를 안 본다).
+ * 21대는 여전히 컷오프 이후분만. 22대는 전체.
+ *
+ * 규모가 크다(22대만 17,200건+, 18~20대 합산 수만 건) — 한 번에 다 안 부른다. backfill-state.json에
  * "AGE별로 어디까지 봤는지"(다음 pIndex)를 저장해 poll.yml 6시간 주기마다
  * 이어서 진행한다(법령연혁 폴러의 MAX_QUERIES_PER_RUN과 같은 절제 원칙).
  *
@@ -40,7 +45,7 @@ const API_BASE = 'https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn';
 const PAGE_SIZE = 100;
 const PAGES_PER_RUN = 20; // 한 회차 최대 2,000건 조회 — 호출 예의
 const CUTOFF_DATE = '2022-05-10'; // 윤석열정부 취임일(lib/administration.mjs와 같은 값)
-const AGES = [22, 21]; // 22대 먼저 끝내고 21대(컷오프 이후분)로
+const AGES = [22, 21, 20, 19, 18]; // 22대 먼저 끝내고 21대(컷오프 이후)→20·19·18대(전체)
 
 const KEY = process.env.ASSEMBLY_API_KEY;
 if (!KEY) {
