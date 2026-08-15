@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2Q6Q0M2K0L3J1K3I5J6R1R4P1O8P6",
+  "title": "장기등 이식에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "서미화의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-02-05",
+      "detail": "서미화의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q6Q0M2K0L3J1K3I5J6R1R4P1O8P6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-03-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q6Q0M2K0L3J1K3I5J6R1R4P1O8P6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

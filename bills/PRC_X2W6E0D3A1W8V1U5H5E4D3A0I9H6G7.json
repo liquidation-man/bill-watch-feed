@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X2W6E0D3A1W8V1U5H5E4D3A0I9H6G7",
+  "title": "한국교육과정평가원법안",
+  "committee": "교육위원회",
+  "proposer": "강경숙의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-03-31",
+      "detail": "강경숙의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W6E0D3A1W8V1U5H5E4D3A0I9H6G7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-04-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W6E0D3A1W8V1U5H5E4D3A0I9H6G7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

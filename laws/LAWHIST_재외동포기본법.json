@@ -1,0 +1,55 @@
+{
+  "billId": "LAWHIST_재외동포기본법",
+  "title": "재외동포기본법",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-05-09",
+      "detail": "재외동포청 · 법률 · 공포번호 제 19402호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=250669&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-11-07",
+      "detail": "재외동포청 · 대통령령 · 공포번호 제 33841호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=255949&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "재외동포청 · 대통령령 · 공포번호 제 35811호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=278081&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-12-30",
+      "detail": "재외동포청 · 대통령령 · 공포번호 제 35948호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=281723&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-05-19",
+      "detail": "재외동포청 · 법률 · 공포번호 제 21665호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286087&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-06-09",
+      "detail": "재외동포청 · 법률 · 공포번호 제 21761호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286711&type=HTML"
+    }
+  ],
+  "tags": []
+}

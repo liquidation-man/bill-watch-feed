@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2Q5O1K2K1J1J1H5I3H4H3P8P3O0M6",
+  "title": "결핵예방법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "황명선의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-01-26",
+      "detail": "황명선의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5O1K2K1J1J1H5I3H4H3P8P3O0M6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5O1K2K1J1J1H5I3H4H3P8P3O0M6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

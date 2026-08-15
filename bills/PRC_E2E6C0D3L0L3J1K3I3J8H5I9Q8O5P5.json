@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2E6C0D3L0L3J1K3I3J8H5I9Q8O5P5",
+  "title": "자동차손해배상 보장법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "복기왕의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-03-04",
+      "detail": "복기왕의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E6C0D3L0L3J1K3I3J8H5I9Q8O5P5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-30",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E6C0D3L0L3J1K3I3J8H5I9Q8O5P5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2E6D0D2C2C3K0I9J5H3I0G6H0P4P9",
+  "title": "여객자동차 운수사업법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "진성준의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-03-04",
+      "detail": "진성준의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E6D0D2C2C3K0I9J5H3I0G6H0P4P9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-30",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E6D0D2C2C3K0I9J5H3I0G6H0P4P9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

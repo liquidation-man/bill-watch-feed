@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D2D6B0D1B0B2Z1A0I0I2H5F8G6E7E1",
+  "title": "방위사업법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "한기호의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-02-12",
+      "detail": "한기호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D6B0D1B0B2Z1A0I0I2H5F8G6E7E1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-17",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D6B0D1B0B2Z1A0I0I2H5F8G6E7E1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

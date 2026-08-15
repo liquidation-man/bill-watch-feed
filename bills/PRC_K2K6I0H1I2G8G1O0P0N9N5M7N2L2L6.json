@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K2K6I0H1I2G8G1O0P0N9N5M7N2L2L6",
+  "title": "대구경북행정통합특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "임미애의원 등 22인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-02-02",
+      "detail": "임미애의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K6I0H1I2G8G1O0P0N9N5M7N2L2L6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-05",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K6I0H1I2G8G1O0P0N9N5M7N2L2L6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K6I0H1I2G8G1O0P0N9N5M7N2L2L6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

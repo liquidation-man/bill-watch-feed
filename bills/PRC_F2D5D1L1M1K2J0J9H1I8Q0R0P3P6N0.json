@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2D5D1L1M1K2J0J9H1I8Q0R0P3P6N0",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "진종오의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-03-30",
+      "detail": "진종오의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D5D1L1M1K2J0J9H1I8Q0R0P3P6N0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-29",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D5D1L1M1K2J0J9H1I8Q0R0P3P6N0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

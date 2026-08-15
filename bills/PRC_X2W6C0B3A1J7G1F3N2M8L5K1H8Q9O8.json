@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2W6C0B3A1J7G1F3N2M8L5K1H8Q9O8",
+  "title": "토지초과이득세법안",
+  "committee": "재정경제기획위원회",
+  "proposer": "윤종오의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-04-08",
+      "detail": "윤종오의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W6C0B3A1J7G1F3N2M8L5K1H8Q9O8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-29",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W6C0B3A1J7G1F3N2M8L5K1H8Q9O8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

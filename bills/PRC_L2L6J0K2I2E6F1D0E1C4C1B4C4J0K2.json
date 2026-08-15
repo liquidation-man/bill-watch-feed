@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L2L6J0K2I2E6F1D0E1C4C1B4C4J0K2",
+  "title": "국가정보원법 일부개정법률안",
+  "committee": "정보위원회",
+  "proposer": "이성권의원ㆍ박선원의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-03-17",
+      "detail": "이성권의원ㆍ박선원의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2L6J0K2I2E6F1D0E1C4C1B4C4J0K2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-06",
+      "detail": "정보위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2L6J0K2I2E6F1D0E1C4C1B4C4J0K2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-05-07",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2L6J0K2I2E6F1D0E1C4C1B4C4J0K2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

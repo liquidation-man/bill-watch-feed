@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2B6J0J1H1I9G1H4F0G2O0O5M2L4L8",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "정춘생의원 등 19인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-01-27",
+      "detail": "정춘생의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B6J0J1H1I9G1H4F0G2O0O5M2L4L8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B6J0J1H1I9G1H4F0G2O0O5M2L4L8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

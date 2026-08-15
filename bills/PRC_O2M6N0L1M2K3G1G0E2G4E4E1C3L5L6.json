@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O2M6N0L1M2K3G1G0E2G4E4E1C3L5L6",
+  "title": "유아교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "문정복의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-01-23",
+      "detail": "문정복의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M6N0L1M2K3G1G0E2G4E4E1C3L5L6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-01",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M6N0L1M2K3G1G0E2G4E4E1C3L5L6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
