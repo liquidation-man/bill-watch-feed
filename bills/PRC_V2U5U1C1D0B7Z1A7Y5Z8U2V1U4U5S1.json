@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V2U5U1C1D0B7Z1A7Y5Z8U2V1U4U5S1",
+  "title": "서해 5도 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김종민의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-12-31",
+      "detail": "김종민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2U5U1C1D0B7Z1A7Y5Z8U2V1U4U5S1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2U5U1C1D0B7Z1A7Y5Z8U2V1U4U5S1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

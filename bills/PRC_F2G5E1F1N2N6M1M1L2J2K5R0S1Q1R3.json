@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2G5E1F1N2N6M1M1L2J2K5R0S1Q1R3",
+  "title": "국민건강증진법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "남인순의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-27",
+      "detail": "남인순의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G5E1F1N2N6M1M1L2J2K5R0S1Q1R3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G5E1F1N2N6M1M1L2J2K5R0S1Q1R3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

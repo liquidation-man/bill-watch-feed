@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V2V5T1B0B2A3Y1Z2X0X5T2U0S7T7R7",
+  "title": "모자보건법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "조배숙의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-07",
+      "detail": "조배숙의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2V5T1B0B2A3Y1Z2X0X5T2U0S7T7R7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2V5T1B0B2A3Y1Z2X0X5T2U0S7T7R7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

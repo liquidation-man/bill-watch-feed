@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2Y5Y0G6H1F8E1E4C2D6L4M3K1K0I3",
+  "title": "전직대통령 예우에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "정혜경의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-01-15",
+      "detail": "정혜경의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y5Y0G6H1F8E1E4C2D6L4M3K1K0I3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y5Y0G6H1F8E1E4C2D6L4M3K1K0I3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

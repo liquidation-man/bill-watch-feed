@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G2G5F1D1E1C3D1Y8Z2X5Y1W7X1V0D0",
+  "title": "중소기업기본법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "최혁진의원ㆍ김동아의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-20",
+      "detail": "최혁진의원ㆍ김동아의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5F1D1E1C3D1Y8Z2X5Y1W7X1V0D0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-09",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5F1D1E1C3D1Y8Z2X5Y1W7X1V0D0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-05-20",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5F1D1E1C3D1Y8Z2X5Y1W7X1V0D0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

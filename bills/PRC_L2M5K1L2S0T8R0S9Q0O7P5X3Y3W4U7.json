@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2M5K1L2S0T8R0S9Q0O7P5X3Y3W4U7",
+  "title": "경찰공무원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이건태의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-01-20",
+      "detail": "이건태의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2M5K1L2S0T8R0S9Q0O7P5X3Y3W4U7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2M5K1L2S0T8R0S9Q0O7P5X3Y3W4U7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

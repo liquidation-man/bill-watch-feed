@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2S5Q1Q2O2P9N1O7W0X3V2V7U4S2T0",
+  "title": "공공주택 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "조정식의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-12-31",
+      "detail": "조정식의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S5Q1Q2O2P9N1O7W0X3V2V7U4S2T0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-01",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S5Q1Q2O2P9N1O7W0X3V2V7U4S2T0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

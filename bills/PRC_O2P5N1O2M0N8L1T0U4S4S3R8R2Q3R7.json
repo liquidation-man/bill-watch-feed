@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O2P5N1O2M0N8L1T0U4S4S3R8R2Q3R7",
+  "title": "평생교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "이주영의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-12-16",
+      "detail": "이주영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P5N1O2M0N8L1T0U4S4S3R8R2Q3R7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-24",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P5N1O2M0N8L1T0U4S4S3R8R2Q3R7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2Z5Y1W1X0E7F1E8E2C4D4B1J0K5I7",
+  "title": "인구감소지역 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김종민의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-12-19",
+      "detail": "김종민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y1W1X0E7F1E8E2C4D4B1J0K5I7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-05",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y1W1X0E7F1E8E2C4D4B1J0K5I7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

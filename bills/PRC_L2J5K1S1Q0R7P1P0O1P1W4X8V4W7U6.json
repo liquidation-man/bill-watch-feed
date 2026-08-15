@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2J5K1S1Q0R7P1P0O1P1W4X8V4W7U6",
+  "title": "항공안전법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "강대식의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "강대식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2J5K1S1Q0R7P1P0O1P1W4X8V4W7U6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-10",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2J5K1S1Q0R7P1P0O1P1W4X8V4W7U6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

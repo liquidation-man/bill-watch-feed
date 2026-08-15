@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E2E5C1D1C2C8B1B7Q2Q1P5N8O1M1N3",
+  "title": "군사기지 및 군사시설 보호법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김병주의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-12-04",
+      "detail": "김병주의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E5C1D1C2C8B1B7Q2Q1P5N8O1M1N3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2025-12-10",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E5C1D1C2C8B1B7Q2Q1P5N8O1M1N3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
