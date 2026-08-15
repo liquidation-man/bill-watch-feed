@@ -3,6 +3,9 @@ on: workflow_dispatch
 jobs:
   test:
     runs-on: [self-hosted, korea-net]
+    defaults:
+      run:
+        shell: bash
     steps:
       - run: |
           echo "=== 회의록 ==="
