@@ -34,6 +34,19 @@ const INDEX_PATH = join(root, 'index.json');
 const SEARCH_API_BASE = 'http://www.law.go.kr/DRF/lawSearch.do';
 const BODY_API_BASE = 'http://www.law.go.kr/DRF/lawService.do';
 const RECENT_DISPLAY = 30; // 회차당 조회 건수 — 호출 예의(poll-law-history.mjs와 동일 원칙)
+const TARGETED_ADMRUL_QUERIES = [
+  // 최신순 30건만 보면 오래된 현행 고시가 빠진다. 오너가 예로 든 구내통신선로설비처럼
+  // 생활 분류에 중요한 행정규칙은 작은 키워드 묶음으로 따로 백필한다.
+  '구내통신설비',
+  '선로설비',
+  '통신공동구',
+  '정보통신',
+  '방송통신',
+  '건축기준',
+  '녹색건축',
+  '다중생활시설',
+];
+const TARGETED_DISPLAY = 10;
 const MAX_ORG_BODY_FETCHES = 5; // "직제" 본문은 커서(194KB급) — 회차당 상한
 
 /**
@@ -52,13 +65,14 @@ if (!OC) {
   process.exit(1);
 }
 
-async function callApi(target) {
+async function callApi(target, { query, display = RECENT_DISPLAY } = {}) {
   const url = new URL(SEARCH_API_BASE);
   url.searchParams.set('OC', OC);
   url.searchParams.set('target', target);
   url.searchParams.set('type', 'XML'); // law·admrul은 XML이 유효하다(lsHistory와 다름, 2026-08-14 실측)
   url.searchParams.set('sort', 'ddes'); // 공포일자/발령일자 내림차순 — 최신순
-  url.searchParams.set('display', String(RECENT_DISPLAY));
+  url.searchParams.set('display', String(display));
+  if (query) url.searchParams.set('query', query);
 
   const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`법제처 API HTTP ${res.status}`);
@@ -93,9 +107,14 @@ async function main() {
   const tracked = await loadJsonDir(DECREES_DIR);
   let changed = false;
 
-  const [lawXml, admrulXml] = await Promise.all([callApi('law'), callApi('admrul')]);
+  const [lawXml, admrulXml, ...targetedAdmrulXmls] = await Promise.all([
+    callApi('law'),
+    callApi('admrul'),
+    ...TARGETED_ADMRUL_QUERIES.map((query) => callApi('admrul', { query, display: TARGETED_DISPLAY })),
+  ]);
   const lawEvents = parseLawSearchXml(lawXml).map(eventFromLawRow);
-  const admrulEvents = parseAdmrulSearchXml(admrulXml).map(eventFromAdmrulRow);
+  const admrulRows = [admrulXml, ...targetedAdmrulXmls].flatMap(parseAdmrulSearchXml);
+  const admrulEvents = [...new Map(admrulRows.map((row) => [row['행정규칙일련번호'], row])).values()].map(eventFromAdmrulRow);
 
   let orgBodyFetches = 0;
   for (const event of [...lawEvents, ...admrulEvents]) {
