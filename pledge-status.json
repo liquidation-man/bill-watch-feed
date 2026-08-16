@@ -1,0 +1,78 @@
+{
+  "source": "중앙선거관리위원회 정책·공약마당 제21대 대통령선거 당선인 10대공약",
+  "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8",
+  "updatedAt": "2026-08-16T08:07:42.625Z",
+  "note": "공약 목록 원천만 연결했다. 이행 여부는 별도 검증 원천이 연결될 때까지 추정하지 않는다.",
+  "pledges": [
+    {
+      "id": "lee-2025-01",
+      "title": "세계를 선도하는 경제 강국을 만들겠습니다.",
+      "category": "경제·산업",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-02",
+      "title": "내란극복과 K-민주주의 위상 회복으로 민주주의 강국을 만들겠습니다.",
+      "category": "정치·사법",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-03",
+      "title": "가계·소상공인의 활력을 증진하고, 공정경제를 실현하겠습니다.",
+      "category": "경제·산업",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-04",
+      "title": "세계질서 변화에 실용적으로 대처하는 외교안보 강국을 만들겠습니다.",
+      "category": "외교·통상",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-05",
+      "title": "국민의 생명과 안전을 지키는 나라를 만들겠습니다.",
+      "category": "사법·행정·보건의료",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-06",
+      "title": "세종 행정수도와 ‘5극 3특’ 추진으로 국토균형발전을 이루겠습니다.",
+      "category": "행정 ·경제 ·산업",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-07",
+      "title": "노동이 존중받고 모든 사람의 권리가 보장되는 사회를 만들겠습니다.",
+      "category": "교육·경제·복지",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-08",
+      "title": "생활안정으로 아동·청년·어르신 등 모두가 잘사는 나라를 만들겠습니다.",
+      "category": "경제·복지",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-09",
+      "title": "저출생·고령화 위기를 극복하고 아이부터 어르신까지 함께 돌보는 국가를 만들겠습니다.",
+      "category": "교육·복지",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    },
+    {
+      "id": "lee-2025-10",
+      "title": "미래세대를 위해 기후위기에 적극 대응하겠습니다.",
+      "category": "환경·산업",
+      "status": "추적 전",
+      "sourceUrl": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR8"
+    }
+  ]
+}

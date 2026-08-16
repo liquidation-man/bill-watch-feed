@@ -10,6 +10,7 @@
     "poll-gwanbo": "node scripts/poll-gwanbo.mjs",
     "poll-policy": "node scripts/poll-policy.mjs",
     "poll-approval": "node scripts/poll-approval.mjs",
+    "poll-pledges": "node scripts/poll-pledges.mjs",
     "poll-decrees": "node scripts/poll-decrees.mjs"
   }
 }
