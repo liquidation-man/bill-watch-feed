@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T2R5S0R9P2P2X1Y3W2X6V3U3U6C4C4",
+  "title": "이동통신보안법안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "김장겸의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-26",
+      "detail": "김장겸의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0R9P2P2X1Y3W2X6V3U3U6C4C4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-17",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0R9P2P2X1Y3W2X6V3U3U6C4C4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

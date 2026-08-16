@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2S5R0R9N2O5M1M8K1J1K3R1S7R5R4",
+  "title": "농지법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김선교의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-26",
+      "detail": "김선교의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2S5R0R9N2O5M1M8K1J1K3R1S7R5R4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-07",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2S5R0R9N2O5M1M8K1J1K3R1S7R5R4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

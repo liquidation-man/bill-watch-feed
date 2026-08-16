@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2T5U0Q8P1N4M1U7V2U4T3R8Z6Y6Z3",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "박성민의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "박성민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5U0Q8P1N4M1U7V2U4T3R8Z6Y6Z3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5U0Q8P1N4M1U7V2U4T3R8Z6Y6Z3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

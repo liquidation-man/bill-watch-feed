@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_J2K5I0J7H0I4G1G1P1N6N1M3M7K7L0",
+  "title": "근로감독관법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "박홍배의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-05",
+      "detail": "박홍배의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0J7H0I4G1G1P1N6N1M3M7K7L0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-14",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0J7H0I4G1G1P1N6N1M3M7K7L0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-06",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0J7H0I4G1G1P1N6N1M3M7K7L0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-03-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0J7H0I4G1G1P1N6N1M3M7K7L0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

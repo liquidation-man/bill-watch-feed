@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2P5Q1X0W0X1V1V8U2U1Q0R3P4Q2O7",
+  "title": "인체정보 보호에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "한지아의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-10-02",
+      "detail": "한지아의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P5Q1X0W0X1V1V8U2U1Q0R3P4Q2O7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P5Q1X0W0X1V1V8U2U1Q0R3P4Q2O7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

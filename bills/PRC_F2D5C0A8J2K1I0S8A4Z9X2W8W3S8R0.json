@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F2D5C0A8J2K1I0S8A4Z9X2W8W3S8R0",
+  "title": "사회연대경제기본법안",
+  "committee": "행정안전위원회",
+  "proposer": "복기왕의원 등 62인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-27",
+      "detail": "복기왕의원 등 62인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D5C0A8J2K1I0S8A4Z9X2W8W3S8R0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-26",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D5C0A8J2K1I0S8A4Z9X2W8W3S8R0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D5C0A8J2K1I0S8A4Z9X2W8W3S8R0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

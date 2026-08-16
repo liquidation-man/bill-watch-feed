@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_O2M5N0L7L0K7L0S8T5R9S0Q6P8P2E3",
+  "title": "헌법재판소법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "한창민의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-11",
+      "detail": "한창민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N0L7L0K7L0S8T5R9S0Q6P8P2E3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-11",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N0L7L0K7L0S8T5R9S0Q6P8P2E3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-11",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N0L7L0K7L0S8T5R9S0Q6P8P2E3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-02-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N0L7L0K7L0S8T5R9S0Q6P8P2E3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

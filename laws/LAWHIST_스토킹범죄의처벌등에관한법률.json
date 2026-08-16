@@ -1,0 +1,47 @@
+{
+  "billId": "LAWHIST_스토킹범죄의처벌등에관한법률",
+  "title": "스토킹범죄의 처벌 등에 관한 법률",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-04-20",
+      "detail": "법무부 · 법률 · 공포번호 제 18083호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=231663&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-07-06",
+      "detail": "법무부 · 대통령령 · 공포번호 제 31866호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=233711&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-11",
+      "detail": "법무부 · 법률 · 공포번호 제 19518호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=252483&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-11",
+      "detail": "법무부 · 법률 · 공포번호 제 19518호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=252483&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-04-21",
+      "detail": "법무부 · 법률 · 공포번호 제 21556호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285471&type=HTML"
+    }
+  ],
+  "tags": []
+}
