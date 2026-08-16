@@ -15,6 +15,7 @@ import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildFeedItems } from '../lib/build-index.mjs';
+import { normalizePollState, parsePositiveInt, selectOpenBillBatch } from '../lib/poll-cursor.mjs';
 import { stagesFromRecord, toBill } from '../lib/stages.mjs';
 import { tagBill } from '../lib/tags.mjs';
 
@@ -25,9 +26,11 @@ const LAWS_DIR = join(root, 'laws');
 const GWANBO_DIR = join(root, 'gwanbo');
 const POLICY_DIR = join(root, 'policy');
 const INDEX_PATH = join(root, 'index.json');
+const POLL_STATE_PATH = join(root, 'poll-state.json');
 const API_BASE = 'https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn';
 const AGE = 22;
 const RECENT_PAGE_SIZE = 50;
+const OPEN_BILL_BATCH_SIZE = parsePositiveInt(process.env.POLL_OPEN_BILL_BATCH_SIZE, 200);
 
 /** decrees/*.json·laws/*.json — poll-decrees.mjs·poll-law-history.mjs가 채운다.
  *  없어도(디렉터리 자체가 없어도) 빈 배열. */
@@ -71,6 +74,14 @@ async function loadTrackedBills() {
   return bills;
 }
 
+async function loadPollState() {
+  try {
+    return normalizePollState(JSON.parse(await readFile(POLL_STATE_PATH, 'utf8')));
+  } catch {
+    return { nextBillId: null };
+  }
+}
+
 /** 기존 이벤트에 없는 새 이벤트만 이어붙인다. stage 이름으로 중복을 가린다. */
 function mergeEvents(existing, incoming) {
   const seen = new Set(existing.map((e) => e.stage));
@@ -99,7 +110,9 @@ async function main() {
   // 소관위원회는 발의 때 비어 있다가 나중에 채워진다 — 그때 태그도 다시 계산해야
   // 한다(2026-08-14, 태깅 규칙 도입 전엔 여기서 안 옮겨서 소급이 안 됐던 버그).
   const open = [...tracked.values()].filter((b) => !isBillConcluded(b));
-  for (const bill of open) {
+  const pollState = await loadPollState();
+  const { batch, nextState, wrapped, totalOpen } = selectOpenBillBatch(open, pollState, OPEN_BILL_BATCH_SIZE);
+  for (const bill of batch) {
     const rows = await callApi({ pIndex: 1, pSize: 1, BILL_ID: bill.billId });
     if (rows.length === 0) continue;
     const incoming = stagesFromRecord(rows[0]);
@@ -113,8 +126,29 @@ async function main() {
     }
   }
 
+  const stateChanged = nextState.nextBillId !== pollState.nextBillId;
+  if (stateChanged) {
+    await writeFile(
+      POLL_STATE_PATH,
+      JSON.stringify(
+        {
+          ...nextState,
+          totalOpen,
+          lastBatchSize: batch.length,
+          batchSizeLimit: OPEN_BILL_BATCH_SIZE,
+          wrapped,
+          updatedAt: new Date().toISOString(),
+        },
+        null,
+        2,
+      ) + '\n',
+    );
+  }
+
   if (!changed) {
-    console.log('poll: 새 이벤트 없음');
+    console.log(
+      `poll: 새 이벤트 없음 · 미종결 ${totalOpen}건 중 ${batch.length}건 재조회 · 다음 cursor=${nextState.nextBillId ?? 'none'}${wrapped ? ' · wrapped' : ''}`,
+    );
     return;
   }
 
