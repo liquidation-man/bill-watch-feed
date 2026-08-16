@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2T5T0R4S2A9A1Z0X5Y4W2X8E6F0D8",
+  "title": "행정수도 건설을 위한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "황운하의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-01",
+      "detail": "황운하의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5T0R4S2A9A1Z0X5Y4W2X8E6F0D8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5T0R4S2A9A1Z0X5Y4W2X8E6F0D8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

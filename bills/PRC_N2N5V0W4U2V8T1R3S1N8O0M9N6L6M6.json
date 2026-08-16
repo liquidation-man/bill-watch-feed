@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2N5V0W4U2V8T1R3S1N8O0M9N6L6M6",
+  "title": "근로복지공단법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "김형동의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-09",
+      "detail": "김형동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2N5V0W4U2V8T1R3S1N8O0M9N6L6M6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-18",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2N5V0W4U2V8T1R3S1N8O0M9N6L6M6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

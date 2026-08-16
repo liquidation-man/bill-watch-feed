@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2O5P0W7X1W8W1U1V1T1U4Q3O7O9N2",
+  "title": "범죄수익은닉의 규제 및 처벌 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박균택의원 등 18인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-21",
+      "detail": "박균택의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O5P0W7X1W8W1U1V1T1U4Q3O7O9N2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-22",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O5P0W7X1W8W1U1V1T1U4Q3O7O9N2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O5P0W7X1W8W1U1V1T1U4Q3O7O9N2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

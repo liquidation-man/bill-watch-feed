@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2M5L0M4T2U5S1R7R1Q8D1E6C2A3B8",
+  "title": "법원조직법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "민형배의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-01",
+      "detail": "민형배의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M5L0M4T2U5S1R7R1Q8D1E6C2A3B8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-04-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M5L0M4T2U5S1R7R1Q8D1E6C2A3B8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

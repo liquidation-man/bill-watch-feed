@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2N5O0M4M1K4L0T9U3S0T4R3R1Q4M9",
+  "title": "수의사법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김도읍의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-18",
+      "detail": "김도읍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O0M4M1K4L0T9U3S0T4R3R1Q4M9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-06-23",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O0M4M1K4L0T9U3S0T4R3R1Q4M9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

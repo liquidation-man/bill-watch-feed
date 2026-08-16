@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2",
+  "title": "우주기본법안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "정동영의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-06-30",
+      "detail": "정동영의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

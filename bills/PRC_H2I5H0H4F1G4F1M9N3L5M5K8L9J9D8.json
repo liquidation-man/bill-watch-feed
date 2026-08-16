@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H2I5H0H4F1G4F1M9N3L5M5K8L9J9D8",
+  "title": "대통령 등의 경호에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "정춘생의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-20",
+      "detail": "정춘생의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I5H0H4F1G4F1M9N3L5M5K8L9J9D8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-10",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I5H0H4F1G4F1M9N3L5M5K8L9J9D8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

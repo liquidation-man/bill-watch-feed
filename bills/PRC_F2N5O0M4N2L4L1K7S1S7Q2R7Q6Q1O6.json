@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2N5O0M4N2L4L1K7S1S7Q2R7Q6Q1O6",
+  "title": "금융지주회사법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "윤한홍의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-06-12",
+      "detail": "윤한홍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2N5O0M4N2L4L1K7S1S7Q2R7Q6Q1O6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2N5O0M4N2L4L1K7S1S7Q2R7Q6Q1O6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}
