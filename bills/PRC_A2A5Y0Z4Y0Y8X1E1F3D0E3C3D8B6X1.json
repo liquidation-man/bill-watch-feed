@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A2A5Y0Z4Y0Y8X1E1F3D0E3C3D8B6X1",
+  "title": "군무원인사법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김상훈의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-10",
+      "detail": "김상훈의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A5Y0Z4Y0Y8X1E1F3D0E3C3D8B6X1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A5Y0Z4Y0Y8X1E1F3D0E3C3D8B6X1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

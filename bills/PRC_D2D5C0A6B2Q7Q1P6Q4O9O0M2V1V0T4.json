@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D2D5C0A6B2Q7Q1P6Q4O9O0M2V1V0T4",
+  "title": "인사청문회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "김희정의원 등 25인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-02",
+      "detail": "김희정의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D5C0A6B2Q7Q1P6Q4O9O0M2V1V0T4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-29",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D5C0A6B2Q7Q1P6Q4O9O0M2V1V0T4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

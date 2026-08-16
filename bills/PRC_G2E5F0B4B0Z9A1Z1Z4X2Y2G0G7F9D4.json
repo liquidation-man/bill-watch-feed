@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G2E5F0B4B0Z9A1Z1Z4X2Y2G0G7F9D4",
+  "title": "의료기기법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김윤의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-18",
+      "detail": "김윤의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E5F0B4B0Z9A1Z1Z4X2Y2G0G7F9D4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-18",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E5F0B4B0Z9A1Z1Z4X2Y2G0G7F9D4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

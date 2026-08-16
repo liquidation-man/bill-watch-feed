@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2P5Q0P4P1N1J1K0I2I7H4I7G8O4P6",
+  "title": "장애인복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김예지의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-17",
+      "detail": "김예지의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P5Q0P4P1N1J1K0I2I7H4I7G8O4P6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2025-04-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P5Q0P4P1N1J1K0I2I7H4I7G8O4P6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

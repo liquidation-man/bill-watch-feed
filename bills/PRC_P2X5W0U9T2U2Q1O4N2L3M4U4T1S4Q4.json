@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2X5W0U9T2U2Q1O4N2L3M4U4T1S4Q4",
+  "title": "사이버안보 기본법안",
+  "committee": "정보위원회",
+  "proposer": "김상훈의원 등 20인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-10-27",
+      "detail": "김상훈의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X5W0U9T2U2Q1O4N2L3M4U4T1S4Q4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-24",
+      "detail": "정보위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X5W0U9T2U2Q1O4N2L3M4U4T1S4Q4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M2U5U0T6R2S3Q1Q5Y1Z8X3Y9W1X3V0",
+  "title": "학교보건법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "김소희의원 등 23인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-06-25",
+      "detail": "김소희의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2U5U0T6R2S3Q1Q5Y1Z8X3Y9W1X3V0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-23",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2U5U0T6R2S3Q1Q5Y1Z8X3Y9W1X3V0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U2T5U0B1C2A0Z1Z6Y5Y9G2H8F3G8E2",
+  "title": "군인사법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "위성락의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-13",
+      "detail": "위성락의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5U0B1C2A0Z1Z6Y5Y9G2H8F3G8E2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T5U0B1C2A0Z1Z6Y5Y9G2H8F3G8E2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2V5T0U5S2T0A1Z4A4Y2Y0X6X9G3G4",
+  "title": "법원조직법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이해민의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-03",
+      "detail": "이해민의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0U5S2T0A1Z4A4Y2Y0X6X9G3G4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0U5S2T0A1Z4A4Y2Y0X6X9G3G4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

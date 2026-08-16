@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2",
+  "title": "행정조사기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "권성동의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-01",
+      "detail": "권성동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-24",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

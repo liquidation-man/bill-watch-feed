@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7",
+  "title": "소득세법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "이준석의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-19",
+      "detail": "이준석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

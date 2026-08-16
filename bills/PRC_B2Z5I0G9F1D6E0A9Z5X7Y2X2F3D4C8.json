@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2Z5I0G9F1D6E0A9Z5X7Y2X2F3D4C8",
+  "title": "국가재정법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "강준현의원 등 26인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-19",
+      "detail": "강준현의원 등 26인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2Z5I0G9F1D6E0A9Z5X7Y2X2F3D4C8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2Z5I0G9F1D6E0A9Z5X7Y2X2F3D4C8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

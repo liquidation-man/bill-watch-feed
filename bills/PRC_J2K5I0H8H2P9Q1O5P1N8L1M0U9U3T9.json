@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J2K5I0H8H2P9Q1O5P1N8L1M0U9U3T9",
+  "title": "국민연금법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "추경호의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-09",
+      "detail": "추경호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0H8H2P9Q1O5P1N8L1M0U9U3T9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2025-09-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K5I0H8H2P9Q1O5P1N8L1M0U9U3T9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

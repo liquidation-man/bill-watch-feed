@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2B5A0Z9Y2T2H1G4F2B8A2Y4X4F8G3",
+  "title": "국가보훈 기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이정문의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-10-23",
+      "detail": "이정문의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2B5A0Z9Y2T2H1G4F2B8A2Y4X4F8G3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-31",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2B5A0Z9Y2T2H1G4F2B8A2Y4X4F8G3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

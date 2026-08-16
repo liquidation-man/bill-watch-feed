@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2Q5R0P4Q1Y4Y1X3V5W9U0V3D0D1B1",
+  "title": "위례신사선 건설을 위한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "남인순의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-15",
+      "detail": "남인순의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q5R0P4Q1Y4Y1X3V5W9U0V3D0D1B1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q5R0P4Q1Y4Y1X3V5W9U0V3D0D1B1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

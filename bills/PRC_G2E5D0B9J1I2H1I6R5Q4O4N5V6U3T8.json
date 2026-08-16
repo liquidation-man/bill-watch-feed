@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G2E5D0B9J1I2H1I6R5Q4O4N5V6U3T8",
+  "title": "속기사법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "박수현의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-18",
+      "detail": "박수현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E5D0B9J1I2H1I6R5Q4O4N5V6U3T8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-12-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E5D0B9J1I2H1I6R5Q4O4N5V6U3T8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

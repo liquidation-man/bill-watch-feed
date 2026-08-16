@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2R5S0Q6P0P5X0Y9W1W1V3V0U7C4C1",
+  "title": "디지털자산기본법안",
+  "committee": "정무위원회",
+  "proposer": "민병덕의원 등 37인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-06-11",
+      "detail": "민병덕의원 등 37인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0Q6P0P5X0Y9W1W1V3V0U7C4C1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0Q6P0P5X0Y9W1W1V3V0U7C4C1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

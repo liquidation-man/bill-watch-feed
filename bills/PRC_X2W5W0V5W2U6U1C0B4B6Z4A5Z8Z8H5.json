@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2W5W0V5W2U6U1C0B4B6Z4A5Z8Z8H5",
+  "title": "군형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "강대식의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-26",
+      "detail": "강대식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5W0V5W2U6U1C0B4B6Z4A5Z8Z8H5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5W0V5W2U6U1C0B4B6Z4A5Z8Z8H5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

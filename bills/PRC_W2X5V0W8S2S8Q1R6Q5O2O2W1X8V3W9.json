@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2X5V0W8S2S8Q1R6Q5O2O2W1X8V3W9",
+  "title": "과거사치유재단법안",
+  "committee": "행정안전위원회",
+  "proposer": "장철민의원 등 55인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-11",
+      "detail": "장철민의원 등 55인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X5V0W8S2S8Q1R6Q5O2O2W1X8V3W9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X5V0W8S2S8Q1R6Q5O2O2W1X8V3W9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I2H5D0C8A0B4A1I6G4F2E5F8N7L7K6",
+  "title": "아동수당법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "문정복의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-06",
+      "detail": "문정복의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H5D0C8A0B4A1I6G4F2E5F8N7L7K6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-22",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H5D0C8A0B4A1I6G4F2E5F8N7L7K6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

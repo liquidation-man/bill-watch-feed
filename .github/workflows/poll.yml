@@ -16,7 +16,7 @@ jobs:
     # 기존: Windows PC 러너 (shell: powershell)
     # 2026-08-15: VPS Linux 러너 추가 — PC가 꺼져도 폴링이 계속됨.
     # 둘 다 korea-net 라벨을 가지고 있어 어느 쪽이든 잡을 받는다.
-    runs-on: [self-hosted, korea-net]
+    runs-on: [self-hosted, Linux, korea-net]
     defaults:
       run:
         shell: bash
@@ -52,9 +52,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bills/ decrees/ laws/ gwanbo/ policy/ index.json approval.json backfill-state.json
-          git diff --cached --quiet
-          if [ $? -ne 0 ]; then
+          git add bills/ decrees/ laws/ gwanbo/ policy/ index.json approval.json backfill-state.json poll-state.json
+          if ! git diff --cached --quiet; then
             ts=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
             git commit -m "poll: 의안 이벤트 갱신 $ts"
             git push
