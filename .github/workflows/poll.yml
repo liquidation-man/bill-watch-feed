@@ -56,14 +56,24 @@ jobs:
       # 걸음만 실패를 허용한다(2026-08-14, 지지율 파일럿).
       - run: node scripts/poll-approval.mjs
         continue-on-error: true
+      # 🔴 **`git diff --cached --quiet` 를 `if` 밖에 두지 마라.**
+      # 이 스텝은 `bash -e` 로 돌고, `--quiet` 는 **staged 변경이 있을 때 1 로
+      # 끝난다.** 그래서 예전 코드
+      #     git diff --cached --quiet
+      #     if [ $? -ne 0 ]; then ... fi
+      # 는 `-e` 가 그 줄에서 스크립트를 통째로 죽여서 `if` 까지 가지도 못했다.
+      # **커밋할 것이 있을 때만 실패하는** 모양이라 로그만 봐서는 안 보인다 —
+      # 폴링 스텝은 전부 초록인데 데이터는 8/15 에 멈춰 있었다(2026-08-20 발견).
+      # `if !` 안에 넣으면 조건문 안이라 `-e` 가 적용되지 않는다.
       - name: 변경사항 커밋
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add bills/ decrees/ laws/ gwanbo/ policy/ index.json approval.json backfill-state.json
-          git diff --cached --quiet
-          if [ $? -ne 0 ]; then
+          if ! git diff --cached --quiet; then
             ts=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
             git commit -m "poll: 의안 이벤트 갱신 $ts"
             git push
+          else
+            echo "변경 없음 — 커밋하지 않는다"
           fi
