@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2C5D0B6C2J7K1J5J2H9I3G9C3D3B1",
+  "title": "접경지역 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이상식의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-08",
+      "detail": "이상식의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C5D0B6C2J7K1J5J2H9I3G9C3D3B1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-17",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C5D0B6C2J7K1J5J2H9I3G9C3D3B1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

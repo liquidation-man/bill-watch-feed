@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2P5P0X5V2W8U1V7T5U5C5C5A6Z9A7",
+  "title": "보건의료인력지원법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이수진의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-30",
+      "detail": "이수진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P5P0X5V2W8U1V7T5U5C5C5A6Z9A7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-18",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P5P0X5V2W8U1V7T5U5C5C5A6Z9A7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

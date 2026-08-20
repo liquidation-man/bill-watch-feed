@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2N5L0L4K1I7J1E6F4D8E2C8D5B9J6",
+  "title": "궁도 진흥법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "박찬대의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-24",
+      "detail": "박찬대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N5L0L4K1I7J1E6F4D8E2C8D5B9J6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N5L0L4K1I7J1E6F4D8E2C8D5B9J6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

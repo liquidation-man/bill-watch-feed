@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2N5N0M4U2V5T0T9R5S7R3R1N9N1M7",
+  "title": "병역법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "한지아의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-13",
+      "detail": "한지아의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N5N0M4U2V5T0T9R5S7R3R1N9N1M7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N5N0M4U2V5T0T9R5S7R3R1N9N1M7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

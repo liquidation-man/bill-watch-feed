@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_U2V5T0S4S1A0A1Z5A4Y0Z3X9X0G9D4",
+  "title": "재난 및 안전관리 기본법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "한병도의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-10",
+      "detail": "한병도의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0S4S1A0A1Z5A4Y0Z3X9X0G9D4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-28",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0S4S1A0A1Z5A4Y0Z3X9X0G9D4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-28",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0S4S1A0A1Z5A4Y0Z3X9X0G9D4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2025-05-01",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5T0S4S1A0A1Z5A4Y0Z3X9X0G9D4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

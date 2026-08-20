@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U2Q5P0P7N1O0N1N6V4V7U3S4T3R5S0",
+  "title": "국가사이버안보법안",
+  "committee": "정보위원회",
+  "proposer": "유용원의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-11",
+      "detail": "유용원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q5P0P7N1O0N1N6V4V7U3S4T3R5S0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-24",
+      "detail": "정보위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q5P0P7N1O0N1N6V4V7U3S4T3R5S0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

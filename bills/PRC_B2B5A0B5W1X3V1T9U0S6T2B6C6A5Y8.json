@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2B5A0B5W1X3V1T9U0S6T2B6C6A5Y8",
+  "title": "군인연금법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "백선희의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-05-21",
+      "detail": "백선희의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2B5A0B5W1X3V1T9U0S6T2B6C6A5Y8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2B5A0B5W1X3V1T9U0S6T2B6C6A5Y8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

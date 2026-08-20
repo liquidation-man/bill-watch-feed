@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2V5E0C3B1A7Q2M2L4U9T1S6R5Z9W9",
+  "title": "공정배상기금법안",
+  "committee": "정무위원회",
+  "proposer": "박상혁의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-09",
+      "detail": "박상혁의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V5E0C3B1A7Q2M2L4U9T1S6R5Z9W9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V5E0C3B1A7Q2M2L4U9T1S6R5Z9W9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

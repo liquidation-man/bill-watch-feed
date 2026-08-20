@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2Z5Y0W6X1V8V0R9S2Q0R1P5Q3O3O2",
+  "title": "관광진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "이만희의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-06-23",
+      "detail": "이만희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y0W6X1V8V0R9S2Q0R1P5Q3O3O2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y0W6X1V8V0R9S2Q0R1P5Q3O3O2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}
