@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Z2E5M0L3J1K9J1R4P3Q5P0O3E4C6B6",
+  "title": "대통령직 인수에 관한 법률 일부개정법률안",
+  "committee": "",
+  "proposer": "민형배의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-27",
+      "detail": "민형배의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2E5M0L3J1K9J1R4P3Q5P0O3E4C6B6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2025-03-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2E5M0L3J1K9J1R4P3Q5P0O3E4C6B6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

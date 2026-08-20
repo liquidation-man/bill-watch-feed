@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2U4S1R0Q3Y0X1X4W1V0R0Q0O6Y5F2",
+  "title": "한국관광공사법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김상욱의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-28",
+      "detail": "김상욱의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2U4S1R0Q3Y0X1X4W1V0R0Q0O6Y5F2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2U4S1R0Q3Y0X1X4W1V0R0Q0O6Y5F2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

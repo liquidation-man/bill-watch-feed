@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P2Q5N0V3U1U0T1T6R5S8A3B2Z2Q8X7",
+  "title": "중소기업기본법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "허종식의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-21",
+      "detail": "허종식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5N0V3U1U0T1T6R5S8A3B2Z2Q8X7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-08",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5N0V3U1U0T1T6R5S8A3B2Z2Q8X7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-05-20",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5N0V3U1U0T1T6R5S8A3B2Z2Q8X7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

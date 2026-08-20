@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V2T5U0S1S0R2N1N1L2M0L4L2J4R5S3",
+  "title": "교육불평등 해소법안",
+  "committee": "교육위원회",
+  "proposer": "강득구의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-16",
+      "detail": "강득구의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T5U0S1S0R2N1N1L2M0L4L2J4R5S3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-18",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T5U0S1S0R2N1N1L2M0L4L2J4R5S3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

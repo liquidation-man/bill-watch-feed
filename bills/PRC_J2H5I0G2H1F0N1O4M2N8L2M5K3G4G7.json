@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J2H5I0G2H1F0N1O4M2N8L2M5K3G4G7",
+  "title": "공항시설법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "정일영의원 등 21인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-20",
+      "detail": "정일영의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2H5I0G2H1F0N1O4M2N8L2M5K3G4G7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2H5I0G2H1F0N1O4M2N8L2M5K3G4G7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

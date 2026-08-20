@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G2F5E0C3M1L9J1K4S0R3P0O9W6X6W2",
+  "title": "관광진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "서명옥의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-19",
+      "detail": "서명옥의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2F5E0C3M1L9J1K4S0R3P0O9W6X6W2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2F5E0C3M1L9J1K4S0R3P0O9W6X6W2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

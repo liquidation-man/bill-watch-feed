@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2L4M0K7I0J2Y1Z0X3Y2W0U1V3D8E3",
+  "title": "국민체육진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "송기헌의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-16",
+      "detail": "송기헌의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4M0K7I0J2Y1Z0X3Y2W0U1V3D8E3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4M0K7I0J2Y1Z0X3Y2W0U1V3D8E3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

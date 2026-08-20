@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6",
+  "title": "선거관리위원회 특별감사 실시와 국민 신뢰 회복을 위한 특별감사관 임명 등에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "권성동의원 등 108인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-07",
+      "detail": "권성동의원 등 108인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-01",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

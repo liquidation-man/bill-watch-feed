@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2N5O0W3V2U1S1T1B0Z6Y2Z0X1G6E3",
+  "title": "항공안전법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "조계원의원 등 16인 외 1인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-25",
+      "detail": "조계원의원 등 16인 외 1인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O0W3V2U1S1T1B0Z6Y2Z0X1G6E3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O0W3V2U1S1T1B0Z6Y2Z0X1G6E3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

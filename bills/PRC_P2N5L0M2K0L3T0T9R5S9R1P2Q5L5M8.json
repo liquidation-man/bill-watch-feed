@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2N5L0M2K0L3T0T9R5S9R1P2Q5L5M8",
+  "title": "국회의장 및 국회 경호에 관한 법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이정문의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-05",
+      "detail": "이정문의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N5L0M2K0L3T0T9R5S9R1P2Q5L5M8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-10",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N5L0M2K0L3T0T9R5S9R1P2Q5L5M8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

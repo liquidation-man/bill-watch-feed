@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y2W5X0W2D1E2C1D3B2C5A4I8J1H9I8",
+  "title": "군인연금법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "문금주의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-13",
+      "detail": "문금주의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W5X0W2D1E2C1D3B2C5A4I8J1H9I8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W5X0W2D1E2C1D3B2C5A4I8J1H9I8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

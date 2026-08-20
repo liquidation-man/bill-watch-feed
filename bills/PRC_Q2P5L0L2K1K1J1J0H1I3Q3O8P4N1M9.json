@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2P5L0L2K1K1J1J0H1I3Q3O8P4N1M9",
+  "title": "인천국제공항공사법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "허종식의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-12",
+      "detail": "허종식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P5L0L2K1K1J1J0H1I3Q3O8P4N1M9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2025-04-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P5L0L2K1K1J1J0H1I3Q3O8P4N1M9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

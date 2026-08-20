@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2B5B0Z2H2I8G1H1F3G6E2M1N1L5M8",
+  "title": "인구감소지역 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박상웅의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-05",
+      "detail": "박상웅의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B5B0Z2H2I8G1H1F3G6E2M1N1L5M8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-01",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B5B0Z2H2I8G1H1F3G6E2M1N1L5M8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2Z5Y0Z3X0X4W0E8E5C9D3B4C5B8I4",
+  "title": "상속세 및 증여세법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "모경종의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-03-04",
+      "detail": "모경종의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y0Z3X0X4W0E8E5C9D3B4C5B8I4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5Y0Z3X0X4W0E8E5C9D3B4C5B8I4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

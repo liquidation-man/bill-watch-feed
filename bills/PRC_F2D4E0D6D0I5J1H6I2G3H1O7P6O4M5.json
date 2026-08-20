@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2D4E0D6D0I5J1H6I2G3H1O7P6O4M5",
+  "title": "사유지도로의 관리 및 정비에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "천준호의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-07",
+      "detail": "천준호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D4E0D6D0I5J1H6I2G3H1O7P6O4M5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2D4E0D6D0I5J1H6I2G3H1O7P6O4M5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

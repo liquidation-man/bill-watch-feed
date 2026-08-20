@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2M5M0U2V2T4U1S1S2R3Z4A4Y2Y2X9",
+  "title": "에너지급여법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "허성무의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-02-28",
+      "detail": "허성무의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2M5M0U2V2T4U1S1S2R3Z4A4Y2Y2X9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2M5M0U2V2T4U1S1S2R3Z4A4Y2Y2X9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

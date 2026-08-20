@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_N2M5K0L3T2S4Q1Y1Z0Y8W5V1W9E1C6",
+  "title": "고등교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "이학영의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2025-04-07",
+      "detail": "이학영의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2M5K0L3T2S4Q1Y1Z0Y8W5V1W9E1C6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-06-11",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2M5K0L3T2S4Q1Y1Z0Y8W5V1W9E1C6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
