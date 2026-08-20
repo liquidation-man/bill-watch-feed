@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2D5B0C7A1B8Z1Z6I5G7G0E0F0E9E1",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "김은혜의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-07-30",
+      "detail": "김은혜의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D5B0C7A1B8Z1Z6I5G7G0E0F0E9E1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D5B0C7A1B8Z1Z6I5G7G0E0F0E9E1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

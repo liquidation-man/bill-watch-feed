@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O2M5N1L1K0K3G0H9F5G3E1E4D9L9L9",
+  "title": "교육환경 보호에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "고민정의원 등 25인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-05",
+      "detail": "고민정의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N1L1K0K3G0H9F5G3E1E4D9L9L9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N1L1K0K3G0H9F5G3E1E4D9L9L9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N1L1K0K3G0H9F5G3E1E4D9L9L9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

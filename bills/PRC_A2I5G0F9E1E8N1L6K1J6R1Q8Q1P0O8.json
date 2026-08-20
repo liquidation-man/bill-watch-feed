@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A2I5G0F9E1E8N1L6K1J6R1Q8Q1P0O8",
+  "title": "북한인권법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "김기현의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-24",
+      "detail": "김기현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2I5G0F9E1E8N1L6K1J6R1Q8Q1P0O8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-14",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2I5G0F9E1E8N1L6K1J6R1Q8Q1P0O8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

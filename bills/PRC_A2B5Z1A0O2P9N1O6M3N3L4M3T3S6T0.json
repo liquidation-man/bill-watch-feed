@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A2B5Z1A0O2P9N1O6M3N3L4M3T3S6T0",
+  "title": "행정수도특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "김종민의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-11-04",
+      "detail": "김종민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B5Z1A0O2P9N1O6M3N3L4M3T3S6T0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-10",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B5Z1A0O2P9N1O6M3N3L4M3T3S6T0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

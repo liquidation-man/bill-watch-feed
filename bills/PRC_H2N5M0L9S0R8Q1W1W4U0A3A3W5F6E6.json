@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H2N5M0L9S0R8Q1W1W4U0A3A3W5F6E6",
+  "title": "학술진흥법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "서지영의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-17",
+      "detail": "서지영의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2N5M0L9S0R8Q1W1W4U0A3A3W5F6E6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2N5M0L9S0R8Q1W1W4U0A3A3W5F6E6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_I2G6H0F8E1E3M1N4L1M1K5J9J0F2G5",
   "title": "상가건물 임대차보호법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "박균택의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2G6H0F8E1E3M1N4L1M1K5J9J0F2G5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2W5U0T8U2C0B1Z5Y1G3H2F6J1I5H2",
+  "title": "전자정부법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김기현의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-08-21",
+      "detail": "김기현의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5U0T8U2C0B1Z5Y1G3H2F6J1I5H2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-12",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5U0T8U2C0B1Z5Y1G3H2F6J1I5H2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

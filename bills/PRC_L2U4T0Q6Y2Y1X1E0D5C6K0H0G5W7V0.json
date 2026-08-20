@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2U4T0Q6Y2Y1X1E0D5C6K0H0G5W7V0",
+  "title": "생활동반자관계에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "용혜인의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-03",
+      "detail": "용혜인의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2U4T0Q6Y2Y1X1E0D5C6K0H0G5W7V0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-07-27",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2U4T0Q6Y2Y1X1E0D5C6K0H0G5W7V0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

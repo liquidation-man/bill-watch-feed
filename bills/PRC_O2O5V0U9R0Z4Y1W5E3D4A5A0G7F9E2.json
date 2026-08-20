@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O2O5V0U9R0Z4Y1W5E3D4A5A0G7F9E2",
+  "title": "대전충남특별시 설치 및 경제과학수도 조성을 위한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "성일종의원 등 45인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-10-02",
+      "detail": "성일종의원 등 45인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O5V0U9R0Z4Y1W5E3D4A5A0G7F9E2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-05",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O5V0U9R0Z4Y1W5E3D4A5A0G7F9E2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O5V0U9R0Z4Y1W5E3D4A5A0G7F9E2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H2P5Q0O7O2N2L1M3U3U5S2T4R6S0Q1",
+  "title": "퇴직연금공단법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "안호영의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2025-09-01",
+      "detail": "안호영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P5Q0O7O2N2L1M3U3U5S2T4R6S0Q1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-11-14",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P5Q0O7O2N2L1M3U3U5S2T4R6S0Q1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}
