@@ -15,8 +15,16 @@ jobs:
     # 실측, ConnectTimeoutError) self-hosted 러너로 돌린다.
     # 기존: Windows PC 러너 (shell: powershell)
     # 2026-08-15: VPS Linux 러너 추가 — PC가 꺼져도 폴링이 계속됨.
-    # 둘 다 korea-net 라벨을 가지고 있어 어느 쪽이든 잡을 받는다.
-    runs-on: [self-hosted, korea-net]
+    #
+    # 🔴 **Linux 라벨을 빼지 마라.** 2026-08-15~20 사이 폴링이 계속 실패한 원인이
+    # 이것이다. `korea-net` 라벨은 Windows PC 러너(user-pc-bill-watch-feed)와
+    # VPS 러너(vps-linux)가 **둘 다** 가지고 있는데, 아래 `shell: bash` 는 Windows
+    # 러너에 bash 가 PATH 에 없어서 첫 스텝부터 죽는다:
+    #     ##[error]bash: command not found   ← 약 20초 만에 실패
+    # 「어느 쪽이든 잡는다」가 아니라 **동전던지기**였고, 빠른 쪽(놀고 있던 Windows)이
+    # 거의 매번 먼저 집어갔다. `gh run list` 로 보면 8/17~8/20 예약 실행이 전부
+    # 20초짜리 실패다. Linux 를 명시해서 VPS 러너만 받게 한다.
+    runs-on: [self-hosted, korea-net, Linux]
     defaults:
       run:
         shell: bash
