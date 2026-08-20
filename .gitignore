@@ -1,3 +1,9 @@
 .env
 .env.local
 node_modules
+
+# 크레덴셜 — `.env*` 로는 부족하다. `.env.bak`(뒤에 붙는 것)도
+# `.en`(잘린 것)도 그 패턴을 빠져나간다. 2026-07-30·08-10 에 둘 다 겪었다.
+# `.e*` 까지 넓히면 `.eslintrc`·`.editorconfig` 를 잡아먹는다.
+.en*
+!.env.example
