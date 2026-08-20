@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2V4W1U2U0C3B1B4Z0A3Z2Z6H4H6G7",
+  "title": "남북협력기금법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "인요한의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-31",
+      "detail": "인요한의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V4W1U2U0C3B1B4Z0A3Z2Z6H4H6G7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-26",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V4W1U2U0C3B1B4Z0A3Z2Z6H4H6G7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

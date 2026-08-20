@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S2A4B1Z1Y2Y1E0D9B3C1X0Y2W8X7V6",
+  "title": "예비군법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이수진의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-22",
+      "detail": "이수진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2A4B1Z1Y2Y1E0D9B3C1X0Y2W8X7V6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-11",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2A4B1Z1Y2Y1E0D9B3C1X0Y2W8X7V6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

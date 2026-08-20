@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K2G4E1D1C0K4J1H0I0H7P1O7M8L8M9",
+  "title": "석탄화력발전소 폐지지역 지원 및 활성화를 위한 특별법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "이재관의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-06",
+      "detail": "이재관의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4E1D1C0K4J1H0I0H7P1O7M8L8M9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4E1D1C0K4J1H0I0H7P1O7M8L8M9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-05-19",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4E1D1C0K4J1H0I0H7P1O7M8L8M9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

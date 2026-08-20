@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2V4W1U2U1T8U1S5A0A8Z3Z7Y5Y6W5",
+  "title": "여권법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "민형배의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-27",
+      "detail": "민형배의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2V4W1U2U1T8U1S5A0A8Z3Z7Y5Y6W5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-26",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2V4W1U2U1T8U1S5A0A8Z3Z7Y5Y6W5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

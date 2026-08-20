@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2C4A1A2Z0X3Y1F4G3F0F5D3E8D3K2",
+  "title": "공공외교법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "김건의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-20",
+      "detail": "김건의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C4A1A2Z0X3Y1F4G3F0F5D3E8D3K2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-26",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C4A1A2Z0X3Y1F4G3F0F5D3E8D3K2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

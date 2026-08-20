@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G2G4E1M2N0L6M1K7L3J9K0F0G6E7C9",
+  "title": "계엄법 일부개정법률안",
+  "committee": "",
+  "proposer": "백승아의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-09",
+      "detail": "백승아의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G4E1M2N0L6M1K7L3J9K0F0G6E7C9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-12-10",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G4E1M2N0L6M1K7L3J9K0F0G6E7C9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

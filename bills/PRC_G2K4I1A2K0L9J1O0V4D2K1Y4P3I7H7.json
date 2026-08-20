@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_G2K4I1A2K0L9J1O0V4D2K1Y4P3I7H7",
+  "title": "윤석열 정부의 위헌적 비상계엄 선포를 통한 내란 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김용민의원 외 169인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-09",
+      "detail": "김용민의원 외 169인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2K4I1A2K0L9J1O0V4D2K1Y4P3I7H7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-09",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2K4I1A2K0L9J1O0V4D2K1Y4P3I7H7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-11",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2K4I1A2K0L9J1O0V4D2K1Y4P3I7H7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-12-12",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2K4I1A2K0L9J1O0V4D2K1Y4P3I7H7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

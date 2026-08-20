@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2R5R0Q1R0P2X1X1W0W5V3V0T5C9C9",
+  "title": "문화예술진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김미애의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-09",
+      "detail": "김미애의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5R0Q1R0P2X1X1W0W5V3V0T5C9C9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5R0Q1R0P2X1X1W0W5V3V0T5C9C9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

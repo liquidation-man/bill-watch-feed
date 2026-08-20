@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y2I4F1D0E2M3L1K7I2J9R5Q7O6N8J7",
+  "title": "국립대학치과병원 설치법 일부개정법률안",
+  "committee": "",
+  "proposer": "성일종의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-06",
+      "detail": "성일종의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2I4F1D0E2M3L1K7I2J9R5Q7O6N8J7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-18",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2I4F1D0E2M3L1K7I2J9R5Q7O6N8J7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-08-19",
+      "detail": "회송",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2I4F1D0E2M3L1K7I2J9R5Q7O6N8J7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

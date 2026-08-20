@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_D2D4M1M1K2J9J1I4I1E5F3D4D0C9A1",
+  "title": "문화유산의 보존 및 활용에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "박정하의원ㆍ임오경의원 등 22인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-09",
+      "detail": "박정하의원ㆍ임오경의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D4M1M1K2J9J1I4I1E5F3D4D0C9A1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D4M1M1K2J9J1I4I1E5F3D4D0C9A1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D4M1M1K2J9J1I4I1E5F3D4D0C9A1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

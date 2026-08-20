@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H2G4E1F2E1M9M1L6J1K2J0E0F0E7C7",
+  "title": "모두를 위한 유니버설디자인 기본법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "최보윤의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-08",
+      "detail": "최보윤의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G4E1F2E1M9M1L6J1K2J0E0F0E7C7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G4E1F2E1M9M1L6J1K2J0E0F0E7C7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

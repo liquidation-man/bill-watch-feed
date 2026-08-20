@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2S4T1P2P2O7M1M1L2M1T1U4T3R3R5",
+  "title": "정부조직법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "권향엽의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-31",
+      "detail": "권향엽의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T1P2P2O7M1M1L2M1T1U4T3R3R5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-07-01",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T1P2P2O7M1M1L2M1T1U4T3R3R5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

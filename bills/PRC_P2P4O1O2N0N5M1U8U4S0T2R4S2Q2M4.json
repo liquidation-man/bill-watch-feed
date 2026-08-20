@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2P4O1O2N0N5M1U8U4S0T2R4S2Q2M4",
+  "title": "계엄법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "임오경의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-06",
+      "detail": "임오경의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2P4O1O2N0N5M1U8U4S0T2R4S2Q2M4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-11",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2P4O1O2N0N5M1U8U4S0T2R4S2Q2M4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

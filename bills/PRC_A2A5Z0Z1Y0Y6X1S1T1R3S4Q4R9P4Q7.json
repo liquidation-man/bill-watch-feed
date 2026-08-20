@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A2A5Z0Z1Y0Y6X1S1T1R3S4Q4R9P4Q7",
+  "title": "대통령 등의 경호에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "황명선의원 등 33인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2025-01-07",
+      "detail": "황명선의원 등 33인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A5Z0Z1Y0Y6X1S1T1R3S4Q4R9P4Q7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A5Z0Z1Y0Y6X1S1T1R3S4Q4R9P4Q7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

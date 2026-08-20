@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G2E4F1D1D2C7D1K7J2J7I5J6H4H9P3",
+  "title": "알오티시 육성 및 지원에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "성일종의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-29",
+      "detail": "성일종의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E4F1D1D2C7D1K7J2J7I5J6H4H9P3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-09-02",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E4F1D1D2C7D1K7J2J7I5J6H4H9P3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

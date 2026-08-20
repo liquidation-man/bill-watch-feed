@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W2U4V1T1U2S6O1O7N2N6L5M1K8L9T8",
+  "title": "방송법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "최보윤의원ㆍ서미화의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-16",
+      "detail": "최보윤의원ㆍ서미화의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U4V1T1U2S6O1O7N2N6L5M1K8L9T8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-03-05",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U4V1T1U2S6O1O7N2N6L5M1K8L9T8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

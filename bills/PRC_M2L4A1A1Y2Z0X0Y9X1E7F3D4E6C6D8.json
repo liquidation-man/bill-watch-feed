@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2L4A1A1Y2Z0X0Y9X1E7F3D4E6C6D8",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "조은희의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-27",
+      "detail": "조은희의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L4A1A1Y2Z0X0Y9X1E7F3D4E6C6D8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-24",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L4A1A1Y2Z0X0Y9X1E7F3D4E6C6D8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

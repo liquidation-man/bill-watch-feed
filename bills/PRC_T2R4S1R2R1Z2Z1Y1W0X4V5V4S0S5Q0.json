@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2R4S1R2R1Z2Z1Y1W0X4V5V4S0S5Q0",
+  "title": "재해영향평가법안",
+  "committee": "행정안전위원회",
+  "proposer": "김종양의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-12-30",
+      "detail": "김종양의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R4S1R2R1Z2Z1Y1W0X4V5V4S0S5Q0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-18",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R4S1R2R1Z2Z1Y1W0X4V5V4S0S5Q0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
