@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import { buildFeedItems } from '../lib/build-index.mjs';
 import { stagesFromRecord, toBill } from '../lib/stages.mjs';
 import { tagBill } from '../lib/tags.mjs';
+import { fetchProposerMembers } from '../lib/proposers.mjs';
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const BILLS_DIR = join(root, 'bills');
@@ -83,6 +84,30 @@ function isBillConcluded(bill) {
   return bill.events.some((e) => e.stage === '본회의의결');
 }
 
+function needsProposerMembers(bill) {
+  return /등\s*\d+\s*(인|명)?/.test(bill.proposer ?? '') && !(bill.proposerMembers?.length > 1);
+}
+
+async function withProposerMembers(bill) {
+  if (!needsProposerMembers(bill)) return bill;
+  const proposerMembers = await fetchProposerMembers(bill.billId).catch(() => []);
+  if (proposerMembers.length === 0) return bill;
+  return { ...bill, proposerMembers, members: proposerMembers };
+}
+
+async function enrichTrackedProposerMembers(tracked) {
+  let changed = false;
+  for (const [billId, bill] of tracked) {
+    if (!needsProposerMembers(bill)) continue;
+    const enriched = await withProposerMembers(bill);
+    if ((enriched.proposerMembers?.length ?? 0) > (bill.proposerMembers?.length ?? 0)) {
+      tracked.set(billId, enriched);
+      changed = true;
+    }
+  }
+  return changed;
+}
+
 async function main() {
   const tracked = await loadTrackedBills();
   let changed = false;
@@ -91,7 +116,7 @@ async function main() {
   const recent = await callApi({ pIndex: 1, pSize: RECENT_PAGE_SIZE });
   for (const record of recent) {
     if (tracked.has(record.BILL_ID)) continue;
-    tracked.set(record.BILL_ID, toBill(record));
+    tracked.set(record.BILL_ID, await withProposerMembers(toBill(record)));
     changed = true;
   }
 
@@ -108,10 +133,13 @@ async function main() {
     const tags = tagBill({ committee, title: bill.title });
     const committeeChanged = committee !== bill.committee;
     if (addedCount > 0 || committeeChanged) {
-      tracked.set(bill.billId, { ...bill, committee, events, tags });
+      const updated = await withProposerMembers({ ...bill, committee, events, tags });
+      tracked.set(bill.billId, updated);
       changed = true;
     }
   }
+
+  if (await enrichTrackedProposerMembers(tracked)) changed = true;
 
   if (!changed) {
     console.log('poll: 새 이벤트 없음');
