@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2W4X0V9W0U4U1T7U5B8C5A7A3Z4X5",
+  "title": "법원조직법 일부개정법률안",
+  "committee": "",
+  "proposer": "김민전의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-11",
+      "detail": "김민전의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2W4X0V9W0U4U1T7U5B8C5A7A3Z4X5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-09-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2W4X0V9W0U4U1T7U5B8C5A7A3Z4X5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V2W4U1T0S3O0M1Y5V3V3U3T9S0A5Y6",
+  "title": "일하는 사람 기본법안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "이용우의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-31",
+      "detail": "이용우의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2W4U1T0S3O0M1Y5V3V3U3T9S0A5Y6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-01-09",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2W4U1T0S3O0M1Y5V3V3U3T9S0A5Y6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

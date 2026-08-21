@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y2Z4X0Y9W1W1V1D4D5C8C1A8B5A0A4",
+  "title": "수산업법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "위성곤의원 등 23인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-23",
+      "detail": "위성곤의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2Z4X0Y9W1W1V1D4D5C8C1A8B5A0A4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-12",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2Z4X0Y9W1W1V1D4D5C8C1A8B5A0A4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F2G4E0O9L1D2H1H4Y1N8K1C4N5R5M3",
+  "title": "탄핵소추 남용 방지에 관한 특별법안",
+  "committee": "국회운영위원회",
+  "proposer": "주진우의원 등 108인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-12",
+      "detail": "주진우의원 등 108인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0O9L1D2H1H4Y1N8K1C4N5R5M3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-10-16",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0O9L1D2H1H4Y1N8K1C4N5R5M3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

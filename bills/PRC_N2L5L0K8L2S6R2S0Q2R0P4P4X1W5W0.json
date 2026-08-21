@@ -1,7 +1,7 @@
 {
   "billId": "PRC_N2L5L0K8L2S6R2S0Q2R0P4P4X1W5W0",
   "title": "국립대학치과병원 설치법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "김용태의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -32,5 +32,7 @@
       "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

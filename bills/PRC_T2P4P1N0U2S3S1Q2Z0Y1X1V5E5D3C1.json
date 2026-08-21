@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2P4P1N0U2S3S1Q2Z0Y1X1V5E5D3C1",
+  "title": "항만법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "허종식의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-28",
+      "detail": "허종식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2P4P1N0U2S3S1Q2Z0Y1X1V5E5D3C1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-13",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2P4P1N0U2S3S1Q2Z0Y1X1V5E5D3C1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

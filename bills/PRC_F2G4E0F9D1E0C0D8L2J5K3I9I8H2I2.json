@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2G4E0F9D1E0C0D8L2J5K3I9I8H2I2",
+  "title": "통신비밀보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이기헌의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-12",
+      "detail": "이기헌의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0F9D1E0C0D8L2J5K3I9I8H2I2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-06",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0F9D1E0C0D8L2J5K3I9I8H2I2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

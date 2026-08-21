@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R2Q4Q0Y8Y3X0Y0W9W4U5V4D9C6C7A8",
+  "title": "재건축ㆍ재개발사업 촉진에 관한 특례법안",
+  "committee": "국토교통위원회",
+  "proposer": "김은혜의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "김은혜의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4Q0Y8Y3X0Y0W9W4U5V4D9C6C7A8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-13",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4Q0Y8Y3X0Y0W9W4U5V4D9C6C7A8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-02-10",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4Q0Y8Y3X0Y0W9W4U5V4D9C6C7A8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

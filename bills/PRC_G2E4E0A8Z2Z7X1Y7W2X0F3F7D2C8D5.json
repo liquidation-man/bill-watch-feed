@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G2E4E0A8Z2Z7X1Y7W2X0F3F7D2C8D5",
+  "title": "서울대학교병원 설치법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "장종태의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-05",
+      "detail": "장종태의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E4E0A8Z2Z7X1Y7W2X0F3F7D2C8D5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-19",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E4E0A8Z2Z7X1Y7W2X0F3F7D2C8D5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

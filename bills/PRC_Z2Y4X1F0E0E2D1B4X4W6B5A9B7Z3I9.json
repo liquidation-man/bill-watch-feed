@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2Y4X1F0E0E2D1B4X4W6B5A9B7Z3I9",
+  "title": "동물보호법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "황명선의원 등 20인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-10",
+      "detail": "황명선의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y4X1F0E0E2D1B4X4W6B5A9B7Z3I9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-13",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y4X1F0E0E2D1B4X4W6B5A9B7Z3I9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

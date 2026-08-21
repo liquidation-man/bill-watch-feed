@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_Y2X4W1E0F1E0C1B5J5K0J1H9G4O5P1",
+  "title": "디자인보호법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "이재관의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-16",
+      "detail": "이재관의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4W1E0F1E0C1B5J5K0J1H9G4O5P1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-02-19",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4W1E0F1E0C1B5J5K0J1H9G4O5P1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-23",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4W1E0F1E0C1B5J5K0J1H9G4O5P1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2025-05-01",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4W1E0F1E0C1B5J5K0J1H9G4O5P1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2M4N0L6T0U5S1T7R1R8Q4M9M7L0L5",
+  "title": "공인노무사법 일부개정법률안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "김위상의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-10",
+      "detail": "김위상의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M4N0L6T0U5S1T7R1R8Q4M9M7L0L5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-21",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M4N0L6T0U5S1T7R1R8Q4M9M7L0L5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

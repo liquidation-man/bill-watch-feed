@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2S4Q0R8G1E9F0D9E0C8D4L0L7J7I2",
+  "title": "분산에너지 활성화 특별법 일부개정법률안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "문대림의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-28",
+      "detail": "문대림의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2S4Q0R8G1E9F0D9E0C8D4L0L7J7I2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2S4Q0R8G1E9F0D9E0C8D4L0L7J7I2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

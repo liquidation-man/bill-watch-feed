@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2M4L0I9E2D6D1B9K3J2F5O0N1M1L9",
+  "title": "국가회계법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "이소영의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-30",
+      "detail": "이소영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2M4L0I9E2D6D1B9K3J2F5O0N1M1L9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-24",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2M4L0I9E2D6D1B9K3J2F5O0N1M1L9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

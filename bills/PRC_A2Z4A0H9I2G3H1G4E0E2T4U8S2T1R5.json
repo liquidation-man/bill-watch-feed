@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A2Z4A0H9I2G3H1G4E0E2T4U8S2T1R5",
+  "title": "국방과학연구소법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "성일종의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-24",
+      "detail": "성일종의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4A0H9I2G3H1G4E0E2T4U8S2T1R5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-15",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4A0H9I2G3H1G4E0E2T4U8S2T1R5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

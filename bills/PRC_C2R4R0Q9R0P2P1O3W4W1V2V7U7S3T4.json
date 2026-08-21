@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2R4R0Q9R0P2P1O3W4W1V2V7U7S3T4",
+  "title": "근로기준법 일부개정법률안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "정혜경의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-23",
+      "detail": "정혜경의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2R4R0Q9R0P2P1O3W4W1V2V7U7S3T4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-21",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2R4R0Q9R0P2P1O3W4W1V2V7U7S3T4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}

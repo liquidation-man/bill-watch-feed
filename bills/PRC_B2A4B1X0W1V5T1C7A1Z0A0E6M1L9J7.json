@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2A4B1X0W1V5T1C7A1Z0A0E6M1L9J7",
+  "title": "부가가치세법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "안도걸의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-28",
+      "detail": "안도걸의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A4B1X0W1V5T1C7A1Z0A0E6M1L9J7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-13",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A4B1X0W1V5T1C7A1Z0A0E6M1L9J7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

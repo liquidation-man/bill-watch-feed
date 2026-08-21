@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2X4Y0W7V2U6C1D7B4A1Z2U3V1U3S6",
+  "title": "인구감소지역 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "윤호중의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-10",
+      "detail": "윤호중의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4Y0W7V2U6C1D7B4A1Z2U3V1U3S6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4Y0W7V2U6C1D7B4A1Z2U3V1U3S6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

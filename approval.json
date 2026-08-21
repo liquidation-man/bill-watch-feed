@@ -1,12 +1,12 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제671호(2026년 8월 2주) - 보완수사권 폐지, 부동산 세제개편안, 정책적 개입 수준, 주택 시장 안정화",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1653",
-  "period": "2026년 8월 둘째 주(11~13일)",
+  "reportTitle": "데일리 오피니언 제672호(2026년 8월 3주) - 경제, 주가지수 전망, 올해 국내 주식 투자&middot;손익 여부",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1654",
+  "period": "2026년 8월 셋째 주(18~20일)",
   "approval": {
-    "approvePct": 44,
-    "disapprovePct": 46,
-    "undecidedPct": 10
+    "approvePct": 45,
+    "disapprovePct": 45,
+    "undecidedPct": 11
   },
   "partySupport": {
     "parties": [
@@ -17,17 +17,9 @@
       {
         "name": "국민의힘",
         "pct": 25
-      },
-      {
-        "name": "개혁신당",
-        "pct": 3
-      },
-      {
-        "name": "조국혁신당",
-        "pct": 2
       }
     ],
-    "undecidedPct": 28
+    "undecidedPct": 26
   },
-  "fetchedAt": "2026-08-20T19:17:13.881Z"
+  "fetchedAt": "2026-08-21T02:20:56.104Z"
 }

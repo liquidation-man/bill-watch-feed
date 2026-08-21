@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U2S4T0A8B1Z4Y1Y7W0X6F1G5E9E7D3",
+  "title": "국회사무처법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "안규백의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-30",
+      "detail": "안규백의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T0A8B1Z4Y1Y7W0X6F1G5E9E7D3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-25",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T0A8B1Z4Y1Y7W0X6F1G5E9E7D3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

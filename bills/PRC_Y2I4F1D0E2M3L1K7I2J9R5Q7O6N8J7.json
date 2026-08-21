@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Y2I4F1D0E2M3L1K7I2J9R5Q7O6N8J7",
   "title": "국립대학치과병원 설치법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "성일종의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -32,5 +32,7 @@
       "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

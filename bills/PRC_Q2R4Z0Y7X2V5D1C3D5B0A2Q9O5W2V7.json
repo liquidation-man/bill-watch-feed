@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2R4Z0Y7X2V5D1C3D5B0A2Q9O5W2V7",
+  "title": "경비업법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이개호의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-05",
+      "detail": "이개호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R4Z0Y7X2V5D1C3D5B0A2Q9O5W2V7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R4Z0Y7X2V5D1C3D5B0A2Q9O5W2V7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

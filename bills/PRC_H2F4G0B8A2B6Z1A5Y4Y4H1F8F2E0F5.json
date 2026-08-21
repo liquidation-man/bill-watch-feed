@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H2F4G0B8A2B6Z1A5Y4Y4H1F8F2E0F5",
+  "title": "경계선지능인 지원에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "안상훈의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-28",
+      "detail": "안상훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F4G0B8A2B6Z1A5Y4Y4H1F8F2E0F5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F4G0B8A2B6Z1A5Y4Y4H1F8F2E0F5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

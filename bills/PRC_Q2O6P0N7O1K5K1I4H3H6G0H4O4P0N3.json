@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2O6P0N7O1K5K1I4H3H6G0H4O4P0N3",
   "title": "인구감소지역 지원 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임종득의원 등 13인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O6P0N7O1K5K1I4H3H6G0H4O4P0N3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2F4F0E9C2D3B1C4K1K5I1H2I5G3G3",
+  "title": "행정사법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이성권의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-26",
+      "detail": "이성권의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2F4F0E9C2D3B1C4K1K5I1H2I5G3G3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2F4F0E9C2D3B1C4K1K5I1H2I5G3G3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

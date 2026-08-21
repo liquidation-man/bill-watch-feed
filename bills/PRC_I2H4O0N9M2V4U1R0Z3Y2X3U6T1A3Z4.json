@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I2H4O0N9M2V4U1R0Z3Y2X3U6T1A3Z4",
+  "title": "국회예산정책처법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "김한규의원 등 21인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-09-25",
+      "detail": "김한규의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H4O0N9M2V4U1R0Z3Y2X3U6T1A3Z4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-10-16",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H4O0N9M2V4U1R0Z3Y2X3U6T1A3Z4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

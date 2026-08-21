@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_R2S4Q0R8P2Q8O1P1L5J0J1I6I6H6H5",
+  "title": "지방교부세법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "임광현의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-29",
+      "detail": "임광현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S4Q0R8P2Q8O1P1L5J0J1I6I6H6H5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S4Q0R8P2Q8O1P1L5J0J1I6I6H6H5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "세금"
+  ]
+}

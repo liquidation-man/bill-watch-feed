@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D2C4O1N0M2K9L1T5S3Q7P4Q5Y7W5V2",
+  "title": "소방시설 설치 및 관리에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "임오경의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-29",
+      "detail": "임오경의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C4O1N0M2K9L1T5S3Q7P4Q5Y7W5V2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-12-03",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C4O1N0M2K9L1T5S3Q7P4Q5Y7W5V2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

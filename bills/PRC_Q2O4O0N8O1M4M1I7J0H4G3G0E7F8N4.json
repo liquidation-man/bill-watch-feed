@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q2O4O0N8O1M4M1I7J0H4G3G0E7F8N4",
+  "title": "국회군인권보호관법안",
+  "committee": "국회운영위원회",
+  "proposer": "안규백의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-30",
+      "detail": "안규백의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O4O0N8O1M4M1I7J0H4G3G0E7F8N4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-25",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O4O0N8O1M4M1I7J0H4G3G0E7F8N4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

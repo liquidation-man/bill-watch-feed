@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y2W4V1D0B3C0B1A5I2G6F5E6F7H2G9",
+  "title": "근로기준법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이용우의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-11-01",
+      "detail": "이용우의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V1D0B3C0B1A5I2G6F5E6F7H2G9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-12-03",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V1D0B3C0B1A5I2G6F5E6F7H2G9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

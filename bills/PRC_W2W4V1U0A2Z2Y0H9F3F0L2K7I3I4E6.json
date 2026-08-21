@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2W4V1U0A2Z2Y0H9F3F0L2K7I3I4E6",
+  "title": "고용보험법 일부개정법률안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "김소희의원 등 20인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-10-25",
+      "detail": "김소희의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2W4V1U0A2Z2Y0H9F3F0L2K7I3I4E6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2025-01-09",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2W4V1U0A2Z2Y0H9F3F0L2K7I3I4E6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}
