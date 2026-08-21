@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R2Y3Z1X0W0W4V0V9R0S3Q5Q8P1N2O3",
+  "title": "미세먼지 저감 및 관리에 관한 특별법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "임이자의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-10-05",
+      "detail": "임이자의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Y3Z1X0W0W4V0V9R0S3Q5Q8P1N2O3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-07",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Y3Z1X0W0W4V0V9R0S3Q5Q8P1N2O3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Y3Z1X0W0W4V0V9R0S3Q5Q8P1N2O3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

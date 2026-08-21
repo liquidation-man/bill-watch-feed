@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O2U3T0B7A0Y7Z1Y6U4S0R3Q7Y0Z9Y5",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "심상정의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-07-11",
+      "detail": "심상정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2U3T0B7A0Y7Z1Y6U4S0R3Q7Y0Z9Y5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2U3T0B7A0Y7Z1Y6U4S0R3Q7Y0Z9Y5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2O3N0V5W0V3T1S1A1Z1Z4B1B4A1Y9",
+  "title": "지역사랑상품권 이용 활성화에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박재호의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-12",
+      "detail": "박재호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0V5W0V3T1S1A1Z1Z4B1B4A1Y9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-09",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0V5W0V3T1S1A1Z1Z4B1B4A1Y9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0V5W0V3T1S1A1Z1Z4B1B4A1Y9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

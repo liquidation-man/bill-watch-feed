@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2W3U0V3U3S1A0Z9Y5Z2X0F9D4D4D8",
+  "title": "각급 법원의 설치와 관할구역에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "윤영석의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-07-12",
+      "detail": "윤영석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2W3U0V3U3S1A0Z9Y5Z2X0F9D4D4D8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-07-26",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2W3U0V3U3S1A0Z9Y5Z2X0F9D4D4D8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

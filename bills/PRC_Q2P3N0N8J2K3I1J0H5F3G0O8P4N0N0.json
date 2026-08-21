@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2P3N0N8J2K3I1J0H5F3G0O8P4N0N0",
+  "title": "특정건축물 정리에 관한 특별조치법안",
+  "committee": "국토교통위원회",
+  "proposer": "전혜숙의원 등 34인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-20",
+      "detail": "전혜숙의원 등 34인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P3N0N8J2K3I1J0H5F3G0O8P4N0N0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P3N0N8J2K3I1J0H5F3G0O8P4N0N0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

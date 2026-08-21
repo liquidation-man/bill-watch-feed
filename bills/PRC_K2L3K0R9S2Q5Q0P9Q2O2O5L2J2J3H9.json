@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2L3K0R9S2Q5Q0P9Q2O2O5L2J2J3H9",
+  "title": "국가공무원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "강민정의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-10-06",
+      "detail": "강민정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2L3K0R9S2Q5Q0P9Q2O2O5L2J2J3H9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2L3K0R9S2Q5Q0P9Q2O2O5L2J2J3H9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

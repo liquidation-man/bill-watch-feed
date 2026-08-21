@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K2I3J0I7I1Q3O1P3N2O6M4U1V9T5U9",
+  "title": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "정태호의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-07-28",
+      "detail": "정태호의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2I3J0I7I1Q3O1P3N2O6M4U1V9T5U9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2I3J0I7I1Q3O1P3N2O6M4U1V9T5U9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2I3J0I7I1Q3O1P3N2O6M4U1V9T5U9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

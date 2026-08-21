@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2P3P0N9O1M9U1V2T4T6S4T5R9Z5A8",
+  "title": "소상공인 대출부담 경감을 위한 특별조치법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "박범계의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-25",
+      "detail": "박범계의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P3P0N9O1M9U1V2T4T6S4T5R9Z5A8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-16",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P3P0N9O1M9U1V2T4T6S4T5R9Z5A8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P3P0N9O1M9U1V2T4T6S4T5R9Z5A8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

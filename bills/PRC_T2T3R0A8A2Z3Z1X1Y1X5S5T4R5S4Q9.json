@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T2T3R0A8A2Z3Z1X1Y1X5S5T4R5S4Q9",
+  "title": "특정강력범죄의 처벌에 관한 특례법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정우택의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-08-28",
+      "detail": "정우택의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3R0A8A2Z3Z1X1Y1X5S5T4R5S4Q9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-12-07",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3R0A8A2Z3Z1X1Y1X5S5T4R5S4Q9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3R0A8A2Z3Z1X1Y1X5S5T4R5S4Q9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

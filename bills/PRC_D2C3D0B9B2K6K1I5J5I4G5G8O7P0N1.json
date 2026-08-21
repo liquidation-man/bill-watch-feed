@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D2C3D0B9B2K6K1I5J5I4G5G8O7P0N1",
+  "title": "경범죄 처벌법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "노용호의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-27",
+      "detail": "노용호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C3D0B9B2K6K1I5J5I4G5G8O7P0N1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C3D0B9B2K6K1I5J5I4G5G8O7P0N1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

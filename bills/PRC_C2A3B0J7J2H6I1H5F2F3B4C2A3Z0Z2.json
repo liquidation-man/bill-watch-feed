@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C2A3B0J7J2H6I1H5F2F3B4C2A3Z0Z2",
+  "title": "사립대학의 구조개선 지원에 관한 법률안",
+  "committee": "",
+  "proposer": "문정복의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-07-27",
+      "detail": "문정복의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2A3B0J7J2H6I1H5F2F3B4C2A3Z0Z2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-07-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2A3B0J7J2H6I1H5F2F3B4C2A3Z0Z2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

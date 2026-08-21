@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2N3M1K0L0J5K1S0S0Q9P2Q9O1P2W0",
+  "title": "비영리민간단체 지원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "권성동의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-10-06",
+      "detail": "권성동의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2N3M1K0L0J5K1S0S0Q9P2Q9O1P2W0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2N3M1K0L0J5K1S0S0Q9P2Q9O1P2W0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

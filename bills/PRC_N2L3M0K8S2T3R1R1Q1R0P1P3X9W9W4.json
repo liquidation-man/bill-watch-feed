@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N2L3M0K8S2T3R1R1Q1R0P1P3X9W9W4",
+  "title": "기업의 지속가능경영을 위한 인권환경보호에 관한 법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정태호의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-01",
+      "detail": "정태호의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L3M0K8S2T3R1R1Q1R0P1P3X9W9W4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-13",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L3M0K8S2T3R1R1Q1R0P1P3X9W9W4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L3M0K8S2T3R1R1Q1R0P1P3X9W9W4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2W3X0V7U2U7S1T2B3C6A4Z9Z2X5T9",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이헌승의원 등 16인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-04",
+      "detail": "이헌승의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2W3X0V7U2U7S1T2B3C6A4Z9Z2X5T9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2W3X0V7U2U7S1T2B3C6A4Z9Z2X5T9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

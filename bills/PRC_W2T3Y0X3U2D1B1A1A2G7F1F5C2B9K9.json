@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W2T3Y0X3U2D1B1A1A2G7F1F5C2B9K9",
+  "title": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김병기의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-11",
+      "detail": "김병기의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2T3Y0X3U2D1B1A1A2G7F1F5C2B9K9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2T3Y0X3U2D1B1A1A2G7F1F5C2B9K9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2T3Y0X3U2D1B1A1A2G7F1F5C2B9K9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

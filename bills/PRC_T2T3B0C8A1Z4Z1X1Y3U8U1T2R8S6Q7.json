@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T2T3B0C8A1Z4Z1X1Y3U8U1T2R8S6Q7",
+  "title": "정당법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이원욱의원 등 22인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-08",
+      "detail": "이원욱의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3B0C8A1Z4Z1X1Y3U8U1T2R8S6Q7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-09",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3B0C8A1Z4Z1X1Y3U8U1T2R8S6Q7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T3B0C8A1Z4Z1X1Y3U8U1T2R8S6Q7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

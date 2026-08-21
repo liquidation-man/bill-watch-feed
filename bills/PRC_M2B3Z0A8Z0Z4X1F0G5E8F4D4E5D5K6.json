@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2B3Z0A8Z0Z4X1F0G5E8F4D4E5D5K6",
+  "title": "먹거리기본법안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이원택의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-08-11",
+      "detail": "이원택의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2B3Z0A8Z0Z4X1F0G5E8F4D4E5D5K6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2B3Z0A8Z0Z4X1F0G5E8F4D4E5D5K6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

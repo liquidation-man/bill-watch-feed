@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2M3N0L8M1T7S1T4R0S2Q1Q5Z7X3X0",
+  "title": "직능인 경제활동 지원에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "문진석의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-01",
+      "detail": "문진석의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M3N0L8M1T7S1T4R0S2Q1Q5Z7X3X0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M3N0L8M1T7S1T4R0S2Q1Q5Z7X3X0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O2O3X0V9V2T6V1T5T0P7N5O7M4N6L5",
+  "title": "국가정보원직원법 일부개정법률안",
+  "committee": "정보위원회",
+  "proposer": "김경협의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-27",
+      "detail": "김경협의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O3X0V9V2T6V1T5T0P7N5O7M4N6L5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O3X0V9V2T6V1T5T0P7N5O7M4N6L5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

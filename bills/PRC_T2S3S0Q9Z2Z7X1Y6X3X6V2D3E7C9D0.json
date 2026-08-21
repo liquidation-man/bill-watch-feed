@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2S3S0Q9Z2Z7X1Y6X3X6V2D3E7C9D0",
+  "title": "도시가스사업법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "이재정의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-10-05",
+      "detail": "이재정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2S3S0Q9Z2Z7X1Y6X3X6V2D3E7C9D0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2S3S0Q9Z2Z7X1Y6X3X6V2D3E7C9D0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V2C3C0B6A2W8V1T4S3A5B4A7Y2X1F0",
+  "title": "경상남도 내 지역의사 양성을 위한 의과대학 설치 특별법안",
+  "committee": "교육위원회",
+  "proposer": "최형두의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-08-09",
+      "detail": "최형두의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C3C0B6A2W8V1T4S3A5B4A7Y2X1F0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-09-20",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C3C0B6A2W8V1T4S3A5B4A7Y2X1F0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C3C0B6A2W8V1T4S3A5B4A7Y2X1F0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

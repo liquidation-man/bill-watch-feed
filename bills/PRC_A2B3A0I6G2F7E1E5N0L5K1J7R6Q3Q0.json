@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A2B3A0I6G2F7E1E5N0L5K1J7R6Q3Q0",
+  "title": "신에너지 및 재생에너지 개발·이용·보급 촉진법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "전봉민의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-07-05",
+      "detail": "전봉민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B3A0I6G2F7E1E5N0L5K1J7R6Q3Q0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-09-21",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B3A0I6G2F7E1E5N0L5K1J7R6Q3Q0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B3A0I6G2F7E1E5N0L5K1J7R6Q3Q0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

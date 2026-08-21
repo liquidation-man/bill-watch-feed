@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2P3O0M9N2L2M1U1U2S6R2S8Q8R9Z5",
+  "title": "대전특별자치시 설치 등에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "조승래의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-09-27",
+      "detail": "조승래의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2P3O0M9N2L2M1U1U2S6R2S8Q8R9Z5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2P3O0M9N2L2M1U1U2S6R2S8Q8R9Z5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
