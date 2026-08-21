@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2G4E0M7N0L8M1K5L3J5F2F7D4E9D2",
+  "title": "건축법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "허영의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-18",
+      "detail": "허영의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0M7N0L8M1K5L3J5F2F7D4E9D2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4E0M7N0L8M1K5L3J5F2F7D4E9D2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

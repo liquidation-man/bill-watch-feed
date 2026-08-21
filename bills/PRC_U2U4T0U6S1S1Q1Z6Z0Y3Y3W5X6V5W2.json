@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2U4T0U6S1S1Q1Z6Z0Y3Y3W5X6V5W2",
+  "title": "공동주택관리법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "신영대의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-26",
+      "detail": "신영대의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2U4T0U6S1S1Q1Z6Z0Y3Y3W5X6V5W2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2U4T0U6S1S1Q1Z6Z0Y3Y3W5X6V5W2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

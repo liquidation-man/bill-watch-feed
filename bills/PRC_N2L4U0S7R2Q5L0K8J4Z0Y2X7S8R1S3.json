@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N2L4U0S7R2Q5L0K8J4Z0Y2X7S8R1S3",
+  "title": "동물대체시험법의 개발 보급 및 이용 활성화에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "한정애의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-02",
+      "detail": "한정애의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4U0S7R2Q5L0K8J4Z0Y2X7S8R1S3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4U0S7R2Q5L0K8J4Z0Y2X7S8R1S3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-12-05",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4U0S7R2Q5L0K8J4Z0Y2X7S8R1S3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

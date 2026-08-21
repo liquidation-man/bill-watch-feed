@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2G4G0O6N2M0S1M6V4T9R2A7Z1Y0E1",
+  "title": "남북관계 발전에 관한 법률 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "박지혜의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-26",
+      "detail": "박지혜의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4G0O6N2M0S1M6V4T9R2A7Z1Y0E1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-13",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G4G0O6N2M0S1M6V4T9R2A7Z1Y0E1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A2Z4A0W7U0U9T1T9S5S6A5Y1Z2X3Y4",
+  "title": "교육공무원법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "백승아의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-16",
+      "detail": "백승아의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4A0W7U0U9T1T9S5S6A5Y1Z2X3Y4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4A0W7U0U9T1T9S5S6A5Y1Z2X3Y4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

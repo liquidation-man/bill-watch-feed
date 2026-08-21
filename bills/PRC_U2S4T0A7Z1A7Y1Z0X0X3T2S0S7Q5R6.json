@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2S4T0A7Z1A7Y1Z0X0X3T2S0S7Q5R6",
+  "title": "경기도와 서울특별시 간 관할구역 변경에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "조경태의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-09",
+      "detail": "조경태의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T0A7Z1A7Y1Z0X0X3T2S0S7Q5R6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S4T0A7Z1A7Y1Z0X0X3T2S0S7Q5R6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

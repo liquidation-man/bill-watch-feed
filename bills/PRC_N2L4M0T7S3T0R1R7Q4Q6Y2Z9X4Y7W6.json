@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N2L4M0T7S3T0R1R7Q4Q6Y2Z9X4Y7W6",
+  "title": "도서관법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김재원의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-13",
+      "detail": "김재원의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4M0T7S3T0R1R7Q4Q6Y2Z9X4Y7W6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L4M0T7S3T0R1R7Q4Q6Y2Z9X4Y7W6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

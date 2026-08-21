@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2X4F0F7D0C2D1B3B2J0K2I8J3I4G1",
+  "title": "국민연금법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최형두의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-30",
+      "detail": "최형두의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X4F0F7D0C2D1B3B2J0K2I8J3I4G1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X4F0F7D0C2D1B3B2J0K2I8J3I4G1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

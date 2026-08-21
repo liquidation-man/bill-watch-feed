@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2F4G0E7F1D1B1C3K5L6J5J9H2G9H0",
+  "title": "개인정보 보호법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "황희의원 등 14인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-06",
+      "detail": "황희의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2F4G0E7F1D1B1C3K5L6J5J9H2G9H0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-12",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2F4G0E7F1D1B1C3K5L6J5J9H2G9H0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

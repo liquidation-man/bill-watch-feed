@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2M4N0M7M1I7G1H0F1G8E3F0M4L8M6",
+  "title": "선원법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "조경태의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-26",
+      "detail": "조경태의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M4N0M7M1I7G1H0F1G8E3F0M4L8M6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-25",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M4N0M7M1I7G1H0F1G8E3F0M4L8M6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

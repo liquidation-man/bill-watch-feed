@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_L2T4S0S5R3A0X1W1T4R4Q5P2Y9Z0F0",
+  "title": "종합부동산세법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "황희의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-10",
+      "detail": "황희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4S0S5R3A0X1W1T4R4Q5P2Y9Z0F0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-13",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4S0S5R3A0X1W1T4R4Q5P2Y9Z0F0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금",
+    "부동산"
+  ]
+}

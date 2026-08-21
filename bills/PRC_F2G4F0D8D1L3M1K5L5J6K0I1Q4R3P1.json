@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2G4F0D8D1L3M1K5L5J6K0I1Q4R3P1",
+  "title": "아동복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "정춘생의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-16",
+      "detail": "정춘생의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4F0D8D1L3M1K5L5J6K0I1Q4R3P1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G4F0D8D1L3M1K5L5J6K0I1Q4R3P1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

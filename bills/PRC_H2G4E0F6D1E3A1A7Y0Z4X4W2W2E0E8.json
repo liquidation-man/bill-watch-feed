@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H2G4E0F6D1E3A1A7Y0Z4X4W2W2E0E8",
+  "title": "사립학교법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "한정애의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-26",
+      "detail": "한정애의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G4E0F6D1E3A1A7Y0Z4X4W2W2E0E8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-08",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G4E0F6D1E3A1A7Y0Z4X4W2W2E0E8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

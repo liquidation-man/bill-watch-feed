@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I2X4E0Q7Y1V1G1G1H0T6Q3P5C0I1U4",
+  "title": "정부조직법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "추경호의원 등 108인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-11",
+      "detail": "추경호의원 등 108인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2X4E0Q7Y1V1G1G1H0T6Q3P5C0I1U4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2X4E0Q7Y1V1G1G1H0T6Q3P5C0I1U4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

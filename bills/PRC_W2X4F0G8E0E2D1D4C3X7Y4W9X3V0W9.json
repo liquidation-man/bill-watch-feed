@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2X4F0G8E0E2D1D4C3X7Y4W9X3V0W9",
+  "title": "청년기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "진종오의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-16",
+      "detail": "진종오의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X4F0G8E0E2D1D4C3X7Y4W9X3V0W9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-12",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X4F0G8E0E2D1D4C3X7Y4W9X3V0W9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

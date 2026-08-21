@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_J2F4C0B7A1Z7G1E7N0J6G5F8O7N0M5",
+  "title": "국방안전기본법안",
+  "committee": "국방위원회",
+  "proposer": "김병주의원 등 31인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-22",
+      "detail": "김병주의원 등 31인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2F4C0B7A1Z7G1E7N0J6G5F8O7N0M5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-27",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2F4C0B7A1Z7G1E7N0J6G5F8O7N0M5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

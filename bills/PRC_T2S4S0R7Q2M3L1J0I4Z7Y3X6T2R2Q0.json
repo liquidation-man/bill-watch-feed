@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2S4S0R7Q2M3L1J0I4Z7Y3X6T2R2Q0",
+  "title": "공공주택 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "이소영의원 등 17인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-24",
+      "detail": "이소영의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2S4S0R7Q2M3L1J0I4Z7Y3X6T2R2Q0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2S4S0R7Q2M3L1J0I4Z7Y3X6T2R2Q0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

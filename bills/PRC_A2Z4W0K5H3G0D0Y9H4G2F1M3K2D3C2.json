@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A2Z4W0K5H3G0D0Y9H4G2F1M3K2D3C2",
+  "title": "교통정책기본법안",
+  "committee": "국토교통위원회",
+  "proposer": "엄태영의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-12",
+      "detail": "엄태영의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4W0K5H3G0D0Y9H4G2F1M3K2D3C2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4W0K5H3G0D0Y9H4G2F1M3K2D3C2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

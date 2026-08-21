@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V2G4D0B7K1R1D1A7Q4F7J2E7D5T0F9",
+  "title": "대통령의 재의요구 권한 행사에 관한 특별법안",
+  "committee": "국회운영위원회",
+  "proposer": "김용민의원ㆍ황운하의원 등 27인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-11",
+      "detail": "김용민의원ㆍ황운하의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G4D0B7K1R1D1A7Q4F7J2E7D5T0F9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-25",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G4D0B7K1R1D1A7Q4F7J2E7D5T0F9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

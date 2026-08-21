@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2X4S0R6Q2O1P1Y4W1V2U3C6D5B5A6",
+  "title": "군형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "윤후덕의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-27",
+      "detail": "윤후덕의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2X4S0R6Q2O1P1Y4W1V2U3C6D5B5A6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-23",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2X4S0R6Q2O1P1Y4W1V2U3C6D5B5A6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

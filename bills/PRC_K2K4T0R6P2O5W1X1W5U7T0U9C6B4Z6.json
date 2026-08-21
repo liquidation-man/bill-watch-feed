@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2K4T0R6P2O5W1X1W5U7T0U9C6B4Z6",
+  "title": "국민건강보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "전종덕의원 등 42인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-05",
+      "detail": "전종덕의원 등 42인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K4T0R6P2O5W1X1W5U7T0U9C6B4Z6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-20",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K4T0R6P2O5W1X1W5U7T0U9C6B4Z6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D2B4J0K7I1I1H1I3G5G8C0B7B4Z3A4",
+  "title": "국민체력 기본법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "황희의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-08-12",
+      "detail": "황희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B4J0K7I1I1H1I3G5G8C0B7B4Z3A4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B4J0K7I1I1H1I3G5G8C0B7B4Z3A4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

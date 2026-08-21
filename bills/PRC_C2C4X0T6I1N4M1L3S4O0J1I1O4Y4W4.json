@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_C2C4X0T6I1N4M1L3S4O0J1I1O4Y4W4",
+  "title": "지방세법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "홍기원의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-26",
+      "detail": "홍기원의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2C4X0T6I1N4M1L3S4O0J1I1O4Y4W4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2C4X0T6I1N4M1L3S4O0J1I1O4Y4W4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "세금"
+  ]
+}

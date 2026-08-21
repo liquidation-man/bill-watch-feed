@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H2I4H0H6D1B2C1A3B5Z4A3H8G9H0F3",
+  "title": "선거관리위원회법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김영호의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-24",
+      "detail": "김영호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I4H0H6D1B2C1A3B5Z4A3H8G9H0F3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I4H0H6D1B2C1A3B5Z4A3H8G9H0F3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

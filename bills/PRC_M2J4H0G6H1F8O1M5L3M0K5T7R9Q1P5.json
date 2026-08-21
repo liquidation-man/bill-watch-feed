@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2J4H0G6H1F8O1M5L3M0K5T7R9Q1P5",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "재정경제기획위원회",
+  "proposer": "박희승의원 등 62인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-02",
+      "detail": "박희승의원 등 62인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2J4H0G6H1F8O1M5L3M0K5T7R9Q1P5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-13",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2J4H0G6H1F8O1M5L3M0K5T7R9Q1P5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

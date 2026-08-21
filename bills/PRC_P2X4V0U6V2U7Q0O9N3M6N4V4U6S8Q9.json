@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2X4V0U6V2U7Q0O9N3M6N4V4U6S8Q9",
+  "title": "원자력 진흥법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "유용원의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-01",
+      "detail": "유용원의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4V0U6V2U7Q0O9N3M6N4V4U6S8Q9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4V0U6V2U7Q0O9N3M6N4V4U6S8Q9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

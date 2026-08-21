@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2Y4X0W7W1C8B1E7E2D2J4H2H5Q2N6",
+  "title": "수도법 일부개정법률안",
+  "committee": "기후에너지환경노동위원회",
+  "proposer": "박성훈의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-07-19",
+      "detail": "박성훈의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Y4X0W7W1C8B1E7E2D2J4H2H5Q2N6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-09",
+      "detail": "기후에너지환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Y4X0W7W1C8B1E7E2D2J4H2H5Q2N6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "환경"
+  ]
+}
