@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2K3K1I2J0R1P1Q4P0P8N4J2K5I3J9",
+  "title": "대한적십자사 조직법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "백종헌의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-26",
+      "detail": "백종헌의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K3K1I2J0R1P1Q4P0P8N4J2K5I3J9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K3K1I2J0R1P1Q4P0P8N4J2K5I3J9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

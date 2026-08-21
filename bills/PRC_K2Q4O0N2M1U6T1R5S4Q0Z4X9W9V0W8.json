@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_K2Q4O0N2M1U6T1R5S4Q0Z4X9W9V0W8",
+  "title": "종합부동산세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김병욱의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-02-22",
+      "detail": "김병욱의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Q4O0N2M1U6T1R5S4Q0Z4X9W9V0W8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Q4O0N2M1U6T1R5S4Q0Z4X9W9V0W8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금",
+    "부동산"
+  ]
+}

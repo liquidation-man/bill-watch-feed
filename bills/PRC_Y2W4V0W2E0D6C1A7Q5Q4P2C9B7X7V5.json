@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y2W4V0W2E0D6C1A7Q5Q4P2C9B7X7V5",
+  "title": "스포츠기본법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김은희의원 등 14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-03-07",
+      "detail": "김은희의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0W2E0D6C1A7Q5Q4P2C9B7X7V5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-09",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0W2E0D6C1A7Q5Q4P2C9B7X7V5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0W2E0D6C1A7Q5Q4P2C9B7X7V5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

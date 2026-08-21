@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2U3V1T2U0P6O1P6N0N8M2M5U4T3T9",
+  "title": "국가기간 전력망 확충 특별법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "이인선의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-08",
+      "detail": "이인선의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U3V1T2U0P6O1P6N0N8M2M5U4T3T9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U3V1T2U0P6O1P6N0N8M2M5U4T3T9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

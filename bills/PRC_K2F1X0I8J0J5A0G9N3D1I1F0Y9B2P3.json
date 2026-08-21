@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_K2F1X0I8J0J5A0G9N3D1I1F0Y9B2P3",
+  "title": "공공기관의 운영에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "송기헌의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-21",
+      "detail": "송기헌의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2F1X0I8J0J5A0G9N3D1I1F0Y9B2P3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2F1X0I8J0J5A0G9N3D1I1F0Y9B2P3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

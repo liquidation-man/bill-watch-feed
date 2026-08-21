@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2O3P1N2V1W8U0V9T5U0S0A9A1Z8A4",
+  "title": "어선안전조업법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이양수의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-29",
+      "detail": "이양수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3P1N2V1W8U0V9T5U0S0A9A1Z8A4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3P1N2V1W8U0V9T5U0S0A9A1Z8A4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

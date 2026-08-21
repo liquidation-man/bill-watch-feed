@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D2B3J1I1H0I8I1J2I0G0C1B5Z8A1Z8",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김영선의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-17",
+      "detail": "김영선의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B3J1I1H0I8I1J2I0G0C1B5Z8A1Z8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B3J1I1H0I8I1J2I0G0C1B5Z8A1Z8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

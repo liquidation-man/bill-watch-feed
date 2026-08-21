@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_R2R4Z0Y5V3K0K0J9H0S6R0X4W0V3R4",
+  "title": "발전소주변지역 지원에 관한 법률 일부개정법률안",
+  "committee": "",
+  "proposer": "김태호의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-05",
+      "detail": "김태호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2R4Z0Y5V3K0K0J9H0S6R0X4W0V3R4&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-19",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2R4Z0Y5V3K0K0J9H0S6R0X4W0V3R4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2025-10-27",
+      "detail": "회송",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2R4Z0Y5V3K0K0J9H0S6R0X4W0V3R4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2025-10-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2R4Z0Y5V3K0K0J9H0S6R0X4W0V3R4&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

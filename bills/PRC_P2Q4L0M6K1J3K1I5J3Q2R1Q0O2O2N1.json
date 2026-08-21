@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2Q4L0M6K1J3K1I5J3Q2R1Q0O2O2N1",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "김용만의원 등 35인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-18",
+      "detail": "김용만의원 등 35인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q4L0M6K1J3K1I5J3Q2R1Q0O2O2N1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-27",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q4L0M6K1J3K1I5J3Q2R1Q0O2O2N1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q2O3K1J1K1I7H1P6O2N6O2M3V1T9N7",
+  "title": "노동위원회법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "양경숙의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-30",
+      "detail": "양경숙의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3K1J1K1I7H1P6O2N6O2M3V1T9N7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-07",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3K1J1K1I7H1P6O2N6O2M3V1T9N7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3K1J1K1I7H1P6O2N6O2M3V1T9N7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

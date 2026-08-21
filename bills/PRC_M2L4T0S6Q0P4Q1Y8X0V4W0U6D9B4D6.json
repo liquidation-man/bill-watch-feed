@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M2L4T0S6Q0P4Q1Y8X0V4W0U6D9B4D6",
+  "title": "학생 인권 보장을 위한 특별법안",
+  "committee": "교육위원회",
+  "proposer": "한창민의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-20",
+      "detail": "한창민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L4T0S6Q0P4Q1Y8X0V4W0U6D9B4D6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-07-24",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L4T0S6Q0P4Q1Y8X0V4W0U6D9B4D6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

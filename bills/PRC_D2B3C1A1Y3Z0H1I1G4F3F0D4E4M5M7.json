@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_D2B3C1A1Y3Z0H1I1G4F3F0D4E4M5M7",
+  "title": "농업협동조합법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이양수의원 등 19인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-08",
+      "detail": "이양수의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B3C1A1Y3Z0H1I1G4F3F0D4E4M5M7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-02-01",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B3C1A1Y3Z0H1I1G4F3F0D4E4M5M7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B3C1A1Y3Z0H1I1G4F3F0D4E4M5M7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

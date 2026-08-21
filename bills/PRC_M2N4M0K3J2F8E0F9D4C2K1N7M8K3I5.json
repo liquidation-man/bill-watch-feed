@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M2N4M0K3J2F8E0F9D4C2K1N7M8K3I5",
+  "title": "행정수도 완성을 위한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "정진석의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-03-28",
+      "detail": "정진석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N4M0K3J2F8E0F9D4C2K1N7M8K3I5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N4M0K3J2F8E0F9D4C2K1N7M8K3I5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

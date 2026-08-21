@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W2X3V1W2U0U4T1B0B4A0A3Y5Z1Y3T0",
+  "title": "저작권법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "이상헌의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-05",
+      "detail": "이상헌의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X3V1W2U0U4T1B0B4A0A3Y5Z1Y3T0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-09",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X3V1W2U0U4T1B0B4A0A3Y5Z1Y3T0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X3V1W2U0U4T1B0B4A0A3Y5Z1Y3T0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

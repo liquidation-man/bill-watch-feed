@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2X4W0T1B1A6Y1Y4G3F4E2D9Z4Y9X7",
+  "title": "해오름산업벨트 지원에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "이채익의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-29",
+      "detail": "이채익의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4W0T1B1A6Y1Y4G3F4E2D9Z4Y9X7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X4W0T1B1A6Y1Y4G3F4E2D9Z4Y9X7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2O3N0N9V1W4S1S5A5A0Z4A9Y3Y4X4",
+  "title": "문화산업진흥 기본법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김영주의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-13",
+      "detail": "김영주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0N9V1W4S1S5A5A0Z4A9Y3Y4X4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-09",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0N9V1W4S1S5A5A0Z4A9Y3Y4X4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3N0N9V1W4S1S5A5A0Z4A9Y3Y4X4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

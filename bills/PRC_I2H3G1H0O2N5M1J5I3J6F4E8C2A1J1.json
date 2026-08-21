@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I2H3G1H0O2N5M1J5I3J6F4E8C2A1J1",
+  "title": "실용신안법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "김성원의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-30",
+      "detail": "김성원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H3G1H0O2N5M1J5I3J6F4E8C2A1J1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H3G1H0O2N5M1J5I3J6F4E8C2A1J1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

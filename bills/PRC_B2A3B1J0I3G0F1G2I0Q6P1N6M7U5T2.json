@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2A3B1J0I3G0F1G2I0Q6P1N6M7U5T2",
+  "title": "사회서비스 이용 및 이용권 관리에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "안병길의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-15",
+      "detail": "안병길의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A3B1J0I3G0F1G2I0Q6P1N6M7U5T2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A3B1J0I3G0F1G2I0Q6P1N6M7U5T2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2B3A1Y1U2T1U1S5R1Z4Y5F6C6A7Y5",
+  "title": "간호법안",
+  "committee": "보건복지위원회",
+  "proposer": "고영인의원 등 21인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-22",
+      "detail": "고영인의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B3A1Y1U2T1U1S5R1Z4Y5F6C6A7Y5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B3A1Y1U2T1U1S5R1Z4Y5F6C6A7Y5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

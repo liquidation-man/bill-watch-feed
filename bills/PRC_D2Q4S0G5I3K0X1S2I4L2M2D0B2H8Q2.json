@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_D2Q4S0G5I3K0X1S2I4L2M2D0B2H8Q2",
+  "title": "주한미군 장기미반환공여구역 지원에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "김성원의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-30",
+      "detail": "김성원의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Q4S0G5I3K0X1S2I4L2M2D0B2H8Q2&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Q4S0G5I3K0X1S2I4L2M2D0B2H8Q2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": null,
+      "date": "2025-04-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Q4S0G5I3K0X1S2I4L2M2D0B2H8Q2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2025-04-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2Q4S0G5I3K0X1S2I4L2M2D0B2H8Q2&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

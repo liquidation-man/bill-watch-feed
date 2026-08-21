@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I2J4I0G3F1N9M1T6U1T3R2Z7Y3W5V1",
+  "title": "아동복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김은희의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-02",
+      "detail": "김은희의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2J4I0G3F1N9M1T6U1T3R2Z7Y3W5V1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2J4I0G3F1N9M1T6U1T3R2Z7Y3W5V1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

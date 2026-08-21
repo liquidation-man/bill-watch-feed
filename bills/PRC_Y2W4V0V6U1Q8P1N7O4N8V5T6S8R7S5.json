@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y2W4V0V6U1Q8P1N7O4N8V5T6S8R7S5",
+  "title": "농어업인 기초연금 지원을 위한 특별법안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "박덕흠의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-21",
+      "detail": "박덕흠의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0V6U1Q8P1N7O4N8V5T6S8R7S5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-26",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0V6U1Q8P1N7O4N8V5T6S8R7S5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-03-11",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0V6U1Q8P1N7O4N8V5T6S8R7S5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

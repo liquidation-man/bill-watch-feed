@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J2R3R1Q1O2O8M1O1V1W2U0T4T9S5S2",
+  "title": "공무원보수위원회의 설치 및 운영에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김교흥의원 등 19인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-04",
+      "detail": "김교흥의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2R3R1Q1O2O8M1O1V1W2U0T4T9S5S2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2R3R1Q1O2O8M1O1V1W2U0T4T9S5S2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

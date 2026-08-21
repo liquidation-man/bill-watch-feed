@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2K4I0H4G1O6N1O0M3L3O3N3M5K6T2",
+  "title": "이민사회기본법안",
+  "committee": "법제사법위원회",
+  "proposer": "이자스민의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-04-25",
+      "detail": "이자스민의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K4I0H4G1O6N1O0M3L3O3N3M5K6T2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K4I0H4G1O6N1O0M3L3O3N3M5K6T2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

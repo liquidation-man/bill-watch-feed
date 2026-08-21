@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2M3N1L1M3U0U0T9R3R0Q0R7M7L0L9",
+  "title": "화장품법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "서정숙의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-04",
+      "detail": "서정숙의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M3N1L1M3U0U0T9R3R0Q0R7M7L0L9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M3N1L1M3U0U0T9R3R0Q0R7M7L0L9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

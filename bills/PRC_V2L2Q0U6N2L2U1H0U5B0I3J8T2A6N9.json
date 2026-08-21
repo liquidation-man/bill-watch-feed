@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V2L2Q0U6N2L2U1H0U5B0I3J8T2A6N9",
+  "title": "경제교육지원법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "조명희의원 등 22인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-18",
+      "detail": "조명희의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2L2Q0U6N2L2U1H0U5B0I3J8T2A6N9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-02-19",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2L2Q0U6N2L2U1H0U5B0I3J8T2A6N9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2L2Q0U6N2L2U1H0U5B0I3J8T2A6N9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

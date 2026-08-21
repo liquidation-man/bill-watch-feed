@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W2Y3X1T1S2T0S1Q5Y3X3V5W3V5D5C4",
+  "title": "환경영향평가법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "노웅래의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-24",
+      "detail": "노웅래의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Y3X1T1S2T0S1Q5Y3X3V5W3V5D5C4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-07",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Y3X1T1S2T0S1Q5Y3X3V5W3V5D5C4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Y3X1T1S2T0S1Q5Y3X3V5W3V5D5C4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

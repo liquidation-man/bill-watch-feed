@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2O3P1N1M0U8T1R2Q0R3Z3Y8X9A8Y5",
+  "title": "자연재해대책법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김영선의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-17",
+      "detail": "김영선의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2O3P1N1M0U8T1R2Q0R3Z3Y8X9A8Y5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2O3P1N1M0U8T1R2Q0R3Z3Y8X9A8Y5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

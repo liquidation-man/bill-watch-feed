@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A2A4W0W6V1V1U0U9S4B9B1Z9A2Y7Z9",
+  "title": "재정건전화법안",
+  "committee": "재정경제기획위원회",
+  "proposer": "송언석의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-17",
+      "detail": "송언석의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A4W0W6V1V1U0U9S4B9B1Z9A2Y7Z9&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-11-13",
+      "detail": "재정경제기획위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A4W0W6V1V1U0U9S4B9B1Z9A2Y7Z9&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

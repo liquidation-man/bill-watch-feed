@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2D4B0C2Y1E3D2B1J1I4H2I1G1P6N2",
+  "title": "건설산업기본법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김정재의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-03-27",
+      "detail": "김정재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2D4B0C2Y1E3D2B1J1I4H2I1G1P6N2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2D4B0C2Y1E3D2B1J1I4H2I1G1P6N2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

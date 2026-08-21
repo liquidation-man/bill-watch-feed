@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2X4Y0X1X0T2R2S0Q5R3P2Q6Y9W2X9",
+  "title": "해운법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "서삼석의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-11",
+      "detail": "서삼석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X4Y0X1X0T2R2S0Q5R3P2Q6Y9W2X9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X4Y0X1X0T2R2S0Q5R3P2Q6Y9W2X9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

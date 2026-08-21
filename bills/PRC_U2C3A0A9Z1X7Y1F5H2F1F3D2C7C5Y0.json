@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2C3A0A9Z1X7Y1F5H2F1F3D2C7C5Y0",
+  "title": "비료관리법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "서삼석의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-05",
+      "detail": "서삼석의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2C3A0A9Z1X7Y1F5H2F1F3D2C7C5Y0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2C3A0A9Z1X7Y1F5H2F1F3D2C7C5Y0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

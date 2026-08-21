@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2T4U0T4S1Q9Y1Z0Y4W3V4D8L9J1I0",
+  "title": "간호법안",
+  "committee": "보건복지위원회",
+  "proposer": "최연숙의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-04-19",
+      "detail": "최연숙의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2T4U0T4S1Q9Y1Z0Y4W3V4D8L9J1I0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2T4U0T4S1Q9Y1Z0Y4W3V4D8L9J1I0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C2D3C1A1Y1H0F1E3F4E3N1L0K6L3T5",
+  "title": "국민체육진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "유경준의원 등 14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-13",
+      "detail": "유경준의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D3C1A1Y1H0F1E3F4E3N1L0K6L3T5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-05-09",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D3C1A1Y1H0F1E3F4E3N1L0K6L3T5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D3C1A1Y1H0F1E3F4E3N1L0K6L3T5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

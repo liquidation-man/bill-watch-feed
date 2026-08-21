@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D2C4U0R1Q2N3L1K5K4Q0O3Z7T0S4R2",
+  "title": "방어해면법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "성일종의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-26",
+      "detail": "성일종의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C4U0R1Q2N3L1K5K4Q0O3Z7T0S4R2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C4U0R1Q2N3L1K5K4Q0O3Z7T0S4R2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

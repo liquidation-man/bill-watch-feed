@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2T4S0R5X3W0V1U4B3A3X2W7E6D7C6",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "권칠승의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-12",
+      "detail": "권칠승의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2T4S0R5X3W0V1U4B3A3X2W7E6D7C6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-23",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2T4S0R5X3W0V1U4B3A3X2W7E6D7C6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

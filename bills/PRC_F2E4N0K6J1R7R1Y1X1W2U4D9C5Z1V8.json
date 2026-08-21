@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2E4N0K6J1R7R1Y1X1W2U4D9C5Z1V8",
+  "title": "남부권 개발 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "정동만의원 등 16인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-20",
+      "detail": "정동만의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E4N0K6J1R7R1Y1X1W2U4D9C5Z1V8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E4N0K6J1R7R1Y1X1W2U4D9C5Z1V8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

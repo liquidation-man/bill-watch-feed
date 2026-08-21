@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2V4Q0R6P1Q0O1P7N1V5V2U6V4T5T3",
+  "title": "감사원법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "유상범의원 등 13인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-17",
+      "detail": "유상범의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V4Q0R6P1Q0O1P7N1V5V2U6V4T5T3&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-23",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V4Q0R6P1Q0O1P7N1V5V2U6V4T5T3&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

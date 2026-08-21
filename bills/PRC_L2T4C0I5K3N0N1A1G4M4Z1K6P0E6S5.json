@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2T4C0I5K3N0N1A1G4M4Z1K6P0E6S5",
+  "title": "경기북부특별자치도 설치 등에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "정성호의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-30",
+      "detail": "정성호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4C0I5K3N0N1A1G4M4Z1K6P0E6S5&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4C0I5K3N0N1A1G4M4Z1K6P0E6S5&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

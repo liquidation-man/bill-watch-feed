@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V2V3U1S2T1R9S1N1M0M8L1M0K9S1S1",
+  "title": "시·도 통합 및 관할구역 변경 지원에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "조경태의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-19",
+      "detail": "조경태의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2V3U1S2T1R9S1N1M0M8L1M0K9S1S1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2V3U1S2T1R9S1N1M0M8L1M0K9S1S1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

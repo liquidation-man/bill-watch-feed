@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S2R4S0Q3M1L9K1I5J5S3Q5P3N2D6B2",
+  "title": "국회법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "김진표의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-04-15",
+      "detail": "김진표의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2R4S0Q3M1L9K1I5J5S3Q5P3N2D6B2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2R4S0Q3M1L9K1I5J5S3Q5P3N2D6B2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

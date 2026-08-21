@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U2T4S0O3O0N5M1L0S5R5Q1R8P2Y2Y1",
+  "title": "대도시권 광역교통 관리에 관한 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "서일준의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-03-05",
+      "detail": "서일준의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T4S0O3O0N5M1L0S5R5Q1R8P2Y2Y1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T4S0O3O0N5M1L0S5R5Q1R8P2Y2Y1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J2F3E1D1B1K7K0J9I5G6O1P2O1M4L3",
+  "title": "식품위생법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "전혜숙의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-27",
+      "detail": "전혜숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2F3E1D1B1K7K0J9I5G6O1P2O1M4L3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2F3E1D1B1K7K0J9I5G6O1P2O1M4L3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

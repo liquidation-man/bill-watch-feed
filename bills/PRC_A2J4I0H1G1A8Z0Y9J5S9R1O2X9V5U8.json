@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A2J4I0H1G1A8Z0Y9J5S9R1O2X9V5U8",
+  "title": "피한정후견인 결격조항 정비를 위한 정무위원회 소관 7개 법률 일부개정을 위한 법률안",
+  "committee": "정무위원회",
+  "proposer": "김도읍의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-23",
+      "detail": "김도읍의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J4I0H1G1A8Z0Y9J5S9R1O2X9V5U8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-04-23",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J4I0H1G1A8Z0Y9J5S9R1O2X9V5U8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J4I0H1G1A8Z0Y9J5S9R1O2X9V5U8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2P4N0N6M1U3U1T3T3R9Q2R7Y7Z0Y7",
+  "title": "도로법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "민홍철의원 등 10인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-20",
+      "detail": "민홍철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P4N0N6M1U3U1T3T3R9Q2R7Y7Z0Y7&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P4N0N6M1U3U1T3T3R9Q2R7Y7Z0Y7&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

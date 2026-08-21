@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2C4A0B6Z1Z2H1G7G0F5F4E9E2A7Y8",
+  "title": "반도체 산업 발전지원 특별법안",
+  "committee": "",
+  "proposer": "송석준의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-18",
+      "detail": "송석준의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C4A0B6Z1Z2H1G7G0F5F4E9E2A7Y8&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-06-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C4A0B6Z1Z2H1G7G0F5F4E9E2A7Y8&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

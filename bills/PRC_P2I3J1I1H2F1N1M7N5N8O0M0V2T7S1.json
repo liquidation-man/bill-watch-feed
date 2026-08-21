@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2I3J1I1H2F1N1M7N5N8O0M0V2T7S1",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "김상희의원 등 75인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-11-28",
+      "detail": "김상희의원 등 75인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2I3J1I1H2F1N1M7N5N8O0M0V2T7S1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2I3J1I1H2F1N1M7N5N8O0M0V2T7S1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

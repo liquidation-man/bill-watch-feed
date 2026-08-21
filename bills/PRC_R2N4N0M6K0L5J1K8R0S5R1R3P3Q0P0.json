@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2N4N0M6K0L5J1K8R0S5R1R3P3Q0P0",
+  "title": "지방의회법안",
+  "committee": "행정안전위원회",
+  "proposer": "이해식의원 등 11인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-11",
+      "detail": "이해식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2N4N0M6K0L5J1K8R0S5R1R3P3Q0P0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2N4N0M6K0L5J1K8R0S5R1R3P3Q0P0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

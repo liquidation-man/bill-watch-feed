@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y2U3U1T2T0S6Q1R3Y4Z7Y1Y7W0V9V4",
+  "title": "은퇴자마을(도시) 조성 및 운영에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "맹성규의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-11",
+      "detail": "맹성규의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2U3U1T2T0S6Q1R3Y4Z7Y1Y7W0V9V4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2U3U1T2T0S6Q1R3Y4Z7Y1Y7W0V9V4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

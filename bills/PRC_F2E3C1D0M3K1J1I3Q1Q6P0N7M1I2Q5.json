@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F2E3C1D0M3K1J1I3Q1Q6P0N7M1I2Q5",
+  "title": "공공기관의 운영에 관한 법률 전부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "장혜영의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-24",
+      "detail": "장혜영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3C1D0M3K1J1I3Q1Q6P0N7M1I2Q5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3C1D0M3K1J1I3Q1Q6P0N7M1I2Q5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

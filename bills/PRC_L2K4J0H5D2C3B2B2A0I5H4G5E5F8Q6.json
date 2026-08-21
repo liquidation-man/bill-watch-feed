@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2K4J0H5D2C3B2B2A0I5H4G5E5F8Q6",
+  "title": "전자인법안",
+  "committee": "법제사법위원회",
+  "proposer": "김웅의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-27",
+      "detail": "김웅의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K4J0H5D2C3B2B2A0I5H4G5E5F8Q6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K4J0H5D2C3B2B2A0I5H4G5E5F8Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

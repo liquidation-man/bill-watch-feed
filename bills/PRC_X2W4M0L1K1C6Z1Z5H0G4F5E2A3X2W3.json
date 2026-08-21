@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2W4M0L1K1C6Z1Z5H0G4F5E2A3X2W3",
+  "title": "의료기사 등에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이주환의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-01-17",
+      "detail": "이주환의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W4M0L1K1C6Z1Z5H0G4F5E2A3X2W3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W4M0L1K1C6Z1Z5H0G4F5E2A3X2W3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

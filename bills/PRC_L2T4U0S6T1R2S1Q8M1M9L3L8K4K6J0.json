@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L2T4U0S6T1R2S1Q8M1M9L3L8K4K6J0",
+  "title": "방송법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "민형배의원 등 12인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-06-20",
+      "detail": "민형배의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4U0S6T1R2S1Q8M1M9L3L8K4K6J0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-08-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T4U0S6T1R2S1Q8M1M9L3L8K4K6J0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2Q4O0P2N0W5V1T5S3V8T2T1T8S6A9",
+  "title": "농어촌 등 보건의료를 위한 특별조치법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "엄태영의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-02-15",
+      "detail": "엄태영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4O0P2N0W5V1T5S3V8T2T1T8S6A9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4O0P2N0W5V1T5S3V8T2T1T8S6A9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

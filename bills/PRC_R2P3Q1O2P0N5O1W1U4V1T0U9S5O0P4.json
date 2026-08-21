@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_R2P3Q1O2P0N5O1W1U4V1T0U9S5O0P4",
+  "title": "과학기술문화진흥법안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박성중의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-12-14",
+      "detail": "박성중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P3Q1O2P0N5O1W1U4V1T0U9S5O0P4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P3Q1O2P0N5O1W1U4V1T0U9S5O0P4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

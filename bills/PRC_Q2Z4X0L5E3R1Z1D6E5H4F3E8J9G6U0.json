@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2Z4X0L5E3R1Z1D6E5H4F3E8J9G6U0",
+  "title": "경기북부특별자치도 설치 등에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "박정의원 등 15인",
+  "assemblyTerm": 22,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2024-05-31",
+      "detail": "박정의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2Z4X0L5E3R1Z1D6E5H4F3E8J9G6U0&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-09-02",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2Z4X0L5E3R1Z1D6E5H4F3E8J9G6U0&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
