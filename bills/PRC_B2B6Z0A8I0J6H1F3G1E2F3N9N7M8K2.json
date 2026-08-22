@@ -1,7 +1,7 @@
 {
   "billId": "PRC_B2B6Z0A8I0J6H1F3G1E2F3N9N7M8K2",
   "title": "남북관계 발전에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "이춘석의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2B6Z0A8I0J6H1F3G1E2F3N9N7M8K2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

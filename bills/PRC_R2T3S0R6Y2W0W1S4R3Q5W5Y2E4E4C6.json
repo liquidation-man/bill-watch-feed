@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R2T3S0R6Y2W0W1S4R3Q5W5Y2E4E4C6",
+  "title": "신탁법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "홍석준의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "홍석준의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2T3S0R6Y2W0W1S4R3Q5W5Y2E4E4C6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2T3S0R6Y2W0W1S4R3Q5W5Y2E4E4C6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

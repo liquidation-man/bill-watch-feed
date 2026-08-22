@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_Y2Z3X0V5W1V0V1D5D0C2C0B7Z8A7W7",
+  "title": "소하천정비법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "강기윤의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-16",
+      "detail": "강기윤의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2Z3X0V5W1V0V1D5D0C2C0B7Z8A7W7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2Z3X0V5W1V0V1D5D0C2C0B7Z8A7W7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "부동산"
+  ]
+}

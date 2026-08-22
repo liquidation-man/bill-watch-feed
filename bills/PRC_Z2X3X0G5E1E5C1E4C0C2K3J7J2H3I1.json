@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z2X3X0G5E1E5C1E4C0C2K3J7J2H3I1",
+  "title": "군사법원법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "민홍철의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-31",
+      "detail": "민홍철의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X3X0G5E1E5C1E4C0C2K3J7J2H3I1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X3X0G5E1E5C1E4C0C2K3J7J2H3I1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

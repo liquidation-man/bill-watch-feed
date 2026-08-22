@@ -1,7 +1,7 @@
 {
   "billId": "PRC_O2O6W0V8V2T0U0T9T2B2Z4A1Z8Z5X8",
   "title": "뉴스통신 진흥에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "노종면의원 등 18인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2O6W0V8V2T0U0T9T2B2Z4A1Z8Z5X8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }

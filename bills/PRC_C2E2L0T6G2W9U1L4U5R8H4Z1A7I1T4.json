@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C2E2L0T6G2W9U1L4U5R8H4Z1A7I1T4",
+  "title": "공무원 노동조합 관련 해직공무원등의 복직 등에 관한 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이은주의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-08",
+      "detail": "이은주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2E2L0T6G2W9U1L4U5R8H4Z1A7I1T4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-09-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2E2L0T6G2W9U1L4U5R8H4Z1A7I1T4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2E2L0T6G2W9U1L4U5R8H4Z1A7I1T4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

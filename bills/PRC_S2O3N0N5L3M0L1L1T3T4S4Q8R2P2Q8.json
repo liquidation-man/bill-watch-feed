@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2O3N0N5L3M0L1L1T3T4S4Q8R2P2Q8",
+  "title": "경찰관 직무집행법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박주민의원 등 24인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-01",
+      "detail": "박주민의원 등 24인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2O3N0N5L3M0L1L1T3T4S4Q8R2P2Q8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2O3N0N5L3M0L1L1T3T4S4Q8R2P2Q8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

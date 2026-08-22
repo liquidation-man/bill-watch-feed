@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P2G2V1I2G1P5D0Y9U0A3O5C9L7P3Y7",
+  "title": "병역법 일부개정법률안",
+  "committee": "",
+  "proposer": "양정숙의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-17",
+      "detail": "양정숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2G2V1I2G1P5D0Y9U0A3O5C9L7P3Y7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-04-18",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2G2V1I2G1P5D0Y9U0A3O5C9L7P3Y7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

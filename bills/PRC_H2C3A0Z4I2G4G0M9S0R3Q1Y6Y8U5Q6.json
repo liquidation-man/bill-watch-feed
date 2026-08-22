@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H2C3A0Z4I2G4G0M9S0R3Q1Y6Y8U5Q6",
+  "title": "방위사업법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김병주의원 등 32인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-25",
+      "detail": "김병주의원 등 32인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2C3A0Z4I2G4G0M9S0R3Q1Y6Y8U5Q6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-01",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2C3A0Z4I2G4G0M9S0R3Q1Y6Y8U5Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2C3A0Z4I2G4G0M9S0R3Q1Y6Y8U5Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

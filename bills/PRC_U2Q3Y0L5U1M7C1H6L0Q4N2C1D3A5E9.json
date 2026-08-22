@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U2Q3Y0L5U1M7C1H6L0Q4N2C1D3A5E9",
+  "title": "공직자의 이해충돌 방지법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김용민의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-17",
+      "detail": "김용민의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q3Y0L5U1M7C1H6L0Q4N2C1D3A5E9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q3Y0L5U1M7C1H6L0Q4N2C1D3A5E9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q3Y0L5U1M7C1H6L0Q4N2C1D3A5E9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K2K3I0R3R1P7Q1O3P3N8O2W9U4V5T5",
+  "title": "노동조합 및 노동관계조정법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김성원의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-28",
+      "detail": "김성원의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3I0R3R1P7Q1O3P3N8O2W9U4V5T5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-24",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3I0R3R1P7Q1O3P3N8O2W9U4V5T5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3I0R3R1P7Q1O3P3N8O2W9U4V5T5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

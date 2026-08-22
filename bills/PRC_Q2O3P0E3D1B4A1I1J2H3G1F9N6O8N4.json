@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2O3P0E3D1B4A1I1J2H3G1F9N6O8N4",
+  "title": "가족돌봄아동·청소년·청년 지원법안",
+  "committee": "보건복지위원회",
+  "proposer": "서영석의원 등 23인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-23",
+      "detail": "서영석의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3P0E3D1B4A1I1J2H3G1F9N6O8N4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-04-24",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3P0E3D1B4A1I1J2H3G1F9N6O8N4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3P0E3D1B4A1I1J2H3G1F9N6O8N4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

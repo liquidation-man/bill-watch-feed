@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L2K3S0P2O1X7W1W4C1B1B4J5G6F8B3",
+  "title": "양육비 대지급에 관한 특별법안",
+  "committee": "여성가족위원회",
+  "proposer": "장경태의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-23",
+      "detail": "장경태의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K3S0P2O1X7W1W4C1B1B4J5G6F8B3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K3S0P2O1X7W1W4C1B1B4J5G6F8B3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K3S0P2O1X7W1W4C1B1B4J5G6F8B3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

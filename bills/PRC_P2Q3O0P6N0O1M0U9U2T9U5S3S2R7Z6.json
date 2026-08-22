@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2Q3O0P6N0O1M0U9U2T9U5S3S2R7Z6",
+  "title": "공중위생관리법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "윤준병의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-23",
+      "detail": "윤준병의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q3O0P6N0O1M0U9U2T9U5S3S2R7Z6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-06-29",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q3O0P6N0O1M0U9U2T9U5S3S2R7Z6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

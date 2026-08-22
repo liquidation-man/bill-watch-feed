@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S2K2F0Q8G0N3O1C0L1R9V3W8K2A1E3",
+  "title": "전기통신사업법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "정성호의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-24",
+      "detail": "정성호의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K2F0Q8G0N3O1C0L1R9V3W8K2A1E3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-24",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K2F0Q8G0N3O1C0L1R9V3W8K2A1E3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K2F0Q8G0N3O1C0L1R9V3W8K2A1E3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

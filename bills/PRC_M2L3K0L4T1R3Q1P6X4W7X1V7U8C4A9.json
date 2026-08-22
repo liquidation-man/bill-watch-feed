@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M2L3K0L4T1R3Q1P6X4W7X1V7U8C4A9",
+  "title": "장애인학대범죄의 처벌 등에 관한 특례법안",
+  "committee": "법제사법위원회",
+  "proposer": "김예지의원 등 51인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-24",
+      "detail": "김예지의원 등 51인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L3K0L4T1R3Q1P6X4W7X1V7U8C4A9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-07-26",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L3K0L4T1R3Q1P6X4W7X1V7U8C4A9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2L3K0L4T1R3Q1P6X4W7X1V7U8C4A9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

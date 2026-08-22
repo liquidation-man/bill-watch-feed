@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_X2W3M0L4J0R3Q1N0W5V8T0T3R4Q4Y8",
+  "title": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "강득구의원 등 22인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-06",
+      "detail": "강득구의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W3M0L4J0R3Q1N0W5V8T0T3R4Q4Y8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-07-12",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W3M0L4J0R3Q1N0W5V8T0T3R4Q4Y8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W3M0L4J0R3Q1N0W5V8T0T3R4Q4Y8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

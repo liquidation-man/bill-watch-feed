@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2P6P0N7O1K6I1J1H1I2G4O0P1N7N4",
   "title": "유통산업발전법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "유의동의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P6P0N7O1K6I1J1H1I2G4O0P1N7N4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

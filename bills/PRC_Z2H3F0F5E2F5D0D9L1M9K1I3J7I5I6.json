@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z2H3F0F5E2F5D0D9L1M9K1I3J7I5I6",
+  "title": "유엔참전용사의 명예선양 등에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "최형두의원 등 16인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "최형두의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2H3F0F5E2F5D0D9L1M9K1I3J7I5I6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2H3F0F5E2F5D0D9L1M9K1I3J7I5I6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2H3F0F5E2F5D0D9L1M9K1I3J7I5I6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

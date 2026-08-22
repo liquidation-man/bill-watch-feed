@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I2Q3P0Q4P1X8V1U1T1U8C4B6Z0X3U8",
+  "title": "각급 법원의 설치와 관할구역에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박재호의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-17",
+      "detail": "박재호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q3P0Q4P1X8V1U1T1U8C4B6Z0X3U8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q3P0Q4P1X8V1U1T1U8C4B6Z0X3U8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

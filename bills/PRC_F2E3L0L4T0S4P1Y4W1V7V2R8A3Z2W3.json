@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2E3L0L4T0S4P1Y4W1V7V2R8A3Z2W3",
+  "title": "예금자보호법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이성만의원 등 18인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-18",
+      "detail": "이성만의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3L0L4T0S4P1Y4W1V7V2R8A3Z2W3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3L0L4T0S4P1Y4W1V7V2R8A3Z2W3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

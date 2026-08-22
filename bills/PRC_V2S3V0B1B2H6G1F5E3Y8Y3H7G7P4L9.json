@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V2S3V0B1B2H6G1F5E3Y8Y3H7G7P4L9",
+  "title": "공사중단 장기방치 건축물의 정비 등에 관한 특별조치법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "송기헌의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-14",
+      "detail": "송기헌의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2S3V0B1B2H6G1F5E3Y8Y3H7G7P4L9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-09-07",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2S3V0B1B2H6G1F5E3Y8Y3H7G7P4L9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2S3V0B1B2H6G1F5E3Y8Y3H7G7P4L9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

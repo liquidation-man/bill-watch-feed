@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P2N3M0U3V2X9W1U8T2B4C4B2Z4Y9G5",
+  "title": "전기사업법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "양이원영의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-10",
+      "detail": "양이원영의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N3M0U3V2X9W1U8T2B4C4B2Z4Y9G5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N3M0U3V2X9W1U8T2B4C4B2Z4Y9G5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

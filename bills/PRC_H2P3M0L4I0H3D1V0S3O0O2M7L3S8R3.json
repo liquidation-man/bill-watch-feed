@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H2P3M0L4I0H3D1V0S3O0O2M7L3S8R3",
+  "title": "학교폭력예방 및 대책에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "박광온의원 등 14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-20",
+      "detail": "박광온의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P3M0L4I0H3D1V0S3O0O2M7L3S8R3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-16",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P3M0L4I0H3D1V0S3O0O2M7L3S8R3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P3M0L4I0H3D1V0S3O0O2M7L3S8R3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

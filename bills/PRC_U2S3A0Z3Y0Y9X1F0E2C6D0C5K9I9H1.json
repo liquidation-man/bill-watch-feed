@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U2S3A0Z3Y0Y9X1F0E2C6D0C5K9I9H1",
+  "title": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "류성걸의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-03",
+      "detail": "류성걸의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S3A0Z3Y0Y9X1F0E2C6D0C5K9I9H1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S3A0Z3Y0Y9X1F0E2C6D0C5K9I9H1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S3A0Z3Y0Y9X1F0E2C6D0C5K9I9H1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

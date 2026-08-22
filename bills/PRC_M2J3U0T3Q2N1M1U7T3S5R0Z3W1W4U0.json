@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M2J3U0T3Q2N1M1U7T3S5R0Z3W1W4U0",
+  "title": "영상정보처리기기의 설치·관리 및 개인영상정보의 보호 등에 관한 법률안",
+  "committee": "정무위원회",
+  "proposer": "윤주경의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-28",
+      "detail": "윤주경의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2J3U0T3Q2N1M1U7T3S5R0Z3W1W4U0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2J3U0T3Q2N1M1U7T3S5R0Z3W1W4U0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2J3U0T3Q2N1M1U7T3S5R0Z3W1W4U0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

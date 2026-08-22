@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q2O3O0W6V0V7T1U1T4T4B5A2A7Y7Z2",
+  "title": "한국전쟁 전후 기독교 등 종교인 희생사건 진상규명 및 희생자 명예회복에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "조해진의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-26",
+      "detail": "조해진의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3O0W6V0V7T1U1T4T4B5A2A7Y7Z2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-09-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3O0W6V0V7T1U1T4T4B5A2A7Y7Z2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O3O0W6V0V7T1U1T4T4B5A2A7Y7Z2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X2V3W0E5D0B1A1B7J0I1G4F6N9O7M6",
+  "title": "국민의 언론재판 참여에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김경협의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-08",
+      "detail": "김경협의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2V3W0E5D0B1A1B7J0I1G4F6N9O7M6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2V3W0E5D0B1A1B7J0I1G4F6N9O7M6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

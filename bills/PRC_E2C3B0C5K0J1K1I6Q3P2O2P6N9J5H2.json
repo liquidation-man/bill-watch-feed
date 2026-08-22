@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_E2C3B0C5K0J1K1I6Q3P2O2P6N9J5H2",
+  "title": "지방의료원의 설립 및 운영에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "조해진의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-05-22",
+      "detail": "조해진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C3B0C5K0J1K1I6Q3P2O2P6N9J5H2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C3B0C5K0J1K1I6Q3P2O2P6N9J5H2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C3B0C5K0J1K1I6Q3P2O2P6N9J5H2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

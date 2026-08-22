@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F2E3A0B6Z2Y3X1F7F1E5D1B2J3I0J3",
+  "title": "가족관계의 등록 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "송석준의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-27",
+      "detail": "송석준의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3A0B6Z2Y3X1F7F1E5D1B2J3I0J3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E3A0B6Z2Y3X1F7F1E5D1B2J3I0J3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U2T3O0N3V0T9U0T9R1Z8Y5Z9Y2W2E7",
+  "title": "민간 기록문화의 보존 및 활용에 관한 법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김승수의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-03",
+      "detail": "김승수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T3O0N3V0T9U0T9R1Z8Y5Z9Y2W2E7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-17",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T3O0N3V0T9U0T9R1Z8Y5Z9Y2W2E7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T3O0N3V0T9U0T9R1Z8Y5Z9Y2W2E7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

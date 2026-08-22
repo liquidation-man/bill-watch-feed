@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G2H3F0G6E0F1D0E9A2Y8Z4X0Y3W7W4",
+  "title": "평생교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "윤준병의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-23",
+      "detail": "윤준병의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2H3F0G6E0F1D0E9A2Y8Z4X0Y3W7W4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-06-29",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2H3F0G6E0F1D0E9A2Y8Z4X0Y3W7W4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

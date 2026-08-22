@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2M3K0K6J1J5I1Q4Q1O1P2N1O8N4U3",
+  "title": "체육인 복지법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "이용의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-26",
+      "detail": "이용의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2M3K0K6J1J5I1Q4Q1O1P2N1O8N4U3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-07-21",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2M3K0K6J1J5I1Q4Q1O1P2N1O8N4U3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

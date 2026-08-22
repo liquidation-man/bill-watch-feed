@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E2E3C0I4I0O4O0M9M1S3R4Q3M0O1U7",
+  "title": "산림보호법 전부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "정희용의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-04-11",
+      "detail": "정희용의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E3C0I4I0O4O0M9M1S3R4Q3M0O1U7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2E3C0I4I0O4O0M9M1S3R4Q3M0O1U7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

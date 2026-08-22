@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H2H3Q0Q5O3N0N0M9M2U4V3T1S4S9Q4",
+  "title": "변호사법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정우택의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-06-02",
+      "detail": "정우택의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2H3Q0Q5O3N0N0M9M2U4V3T1S4S9Q4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2H3Q0Q5O3N0N0M9M2U4V3T1S4S9Q4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}
