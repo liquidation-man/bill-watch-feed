@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1V9Q1Q0Q3H1R1U4O4H0K2D0Z6M4R3",
+  "title": "공공기관의 지출정보 공개에 관한 법률안",
+  "committee": "기획재정위원회",
+  "proposer": "권미혁의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "권미혁의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1V9Q1Q0Q3H1R1U4O4H0K2D0Z6M4R3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1V9Q1Q0Q3H1R1U4O4H0K2D0Z6M4R3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1V9Q1Q0Q3H1R1U4O4H0K2D0Z6M4R3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_H2P2T0P5U0U9T0L9Y5C4G0Z2U5M4O2",
+  "title": "해양생태계의 보전 및 관리에 관한 법률 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "성일종의원등11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-04",
+      "detail": "성일종의원등11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2T0P5U0U9T0L9Y5C4G0Z2U5M4O2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-23",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2T0P5U0U9T0L9Y5C4G0Z2U5M4O2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-21",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2T0P5U0U9T0L9Y5C4G0Z2U5M4O2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-12-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2T0P5U0U9T0L9Y5C4G0Z2U5M4O2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

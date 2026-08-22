@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z2Q2S0P1N1G0L1A0I4I3W1L8E5Q4Q7",
+  "title": "교원의 지위 향상 및 교육활동 보호를 위한 특별법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "정경희의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-11",
+      "detail": "정경희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Q2S0P1N1G0L1A0I4I3W1L8E5Q4Q7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-22",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Q2S0P1N1G0L1A0I4I3W1L8E5Q4Q7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Q2S0P1N1G0L1A0I4I3W1L8E5Q4Q7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

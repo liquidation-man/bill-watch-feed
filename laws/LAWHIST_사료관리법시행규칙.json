@@ -1,0 +1,761 @@
+{
+  "billId": "LAWHIST_사료관리법시행규칙",
+  "title": "사료관리법 시행규칙",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1963-08-14",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 01393호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=6165&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1963-11-30",
+      "detail": "농림축산식품부 · 각령 · 공포번호 제 01659호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20437&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1963-12-11",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00147호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42013&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1965-11-23",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00193호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42014&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1969-05-03",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00314호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42015&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1969-08-19",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00391호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42016&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1970-07-09",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 05182호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20438&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1971-02-10",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00446호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42017&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1972-08-07",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00496호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42018&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1972-12-22",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 00517호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42019&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1974-12-26",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 02740호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=6166&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1975-04-11",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 07594호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20439&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1975-05-24",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00591호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42020&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1975-08-21",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00605호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42021&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1976-02-06",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00621호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42022&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1976-09-10",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 08240호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20440&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1977-12-31",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00705호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42023&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1978-11-23",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 09204호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20441&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1978-12-02",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00744호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42024&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1980-07-02",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00794호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42025&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-03-24",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 03396호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=7112&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-09-03",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 10454호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20442&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-12-31",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00850호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42026&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1983-02-16",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00884호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42027&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1984-12-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 03761호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2769&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1985-06-28",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 11711호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20443&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1985-07-20",
+      "detail": "농림축산식품부 · 농수산부령 · 공포번호 제 00942호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42028&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1987-04-10",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 12139호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20444&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1993-02-23",
+      "detail": "농림축산식품부 · 농림수산부령 · 공포번호 제 01114호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42029&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 04849호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2768&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-02-27",
+      "detail": "농림축산식품부 · 농림수산부령 · 공포번호 제 01175호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42030&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-29",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 14845호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20445&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-30",
+      "detail": "농림축산식품부 · 농림수산부령 · 공포번호 제 01218호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42031&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-08-08",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 05153호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2770&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-08-08",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 15135호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=20446&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-12-28",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01246호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42032&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-13",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 05453호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2771&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-31",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 15598호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=50399&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-01-19",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01306호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42033&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-03-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 05946호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2772&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-10-20",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 16580호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=50400&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-12-22",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01351호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42034&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-07-08",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01368호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=42124&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-03-28",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 06445호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=49872&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-10-31",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 17400호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=2972&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-12-31",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01408호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=53522&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2002-01-26",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 06627호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=53822&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-01-29",
+      "detail": "농림축산식품부 · 농림부령 · 공포번호 제 01454호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58457&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-03-17",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 18312호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60694&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-03-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 07428호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=67655&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 08852호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=83671&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 20677호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=85268&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-03",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=85729&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-21",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 08931호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=85976&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-10-08",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00033호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=89188&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-11-18",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00037호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=89751&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-31",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00052호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90844&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-02-06",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 09432호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=91673&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-03-18",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 21355호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=91993&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-03-20",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00064호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=92038&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 10219호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=103987&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-04-08",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00189호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=112147&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-12-11",
+      "detail": "농림축산식품부 · 농림수산식품부령 · 공포번호 제 00326호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=130571&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 11690호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=136861&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 24455호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=136403&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=137817&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-08-06",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 11998호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=142623&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-01-02",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00125호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=166689&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-01-06",
+      "detail": "농림축산식품부 · 농림축산식품부령,해양수산부령 · 공포번호 제 00129,00133호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=167018&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-02-03",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 13136호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=167994&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 14211호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=183615&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-11-30",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00226호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=187980&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-27",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 14481호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188693&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-27",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 14476호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188573&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2017-01-02",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00237호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=190841&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-12",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00277호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=194800&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-10-30",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 29263호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=205063&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-31",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 16123호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206332&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-04-05",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00362호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208328&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-06-18",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 29873호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208938&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-07-01",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00376호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=209817&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-07-02",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 29950호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=209699&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-08-26",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00391호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=210418&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-11-14",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00461호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=211371&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-02-11",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 16981호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=214167&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-03-24",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 17091호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=215763&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-12-27",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 19113호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=246633&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-03-23",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00571호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=249367&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-10-24",
+      "detail": "농림축산식품부 · 법률 · 공포번호 제 19752호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=255451&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-11-17",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00610호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256179&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-11-21",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00613호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256275&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-12",
+      "detail": "농림축산식품부 · 대통령령 · 공포번호 제 33944호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256791&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-28",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00627호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=257739&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-05",
+      "detail": "농림축산식품부 · 농림축산식품부령 · 공포번호 제 00694호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=266991&type=HTML"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

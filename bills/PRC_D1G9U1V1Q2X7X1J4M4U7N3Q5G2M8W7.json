@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1G9U1V1Q2X7X1J4M4U7N3Q5G2M8W7",
+  "title": "국립동요박물관법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "송석준의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-27",
+      "detail": "송석준의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G9U1V1Q2X7X1J4M4U7N3Q5G2M8W7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G9U1V1Q2X7X1J4M4U7N3Q5G2M8W7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

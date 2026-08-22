@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1H9C1V1W0S4Z1X0W2Z7V3L1D8B1C8",
+  "title": "국회의원 보좌직원법안",
+  "committee": "국회운영위원회",
+  "proposer": "강석호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-04",
+      "detail": "강석호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1H9C1V1W0S4Z1X0W2Z7V3L1D8B1C8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1H9C1V1W0S4Z1X0W2Z7V3L1D8B1C8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

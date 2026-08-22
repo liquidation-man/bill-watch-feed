@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1U9J1J1M1R2G0L9B3T7X3N6N9J9N6",
+  "title": "학교민주시민교육법안",
+  "committee": "교육위원회",
+  "proposer": "이철희의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-12",
+      "detail": "이철희의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1U9J1J1M1R2G0L9B3T7X3N6N9J9N6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1U9J1J1M1R2G0L9B3T7X3N6N9J9N6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

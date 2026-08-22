@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q2V0B0J3K0D4H1S5H0L5R5S9P5R4U5",
+  "title": "병역법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "조원진의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "조원진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2V0B0J3K0D4H1S5H0L5R5S9P5R4U5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2V0B0J3K0D4H1S5H0L5R5S9P5R4U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2V0B0J3K0D4H1S5H0L5R5S9P5R4U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

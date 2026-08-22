@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1A9Y1Q0O2H9G1M5U5D1Z0A9W4K0M8",
+  "title": "공동주택관리법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김정호의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-29",
+      "detail": "김정호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1A9Y1Q0O2H9G1M5U5D1Z0A9W4K0M8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1A9Y1Q0O2H9G1M5U5D1Z0A9W4K0M8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

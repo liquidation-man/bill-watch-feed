@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1I9H1D0F3D1H1V9G4V9N2Z6Q1W7M0",
+  "title": "국가연구개발사업 등의 성과평가 및 성과관리에 관한 법률 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "우원식의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "우원식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9H1D0F3D1H1V9G4V9N2Z6Q1W7M0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-05",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9H1D0F3D1H1V9G4V9N2Z6Q1W7M0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9H1D0F3D1H1V9G4V9N2Z6Q1W7M0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

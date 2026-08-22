@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_D2B2M0R4W2K1E1J7M2S9C4O4X2T9D1",
+  "title": "강제실종범죄 처벌, 강제실종의 방지 및 피해자의 구제 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김기현의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-30",
+      "detail": "김기현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B2M0R4W2K1E1J7M2S9C4O4X2T9D1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2024-01-24",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B2M0R4W2K1E1J7M2S9C4O4X2T9D1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B2M0R4W2K1E1J7M2S9C4O4X2T9D1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

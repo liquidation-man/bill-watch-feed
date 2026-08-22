@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1F9V1F0Z3D1J1L6W1M0T4J3H5C8N1",
+  "title": "재외동포기본법안",
+  "committee": "외교통일위원회",
+  "proposer": "이인영의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "이인영의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1F9V1F0Z3D1J1L6W1M0T4J3H5C8N1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1F9V1F0Z3D1J1L6W1M0T4J3H5C8N1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

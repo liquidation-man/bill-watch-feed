@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C2I0J0L3G1M2A1W6H5I7B1X6B9K9M5",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정병국의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-12",
+      "detail": "정병국의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2I0J0L3G1M2A1W6H5I7B1X6B9K9M5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2I0J0L3G1M2A1W6H5I7B1X6B9K9M5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2I0J0L3G1M2A1W6H5I7B1X6B9K9M5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

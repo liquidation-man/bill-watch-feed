@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1A9V1D1Q1V3A1U0W3Z1N5S0M3I7S5",
+  "title": "노인장기요양보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이찬열의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-13",
+      "detail": "이찬열의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9V1D1Q1V3A1U0W3Z1N5S0M3I7S5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9V1D1Q1V3A1U0W3Z1N5S0M3I7S5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1Q9D1O0P3Y0B1T9W3V8Y5E2R5C0S3",
+  "title": "전기통신사업법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "노웅래의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "노웅래의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q9D1O0P3Y0B1T9W3V8Y5E2R5C0S3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q9D1O0P3Y0B1T9W3V8Y5E2R5C0S3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q9D1O0P3Y0B1T9W3V8Y5E2R5C0S3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

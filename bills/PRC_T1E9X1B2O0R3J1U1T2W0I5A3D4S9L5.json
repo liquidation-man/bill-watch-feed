@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1E9X1B2O0R3J1U1T2W0I5A3D4S9L5",
+  "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "임재훈의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-03",
+      "detail": "임재훈의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E9X1B2O0R3J1U1T2W0I5A3D4S9L5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E9X1B2O0R3J1U1T2W0I5A3D4S9L5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,777 @@
+{
+  "billId": "LAWHIST_온천법시행령",
+  "title": "온천법 시행령",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-03-02",
+      "detail": "행정안전부 · 법률 · 공포번호 제 03377호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=57242&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-06-18",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 10354호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=25231&type=HTML"
+    },
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-07-01",
+      "detail": "행정안전부 · 내무부령 · 공포번호 제 00350호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=43220&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1986-12-31",
+      "detail": "행정안전부 · 법률 · 공포번호 제 03910호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=57241&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-30",
+      "detail": "행정안전부 · 법률 · 공포번호 제 05121호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=57240&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-07-01",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 15107호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=25232&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-07-03",
+      "detail": "행정안전부 · 내무부령 · 공포번호 제 00686호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52111&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-01-13",
+      "detail": "행정안전부 · 법률 · 공포번호 제 05286호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55023&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-13",
+      "detail": "행정안전부 · 법률 · 공포번호 제 05453호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55022&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-31",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 15598호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=25233&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-01-18",
+      "detail": "행정안전부 · 법률 · 공포번호 제 05627호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55021&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-01-29",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 16093호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=25234&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-05",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 16102호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=25235&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-05",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00034호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52112&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-01-12",
+      "detail": "행정안전부 · 법률 · 공포번호 제 06119호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55018&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-05-25",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 16816호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=10491&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-06-16",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00099호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52113&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-01-26",
+      "detail": "행정안전부 · 법률 · 공포번호 제 06390호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=57237&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-06-22",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 17241호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=10492&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-06-27",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00137호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=10489&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2002-12-30",
+      "detail": "행정안전부 · 법률 · 공포번호 제 06842호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=57239&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2003-12-24",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 18167호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=4906&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2003-12-30",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00212호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58834&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-03-17",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 18312호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=67069&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-02-11",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00267호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=66741&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-03-03",
+      "detail": "행정안전부 · 법률 · 공포번호 제 07856호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=73261&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-07-21",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 19615호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=74967&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-04-06",
+      "detail": "행정안전부 · 법률 · 공포번호 제 08337호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=78188&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-04-11",
+      "detail": "행정안전부 · 법률 · 공포번호 제 08343호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=78267&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-09-18",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00393호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=80595&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-12-31",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 20506호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=82441&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "행정안전부 · 법률 · 공포번호 제 08852호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=84018&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 20741호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=85657&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-04",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=84221&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-24",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00007호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=85883&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-07-29",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 20947호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=88283&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-26",
+      "detail": "행정안전부 · 법률 · 공포번호 제 09202호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90416&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-31",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 21215호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90699&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-02-04",
+      "detail": "행정안전부 · 법률 · 공포번호 제 10005호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=102469&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-05-04",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 22151호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=104953&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-08-04",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 22320호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=107001&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-08-11",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00154호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=107150&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-01-17",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 22626호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=110047&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-05-30",
+      "detail": "행정안전부 · 법률 · 공포번호 제 10732호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=113534&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-07-21",
+      "detail": "행정안전부 · 법률 · 공포번호 제 10892호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=115034&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-04-10",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 23718호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=124586&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "행정안전부 · 법률 · 공포번호 제 11690호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=136764&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 24425호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=135826&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "행정안전부 · 안전행정부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=137998&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-07-16",
+      "detail": "행정안전부 · 법률 · 공포번호 제 11896호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=142010&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-12-30",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 25050호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=148656&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-01-14",
+      "detail": "행정안전부 · 법률 · 공포번호 제 12248호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=150021&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-04-04",
+      "detail": "행정안전부 · 안전행정부령 · 공포번호 제 00051호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=152864&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-06-03",
+      "detail": "행정안전부 · 법률 · 공포번호 제 12738호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=155056&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-06-03",
+      "detail": "행정안전부 · 법률 · 공포번호 제 12737호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=154993&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-10-15",
+      "detail": "행정안전부 · 법률 · 공포번호 제 12797호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=161103&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-17",
+      "detail": "행정안전부 · 안전행정부령 · 공포번호 제 00099호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=162988&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "행정안전부 · 법률 · 공포번호 제 12844호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=162223&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 25751호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=163309&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=163803&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-12-09",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 25840호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=164898&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-06-30",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 26369호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=172612&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-20",
+      "detail": "행정안전부 · 법률 · 공포번호 제 13401호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=172968&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-01-19",
+      "detail": "행정안전부 · 법률 · 공포번호 제 13805호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=179713&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-05-31",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 27205호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=183455&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-02",
+      "detail": "행정안전부 · 법률 · 공포번호 제 14284호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188043&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-15",
+      "detail": "행정안전부 · 행정자치부령 · 공포번호 제 00091호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188314&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-27",
+      "detail": "행정안전부 · 법률 · 공포번호 제 14480호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188664&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 27858호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=191716&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2017-04-18",
+      "detail": "행정안전부 · 법률 · 공포번호 제 14795호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=193423&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "detail": "행정안전부 · 법률 · 공포번호 제 14839호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=195089&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 28211호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=195619&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00001호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=196174&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-12-29",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 28521호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=200680&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-03-31",
+      "detail": "행정안전부 · 법률 · 공포번호 제 17171호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=216291&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-23",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 30795호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=219673&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-23",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00187호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=219739&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-22",
+      "detail": "행정안전부 · 법률 · 공포번호 제 17697호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=224563&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-01-05",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 31380호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=227705&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-03-02",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 31516호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=229865&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-03-11",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00241호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=230275&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-04-20",
+      "detail": "행정안전부 · 법률 · 공포번호 제 18088호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=231671&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-06-22",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 31804호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=233241&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-07-20",
+      "detail": "행정안전부 · 법률 · 공포번호 제 18310호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=234177&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-09-07",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00274호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=235327&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-10-19",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 32066호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=236037&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-10-21",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00282호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=236397&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-11-15",
+      "detail": "행정안전부 · 법률 · 공포번호 제 19028호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=245249&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-04-25",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 33434호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=250455&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-11-16",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 33858호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256079&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-12",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 33913호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256655&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-11-19",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 35004호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=266497&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-03-12",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 35382호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=269741&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-08-26",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 35716호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=273467&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-31",
+      "detail": "행정안전부 · 행정안전부령 · 공포번호 제 00586호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=279391&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-24",
+      "detail": "행정안전부 · 대통령령 · 공포번호 제 36220호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284813&type=HTML"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

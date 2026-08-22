@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P1B9Z1G2W1H3D1G7H4I6A0A8T6D6A8",
+  "title": "교육환경 보호에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "이학재의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-13",
+      "detail": "이학재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B9Z1G2W1H3D1G7H4I6A0A8T6D6A8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B9Z1G2W1H3D1G7H4I6A0A8T6D6A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

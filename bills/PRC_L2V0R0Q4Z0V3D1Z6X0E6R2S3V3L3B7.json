@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L2V0R0Q4Z0V3D1Z6X0E6R2S3V3L3B7",
+  "title": "베트남전쟁 시기 대한민국 군대에 의한 피해사건 조사에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "김종대의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-04-03",
+      "detail": "김종대의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2V0R0Q4Z0V3D1Z6X0E6R2S3V3L3B7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2V0R0Q4Z0V3D1Z6X0E6R2S3V3L3B7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2V0R0Q4Z0V3D1Z6X0E6R2S3V3L3B7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

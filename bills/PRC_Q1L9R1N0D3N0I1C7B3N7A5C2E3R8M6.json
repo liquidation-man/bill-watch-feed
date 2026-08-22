@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q1L9R1N0D3N0I1C7B3N7A5C2E3R8M6",
+  "title": "한국투자공사법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이춘석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "이춘석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1L9R1N0D3N0I1C7B3N7A5C2E3R8M6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1L9R1N0D3N0I1C7B3N7A5C2E3R8M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

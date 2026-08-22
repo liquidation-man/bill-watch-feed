@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1V9Y1A2I2O3M1F7X5O1A2E7B8C9E1",
+  "title": "공공기관의 운영에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김정호의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "김정호의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V9Y1A2I2O3M1F7X5O1A2E7B8C9E1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V9Y1A2I2O3M1F7X5O1A2E7B8C9E1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V9Y1A2I2O3M1F7X5O1A2E7B8C9E1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

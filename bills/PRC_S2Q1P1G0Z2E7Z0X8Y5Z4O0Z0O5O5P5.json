@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2Q1P1G0Z2E7Z0X8Y5Z4O0Z0O5O5P5",
+  "title": "공동주택관리법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "조오섭의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-14",
+      "detail": "조오섭의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q1P1G0Z2E7Z0X8Y5Z4O0Z0O5O5P5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q1P1G0Z2E7Z0X8Y5Z4O0Z0O5O5P5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

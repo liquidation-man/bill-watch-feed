@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1I9C1H1T0X5T1I4W0N7W0M2L8W1D4",
+  "title": "지방공무원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "유민봉의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-05",
+      "detail": "유민봉의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9C1H1T0X5T1I4W0N7W0M2L8W1D4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9C1H1T0X5T1I4W0N7W0M2L8W1D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

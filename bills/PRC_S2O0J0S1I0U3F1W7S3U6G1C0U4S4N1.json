@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S2O0J0S1I0U3F1W7S3U6G1C0U4S4N1",
+  "title": "한국사학진흥재단법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "박찬대의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-03",
+      "detail": "박찬대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2O0J0S1I0U3F1W7S3U6G1C0U4S4N1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2O0J0S1I0U3F1W7S3U6G1C0U4S4N1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

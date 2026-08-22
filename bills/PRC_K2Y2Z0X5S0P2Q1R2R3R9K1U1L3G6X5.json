@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_K2Y2Z0X5S0P2Q1R2R3R9K1U1L3G6X5",
+  "title": "국민투표법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "유상범의원 등 14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-11",
+      "detail": "유상범의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Y2Z0X5S0P2Q1R2R3R9K1U1L3G6X5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Y2Z0X5S0P2Q1R2R3R9K1U1L3G6X5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

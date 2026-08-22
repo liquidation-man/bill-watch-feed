@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1M9A1N2P0B4N1P6E4X8Z3D2Z4Z6E7",
+  "title": "노인복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김종회의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-04",
+      "detail": "김종회의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1M9A1N2P0B4N1P6E4X8Z3D2Z4Z6E7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1M9A1N2P0B4N1P6E4X8Z3D2Z4Z6E7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

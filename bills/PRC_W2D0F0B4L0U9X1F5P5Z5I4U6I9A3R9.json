@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W2D0F0B4L0U9X1F5P5Z5I4U6I9A3R9",
+  "title": "국회윤리조사위원회법안",
+  "committee": "국회운영위원회",
+  "proposer": "정병국의원 등 25인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-04-09",
+      "detail": "정병국의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2D0F0B4L0U9X1F5P5Z5I4U6I9A3R9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2D0F0B4L0U9X1F5P5Z5I4U6I9A3R9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

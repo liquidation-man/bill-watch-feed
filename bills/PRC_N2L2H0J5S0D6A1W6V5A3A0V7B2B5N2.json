@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_N2L2H0J5S0D6A1W6V5A3A0V7B2B5N2",
+  "title": "노후계획도시 활성화 및 재생 지원을 위한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "하태경의원등11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-16",
+      "detail": "하태경의원등11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L2H0J5S0D6A1W6V5A3A0V7B2B5N2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-20",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L2H0J5S0D6A1W6V5A3A0V7B2B5N2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-11-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L2H0J5S0D6A1W6V5A3A0V7B2B5N2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-12-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2L2H0J5S0D6A1W6V5A3A0V7B2B5N2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1D9X1A2M3E0N1V5A2Q8L2I5J5F1B1",
+  "title": "영유아보육법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "노웅래의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-30",
+      "detail": "노웅래의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1D9X1A2M3E0N1V5A2Q8L2I5J5F1B1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1D9X1A2M3E0N1V5A2Q8L2I5J5F1B1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

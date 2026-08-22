@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T2V2R0X5U1O6B1U0D3X0A4B2Y3R2X5",
+  "title": "초·중등교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "이주환의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-19",
+      "detail": "이주환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2V2R0X5U1O6B1U0D3X0A4B2Y3R2X5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-05-27",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2V2R0X5U1O6B1U0D3X0A4B2Y3R2X5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

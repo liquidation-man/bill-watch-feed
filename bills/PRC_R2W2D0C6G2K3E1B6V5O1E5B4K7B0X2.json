@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2",
+  "title": "해수욕장의 이용 및 관리에 관한 법률 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김승남의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-01",
+      "detail": "김승남의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-23",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-21",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-12-07",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-12-07",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-12-08",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W2D0C6G2K3E1B6V5O1E5B4K7B0X2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

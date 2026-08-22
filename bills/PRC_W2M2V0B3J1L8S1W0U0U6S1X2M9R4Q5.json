@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_W2M2V0B3J1L8S1W0U0U6S1X2M9R4Q5",
+  "title": "평생교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "홍석준의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-12",
+      "detail": "홍석준의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2M2V0B3J1L8S1W0U0U6S1X2M9R4Q5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-22",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2M2V0B3J1L8S1W0U0U6S1X2M9R4Q5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-28",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2M2V0B3J1L8S1W0U0U6S1X2M9R4Q5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-03-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2M2V0B3J1L8S1W0U0U6S1X2M9R4Q5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

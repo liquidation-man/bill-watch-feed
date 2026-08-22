@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_C2K2V0K5D1S3G1M1O2P4P5Z2B7N7S8",
+  "title": "무형문화재 보전 및 진흥에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "도종환의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-17",
+      "detail": "도종환의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K2V0K5D1S3G1M1O2P4P5Z2B7N7S8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-20",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K2V0K5D1S3G1M1O2P4P5Z2B7N7S8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-07-07",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K2V0K5D1S3G1M1O2P4P5Z2B7N7S8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-10-06",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K2V0K5D1S3G1M1O2P4P5Z2B7N7S8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

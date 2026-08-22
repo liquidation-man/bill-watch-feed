@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1J9U1E0H3J1X1R3I5U4A4L7O5S1I9",
+  "title": "국유림의 경영 및 관리에 관한 법률 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "박완주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "박완주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1J9U1E0H3J1X1R3I5U4A4L7O5S1I9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1J9U1E0H3J1X1R3I5U4A4L7O5S1I9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

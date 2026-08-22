@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V2Y2X0G4A2H8G0X9B2L9J0A6B3O0I3",
+  "title": "영유아보육법 일부개정법률안",
+  "committee": "",
+  "proposer": "소병훈의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-22",
+      "detail": "소병훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2Y2X0G4A2H8G0X9B2L9J0A6B3O0I3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-07-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2Y2X0G4A2H8G0X9B2L9J0A6B3O0I3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

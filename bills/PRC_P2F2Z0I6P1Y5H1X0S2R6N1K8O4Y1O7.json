@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P2F2Z0I6P1Y5H1X0S2R6N1K8O4Y1O7",
+  "title": "지방세특례제한법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박찬대의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-28",
+      "detail": "박찬대의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2F2Z0I6P1Y5H1X0S2R6N1K8O4Y1O7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-12-01",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2F2Z0I6P1Y5H1X0S2R6N1K8O4Y1O7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2F2Z0I6P1Y5H1X0S2R6N1K8O4Y1O7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

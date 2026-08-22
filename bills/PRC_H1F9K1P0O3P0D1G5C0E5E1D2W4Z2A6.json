@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H1F9K1P0O3P0D1G5C0E5E1D2W4Z2A6",
+  "title": "국가재정법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박명재의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "박명재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1F9K1P0O3P0D1G5C0E5E1D2W4Z2A6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1F9K1P0O3P0D1G5C0E5E1D2W4Z2A6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

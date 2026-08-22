@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_U2W2T0I6O1J3L1L4C4G6Y2G4K8C7Z4",
+  "title": "관세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정성호의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-21",
+      "detail": "정성호의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2W2T0I6O1J3L1L4C4G6Y2G4K8C7Z4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-01",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2W2T0I6O1J3L1L4C4G6Y2G4K8C7Z4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-01",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2W2T0I6O1J3L1L4C4G6Y2G4K8C7Z4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-09-07",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2W2T0I6O1J3L1L4C4G6Y2G4K8C7Z4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1T9L1T0C3V1S1U8B0B2Y2J8I3V8A5",
+  "title": "남북교류협력에 관한 법률 전부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "추미애의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "추미애의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T9L1T0C3V1S1U8B0B2Y2J8I3V8A5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T9L1T0C3V1S1U8B0B2Y2J8I3V8A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

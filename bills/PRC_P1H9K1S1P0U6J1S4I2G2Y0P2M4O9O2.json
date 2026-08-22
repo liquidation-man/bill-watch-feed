@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1H9K1S1P0U6J1S4I2G2Y0P2M4O9O2",
+  "title": "관광진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "정태옥의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-06",
+      "detail": "정태옥의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1H9K1S1P0U6J1S4I2G2Y0P2M4O9O2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1H9K1S1P0U6J1S4I2G2Y0P2M4O9O2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

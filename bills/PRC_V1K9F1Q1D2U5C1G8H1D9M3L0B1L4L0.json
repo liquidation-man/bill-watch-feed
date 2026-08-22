@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1K9F1Q1D2U5C1G8H1D9M3L0B1L4L0",
+  "title": "국민건강보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "윤소하의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-25",
+      "detail": "윤소하의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1K9F1Q1D2U5C1G8H1D9M3L0B1L4L0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1K9F1Q1D2U5C1G8H1D9M3L0B1L4L0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

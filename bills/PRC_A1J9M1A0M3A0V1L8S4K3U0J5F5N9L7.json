@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1J9M1A0M3A0V1L8S4K3U0J5F5N9L7",
+  "title": "상속세 및 증여세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "강병원의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "강병원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J9M1A0M3A0V1L8S4K3U0J5F5N9L7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J9M1A0M3A0V1L8S4K3U0J5F5N9L7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

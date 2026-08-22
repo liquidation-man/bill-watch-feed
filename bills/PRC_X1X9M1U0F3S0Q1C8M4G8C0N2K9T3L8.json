@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1X9M1U0F3S0Q1C8M4G8C0N2K9T3L8",
+  "title": "장기등 이식에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "윤일규의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "윤일규의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X9M1U0F3S0Q1C8M4G8C0N2K9T3L8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X9M1U0F3S0Q1C8M4G8C0N2K9T3L8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

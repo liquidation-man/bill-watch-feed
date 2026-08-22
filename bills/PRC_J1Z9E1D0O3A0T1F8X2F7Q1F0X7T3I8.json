@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_J1Z9E1D0O3A0T1F8X2F7Q1F0X7T3I8",
+  "title": "특정 범죄자에 대한 보호관찰 및 전자장치 부착 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "백혜련의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "백혜련의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z9E1D0O3A0T1F8X2F7Q1F0X7T3I8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z9E1D0O3A0T1F8X2F7Q1F0X7T3I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z9E1D0O3A0T1F8X2F7Q1F0X7T3I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-01-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z9E1D0O3A0T1F8X2F7Q1F0X7T3I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

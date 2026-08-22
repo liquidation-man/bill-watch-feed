@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4",
+  "title": "국제협력요원 순직 심사 등에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "원혜영의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-29",
+      "detail": "원혜영의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-02-18",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L9W1G1G2D9Z1I4U4L5Y2N5N8D7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

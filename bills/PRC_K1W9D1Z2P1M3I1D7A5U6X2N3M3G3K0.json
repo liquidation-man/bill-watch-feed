@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1W9D1Z2P1M3I1D7A5U6X2N3M3G3K0",
+  "title": "디엔에이신원확인정보의 이용 및 보호에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박주민의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-13",
+      "detail": "박주민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W9D1Z2P1M3I1D7A5U6X2N3M3G3K0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W9D1Z2P1M3I1D7A5U6X2N3M3G3K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W9D1Z2P1M3I1D7A5U6X2N3M3G3K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

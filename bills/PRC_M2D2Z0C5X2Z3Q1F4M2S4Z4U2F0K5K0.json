@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M2D2Z0C5X2Z3Q1F4M2S4Z4U2F0K5K0",
+  "title": "방위산업기술 보호법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김병기의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-30",
+      "detail": "김병기의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2D2Z0C5X2Z3Q1F4M2S4Z4U2F0K5K0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-29",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2D2Z0C5X2Z3Q1F4M2S4Z4U2F0K5K0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2D2Z0C5X2Z3Q1F4M2S4Z4U2F0K5K0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

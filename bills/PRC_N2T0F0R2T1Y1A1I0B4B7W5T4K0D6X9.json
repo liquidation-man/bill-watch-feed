@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N2T0F0R2T1Y1A1I0B4B7W5T4K0D6X9",
+  "title": "북한인권법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "홍일표의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-02-11",
+      "detail": "홍일표의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2T0F0R2T1Y1A1I0B4B7W5T4K0D6X9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2T0F0R2T1Y1A1I0B4B7W5T4K0D6X9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2T0F0R2T1Y1A1I0B4B7W5T4K0D6X9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

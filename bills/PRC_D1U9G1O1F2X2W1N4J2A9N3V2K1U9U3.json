@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1U9G1O1F2X2W1N4J2A9N3V2K1U9U3",
+  "title": "공무원의 노동조합 설립 및 운영 등에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이용득의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-22",
+      "detail": "이용득의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U9G1O1F2X2W1N4J2A9N3V2K1U9U3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-02-19",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U9G1O1F2X2W1N4J2A9N3V2K1U9U3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U9G1O1F2X2W1N4J2A9N3V2K1U9U3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R2X0T0B1A1A3K1K4L1M6H0G3W3H9E5",
+  "title": "소득세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이종배의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-13",
+      "detail": "이종배의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2X0T0B1A1A3K1K4L1M6H0G3W3H9E5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2X0T0B1A1A3K1K4L1M6H0G3W3H9E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2X0T0B1A1A3K1K4L1M6H0G3W3H9E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

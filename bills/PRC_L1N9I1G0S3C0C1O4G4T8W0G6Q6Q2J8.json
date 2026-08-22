@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1N9I1G0S3C0C1O4G4T8W0G6Q6Q2J8",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이인영의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "이인영의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1N9I1G0S3C0C1O4G4T8W0G6Q6Q2J8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1N9I1G0S3C0C1O4G4T8W0G6Q6Q2J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

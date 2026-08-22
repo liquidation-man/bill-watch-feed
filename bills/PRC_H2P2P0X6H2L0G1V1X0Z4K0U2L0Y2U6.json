@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H2P2P0X6H2L0G1V1X0Z4K0U2L0Y2U6",
+  "title": "북한자료의 수집ㆍ관리 및 활용에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "이용선의원 등 20인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-01",
+      "detail": "이용선의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2P0X6H2L0G1V1X0Z4K0U2L0Y2U6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-07",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2P0X6H2L0G1V1X0Z4K0U2L0Y2U6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P2P0X6H2L0G1V1X0Z4K0U2L0Y2U6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

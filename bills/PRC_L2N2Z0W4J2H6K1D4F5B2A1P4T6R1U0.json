@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_L2N2Z0W4J2H6K1D4F5B2A1P4T6R1U0",
+  "title": "국어기본법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "도종환의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-17",
+      "detail": "도종환의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2N2Z0W4J2H6K1D4F5B2A1P4T6R1U0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-20",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2N2Z0W4J2H6K1D4F5B2A1P4T6R1U0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2N2Z0W4J2H6K1D4F5B2A1P4T6R1U0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

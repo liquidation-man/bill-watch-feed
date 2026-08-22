@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_D2S2I0Z4A2M5Z1G3M1C3Y1M1J1N0J9",
+  "title": "교육환경 보호에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "정우택의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-19",
+      "detail": "정우택의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2S2I0Z4A2M5Z1G3M1C3Y1M1J1N0J9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-22",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2S2I0Z4A2M5Z1G3M1C3Y1M1J1N0J9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-27",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2S2I0Z4A2M5Z1G3M1C3Y1M1J1N0J9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-03-30",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2S2I0Z4A2M5Z1G3M1C3Y1M1J1N0J9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

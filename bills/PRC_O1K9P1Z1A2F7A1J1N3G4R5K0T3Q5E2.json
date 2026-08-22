@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1K9P1Z1A2F7A1J1N3G4R5K0T3Q5E2",
+  "title": "여객자동차 운수사업법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "최교일의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-27",
+      "detail": "최교일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1K9P1Z1A2F7A1J1N3G4R5K0T3Q5E2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1K9P1Z1A2F7A1J1N3G4R5K0T3Q5E2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

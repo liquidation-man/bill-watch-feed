@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1B9N1E2J1P6G1A5Z1I4X0G1O1K4G3",
+  "title": "기부금품의 모집 및 사용에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김정호의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-16",
+      "detail": "김정호의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1B9N1E2J1P6G1A5Z1I4X0G1O1K4G3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1B9N1E2J1P6G1A5Z1I4X0G1O1K4G3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

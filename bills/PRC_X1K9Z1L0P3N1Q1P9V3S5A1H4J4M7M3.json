@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1K9Z1L0P3N1Q1P9V3S5A1H4J4M7M3",
+  "title": "고등교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "박찬대의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "박찬대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1K9Z1L0P3N1Q1P9V3S5A1H4J4M7M3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1K9Z1L0P3N1Q1P9V3S5A1H4J4M7M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W2V0Y0X2I1B0S1N6M3Q5B0W4G2C7P6",
+  "title": "학교보건법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "조승래의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-02-10",
+      "detail": "조승래의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V0Y0X2I1B0S1N6M3Q5B0W4G2C7P6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V0Y0X2I1B0S1N6M3Q5B0W4G2C7P6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

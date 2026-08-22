@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1A9N1S0B2J9N1D6R3P2K3S8Q1G3L0",
+  "title": "항공우주산업개발 촉진법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "송영길의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-29",
+      "detail": "송영길의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1A9N1S0B2J9N1D6R3P2K3S8Q1G3L0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-22",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1A9N1S0B2J9N1D6R3P2K3S8Q1G3L0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1A9N1S0B2J9N1D6R3P2K3S8Q1G3L0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

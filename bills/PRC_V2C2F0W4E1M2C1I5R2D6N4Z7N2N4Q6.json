@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_V2C2F0W4E1M2C1I5R2D6N4Z7N2N4Q6",
+  "title": "개별소비세법 일부개정법률안",
+  "committee": "민생경제안정 특별위원회",
+  "proposer": "서병수의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-23",
+      "detail": "서병수의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C2F0W4E1M2C1I5R2D6N4Z7N2N4Q6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-07-29",
+      "detail": "민생경제안정 특별위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C2F0W4E1M2C1I5R2D6N4Z7N2N4Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-07-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C2F0W4E1M2C1I5R2D6N4Z7N2N4Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-08-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2C2F0W4E1M2C1I5R2D6N4Z7N2N4Q6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

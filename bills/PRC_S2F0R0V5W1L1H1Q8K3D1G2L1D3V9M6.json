@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S2F0R0V5W1L1H1Q8K3D1G2L1D3V9M6",
+  "title": "건설기술 진흥법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "송석준의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-05-11",
+      "detail": "송석준의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2F0R0V5W1L1H1Q8K3D1G2L1D3V9M6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2F0R0V5W1L1H1Q8K3D1G2L1D3V9M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

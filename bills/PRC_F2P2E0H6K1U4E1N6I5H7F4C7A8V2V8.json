@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F2P2E0H6K1U4E1N6I5H7F4C7A8V2V8",
+  "title": "외국인아동의 출생등록에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "권인숙의원 등 38인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-28",
+      "detail": "권인숙의원 등 38인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2P2E0H6K1U4E1N6I5H7F4C7A8V2V8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-15",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2P2E0H6K1U4E1N6I5H7F4C7A8V2V8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2P2E0H6K1U4E1N6I5H7F4C7A8V2V8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

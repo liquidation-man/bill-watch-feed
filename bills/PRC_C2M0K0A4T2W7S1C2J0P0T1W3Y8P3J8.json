@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8",
+  "title": "긴급재난지원금 기부금 모집 및 사용에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "전혜숙의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-04-27",
+      "detail": "전혜숙의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-27",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2M0K0A4T2W7S1C2J0P0T1W3Y8P3J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

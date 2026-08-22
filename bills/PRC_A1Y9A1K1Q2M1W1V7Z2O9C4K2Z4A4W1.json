@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A1Y9A1K1Q2M1W1V7Z2O9C4K2Z4A4W1",
+  "title": "국가인권위원회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "안상수의원 등 44인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-21",
+      "detail": "안상수의원 등 44인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y9A1K1Q2M1W1V7Z2O9C4K2Z4A4W1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y9A1K1Q2M1W1V7Z2O9C4K2Z4A4W1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

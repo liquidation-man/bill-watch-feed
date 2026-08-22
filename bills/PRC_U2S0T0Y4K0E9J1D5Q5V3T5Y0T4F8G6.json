@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U2S0T0Y4K0E9J1D5Q5V3T5Y0T4F8G6",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "정병국의원 등 25인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-04-09",
+      "detail": "정병국의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S0T0Y4K0E9J1D5Q5V3T5Y0T4F8G6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2S0T0Y4K0E9J1D5Q5V3T5Y0T4F8G6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

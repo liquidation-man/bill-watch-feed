@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O1V9T1S1N0M4J1O0I4L5P3P5O4X5J4",
+  "title": "국회의원수당 등에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "강석호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-04",
+      "detail": "강석호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V9T1S1N0M4J1O0I4L5P3P5O4X5J4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V9T1S1N0M4J1O0I4L5P3P5O4X5J4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

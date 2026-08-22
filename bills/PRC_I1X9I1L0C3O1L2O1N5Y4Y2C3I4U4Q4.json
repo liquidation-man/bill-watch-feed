@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1X9I1L0C3O1L2O1N5Y4Y2C3I4U4Q4",
+  "title": "형사소송법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김병기의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "김병기의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1X9I1L0C3O1L2O1N5Y4Y2C3I4U4Q4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1X9I1L0C3O1L2O1N5Y4Y2C3I4U4Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1X9I1L0C3O1L2O1N5Y4Y2C3I4U4Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

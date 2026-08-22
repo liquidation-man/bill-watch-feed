@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V2E2F0H2E0Y3Q1Y1M1A8H3K5U0V1P2",
+  "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "태영호의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-23",
+      "detail": "태영호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2E2F0H2E0Y3Q1Y1M1A8H3K5U0V1P2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-07",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2E2F0H2E0Y3Q1Y1M1A8H3K5U0V1P2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2E2F0H2E0Y3Q1Y1M1A8H3K5U0V1P2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

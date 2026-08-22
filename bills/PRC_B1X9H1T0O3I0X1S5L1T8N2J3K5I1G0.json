@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1X9H1T0O3I0X1S5L1T8N2J3K5I1G0",
+  "title": "마약류 관리에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "금태섭의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "금태섭의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1X9H1T0O3I0X1S5L1T8N2J3K5I1G0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1X9H1T0O3I0X1S5L1T8N2J3K5I1G0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

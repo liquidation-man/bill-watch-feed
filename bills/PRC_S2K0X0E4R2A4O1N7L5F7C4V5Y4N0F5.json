@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_S2K0X0E4R2A4O1N7L5F7C4V5Y4N0F5",
+  "title": "주한미군 소속 한국인 근로자의 생활안정 등 지원을 위한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "안규백의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-04-24",
+      "detail": "안규백의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K0X0E4R2A4O1N7L5F7C4V5Y4N0F5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K0X0E4R2A4O1N7L5F7C4V5Y4N0F5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K0X0E4R2A4O1N7L5F7C4V5Y4N0F5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2K0X0E4R2A4O1N7L5F7C4V5Y4N0F5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

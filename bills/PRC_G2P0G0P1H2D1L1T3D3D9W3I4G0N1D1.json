@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G2P0G0P1H2D1L1T3D3D9W3I4G0N1D1",
+  "title": "경제자유구역의 지정 및 운영에 관한 특별법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "김도읍의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-21",
+      "detail": "김도읍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2P0G0P1H2D1L1T3D3D9W3I4G0N1D1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2P0G0P1H2D1L1T3D3D9W3I4G0N1D1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

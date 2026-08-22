@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G1R9J1G1H2N7G1W6Z2H0U0Y6O9S6J0",
+  "title": "통신비밀보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "심재철의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-27",
+      "detail": "심재철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1R9J1G1H2N7G1W6Z2H0U0Y6O9S6J0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1R9J1G1H2N7G1W6Z2H0U0Y6O9S6J0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1R9J1G1H2N7G1W6Z2H0U0Y6O9S6J0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

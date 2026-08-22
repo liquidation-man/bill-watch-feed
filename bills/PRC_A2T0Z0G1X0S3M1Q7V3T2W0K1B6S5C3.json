@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A2T0Z0G1X0S3M1Q7V3T2W0K1B6S5C3",
+  "title": "한국지방재정공제회법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박찬대의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-03",
+      "detail": "박찬대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2T0Z0G1X0S3M1Q7V3T2W0K1B6S5C3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2T0Z0G1X0S3M1Q7V3T2W0K1B6S5C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

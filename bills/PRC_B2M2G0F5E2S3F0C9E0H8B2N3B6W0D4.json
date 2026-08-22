@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2M2G0F5E2S3F0C9E0H8B2N3B6W0D4",
+  "title": "중대재해 처벌 등에 관한 법률 일부개정법률안",
+  "committee": "",
+  "proposer": "박대출의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-10",
+      "detail": "박대출의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2M2G0F5E2S3F0C9E0H8B2N3B6W0D4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-06-17",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2M2G0F5E2S3F0C9E0H8B2N3B6W0D4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

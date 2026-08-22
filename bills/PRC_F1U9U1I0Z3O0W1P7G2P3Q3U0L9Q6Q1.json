@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1U9U1I0Z3O0W1P7G2P3Q3U0L9Q6Q1",
+  "title": "국민연금법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이춘석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "이춘석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1U9U1I0Z3O0W1P7G2P3Q3U0L9Q6Q1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1U9U1I0Z3O0W1P7G2P3Q3U0L9Q6Q1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

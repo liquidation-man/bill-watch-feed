@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1X9U1N0S3N1U1A7H2D0R0L3C0B6G4",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "김경협의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "김경협의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X9U1N0S3N1U1A7H2D0R0L3C0B6G4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X9U1N0S3N1U1A7H2D0R0L3C0B6G4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

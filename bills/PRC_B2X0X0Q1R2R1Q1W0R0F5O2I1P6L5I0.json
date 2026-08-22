@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2X0X0Q1R2R1Q1W0R0F5O2I1P6L5I0",
+  "title": "선박의 입항 및 출항 등에 관한 법률 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "황주홍의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-21",
+      "detail": "황주홍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2X0X0Q1R2R1Q1W0R0F5O2I1P6L5I0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2X0X0Q1R2R1Q1W0R0F5O2I1P6L5I0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

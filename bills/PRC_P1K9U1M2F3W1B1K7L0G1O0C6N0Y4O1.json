@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1K9U1M2F3W1B1K7L0G1O0C6N0Y4O1",
+  "title": "도로교통법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "강효상의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-31",
+      "detail": "강효상의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1K9U1M2F3W1B1K7L0G1O0C6N0Y4O1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1K9U1M2F3W1B1K7L0G1O0C6N0Y4O1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

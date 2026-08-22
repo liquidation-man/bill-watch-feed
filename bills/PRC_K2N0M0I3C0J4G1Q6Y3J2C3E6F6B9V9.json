@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_K2N0M0I3C0J4G1Q6Y3J2C3E6F6B9V9",
+  "title": "인사청문회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "문희상의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "문희상의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2N0M0I3C0J4G1Q6Y3J2C3E6F6B9V9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2N0M0I3C0J4G1Q6Y3J2C3E6F6B9V9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

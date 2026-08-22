@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J2P2F0I5U2N6M1S5L0U8W5A6X7Z9I5",
+  "title": "해양경찰법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "안병길의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-09",
+      "detail": "안병길의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2F0I5U2N6M1S5L0U8W5A6X7Z9I5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-08-23",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2F0I5U2N6M1S5L0U8W5A6X7Z9I5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2F0I5U2N6M1S5L0U8W5A6X7Z9I5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

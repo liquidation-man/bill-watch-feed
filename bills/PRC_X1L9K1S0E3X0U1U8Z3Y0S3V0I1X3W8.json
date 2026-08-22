@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1L9K1S0E3X0U1U8Z3Y0S3V0I1X3W8",
+  "title": "국회미래연구원법  일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이춘석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "이춘석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1L9K1S0E3X0U1U8Z3Y0S3V0I1X3W8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1L9K1S0E3X0U1U8Z3Y0S3V0I1X3W8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

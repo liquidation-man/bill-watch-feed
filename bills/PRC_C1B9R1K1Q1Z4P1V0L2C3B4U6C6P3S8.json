@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1B9R1K1Q1Z4P1V0L2C3B4U6C6P3S8",
+  "title": "한국은행법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박명재의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-14",
+      "detail": "박명재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B9R1K1Q1Z4P1V0L2C3B4U6C6P3S8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B9R1K1Q1Z4P1V0L2C3B4U6C6P3S8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B9R1K1Q1Z4P1V0L2C3B4U6C6P3S8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

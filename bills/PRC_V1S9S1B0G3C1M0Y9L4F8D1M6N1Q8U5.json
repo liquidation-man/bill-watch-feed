@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1S9S1B0G3C1M0Y9L4F8D1M6N1Q8U5",
+  "title": "문화기본법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "안민석의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "안민석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1S9S1B0G3C1M0Y9L4F8D1M6N1Q8U5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1S9S1B0G3C1M0Y9L4F8D1M6N1Q8U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2I0L0C3M2U5E1G0G5D5Y3I4M8S3E1",
+  "title": "코로나바이러스감염증-19에 의한 대구광역시·경상북도의 피해구제 및 지원을 위한 특별법안",
+  "committee": "정무위원회",
+  "proposer": "홍의락의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-25",
+      "detail": "홍의락의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2I0L0C3M2U5E1G0G5D5Y3I4M8S3E1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2I0L0C3M2U5E1G0G5D5Y3I4M8S3E1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

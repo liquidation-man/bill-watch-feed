@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_J1F9F1G1Z1Q5G1A8I4V0K0P4F3X9D1",
+  "title": "국회입법조사처법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "김승희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-15",
+      "detail": "김승희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1F9F1G1Z1Q5G1A8I4V0K0P4F3X9D1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1F9F1G1Z1Q5G1A8I4V0K0P4F3X9D1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

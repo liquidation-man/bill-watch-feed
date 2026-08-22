@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_E1W9T1Q2P2L3H1O7Y5P0I0M1G9D7T1",
+  "title": "종합부동산세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김정우의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "김정우의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1W9T1Q2P2L3H1O7Y5P0I0M1G9D7T1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1W9T1Q2P2L3H1O7Y5P0I0M1G9D7T1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1W9T1Q2P2L3H1O7Y5P0I0M1G9D7T1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금",
+    "부동산"
+  ]
+}

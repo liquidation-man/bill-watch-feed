@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_L2T2E0S6W2E2I1Y4E3K9F2I0J1X9J1",
+  "title": "강원특별자치도 설치 등에 관한 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "허영의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-23",
+      "detail": "허영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T2E0S6W2E2I1Y4E3K9F2I0J1X9J1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-14",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T2E0S6W2E2I1Y4E3K9F2I0J1X9J1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T2E0S6W2E2I1Y4E3K9F2I0J1X9J1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-09-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T2E0S6W2E2I1Y4E3K9F2I0J1X9J1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

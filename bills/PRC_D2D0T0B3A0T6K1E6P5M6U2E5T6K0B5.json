@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D2D0T0B3A0T6K1E6P5M6U2E5T6K0B5",
+  "title": "신용보증기금법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "주호영의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-06",
+      "detail": "주호영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D0T0B3A0T6K1E6P5M6U2E5T6K0B5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D0T0B3A0T6K1E6P5M6U2E5T6K0B5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

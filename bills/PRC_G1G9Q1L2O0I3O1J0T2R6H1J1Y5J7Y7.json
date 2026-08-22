@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G1G9Q1L2O0I3O1J0T2R6H1J1Y5J7Y7",
+  "title": "지역경제활성화를 위한 지역재투자법안",
+  "committee": "정무위원회",
+  "proposer": "김영춘의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-03",
+      "detail": "김영춘의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1G9Q1L2O0I3O1J0T2R6H1J1Y5J7Y7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-02-20",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1G9Q1L2O0I3O1J0T2R6H1J1Y5J7Y7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1G9Q1L2O0I3O1J0T2R6H1J1Y5J7Y7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

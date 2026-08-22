@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1I9L1V2S3K1H1M0E5R6G1Z5S1P5X1",
+  "title": "농어촌 등 보건의료를 위한 특별조치법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "유재중의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-31",
+      "detail": "유재중의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9L1V2S3K1H1M0E5R6G1Z5S1P5X1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9L1V2S3K1H1M0E5R6G1Z5S1P5X1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

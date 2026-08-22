@@ -1,0 +1,809 @@
+{
+  "billId": "LAWHIST_법인세법",
+  "title": "법인세법",
+  "events": [
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1973-02-16",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02521호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5353&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1973-03-03",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02566호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5354&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1974-12-21",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02686호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5355&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1975-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02792호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5356&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1976-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02932호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5358&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1976-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 02931호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5357&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1978-12-05",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03141호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5360&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1978-12-05",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03099호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5359&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1979-12-28",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03200호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5361&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1980-12-13",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03270호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52987&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03473호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52988&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1982-12-21",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03577호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55499&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1985-12-23",
+      "detail": "재정경제부 · 법률 · 공포번호 제 03794호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52989&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1988-12-26",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04020호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52990&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1989-04-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04120호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52991&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1989-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04165호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52992&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1990-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04282호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52993&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1993-06-11",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04561호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52994&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1993-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04664호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52995&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-03-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04743호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52996&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04804호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5371&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 04803호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5493&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05109호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5495&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05108호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55221&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05033호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5494&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05193호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5497&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05192호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5496&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-08-28",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05374호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5498&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-13",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05418호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60439&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-01-13",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05503호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60448&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-02-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05525호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60449&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-04-10",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05533호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60445&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-09-16",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05553호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=60447&type=HTML"
+    },
+    {
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-12-28",
+      "detail": "재정경제부 · 법률 · 공포번호 제 05581호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5499&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-12-28",
+      "detail": "재정경제부 · 법률 · 공포번호 제 06047호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5500&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-02-03",
+      "detail": "재정경제부 · 법률 · 공포번호 제 06259호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55205&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2000-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 06293호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=52225&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 06558호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58231&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2002-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 06852호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=55969&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2003-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07005호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58257&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-01-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07117호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=58312&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07317호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=66273&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07289호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=66272&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07838호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=72565&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-03-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 07908호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=73378&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 08141호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=76532&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-07-19",
+      "detail": "재정경제부 · 법률 · 공포번호 제 08519호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=79807&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-08-03",
+      "detail": "재정경제부 · 법률 · 공포번호 제 08631호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=80025&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 08831호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=82363&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 08852호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=83591&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-26",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09267호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90467&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-01-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09401호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=91414&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-01-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09346호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=91268&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-05-21",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09673호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=93601&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-06-09",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09763호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=94608&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09898호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=98250&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-01-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 09924호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=98335&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10221호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=104084&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-05-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10337호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=105525&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-06-08",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10361호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=105903&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-12-30",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10423호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=109644&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-07-25",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10907호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=115191&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-07-25",
+      "detail": "재정경제부 · 법률 · 공포번호 제 10898호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=115169&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 11128호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=120460&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2013-01-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 11607호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=131366&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2013-01-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 11603호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=131364&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-06-07",
+      "detail": "재정경제부 · 법률 · 공포번호 제 11873호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=141083&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-01-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 12166호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=149364&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-01-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 12153호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=149305&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-03-18",
+      "detail": "재정경제부 · 법률 · 공포번호 제 12420호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=151987&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-12-23",
+      "detail": "재정경제부 · 법률 · 공포번호 제 12850호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=165308&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-03-27",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13230호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=169476&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13448호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=173317&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13426호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=173250&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-08-28",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13499호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=174480&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-12-15",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13555호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=177533&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-12-15",
+      "detail": "재정경제부 · 법률 · 공포번호 제 13550호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=177197&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-12-20",
+      "detail": "재정경제부 · 법률 · 공포번호 제 14386호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188351&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-10-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 15022호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=198552&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-12-19",
+      "detail": "재정경제부 · 법률 · 공포번호 제 15222호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=199738&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-24",
+      "detail": "재정경제부 · 법률 · 공포번호 제 16008호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=205922&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 16096호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206289&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 16833호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=212775&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-08-18",
+      "detail": "재정경제부 · 법률 · 공포번호 제 17476호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=220951&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-22",
+      "detail": "재정경제부 · 법률 · 공포번호 제 17652호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=224703&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 17799호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=225029&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-29",
+      "detail": "재정경제부 · 법률 · 공포번호 제 17758호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=224827&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-03-16",
+      "detail": "재정경제부 · 법률 · 공포번호 제 17924호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=230187&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-08-17",
+      "detail": "재정경제부 · 법률 · 공포번호 제 18425호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=234759&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-11-23",
+      "detail": "재정경제부 · 법률 · 공포번호 제 18521호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=236867&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-12-21",
+      "detail": "재정경제부 · 법률 · 공포번호 제 18590호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=238037&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-12-21",
+      "detail": "재정경제부 · 법률 · 공포번호 제 18584호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=238137&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 19193호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=247463&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 19930호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=257985&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 20613호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=267551&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-31",
+      "detail": "재정경제부 · 법률 · 공포번호 제 20609호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=267533&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-03-14",
+      "detail": "재정경제부 · 법률 · 공포번호 제 20775호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=269881&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "재정경제부 · 법률 · 공포번호 제 21065호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276111&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-12-23",
+      "detail": "재정경제부 · 법률 · 공포번호 제 21217호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280349&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-12-23",
+      "detail": "재정경제부 · 법률 · 공포번호 제 21217호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=280349&type=HTML"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

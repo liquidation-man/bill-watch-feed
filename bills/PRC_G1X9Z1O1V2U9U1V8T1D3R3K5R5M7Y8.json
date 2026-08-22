@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1X9Z1O1V2U9U1V8T1D3R3K5R5M7Y8",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "곽대훈의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-29",
+      "detail": "곽대훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1X9Z1O1V2U9U1V8T1D3R3K5R5M7Y8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1X9Z1O1V2U9U1V8T1D3R3K5R5M7Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

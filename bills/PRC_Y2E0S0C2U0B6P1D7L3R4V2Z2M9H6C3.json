@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y2E0S0C2U0B6P1D7L3R4V2Z2M9H6C3",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이헌승의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-02-06",
+      "detail": "이헌승의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2E0S0C2U0B6P1D7L3R4V2Z2M9H6C3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2E0S0C2U0B6P1D7L3R4V2Z2M9H6C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

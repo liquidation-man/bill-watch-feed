@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1P9F1U2P0A9Q1G1U3Q5S3G1Q4E4K0",
+  "title": "근로기준법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김동철의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-09",
+      "detail": "김동철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9F1U2P0A9Q1G1U3Q5S3G1Q4E4K0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-02-19",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9F1U2P0A9Q1G1U3Q5S3G1Q4E4K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9F1U2P0A9Q1G1U3Q5S3G1Q4E4K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

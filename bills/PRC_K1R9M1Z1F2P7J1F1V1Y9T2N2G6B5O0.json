@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1R9M1Z1F2P7J1F1V1Y9T2N2G6B5O0",
+  "title": "문화재수리 등에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "조훈현의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-27",
+      "detail": "조훈현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1R9M1Z1F2P7J1F1V1Y9T2N2G6B5O0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1R9M1Z1F2P7J1F1V1Y9T2N2G6B5O0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

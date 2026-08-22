@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1Z9F1C1N1Y4F1G8P3Q1K2L7J1L5B4",
+  "title": "민법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "서영교의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-14",
+      "detail": "서영교의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Z9F1C1N1Y4F1G8P3Q1K2L7J1L5B4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Z9F1C1N1Y4F1G8P3Q1K2L7J1L5B4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

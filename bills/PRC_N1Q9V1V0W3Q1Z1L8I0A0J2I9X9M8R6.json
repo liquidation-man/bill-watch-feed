@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1Q9V1V0W3Q1Z1L8I0A0J2I9X9M8R6",
+  "title": "관세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "조정식의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "조정식의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q9V1V0W3Q1Z1L8I0A0J2I9X9M8R6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q9V1V0W3Q1Z1L8I0A0J2I9X9M8R6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

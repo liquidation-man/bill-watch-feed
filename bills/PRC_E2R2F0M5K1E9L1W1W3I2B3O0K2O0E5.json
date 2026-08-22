@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5",
+  "title": "도시교통정비 촉진법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김상훈의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-19",
+      "detail": "김상훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-20",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-23",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-10-26",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-10-26",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-10-27",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2R2F0M5K1E9L1W1W3I2B3O0K2O0E5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

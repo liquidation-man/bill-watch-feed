@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_D2D2W0E5T2S6D1K1Y4J1T3U7G8J4V4",
+  "title": "응급의료에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신현영의원 등 19인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-30",
+      "detail": "신현영의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D2W0E5T2S6D1K1Y4J1T3U7G8J4V4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-07",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D2W0E5T2S6D1K1Y4J1T3U7G8J4V4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-24",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D2W0E5T2S6D1K1Y4J1T3U7G8J4V4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-07-18",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2D2W0E5T2S6D1K1Y4J1T3U7G8J4V4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

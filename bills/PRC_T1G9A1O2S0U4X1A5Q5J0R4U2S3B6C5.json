@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T1G9A1O2S0U4X1A5Q5J0R4U2S3B6C5",
+  "title": "낙도지역 어업인 지원에 관한 법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김종회의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-04",
+      "detail": "김종회의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1G9A1O2S0U4X1A5Q5J0R4U2S3B6C5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-02-18",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1G9A1O2S0U4X1A5Q5J0R4U2S3B6C5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1G9A1O2S0U4X1A5Q5J0R4U2S3B6C5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

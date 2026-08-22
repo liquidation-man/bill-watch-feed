@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2A0W0J3G3T1I1X7M1P3O0F6C4D8A4",
+  "title": "근로복지기본법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "한정애의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-31",
+      "detail": "한정애의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A0W0J3G3T1I1X7M1P3O0F6C4D8A4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A0W0J3G3T1I1X7M1P3O0F6C4D8A4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

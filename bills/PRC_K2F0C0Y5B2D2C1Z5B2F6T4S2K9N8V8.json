@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K2F0C0Y5B2D2C1Z5B2F6T4S2K9N8V8",
+  "title": "집합건물의 소유 및 관리에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김병관의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-05-22",
+      "detail": "김병관의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2F0C0Y5B2D2C1Z5B2F6T4S2K9N8V8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2F0C0Y5B2D2C1Z5B2F6T4S2K9N8V8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

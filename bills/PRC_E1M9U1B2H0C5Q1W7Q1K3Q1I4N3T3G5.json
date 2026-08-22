@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1M9U1B2H0C5Q1W7Q1K3Q1I4N3T3G5",
+  "title": "보건의료인력지원법  일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김세연의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-05",
+      "detail": "김세연의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1M9U1B2H0C5Q1W7Q1K3Q1I4N3T3G5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1M9U1B2H0C5Q1W7Q1K3Q1I4N3T3G5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1I9L1V0Q3S0R1X0J5Q7I0W8H7L2Z7",
+  "title": "비파괴검사기술의 진흥 및 관리에 관한 법률 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박명재의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "박명재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9L1V0Q3S0R1X0J5Q7I0W8H7L2Z7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9L1V0Q3S0R1X0J5Q7I0W8H7L2Z7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I9L1V0Q3S0R1X0J5Q7I0W8H7L2Z7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

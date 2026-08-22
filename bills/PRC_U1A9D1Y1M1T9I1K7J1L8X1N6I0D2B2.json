@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1A9D1Y1M1T9I1K7J1L8X1N6I0D2B2",
+  "title": "한국과학기술원법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "이철희의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-11-19",
+      "detail": "이철희의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A9D1Y1M1T9I1K7J1L8X1N6I0D2B2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-05",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A9D1Y1M1T9I1K7J1L8X1N6I0D2B2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A9D1Y1M1T9I1K7J1L8X1N6I0D2B2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

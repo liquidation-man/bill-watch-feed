@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_D2K2G0C4K2K7K1Q0F4Y8D3R1Q2M1L0",
+  "title": "도로교통법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "양정숙의원 등 12인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-06-15",
+      "detail": "양정숙의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2K2G0C4K2K7K1Q0F4Y8D3R1Q2M1L0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-16",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2K2G0C4K2K7K1Q0F4Y8D3R1Q2M1L0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-12-01",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2K2G0C4K2K7K1Q0F4Y8D3R1Q2M1L0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-12-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2K2G0C4K2K7K1Q0F4Y8D3R1Q2M1L0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A2M0J0S1F0Z2P1A7F0C3L2X1N7C8F6",
+  "title": "원자력 진흥법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "최연혜의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-01-02",
+      "detail": "최연혜의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2M0J0S1F0Z2P1A7F0C3L2X1N7C8F6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-05",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2M0J0S1F0Z2P1A7F0C3L2X1N7C8F6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2M0J0S1F0Z2P1A7F0C3L2X1N7C8F6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

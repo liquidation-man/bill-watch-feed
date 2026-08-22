@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1A9L1Q0S3Q1W2T1L5K0R3U7C1F2O4",
+  "title": "형사소송 등에서의 전자문서 이용 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "조응천의원 등 38인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "조응천의원 등 38인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1A9L1Q0S3Q1W2T1L5K0R3U7C1F2O4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1A9L1Q0S3Q1W2T1L5K0R3U7C1F2O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1A9L1Q0S3Q1W2T1L5K0R3U7C1F2O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

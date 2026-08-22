@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1Q9E1C0R3K1H1Q0J5H5Z3Y3G8F2E3",
+  "title": "국가공간정보 기본법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김철민의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "김철민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Q9E1C0R3K1H1Q0J5H5Z3Y3G8F2E3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Q9E1C0R3K1H1Q0J5H5Z3Y3G8F2E3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

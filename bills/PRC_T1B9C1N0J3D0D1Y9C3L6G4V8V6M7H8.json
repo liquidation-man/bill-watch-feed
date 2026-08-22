@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1B9C1N0J3D0D1Y9C3L6G4V8V6M7H8",
+  "title": "청소년 기본법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "인재근의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-30",
+      "detail": "인재근의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1B9C1N0J3D0D1Y9C3L6G4V8V6M7H8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1B9C1N0J3D0D1Y9C3L6G4V8V6M7H8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

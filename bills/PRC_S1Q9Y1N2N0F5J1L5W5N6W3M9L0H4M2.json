@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S1Q9Y1N2N0F5J1L5W5N6W3M9L0H4M2",
+  "title": "부동산 가격공시에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김현아의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-12-05",
+      "detail": "김현아의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q9Y1N2N0F5J1L5W5N6W3M9L0H4M2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q9Y1N2N0F5J1L5W5N6W3M9L0H4M2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

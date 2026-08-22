@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1D9D1A0B3N1E1F8X4G8N3N3M9P0L0",
+  "title": "민간임대주택에 관한 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "이후삼의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "이후삼의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D9D1A0B3N1E1F8X4G8N3N3M9P0L0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D9D1A0B3N1E1F8X4G8N3N3M9P0L0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D9D1A0B3N1E1F8X4G8N3N3M9P0L0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

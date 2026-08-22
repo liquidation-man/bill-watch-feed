@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1V9Y1S0Q3M1D1H9I2E6N1V9C9E0J2",
+  "title": "축산법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "박완주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-31",
+      "detail": "박완주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V9Y1S0Q3M1D1H9I2E6N1V9C9E0J2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-11-14",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V9Y1S0Q3M1D1H9I2E6N1V9C9E0J2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

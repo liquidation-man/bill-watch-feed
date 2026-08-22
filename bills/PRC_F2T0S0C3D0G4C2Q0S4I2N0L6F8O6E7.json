@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F2T0S0C3D0G4C2Q0S4I2N0L6F8O6E7",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "문희상의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "문희상의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2T0S0C3D0G4C2Q0S4I2N0L6F8O6E7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2T0S0C3D0G4C2Q0S4I2N0L6F8O6E7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

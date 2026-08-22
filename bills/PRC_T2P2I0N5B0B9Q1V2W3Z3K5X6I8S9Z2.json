@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T2P2I0N5B0B9Q1V2W3Z3K5X6I8S9Z2",
+  "title": "자본시장과 금융투자업에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이용우의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-05-25",
+      "detail": "이용우의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2P2I0N5B0B9Q1V2W3Z3K5X6I8S9Z2&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-20",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2P2I0N5B0B9Q1V2W3Z3K5X6I8S9Z2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2P2I0N5B0B9Q1V2W3Z3K5X6I8S9Z2&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}
