@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z2Z3X0E1D3B1A1X4W0F7F3L3K7I1I1",
+  "title": "주얼리산업의 기반조성 및 진흥에 관한 법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "최승재의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-02-17",
+      "detail": "최승재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z3X0E1D3B1A1X4W0F7F3L3K7I1I1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-04-13",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z3X0E1D3B1A1X4W0F7F3L3K7I1I1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z3X0E1D3B1A1X4W0F7F3L3K7I1I1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

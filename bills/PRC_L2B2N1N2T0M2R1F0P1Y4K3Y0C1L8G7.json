@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L2B2N1N2T0M2R1F0P1Y4K3Y0C1L8G7",
+  "title": "헌법재판소법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이탄희의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-09",
+      "detail": "이탄희의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2B2N1N2T0M2R1F0P1Y4K3Y0C1L8G7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2B2N1N2T0M2R1F0P1Y4K3Y0C1L8G7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

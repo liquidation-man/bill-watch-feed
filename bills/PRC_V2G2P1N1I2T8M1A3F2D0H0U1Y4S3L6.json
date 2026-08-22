@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V2G2P1N1I2T8M1A3F2D0H0U1Y4S3L6",
+  "title": "아동·청소년의 성보호에 관한 법률 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "최춘식의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-15",
+      "detail": "최춘식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G2P1N1I2T8M1A3F2D0H0U1Y4S3L6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G2P1N1I2T8M1A3F2D0H0U1Y4S3L6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G2P1N1I2T8M1A3F2D0H0U1Y4S3L6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A2J2Y1W2O2K3C1F3Y4D7V4J2N6W8G1",
+  "title": "직능인 경제활동 지원에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이채익의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-01-02",
+      "detail": "이채익의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J2Y1W2O2K3C1F3Y4D7V4J2N6W8G1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-04-25",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J2Y1W2O2K3C1F3Y4D7V4J2N6W8G1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2J2Y1W2O2K3C1F3Y4D7V4J2N6W8G1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

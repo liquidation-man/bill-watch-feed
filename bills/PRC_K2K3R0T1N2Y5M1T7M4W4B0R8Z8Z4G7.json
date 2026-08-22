@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K2K3R0T1N2Y5M1T7M4W4B0R8Z8Z4G7",
+  "title": "행정법제 혁신을 위한 방송통신발전 기본법 등 4개 법률의 일부개정에 관한 법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박성중의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-01-27",
+      "detail": "박성중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3R0T1N2Y5M1T7M4W4B0R8Z8Z4G7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-24",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3R0T1N2Y5M1T7M4W4B0R8Z8Z4G7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K3R0T1N2Y5M1T7M4W4B0R8Z8Z4G7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W2A3W0E3D0T8V1G0E1W3Q3T5Z7Z0F5",
+  "title": "대한노인회법안",
+  "committee": "보건복지위원회",
+  "proposer": "김원이의원 등 61인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-08",
+      "detail": "김원이의원 등 61인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2A3W0E3D0T8V1G0E1W3Q3T5Z7Z0F5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2A3W0E3D0T8V1G0E1W3Q3T5Z7Z0F5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

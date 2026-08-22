@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U2L2E0K7W2D2S1O9F3T7Q5C9L8X0B7",
+  "title": "남녀고용평등과 일·가정 양립 지원에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "소병훈의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-01-16",
+      "detail": "소병훈의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2L2E0K7W2D2S1O9F3T7Q5C9L8X0B7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-03-21",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2L2E0K7W2D2S1O9F3T7Q5C9L8X0B7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2L2E0K7W2D2S1O9F3T7Q5C9L8X0B7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O2N3M0L2T2S2Q1R6Q4Y6U5S3R3Q1Y9",
+  "title": "양육비 이행확보 및 지원에 관한 법률 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "송기헌의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-17",
+      "detail": "송기헌의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N3M0L2T2S2Q1R6Q4Y6U5S3R3Q1Y9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-06-22",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N3M0L2T2S2Q1R6Q4Y6U5S3R3Q1Y9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N3M0L2T2S2Q1R6Q4Y6U5S3R3Q1Y9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

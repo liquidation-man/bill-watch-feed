@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P2J3S0D3Z0C8R1K7S3M7S4Q2V5X9S0",
+  "title": "간토 대학살사건 진상규명 및 피해자 명예회복에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "유기홍의원 등 100인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-08",
+      "detail": "유기홍의원 등 100인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2J3S0D3Z0C8R1K7S3M7S4Q2V5X9S0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-05-16",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2J3S0D3Z0C8R1K7S3M7S4Q2V5X9S0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2J3S0D3Z0C8R1K7S3M7S4Q2V5X9S0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

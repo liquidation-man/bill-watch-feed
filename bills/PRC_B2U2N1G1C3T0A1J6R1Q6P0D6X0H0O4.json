@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B2U2N1G1C3T0A1J6R1Q6P0D6X0H0O4",
+  "title": "주민투표법 일부개정법률안",
+  "committee": "",
+  "proposer": "조정훈의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-05",
+      "detail": "조정훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2U2N1G1C3T0A1J6R1Q6P0D6X0H0O4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-12-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2U2N1G1C3T0A1J6R1Q6P0D6X0H0O4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

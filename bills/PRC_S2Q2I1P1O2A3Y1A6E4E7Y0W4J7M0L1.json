@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S2Q2I1P1O2A3Y1A6E4E7Y0W4J7M0L1",
+  "title": "사회복지사 등의 처우 및 지위 향상을 위한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김민석의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-05",
+      "detail": "김민석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q2I1P1O2A3Y1A6E4E7Y0W4J7M0L1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-09",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q2I1P1O2A3Y1A6E4E7Y0W4J7M0L1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q2I1P1O2A3Y1A6E4E7Y0W4J7M0L1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

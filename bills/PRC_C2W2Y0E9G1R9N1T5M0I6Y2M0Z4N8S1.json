@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2W2Y0E9G1R9N1T5M0I6Y2M0Z4N8S1",
+  "title": "문신사ㆍ반영구화장사법안",
+  "committee": "보건복지위원회",
+  "proposer": "강기윤의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-08",
+      "detail": "강기윤의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2W2Y0E9G1R9N1T5M0I6Y2M0Z4N8S1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2W2Y0E9G1R9N1T5M0I6Y2M0Z4N8S1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

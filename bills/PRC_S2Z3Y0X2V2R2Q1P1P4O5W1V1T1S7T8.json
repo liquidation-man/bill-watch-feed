@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S2Z3Y0X2V2R2Q1P1P4O5W1V1T1S7T8",
+  "title": "국군간호사관학교 설치법 전부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이헌승의원 등 14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-03-03",
+      "detail": "이헌승의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Z3Y0X2V2R2Q1P1P4O5W1V1T1S7T8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-04-06",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Z3Y0X2V2R2Q1P1P4O5W1V1T1S7T8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Z3Y0X2V2R2Q1P1P4O5W1V1T1S7T8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T2L3H0V1D0G6B1G0O5K8L1A4Q1V9I7",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "최춘식의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2023-01-09",
+      "detail": "최춘식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2L3H0V1D0G6B1G0O5K8L1A4Q1V9I7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2L3H0V1D0G6B1G0O5K8L1A4Q1V9I7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

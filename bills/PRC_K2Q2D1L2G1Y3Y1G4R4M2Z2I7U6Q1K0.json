@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K2Q2D1L2G1Y3Y1G4R4M2Z2I7U6Q1K0",
+  "title": "스마트도시 조성 및 산업진흥 등에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "양기대의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-12-19",
+      "detail": "양기대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Q2D1L2G1Y3Y1G4R4M2Z2I7U6Q1K0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-04-20",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Q2D1L2G1Y3Y1G4R4M2Z2I7U6Q1K0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2Q2D1L2G1Y3Y1G4R4M2Z2I7U6Q1K0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}
