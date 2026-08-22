@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y2X2G0R6W0M3Q1S2Z0Q4W3D5S6I4U7",
+  "title": "스마트헬스케어기술 육성 및 지원에 관한 법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박성중의원 등 17인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-08-31",
+      "detail": "박성중의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X2G0R6W0M3Q1S2Z0Q4W3D5S6I4U7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-10",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X2G0R6W0M3Q1S2Z0Q4W3D5S6I4U7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X2G0R6W0M3Q1S2Z0Q4W3D5S6I4U7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

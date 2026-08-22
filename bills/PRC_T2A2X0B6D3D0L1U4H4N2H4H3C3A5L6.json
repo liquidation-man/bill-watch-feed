@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T2A2X0B6D3D0L1U4H4N2H4H3C3A5L6",
+  "title": "중소기업기본법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "조정식의원등10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-07",
+      "detail": "조정식의원등10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2A2X0B6D3D0L1U4H4N2H4H3C3A5L6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-09-01",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2A2X0B6D3D0L1U4H4N2H4H3C3A5L6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2A2X0B6D3D0L1U4H4N2H4H3C3A5L6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X2N2V1X1S0C2N1V6K0F5O5E8U3J9R7",
+  "title": "가정폭력방지 및 피해자보호 등에 관한 법률 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "위성곤의원등14인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-11-11",
+      "detail": "위성곤의원등14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2N2V1X1S0C2N1V6K0F5O5E8U3J9R7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-23",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2N2V1X1S0C2N1V6K0F5O5E8U3J9R7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2N2V1X1S0C2N1V6K0F5O5E8U3J9R7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

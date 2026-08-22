@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P2M2A0H9N3C0C1N7A4E0W4D0B3G7T6",
+  "title": "고독사 예방 및 관리에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "황운하의원등10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-11-11",
+      "detail": "황운하의원등10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M2A0H9N3C0C1N7A4E0W4D0B3G7T6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-09",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M2A0H9N3C0C1N7A4E0W4D0B3G7T6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M2A0H9N3C0C1N7A4E0W4D0B3G7T6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

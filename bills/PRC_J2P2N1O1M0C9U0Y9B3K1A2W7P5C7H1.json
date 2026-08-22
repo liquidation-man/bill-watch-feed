@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J2P2N1O1M0C9U0Y9B3K1A2W7P5C7H1",
+  "title": "부담금관리 기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "최형두의원등11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-11-14",
+      "detail": "최형두의원등11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2N1O1M0C9U0Y9B3K1A2W7P5C7H1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-14",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2N1O1M0C9U0Y9B3K1A2W7P5C7H1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2P2N1O1M0C9U0Y9B3K1A2W7P5C7H1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

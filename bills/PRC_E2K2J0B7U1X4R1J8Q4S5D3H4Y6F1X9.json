@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_E2K2J0B7U1X4R1J8Q4S5D3H4Y6F1X9",
+  "title": "디지털다중피해사기 방지 및 처벌 등에 관한 특례법안",
+  "committee": "정무위원회",
+  "proposer": "서영교의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-08-02",
+      "detail": "서영교의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2K2J0B7U1X4R1J8Q4S5D3H4Y6F1X9&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-08",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2K2J0B7U1X4R1J8Q4S5D3H4Y6F1X9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2K2J0B7U1X4R1J8Q4S5D3H4Y6F1X9&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V2T2H0H8O1K8Q1I5M1I0W2I8G0I6P1",
+  "title": "국가정보원의 사찰 등 진실규명 및 정보공개 등에 관한 특별법안",
+  "committee": "정보위원회",
+  "proposer": "강민정의원 등 15인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-07",
+      "detail": "강민정의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T2H0H8O1K8Q1I5M1I0W2I8G0I6P1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-08-17",
+      "detail": "정보위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T2H0H8O1K8Q1I5M1I0W2I8G0I6P1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T2H0H8O1K8Q1I5M1I0W2I8G0I6P1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

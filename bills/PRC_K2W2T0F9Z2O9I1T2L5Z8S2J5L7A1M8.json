@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K2W2T0F9Z2O9I1T2L5Z8S2J5L7A1M8",
+  "title": "사립대학의 구조개선 지원에 관한 법률안",
+  "committee": "교육위원회",
+  "proposer": "이태규의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-30",
+      "detail": "이태규의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2W2T0F9Z2O9I1T2L5Z8S2J5L7A1M8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-21",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2W2T0F9Z2O9I1T2L5Z8S2J5L7A1M8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2W2T0F9Z2O9I1T2L5Z8S2J5L7A1M8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U2Z2K1B0G2Y4G1M6W1E2A2K4Y8T2N5",
+  "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "김경협의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-10-25",
+      "detail": "김경협의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Z2K1B0G2Y4G1M6W1E2A2K4Y8T2N5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-15",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Z2K1B0G2Y4G1M6W1E2A2K4Y8T2N5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Z2K1B0G2Y4G1M6W1E2A2K4Y8T2N5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

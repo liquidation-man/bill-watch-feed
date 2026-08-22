@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K2L2K0W8U2Y2D1G0A3V1O1O2W1M8U7",
+  "title": "자원의 절약과 재활용촉진에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이주환의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-08-25",
+      "detail": "이주환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2L2K0W8U2Y2D1G0A3V1O1O2W1M8U7&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-17",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2L2K0W8U2Y2D1G0A3V1O1O2W1M8U7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2L2K0W8U2Y2D1G0A3V1O1O2W1M8U7&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O2B2Y0D9Q2P3K1S8F1U2A3G8B4M1H1",
+  "title": "한국전력공사법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "김정호의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-26",
+      "detail": "김정호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2B2Y0D9Q2P3K1S8F1U2A3G8B4M1H1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-10-14",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2B2Y0D9Q2P3K1S8F1U2A3G8B4M1H1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

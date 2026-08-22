@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C2R2A1M0K0J5X0S8R4P4O5G5S7D1N4",
+  "title": "고향사랑 기부금에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "윤준병의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-10-12",
+      "detail": "윤준병의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2R2A1M0K0J5X0S8R4P4O5G5S7D1N4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-10-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2R2A1M0K0J5X0S8R4P4O5G5S7D1N4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

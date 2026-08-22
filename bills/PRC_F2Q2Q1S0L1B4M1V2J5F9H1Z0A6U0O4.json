@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_F2Q2Q1S0L1B4M1V2J5F9H1Z0A6U0O4",
+  "title": "국세징수법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박대출의원 등 29인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-10-19",
+      "detail": "박대출의원 등 29인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2Q2Q1S0L1B4M1V2J5F9H1Z0A6U0O4&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-18",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2Q2Q1S0L1B4M1V2J5F9H1Z0A6U0O4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-03-22",
+      "detail": "수정안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2Q2Q1S0L1B4M1V2J5F9H1Z0A6U0O4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2023-04-07",
+      "detail": "수정안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2Q2Q1S0L1B4M1V2J5F9H1Z0A6U0O4&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W2Q2H0U7Y1L8G1C0J1S4V0I3R3O5H5",
+  "title": "개인정보 보호법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "윤재옥의원등10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-01",
+      "detail": "윤재옥의원등10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Q2H0U7Y1L8G1C0J1S4V0I3R3O5H5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-08",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Q2H0U7Y1L8G1C0J1S4V0I3R3O5H5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2Q2H0U7Y1L8G1C0J1S4V0I3R3O5H5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

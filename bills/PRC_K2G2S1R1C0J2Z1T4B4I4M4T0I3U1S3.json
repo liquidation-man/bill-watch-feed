@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K2G2S1R1C0J2Z1T4B4I4M4T0I3U1S3",
+  "title": "전자장치 부착 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "기동민의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-11-03",
+      "detail": "기동민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G2S1R1C0J2Z1T4B4I4M4T0I3U1S3&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-03-21",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G2S1R1C0J2Z1T4B4I4M4T0I3U1S3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2G2S1R1C0J2Z1T4B4I4M4T0I3U1S3&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

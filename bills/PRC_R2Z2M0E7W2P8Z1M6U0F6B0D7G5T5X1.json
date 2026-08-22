@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R2Z2M0E7W2P8Z1M6U0F6B0D7G5T5X1",
+  "title": "노인·장애인 등 사회복지시설의 급식안전 지원에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김홍걸의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-02",
+      "detail": "김홍걸의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Z2M0E7W2P8Z1M6U0F6B0D7G5T5X1&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-07",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Z2M0E7W2P8Z1M6U0F6B0D7G5T5X1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Z2M0E7W2P8Z1M6U0F6B0D7G5T5X1&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

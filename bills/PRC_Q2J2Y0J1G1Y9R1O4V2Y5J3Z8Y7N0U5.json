@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2J2Y0J1G1Y9R1O4V2Y5J3Z8Y7N0U5",
+  "title": "통신비밀보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "윤상현의원 등 11인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-08-18",
+      "detail": "윤상현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2J2Y0J1G1Y9R1O4V2Y5J3Z8Y7N0U5&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-09-29",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2J2Y0J1G1Y9R1O4V2Y5J3Z8Y7N0U5&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

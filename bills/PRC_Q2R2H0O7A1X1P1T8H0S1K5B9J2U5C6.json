@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q2R2H0O7A1X1P1T8H0S1K5B9J2U5C6",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이종배의원 등 13인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-25",
+      "detail": "이종배의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R2H0O7A1X1P1T8H0S1K5B9J2U5C6&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R2H0O7A1X1P1T8H0S1K5B9J2U5C6&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

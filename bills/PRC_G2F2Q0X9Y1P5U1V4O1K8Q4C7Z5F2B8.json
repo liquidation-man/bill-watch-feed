@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G2F2Q0X9Y1P5U1V4O1K8Q4C7Z5F2B8",
+  "title": "미용사법안",
+  "committee": "보건복지위원회",
+  "proposer": "최영희의원 등 42인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-09-27",
+      "detail": "최영희의원 등 42인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2F2Q0X9Y1P5U1V4O1K8Q4C7Z5F2B8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2022-11-07",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2F2Q0X9Y1P5U1V4O1K8Q4C7Z5F2B8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2F2Q0X9Y1P5U1V4O1K8Q4C7Z5F2B8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

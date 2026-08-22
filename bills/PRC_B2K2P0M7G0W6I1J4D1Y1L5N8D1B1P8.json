@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B2K2P0M7G0W6I1J4D1Y1L5N8D1B1P8",
+  "title": "부동산투자회사법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김정재의원 등 10인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-07-11",
+      "detail": "김정재의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2K2P0M7G0W6I1J4D1Y1L5N8D1B1P8&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2022-07-26",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2K2P0M7G0W6I1J4D1Y1L5N8D1B1P8&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

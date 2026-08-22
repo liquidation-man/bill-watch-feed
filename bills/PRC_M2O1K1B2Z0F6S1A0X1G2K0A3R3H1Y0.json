@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M2O1K1B2Z0F6S1A0X1G2K0A3R3H1Y0",
+  "title": "4·16세월호참사 피해구제 및 지원 등을 위한 특별법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이개호의원 등 10인 외 1인",
+  "assemblyTerm": 21,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "윤석열정부",
+      "date": "2022-11-15",
+      "detail": "이개호의원 등 10인 외 1인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2O1K1B2Z0F6S1A0X1G2K0A3R3H1Y0&ageFrom=21&ageTo=21"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "윤석열정부",
+      "date": "2023-02-21",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2O1K1B2Z0F6S1A0X1G2K0A3R3H1Y0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "윤석열정부",
+      "date": "2024-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2O1K1B2Z0F6S1A0X1G2K0A3R3H1Y0&ageFrom=21&ageTo=21",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}
