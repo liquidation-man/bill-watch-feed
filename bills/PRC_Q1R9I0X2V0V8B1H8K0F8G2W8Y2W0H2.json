@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q1R9I0X2V0V8B1H8K0F8G2W8Y2W0H2",
+  "title": "최저임금법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이완영의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-02-08",
+      "detail": "이완영의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1R9I0X2V0V8B1H8K0F8G2W8Y2W0H2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1R9I0X2V0V8B1H8K0F8G2W8Y2W0H2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

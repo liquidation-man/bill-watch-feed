@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1Z8S1J2G2O8G1V6Q1D9I5Y7Y3U9I2",
+  "title": "전통교육문화진흥 및 시설보호 지원법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "정세균의원 등 22인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-12-28",
+      "detail": "정세균의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z8S1J2G2O8G1V6Q1D9I5Y7Y3U9I2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-24",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z8S1J2G2O8G1V6Q1D9I5Y7Y3U9I2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z8S1J2G2O8G1V6Q1D9I5Y7Y3U9I2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

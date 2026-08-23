@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1H9T0C1W2Y5L1Z4Y3H5D4T4E1Z7Q1",
+  "title": "개발이익 환수에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박정의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-25",
+      "detail": "박정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H9T0C1W2Y5L1Z4Y3H5D4T4E1Z7Q1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H9T0C1W2Y5L1Z4Y3H5D4T4E1Z7Q1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

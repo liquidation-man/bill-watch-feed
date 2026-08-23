@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y1M8N1T2C1Z3M1R7P4L3N2A4I8Q7N3",
+  "title": "강원평화특별자치도 설치와 평화통일특별지구 지정 등에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "심기준의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-12-13",
+      "detail": "심기준의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1M8N1T2C1Z3M1R7P4L3N2A4I8Q7N3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-14",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1M8N1T2C1Z3M1R7P4L3N2A4I8Q7N3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1M8N1T2C1Z3M1R7P4L3N2A4I8Q7N3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1Q8Z1N2W1F4V1Y4M0X9Y1G7U2X1C1",
+  "title": "공직자 등의 병역사항 신고 및 공개에 관한 법률 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "정진석의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-12-14",
+      "detail": "정진석의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q8Z1N2W1F4V1Y4M0X9Y1G7U2X1C1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-18",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q8Z1N2W1F4V1Y4M0X9Y1G7U2X1C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q8Z1N2W1F4V1Y4M0X9Y1G7U2X1C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

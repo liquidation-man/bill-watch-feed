@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T1C9C0F1W3C0F1P7L4K2H3O2P9U2W2",
+  "title": "판문점선언 이행을 위한 군사분야 합의서 무효를 위한 특별조치법안",
+  "committee": "외교통일위원회",
+  "proposer": "이언주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-30",
+      "detail": "이언주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1C9C0F1W3C0F1P7L4K2H3O2P9U2W2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1C9C0F1W3C0F1P7L4K2H3O2P9U2W2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1C9C0F1W3C0F1P7L4K2H3O2P9U2W2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

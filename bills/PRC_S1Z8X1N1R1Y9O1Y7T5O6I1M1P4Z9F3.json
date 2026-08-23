@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1Z8X1N1R1Y9O1Y7T5O6I1M1P4Z9F3",
+  "title": "기술사법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "이상민의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-19",
+      "detail": "이상민의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z8X1N1R1Y9O1Y7T5O6I1M1P4Z9F3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-12-05",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z8X1N1R1Y9O1Y7T5O6I1M1P4Z9F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1D8Q1P1P0M8Z1F6B3B8U2K2R2C2J9",
+  "title": "신규 원자력발전소 건설 취소지역 등 지원에 관한 특별법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "이언주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-08",
+      "detail": "이언주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1D8Q1P1P0M8Z1F6B3B8U2K2R2C2J9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-26",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1D8Q1P1P0M8Z1F6B3B8U2K2R2C2J9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1D8Q1P1P0M8Z1F6B3B8U2K2R2C2J9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

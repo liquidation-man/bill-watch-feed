@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1A8M1C1P2H9W1B6F2I9K4R4Y2A8Y1",
+  "title": "이자제한법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김성원의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-29",
+      "detail": "김성원의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A8M1C1P2H9W1B6F2I9K4R4Y2A8Y1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A8M1C1P2H9W1B6F2I9K4R4Y2A8Y1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

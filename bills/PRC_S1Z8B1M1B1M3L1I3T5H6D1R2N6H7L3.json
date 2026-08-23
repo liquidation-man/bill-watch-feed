@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1Z8B1M1B1M3L1I3T5H6D1R2N6H7L3",
+  "title": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "전해철의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-13",
+      "detail": "전해철의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z8B1M1B1M3L1I3T5H6D1R2N6H7L3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-12-27",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z8B1M1B1M3L1I3T5H6D1R2N6H7L3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z8B1M1B1M3L1I3T5H6D1R2N6H7L3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

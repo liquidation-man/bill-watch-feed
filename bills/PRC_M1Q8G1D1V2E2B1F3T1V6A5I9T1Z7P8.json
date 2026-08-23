@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M1Q8G1D1V2E2B1F3T1V6A5I9T1Z7P8",
+  "title": "지하수법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "민경욱의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-22",
+      "detail": "민경욱의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Q8G1D1V2E2B1F3T1V6A5I9T1Z7P8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-12-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Q8G1D1V2E2B1F3T1V6A5I9T1Z7P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1T9E0L2K1O1O1F1W3N7Z0U9C7X8I6",
+  "title": "한국방송통신대학교 설립 및 운영에 관한 법률안",
+  "committee": "교육위원회",
+  "proposer": "정세균의원 등 175인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-02-11",
+      "detail": "정세균의원 등 175인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T9E0L2K1O1O1F1W3N7Z0U9C7X8I6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T9E0L2K1O1O1F1W3N7Z0U9C7X8I6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T9E0L2K1O1O1F1W3N7Z0U9C7X8I6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

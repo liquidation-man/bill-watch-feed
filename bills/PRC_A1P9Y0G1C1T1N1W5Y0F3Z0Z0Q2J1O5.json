@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1P9Y0G1C1T1N1W5Y0F3Z0Z0Q2J1O5",
+  "title": "국제연합 안전보장이사회 결의의 이행에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "강석호의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-11",
+      "detail": "강석호의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P9Y0G1C1T1N1W5Y0F3Z0Z0Q2J1O5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P9Y0G1C1T1N1W5Y0F3Z0Z0Q2J1O5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P9Y0G1C1T1N1W5Y0F3Z0Z0Q2J1O5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

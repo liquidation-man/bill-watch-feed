@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T1P8H1N1H2U1R1P6B2F5W0W5X2Z0X2",
+  "title": "특정범죄 가중처벌 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "표창원의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-21",
+      "detail": "표창원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1P8H1N1H2U1R1P6B2F5W0W5X2Z0X2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-14",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1P8H1N1H2U1R1P6B2F5W0W5X2Z0X2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1P8H1N1H2U1R1P6B2F5W0W5X2Z0X2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

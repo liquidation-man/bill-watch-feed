@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1L8G1P1W1N2Z1I5Y4E8C2T5S3Q3N8",
+  "title": "검찰청법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "백혜련의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-12",
+      "detail": "백혜련의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1L8G1P1W1N2Z1I5Y4E8C2T5S3Q3N8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-01-13",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1L8G1P1W1N2Z1I5Y4E8C2T5S3Q3N8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1X8G1I1U3Q0B1G8P1I9V4I7U7H6O5",
+  "title": "유아교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "김한표의원 등 26인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-30",
+      "detail": "김한표의원 등 26인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X8G1I1U3Q0B1G8P1I9V4I7U7H6O5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X8G1I1U3Q0B1G8P1I9V4I7U7H6O5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

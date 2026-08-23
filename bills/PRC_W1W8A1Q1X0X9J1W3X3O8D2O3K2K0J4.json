@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1W8A1Q1X0X9J1W3X3O8D2O3K2K0J4",
+  "title": "국가정보원법 전부개정법률안",
+  "committee": "정보위원회",
+  "proposer": "이은재의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-09",
+      "detail": "이은재의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1W8A1Q1X0X9J1W3X3O8D2O3K2K0J4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1W8A1Q1X0X9J1W3X3O8D2O3K2K0J4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1R8I1K1I0Z9Y1Q7W4N4C3H4J9L7F2",
+  "title": "복권 및 복권기금법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김정우의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-09",
+      "detail": "김정우의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R8I1K1I0Z9Y1Q7W4N4C3H4J9L7F2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-26",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R8I1K1I0Z9Y1Q7W4N4C3H4J9L7F2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R8I1K1I0Z9Y1Q7W4N4C3H4J9L7F2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

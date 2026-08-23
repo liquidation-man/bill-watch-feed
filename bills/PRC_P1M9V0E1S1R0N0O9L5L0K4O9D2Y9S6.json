@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1M9V0E1S1R0N0O9L5L0K4O9D2Y9S6",
+  "title": "사면법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김경진의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-10",
+      "detail": "김경진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M9V0E1S1R0N0O9L5L0K4O9D2Y9S6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M9V0E1S1R0N0O9L5L0K4O9D2Y9S6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

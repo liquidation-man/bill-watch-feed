@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1B9D0P1N2C4Q1U6P0W2Q5S5A9J4P8",
+  "title": "가족관계의 등록 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이찬열의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-24",
+      "detail": "이찬열의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1B9D0P1N2C4Q1U6P0W2Q5S5A9J4P8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-16",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1B9D0P1N2C4Q1U6P0W2Q5S5A9J4P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1B9D0P1N2C4Q1U6P0W2Q5S5A9J4P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

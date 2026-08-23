@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1J9Z0P1Y0L4Z1M0R2L8E1G3I7X1C4",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "표창원의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-04",
+      "detail": "표창원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J9Z0P1Y0L4Z1M0R2L8E1G3I7X1C4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J9Z0P1Y0L4Z1M0R2L8E1G3I7X1C4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

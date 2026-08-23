@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1R9Q0A1A1A7N1M5R4I3R2P3S2U9F8",
+  "title": "기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김석기의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-17",
+      "detail": "김석기의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1R9Q0A1A1A7N1M5R4I3R2P3S2U9F8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-15",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1R9Q0A1A1A7N1M5R4I3R2P3S2U9F8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1R9Q0A1A1A7N1M5R4I3R2P3S2U9F8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

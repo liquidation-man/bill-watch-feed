@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1D9W0T1L1A5Y1U7W0H9B5P1K5P4L9",
+  "title": "전기사업법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "윤준호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-15",
+      "detail": "윤준호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1D9W0T1L1A5Y1U7W0H9B5P1K5P4L9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-02-01",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1D9W0T1L1A5Y1U7W0H9B5P1K5P4L9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

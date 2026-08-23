@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1U9A0H1Z1A5U1E7G0S5N1B9K6Q7I5",
+  "title": "산지관리법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "윤준호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-01-15",
+      "detail": "윤준호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1U9A0H1Z1A5U1E7G0S5N1B9K6Q7I5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-02-01",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1U9A0H1Z1A5U1E7G0S5N1B9K6Q7I5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

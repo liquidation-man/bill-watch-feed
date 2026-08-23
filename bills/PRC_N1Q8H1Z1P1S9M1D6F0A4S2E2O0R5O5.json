@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1Q8H1Z1P1S9M1D6F0A4S2E2O0R5O5",
+  "title": "치유와 상생을 위한 여순사건 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "주승용의원 등 106인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-19",
+      "detail": "주승용의원 등 106인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q8H1Z1P1S9M1D6F0A4S2E2O0R5O5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q8H1Z1P1S9M1D6F0A4S2E2O0R5O5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q8H1Z1P1S9M1D6F0A4S2E2O0R5O5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
