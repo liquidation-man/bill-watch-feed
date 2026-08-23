@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1V9R0B7S1L1T1R6W5C7O2O2F4R5L8",
+  "title": "산림보호법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "최인호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-11",
+      "detail": "최인호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1V9R0B7S1L1T1R6W5C7O2O2F4R5L8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-07-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1V9R0B7S1L1T1R6W5C7O2O2F4R5L8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

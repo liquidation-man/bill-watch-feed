@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1X9C1J0Z2H5Y1C6M0W3O3B8Y3U8B8",
+  "title": "주거급여법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박광온의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-25",
+      "detail": "박광온의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1X9C1J0Z2H5Y1C6M0W3O3B8Y3U8B8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1X9C1J0Z2H5Y1C6M0W3O3B8Y3U8B8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

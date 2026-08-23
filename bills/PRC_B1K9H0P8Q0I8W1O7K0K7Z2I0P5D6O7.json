@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1K9H0P8Q0I8W1O7K0K7Z2I0P5D6O7",
+  "title": "영화 및 비디오물의 진흥에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "이상헌의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-08",
+      "detail": "이상헌의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K9H0P8Q0I8W1O7K0K7Z2I0P5D6O7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-18",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K9H0P8Q0I8W1O7K0K7Z2I0P5D6O7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K9H0P8Q0I8W1O7K0K7Z2I0P5D6O7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

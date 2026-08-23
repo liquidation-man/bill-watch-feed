@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1F9K0G6X1G2N1Z6I2P7D1G0Y3I1N3",
+  "title": "국군간호사관학교 설치법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "도종환의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-12",
+      "detail": "도종환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F9K0G6X1G2N1Z6I2P7D1G0Y3I1N3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-06-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F9K0G6X1G2N1Z6I2P7D1G0Y3I1N3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

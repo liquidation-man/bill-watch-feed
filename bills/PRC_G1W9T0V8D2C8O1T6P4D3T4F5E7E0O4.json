@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G1W9T0V8D2C8O1T6P4D3T4F5E7E0O4",
+  "title": "해외농업·산림자원 개발협력법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "전현희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-28",
+      "detail": "전현희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9T0V8D2C8O1T6P4D3T4F5E7E0O4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-08",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9T0V8D2C8O1T6P4D3T4F5E7E0O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9T0V8D2C8O1T6P4D3T4F5E7E0O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

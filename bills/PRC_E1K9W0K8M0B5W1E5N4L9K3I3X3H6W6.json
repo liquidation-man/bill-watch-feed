@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1K9W0K8M0B5W1E5N4L9K3I3X3H6W6",
+  "title": "도시공간 혁신 규제특례법안",
+  "committee": "국토교통위원회",
+  "proposer": "이원욱의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-05",
+      "detail": "이원욱의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1K9W0K8M0B5W1E5N4L9K3I3X3H6W6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1K9W0K8M0B5W1E5N4L9K3I3X3H6W6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1G9X0S9V3U0E1O1L1H4Q5Y3E6O7P3",
+  "title": "전자정부법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박선숙의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-09-30",
+      "detail": "박선숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1G9X0S9V3U0E1O1L1H4Q5Y3E6O7P3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1G9X0S9V3U0E1O1L1H4Q5Y3E6O7P3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

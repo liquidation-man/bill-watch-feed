@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J1P9A0T7U0W5Z1V0W4Y5S3J4Q5W9W4",
+  "title": "수산자원관리법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "정우택의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-05",
+      "detail": "정우택의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1P9A0T7U0W5Z1V0W4Y5S3J4Q5W9W4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-09-24",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1P9A0T7U0W5Z1V0W4Y5S3J4Q5W9W4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1P9A0T7U0W5Z1V0W4Y5S3J4Q5W9W4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

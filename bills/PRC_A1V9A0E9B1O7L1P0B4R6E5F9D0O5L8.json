@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1V9A0E9B1O7L1P0B4R6E5F9D0O5L8",
+  "title": "한국감정원법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김철민의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-09-17",
+      "detail": "김철민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1V9A0E9B1O7L1P0B4R6E5F9D0O5L8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-11-08",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1V9A0E9B1O7L1P0B4R6E5F9D0O5L8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

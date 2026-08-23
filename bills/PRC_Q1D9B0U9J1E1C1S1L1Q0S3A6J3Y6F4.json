@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1D9B0U9J1E1C1S1L1Q0S3A6J3Y6F4",
+  "title": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "이춘석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-09-11",
+      "detail": "이춘석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D9B0U9J1E1C1S1L1Q0S3A6J3Y6F4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D9B0U9J1E1C1S1L1Q0S3A6J3Y6F4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D9B0U9J1E1C1S1L1Q0S3A6J3Y6F4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1A9I0Z8G0M2Y2J0N0V9B1W4B6B0K0",
+  "title": "생활물류서비스산업발전법안",
+  "committee": "국토교통위원회",
+  "proposer": "박홍근의원 등 22인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-02",
+      "detail": "박홍근의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1A9I0Z8G0M2Y2J0N0V9B1W4B6B0K0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-13",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1A9I0Z8G0M2Y2J0N0V9B1W4B6B0K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1A9I0Z8G0M2Y2J0N0V9B1W4B6B0K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J1K9S0K8X1W2A1I9W0L0Y3L5Z3N5O6",
+  "title": "발명진흥법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "이언주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-12",
+      "detail": "이언주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1K9S0K8X1W2A1I9W0L0Y3L5Z3N5O6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-10-02",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1K9S0K8X1W2A1I9W0L0Y3L5Z3N5O6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1K9S0K8X1W2A1I9W0L0Y3L5Z3N5O6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

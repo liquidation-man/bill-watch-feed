@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1C9S1E0P1N8E1Q7N2J0B4F2M9B2G1",
+  "title": "장사 등에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김순례의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-18",
+      "detail": "김순례의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C9S1E0P1N8E1Q7N2J0B4F2M9B2G1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C9S1E0P1N8E1Q7N2J0B4F2M9B2G1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

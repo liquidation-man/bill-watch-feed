@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_H1M9Y0F6Q2V7W1Y7B0B7G0B8O1P4B1",
+  "title": "체육시설의 설치·이용에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "이정미의원 등 32인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-27",
+      "detail": "이정미의원 등 32인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1M9Y0F6Q2V7W1Y7B0B7G0B8O1P4B1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-18",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1M9Y0F6Q2V7W1Y7B0B7G0B8O1P4B1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-03-04",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1M9Y0F6Q2V7W1Y7B0B7G0B8O1P4B1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-04-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1M9Y0F6Q2V7W1Y7B0B7G0B8O1P4B1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

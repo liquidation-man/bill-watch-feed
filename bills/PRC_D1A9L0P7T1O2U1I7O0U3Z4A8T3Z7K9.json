@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1A9L0P7T1O2U1I7O0U3Z4A8T3Z7K9",
+  "title": "학교체육 진흥법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "서영교의원 등 23인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "서영교의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9L0P7T1O2U1I7O0U3Z4A8T3Z7K9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-15",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9L0P7T1O2U1I7O0U3Z4A8T3Z7K9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9L0P7T1O2U1I7O0U3Z4A8T3Z7K9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

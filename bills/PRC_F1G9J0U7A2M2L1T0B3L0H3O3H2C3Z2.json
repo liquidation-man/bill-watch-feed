@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1G9J0U7A2M2L1T0B3L0H3O3H2C3Z2",
+  "title": "경륜·경정법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "정운천의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-22",
+      "detail": "정운천의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1G9J0U7A2M2L1T0B3L0H3O3H2C3Z2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1G9J0U7A2M2L1T0B3L0H3O3H2C3Z2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

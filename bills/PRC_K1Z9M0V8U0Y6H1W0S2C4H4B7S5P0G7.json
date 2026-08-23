@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_K1Z9M0V8U0Y6H1W0S2C4H4B7S5P0G7",
+  "title": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "추혜선의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-06",
+      "detail": "추혜선의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z9M0V8U0Y6H1W0S2C4H4B7S5P0G7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-10-08",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z9M0V8U0Y6H1W0S2C4H4B7S5P0G7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z9M0V8U0Y6H1W0S2C4H4B7S5P0G7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-01-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z9M0V8U0Y6H1W0S2C4H4B7S5P0G7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

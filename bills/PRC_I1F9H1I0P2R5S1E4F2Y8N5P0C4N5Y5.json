@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1F9H1I0P2R5S1E4F2Y8N5P0C4N5Y5",
+  "title": "도시 및 주거환경정비법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "윤관석의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-25",
+      "detail": "윤관석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1F9H1I0P2R5S1E4F2Y8N5P0C4N5Y5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1F9H1I0P2R5S1E4F2Y8N5P0C4N5Y5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1F9H1I0P2R5S1E4F2Y8N5P0C4N5Y5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

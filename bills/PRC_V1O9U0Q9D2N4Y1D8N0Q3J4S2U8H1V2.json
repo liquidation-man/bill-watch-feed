@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1O9U0Q9D2N4Y1D8N0Q3J4S2U8H1V2",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김경협의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-09-24",
+      "detail": "김경협의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O9U0Q9D2N4Y1D8N0Q3J4S2U8H1V2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O9U0Q9D2N4Y1D8N0Q3J4S2U8H1V2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

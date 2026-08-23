@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A1X9R0C6A1M2I1N6D2E6V4H8B2E6N0",
+  "title": "육군3사관학교 설치법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "도종환의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-12",
+      "detail": "도종환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1X9R0C6A1M2I1N6D2E6V4H8B2E6N0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-06-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1X9R0C6A1M2I1N6D2E6V4H8B2E6N0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

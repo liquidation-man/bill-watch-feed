@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1A9C0H7R0C3V1I5T2L8N1T5D0D1O4",
+  "title": "뇌전증 관리 및 뇌전증환자 지원에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김세연의원 등 21인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "김세연의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1A9C0H7R0C3V1I5T2L8N1T5D0D1O4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1A9C0H7R0C3V1I5T2L8N1T5D0D1O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1A9C0H7R0C3V1I5T2L8N1T5D0D1O4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

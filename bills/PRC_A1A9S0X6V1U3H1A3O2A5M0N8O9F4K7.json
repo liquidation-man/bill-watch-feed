@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1A9S0X6V1U3H1A3O2A5M0N8O9F4K7",
+  "title": "군사기지 및 군사시설 보호법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이수혁의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "이수혁의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1A9S0X6V1U3H1A3O2A5M0N8O9F4K7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-09-24",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1A9S0X6V1U3H1A3O2A5M0N8O9F4K7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1A9S0X6V1U3H1A3O2A5M0N8O9F4K7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

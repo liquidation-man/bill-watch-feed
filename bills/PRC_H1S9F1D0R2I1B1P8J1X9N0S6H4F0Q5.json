@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1S9F1D0R2I1B1P8J1X9N0S6H4F0Q5",
+  "title": "문신사법안",
+  "committee": "보건복지위원회",
+  "proposer": "박주민의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-21",
+      "detail": "박주민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1S9F1D0R2I1B1P8J1X9N0S6H4F0Q5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1S9F1D0R2I1B1P8J1X9N0S6H4F0Q5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

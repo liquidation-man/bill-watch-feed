@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1E9E0G6A2K7H1T4F4U7X1T8N3K3K5",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김광수의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-27",
+      "detail": "김광수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1E9E0G6A2K7H1T4F4U7X1T8N3K3K5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-07-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1E9E0G6A2K7H1T4F4U7X1T8N3K3K5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1Z9M1V0S1V4H1U1Y2S5S1R0O8S1M8",
+  "title": "초·중등교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "서영교의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-14",
+      "detail": "서영교의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1Z9M1V0S1V4H1U1Y2S5S1R0O8S1M8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1Z9M1V0S1V4H1U1Y2S5S1R0O8S1M8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

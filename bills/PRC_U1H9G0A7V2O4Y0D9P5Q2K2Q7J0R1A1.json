@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1H9G0A7V2O4Y0D9P5Q2K2Q7J0R1A1",
+  "title": "국가공무원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "소병훈의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-24",
+      "detail": "소병훈의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1H9G0A7V2O4Y0D9P5Q2K2Q7J0R1A1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1H9G0A7V2O4Y0D9P5Q2K2Q7J0R1A1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1H9G0A7V2O4Y0D9P5Q2K2Q7J0R1A1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

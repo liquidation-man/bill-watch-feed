@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1Q9E0S9C2Z3D1J0M0M2U1S8G3P7O6",
+  "title": "인공지능 기술개발 및 산업 진흥에 관한 법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "이상민의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-09-23",
+      "detail": "이상민의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Q9E0S9C2Z3D1J0M0M2U1S8G3P7O6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-12-23",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Q9E0S9C2Z3D1J0M0M2U1S8G3P7O6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Q9E0S9C2Z3D1J0M0M2U1S8G3P7O6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

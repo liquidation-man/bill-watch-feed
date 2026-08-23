@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O1M9A0L6S1M3W1S3X2C4U2C4T6I5K8",
+  "title": "군복 및 군용장구의 단속에 관한 법률 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이수혁의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "이수혁의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1M9A0L6S1M3W1S3X2C4U2C4T6I5K8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-09-24",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1M9A0L6S1M3W1S3X2C4U2C4T6I5K8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1M9A0L6S1M3W1S3X2C4U2C4T6I5K8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

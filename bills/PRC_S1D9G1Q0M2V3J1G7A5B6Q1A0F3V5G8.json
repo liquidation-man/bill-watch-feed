@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S1D9G1Q0M2V3J1G7A5B6Q1A0F3V5G8",
+  "title": "생애마무리 지원법안",
+  "committee": "보건복지위원회",
+  "proposer": "김상희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-23",
+      "detail": "김상희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1D9G1Q0M2V3J1G7A5B6Q1A0F3V5G8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1D9G1Q0M2V3J1G7A5B6Q1A0F3V5G8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1Z9J0P7D0V8N1Y4Q0W5W3V9F5U5T8",
+  "title": "남북교류협력에 관한 법률 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "이상민의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-08",
+      "detail": "이상민의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1Z9J0P7D0V8N1Y4Q0W5W3V9F5U5T8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1Z9J0P7D0V8N1Y4Q0W5W3V9F5U5T8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

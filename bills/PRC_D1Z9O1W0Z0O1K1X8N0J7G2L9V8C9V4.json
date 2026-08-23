@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_D1Z9O1W0Z0O1K1X8N0J7G2L9V8C9V4",
+  "title": "이순신재단 설립ㆍ운영에 관한 법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김세연의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-01",
+      "detail": "김세연의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1Z9O1W0Z0O1K1X8N0J7G2L9V8C9V4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-18",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1Z9O1W0Z0O1K1X8N0J7G2L9V8C9V4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1Z9O1W0Z0O1K1X8N0J7G2L9V8C9V4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

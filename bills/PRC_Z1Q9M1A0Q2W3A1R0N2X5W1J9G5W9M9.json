@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1Q9M1A0Q2W3A1R0N2X5W1J9G5W9M9",
+  "title": "아동·청소년의 성보호에 관한 법률 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "신경민의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-23",
+      "detail": "신경민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q9M1A0Q2W3A1R0N2X5W1J9G5W9M9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-06",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q9M1A0Q2W3A1R0N2X5W1J9G5W9M9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q9M1A0Q2W3A1R0N2X5W1J9G5W9M9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1H9N0U8V2U2I0K9D4A8T1A4B0F6Z0",
+  "title": "한국도로공사법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "우원식의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-22",
+      "detail": "우원식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1H9N0U8V2U2I0K9D4A8T1A4B0F6Z0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1H9N0U8V2U2I0K9D4A8T1A4B0F6Z0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

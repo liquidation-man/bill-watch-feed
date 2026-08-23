@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1R9F1A0B1Z4N1L6Z3S0A1V2P6A0M6",
+  "title": "사회적 양극화 해소 기본법안",
+  "committee": "정무위원회",
+  "proposer": "김영춘의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-14",
+      "detail": "김영춘의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R9F1A0B1Z4N1L6Z3S0A1V2P6A0M6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-19",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R9F1A0B1Z4N1L6Z3S0A1V2P6A0M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R9F1A0B1Z4N1L6Z3S0A1V2P6A0M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

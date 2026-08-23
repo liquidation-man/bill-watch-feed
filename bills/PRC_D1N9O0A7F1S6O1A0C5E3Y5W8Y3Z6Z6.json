@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1N9O0A7F1S6O1A0C5E3Y5W8Y3Z6Z6",
+  "title": "국민입법청구법안",
+  "committee": "국회운영위원회",
+  "proposer": "박주민의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-16",
+      "detail": "박주민의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1N9O0A7F1S6O1A0C5E3Y5W8Y3Z6Z6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-09-26",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1N9O0A7F1S6O1A0C5E3Y5W8Y3Z6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1N9O0A7F1S6O1A0C5E3Y5W8Y3Z6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

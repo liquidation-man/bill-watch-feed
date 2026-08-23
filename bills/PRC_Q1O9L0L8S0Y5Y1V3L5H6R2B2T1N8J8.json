@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1O9L0L8S0Y5Y1V3L5H6R2B2T1N8J8",
+  "title": "5·18민주화운동 진상규명을 위한 특별법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "윤종필의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-05",
+      "detail": "윤종필의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1O9L0L8S0Y5Y1V3L5H6R2B2T1N8J8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-09-24",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1O9L0L8S0Y5Y1V3L5H6R2B2T1N8J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1O9L0L8S0Y5Y1V3L5H6R2B2T1N8J8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

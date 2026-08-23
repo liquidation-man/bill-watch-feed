@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_E1X9X0Q6D1T9N0J9W5X8C0T9W7L6J5",
+  "title": "자본시장과 금융투자업에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "유동수의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-19",
+      "detail": "유동수의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1X9X0Q6D1T9N0J9W5X8C0T9W7L6J5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-19",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1X9X0Q6D1T9N0J9W5X8C0T9W7L6J5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1X9X0Q6D1T9N0J9W5X8C0T9W7L6J5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

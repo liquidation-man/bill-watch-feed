@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1H9K0N8C2I9A1M7Q3G6N3J9W9H9H3",
+  "title": "환경정책기본법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "한정애의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-29",
+      "detail": "한정애의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1H9K0N8C2I9A1M7Q3G6N3J9W9H9H3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-09-27",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1H9K0N8C2I9A1M7Q3G6N3J9W9H9H3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D1D9U0I7Q0X5H1O4X3D0Q0A8G3L0Z7",
+  "title": "청소년 보호법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "노웅래의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-05",
+      "detail": "노웅래의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1D9U0I7Q0X5H1O4X3D0Q0A8G3L0Z7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1D9U0I7Q0X5H1O4X3D0Q0A8G3L0Z7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

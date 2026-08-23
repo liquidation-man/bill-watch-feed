@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1O9Q0N7W3O1F1O5C0Q3S1P2K3Q4M4",
+  "title": "공공자원의 개방 및 국민 이용 활성화에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "소병훈의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-07-31",
+      "detail": "소병훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1O9Q0N7W3O1F1O5C0Q3S1P2K3Q4M4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1O9Q0N7W3O1F1O5C0Q3S1P2K3Q4M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1O9Q0N7W3O1F1O5C0Q3S1P2K3Q4M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

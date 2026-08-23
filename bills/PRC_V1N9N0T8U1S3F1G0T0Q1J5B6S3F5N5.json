@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1N9N0T8U1S3F1G0T0Q1J5B6S3F5N5",
+  "title": "지방세특례제한법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "서삼석의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-08-13",
+      "detail": "서삼석의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N9N0T8U1S3F1G0T0Q1J5B6S3F5N5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N9N0T8U1S3F1G0T0Q1J5B6S3F5N5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N9N0T8U1S3F1G0T0Q1J5B6S3F5N5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O1A9I1Y0J2P2S1B7U0N6R3E6F4D0H4",
+  "title": "국회의원 및 고위공직자 자녀의 대학입학전형과정 전수조사 특별법안",
+  "committee": "교육위원회",
+  "proposer": "신보라의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-10-22",
+      "detail": "신보라의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1A9I1Y0J2P2S1B7U0N6R3E6F4D0H4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1A9I1Y0J2P2S1B7U0N6R3E6F4D0H4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
