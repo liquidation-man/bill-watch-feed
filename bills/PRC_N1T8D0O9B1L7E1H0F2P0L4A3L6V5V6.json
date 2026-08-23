@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1T8D0O9B1L7E1H0F2P0L4A3L6V5V6",
+  "title": "특정범죄 가중처벌 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이춘석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-17",
+      "detail": "이춘석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1T8D0O9B1L7E1H0F2P0L4A3L6V5V6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1T8D0O9B1L7E1H0F2P0L4A3L6V5V6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

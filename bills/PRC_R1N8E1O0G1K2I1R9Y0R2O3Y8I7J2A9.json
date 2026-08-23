@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1N8E1O0G1K2I1R9Y0R2O3Y8I7J2A9",
+  "title": "지속가능한 친환경축산 생태계 조성을 위한 특별법안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "황주홍의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-12",
+      "detail": "황주홍의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N8E1O0G1K2I1R9Y0R2O3Y8I7J2A9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-19",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N8E1O0G1K2I1R9Y0R2O3Y8I7J2A9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N8E1O0G1K2I1R9Y0R2O3Y8I7J2A9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1Y8V1M1T0R1D1B7P1N3W0A0M1T2P0",
+  "title": "국가유공자 등 예우 및 지원에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "신상진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-11-01",
+      "detail": "신상진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Y8V1M1T0R1D1B7P1N3W0A0M1T2P0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-12-27",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Y8V1M1T0R1D1B7P1N3W0A0M1T2P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Y8V1M1T0R1D1B7P1N3W0A0M1T2P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

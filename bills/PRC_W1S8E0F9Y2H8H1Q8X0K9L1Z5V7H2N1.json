@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1S8E0F9Y2H8H1Q8X0K9L1Z5V7H2N1",
+  "title": "공중보건 위기대응 의약품 및 혁신신약 개발지원법안",
+  "committee": "보건복지위원회",
+  "proposer": "기동민의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-28",
+      "detail": "기동민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S8E0F9Y2H8H1Q8X0K9L1Z5V7H2N1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-22",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S8E0F9Y2H8H1Q8X0K9L1Z5V7H2N1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S8E0F9Y2H8H1Q8X0K9L1Z5V7H2N1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

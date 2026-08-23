@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1L8Z0F9K0Q3F1B0P4W2Y3Z6O5A3P2",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "우원식의원 등 25인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-03",
+      "detail": "우원식의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L8Z0F9K0Q3F1B0P4W2Y3Z6O5A3P2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L8Z0F9K0Q3F1B0P4W2Y3Z6O5A3P2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1M8S0F8O2M1H1Y6K2S3M2K0E4J9I8",
+  "title": "서비스산업발전기본법안",
+  "committee": "기획재정위원회",
+  "proposer": "김정우의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-21",
+      "detail": "김정우의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1M8S0F8O2M1H1Y6K2S3M2K0E4J9I8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1M8S0F8O2M1H1Y6K2S3M2K0E4J9I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

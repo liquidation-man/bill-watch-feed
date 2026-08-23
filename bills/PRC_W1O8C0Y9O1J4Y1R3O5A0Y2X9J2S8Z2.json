@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1O8C0Y9O1J4Y1R3O5A0Y2X9J2S8Z2",
+  "title": "국유재산특례제한법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "노웅래의원 등 45인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-14",
+      "detail": "노웅래의원 등 45인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8C0Y9O1J4Y1R3O5A0Y2X9J2S8Z2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-14",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8C0Y9O1J4Y1R3O5A0Y2X9J2S8Z2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8C0Y9O1J4Y1R3O5A0Y2X9J2S8Z2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

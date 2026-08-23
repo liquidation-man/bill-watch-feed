@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1O8U0W8K1D3U1G4X0D0O1N0J9A2N2",
+  "title": "군인의 지위 및 복무에 관한 기본법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "신용현의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-13",
+      "detail": "신용현의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8U0W8K1D3U1G4X0D0O1N0J9A2N2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-26",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8U0W8K1D3U1G4X0D0O1N0J9A2N2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O8U0W8K1D3U1G4X0D0O1N0J9A2N2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

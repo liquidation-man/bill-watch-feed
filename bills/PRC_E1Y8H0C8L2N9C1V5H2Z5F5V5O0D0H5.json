@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1Y8H0C8L2N9C1V5H2Z5F5V5O0D0H5",
+  "title": "도로교통법 일부개정법률안",
+  "committee": "",
+  "proposer": "박맹우의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-29",
+      "detail": "박맹우의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Y8H0C8L2N9C1V5H2Z5F5V5O0D0H5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-08-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Y8H0C8L2N9C1V5H2Z5F5V5O0D0H5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

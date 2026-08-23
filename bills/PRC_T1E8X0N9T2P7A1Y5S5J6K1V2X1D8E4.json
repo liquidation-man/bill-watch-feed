@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T1E8X0N9T2P7A1Y5S5J6K1V2X1D8E4",
+  "title": "한국교육방송공사법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "김성태의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-27",
+      "detail": "김성태의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E8X0N9T2P7A1Y5S5J6K1V2X1D8E4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E8X0N9T2P7A1Y5S5J6K1V2X1D8E4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E8X0N9T2P7A1Y5S5J6K1V2X1D8E4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

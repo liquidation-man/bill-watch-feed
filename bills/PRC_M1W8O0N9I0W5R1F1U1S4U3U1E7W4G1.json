@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1W8O0N9I0W5R1F1U1S4U3U1E7W4G1",
+  "title": "소년법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "강효상의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-05",
+      "detail": "강효상의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W8O0N9I0W5R1F1U1S4U3U1E7W4G1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W8O0N9I0W5R1F1U1S4U3U1E7W4G1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

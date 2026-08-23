@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_E1M8M0D9O1A3A1E6E5J2I1X1X7M2O1",
+  "title": "부동산등기 특별조치법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "곽상도의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-13",
+      "detail": "곽상도의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1M8M0D9O1A3A1E6E5J2I1X1X7M2O1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-14",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1M8M0D9O1A3A1E6E5J2I1X1X7M2O1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1M8M0D9O1A3A1E6E5J2I1X1X7M2O1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법",
+    "부동산"
+  ]
+}

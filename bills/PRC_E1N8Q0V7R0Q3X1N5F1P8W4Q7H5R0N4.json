@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1N8Q0V7R0Q3X1N5F1P8W4Q7H5R0N4",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "",
+  "proposer": "황주홍의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-07-03",
+      "detail": "황주홍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N8Q0V7R0Q3X1N5F1P8W4Q7H5R0N4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-07-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N8Q0V7R0Q3X1N5F1P8W4Q7H5R0N4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

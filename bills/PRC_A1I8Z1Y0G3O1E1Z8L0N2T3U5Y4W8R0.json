@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1I8Z1Y0G3O1E1Z8L0N2T3U5Y4W8R0",
+  "title": "과세자료의 제출 및 관리에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "송갑석의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-31",
+      "detail": "송갑석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1I8Z1Y0G3O1E1Z8L0N2T3U5Y4W8R0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-26",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1I8Z1Y0G3O1E1Z8L0N2T3U5Y4W8R0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1I8Z1Y0G3O1E1Z8L0N2T3U5Y4W8R0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

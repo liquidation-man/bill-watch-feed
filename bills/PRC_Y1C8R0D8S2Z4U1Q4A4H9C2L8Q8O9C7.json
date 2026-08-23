@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1C8R0D8S2Z4U1Q4A4H9C2L8Q8O9C7",
+  "title": "특정 범죄자에 대한 보호관찰 및 전자장치 부착 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이동섭의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-24",
+      "detail": "이동섭의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1C8R0D8S2Z4U1Q4A4H9C2L8Q8O9C7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-11-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1C8R0D8S2Z4U1Q4A4H9C2L8Q8O9C7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

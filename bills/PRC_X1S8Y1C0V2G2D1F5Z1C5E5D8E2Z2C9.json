@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X1S8Y1C0V2G2D1F5Z1C5E5D8E2Z2C9",
+  "title": "원자력안전 정보공개 및 소통에 관한 법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "김성수의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-22",
+      "detail": "김성수의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S8Y1C0V2G2D1F5Z1C5E5D8E2Z2C9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S8Y1C0V2G2D1F5Z1C5E5D8E2Z2C9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S8Y1C0V2G2D1F5Z1C5E5D8E2Z2C9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

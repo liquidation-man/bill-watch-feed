@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1S8V0R8M1M3D0A9D5W2A3Y5F6U4Y7",
+  "title": "남북 이산가족 생사확인 및 교류 촉진에 관한 법률 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "송갑석의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-13",
+      "detail": "송갑석의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1S8V0R8M1M3D0A9D5W2A3Y5F6U4Y7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-12",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1S8V0R8M1M3D0A9D5W2A3Y5F6U4Y7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1S8V0R8M1M3D0A9D5W2A3Y5F6U4Y7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H1C8W1R0H2H5W1T3S5C3Y2I8D4D3F8",
+  "title": "한국은행법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "서형수의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-25",
+      "detail": "서형수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C8W1R0H2H5W1T3S5C3Y2I8D4D3F8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C8W1R0H2H5W1T3S5C3Y2I8D4D3F8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

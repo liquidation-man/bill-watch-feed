@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1J8S1Q0G3H1R1C4Q2X3T2K2Y4A3U5",
+  "title": "부정경쟁방지 및 영업비밀보호에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "송갑석의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-31",
+      "detail": "송갑석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J8S1Q0G3H1R1C4Q2X3T2K2Y4A3U5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-12",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J8S1Q0G3H1R1C4Q2X3T2K2Y4A3U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J8S1Q0G3H1R1C4Q2X3T2K2Y4A3U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1C8C0D7S1T8T1B1R3C8X2N9T2P4U7",
+  "title": "장애인 건강권 및 의료접근성 보장에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박인숙의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-07-18",
+      "detail": "박인숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C8C0D7S1T8T1B1R3C8X2N9T2P4U7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-28",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C8C0D7S1T8T1B1R3C8X2N9T2P4U7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C8C0D7S1T8T1B1R3C8X2N9T2P4U7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

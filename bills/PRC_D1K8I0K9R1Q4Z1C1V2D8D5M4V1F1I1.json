@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1K8I0K9R1Q4Z1C1V2D8D5M4V1F1I1",
+  "title": "전자문서 및 전자거래 기본법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "금태섭의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-14",
+      "detail": "금태섭의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1K8I0K9R1Q4Z1C1V2D8D5M4V1F1I1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-26",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1K8I0K9R1Q4Z1C1V2D8D5M4V1F1I1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1K8I0K9R1Q4Z1C1V2D8D5M4V1F1I1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

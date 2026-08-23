@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1P8Y0T9K1V4I1Y4A3N3K4A4I4Y1X8",
+  "title": "민족화해협력범국민협의회의 설립 및 지원에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "노웅래의원 등 46인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-09-14",
+      "detail": "노웅래의원 등 46인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1P8Y0T9K1V4I1Y4A3N3K4A4I4Y1X8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-12",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1P8Y0T9K1V4I1Y4A3N3K4A4I4Y1X8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1P8Y0T9K1V4I1Y4A3N3K4A4I4Y1X8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

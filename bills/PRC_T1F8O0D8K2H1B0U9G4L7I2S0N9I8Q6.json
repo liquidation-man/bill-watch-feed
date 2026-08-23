@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1F8O0D8K2H1B0U9G4L7I2S0N9I8Q6",
+  "title": "도시 및 주거환경정비법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김경진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-08-21",
+      "detail": "김경진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1F8O0D8K2H1B0U9G4L7I2S0N9I8Q6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-09-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1F8O0D8K2H1B0U9G4L7I2S0N9I8Q6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

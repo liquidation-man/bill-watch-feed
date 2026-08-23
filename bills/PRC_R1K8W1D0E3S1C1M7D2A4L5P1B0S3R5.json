@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1K8W1D0E3S1C1M7D2A4L5P1B0S3R5",
+  "title": "대중교통의 육성 및 이용촉진에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박광온의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-10-31",
+      "detail": "박광온의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1K8W1D0E3S1C1M7D2A4L5P1B0S3R5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1K8W1D0E3S1C1M7D2A4L5P1B0S3R5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1K8W1D0E3S1C1M7D2A4L5P1B0S3R5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}
