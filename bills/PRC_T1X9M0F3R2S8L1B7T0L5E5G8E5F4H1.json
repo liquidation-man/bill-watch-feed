@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T1X9M0F3R2S8L1B7T0L5E5G8E5F4H1",
+  "title": "혁신도시 조성 및 발전에 관한 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "윤호중의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-28",
+      "detail": "윤호중의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X9M0F3R2S8L1B7T0L5E5G8E5F4H1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X9M0F3R2S8L1B7T0L5E5G8E5F4H1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X9M0F3R2S8L1B7T0L5E5G8E5F4H1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

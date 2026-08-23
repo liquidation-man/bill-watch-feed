@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G1W9B0O2N2Q1V1Y7K5W3B5J6N3Q2R1",
+  "title": "지하안전관리에 관한 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "백혜련의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-02-21",
+      "detail": "백혜련의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9B0O2N2Q1V1Y7K5W3B5J6N3Q2R1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9B0O2N2Q1V1Y7K5W3B5J6N3Q2R1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W9B0O2N2Q1V1Y7K5W3B5J6N3Q2R1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

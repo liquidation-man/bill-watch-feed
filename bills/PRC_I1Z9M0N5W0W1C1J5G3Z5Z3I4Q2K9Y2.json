@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1Z9M0N5W0W1C1J5G3Z5Z3I4Q2K9Y2",
+  "title": "폐교재산의 활용촉진을 위한 특별법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "김도읍의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-01",
+      "detail": "김도읍의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z9M0N5W0W1C1J5G3Z5Z3I4Q2K9Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z9M0N5W0W1C1J5G3Z5Z3I4Q2K9Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z9M0N5W0W1C1J5G3Z5Z3I4Q2K9Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

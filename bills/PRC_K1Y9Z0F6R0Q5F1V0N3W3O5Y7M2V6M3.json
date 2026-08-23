@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1Y9Z0F6R0Q5F1V0N3W3O5Y7M2V6M3",
+  "title": "포항지진 및 강원산불 피해자 주거 지원 등을 위한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "송언석의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-05",
+      "detail": "송언석의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y9Z0F6R0Q5F1V0N3W3O5Y7M2V6M3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y9Z0F6R0Q5F1V0N3W3O5Y7M2V6M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y9Z0F6R0Q5F1V0N3W3O5Y7M2V6M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

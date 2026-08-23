@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C1V9N0V4Y0Y1R1F3L2F7G2V6V4P1M4",
+  "title": "김학의의 뇌물수수 등 사건의 진상규명을 위한 특별검사 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "나경원의원 등 113인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-01",
+      "detail": "나경원의원 등 113인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V9N0V4Y0Y1R1F3L2F7G2V6V4P1M4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-16",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V9N0V4Y0Y1R1F3L2F7G2V6V4P1M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V9N0V4Y0Y1R1F3L2F7G2V6V4P1M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1X9G0F4S0S8J1N7W1Z9Z5R3Z4Z7C4",
+  "title": "유아교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "원혜영의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-08",
+      "detail": "원혜영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X9G0F4S0S8J1N7W1Z9Z5R3Z4Z7C4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X9G0F4S0S8J1N7W1Z9Z5R3Z4Z7C4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X9G0F4S0S8J1N7W1Z9Z5R3Z4Z7C4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1N9I0Z5B0S9A0C9J4C9W4U6F0Z6C3",
+  "title": "서민의 금융생활 지원에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "고용진의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-09",
+      "detail": "고용진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1N9I0Z5B0S9A0C9J4C9W4U6F0Z6C3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-08-22",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1N9I0Z5B0S9A0C9J4C9W4U6F0Z6C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1N9I0Z5B0S9A0C9J4C9W4U6F0Z6C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

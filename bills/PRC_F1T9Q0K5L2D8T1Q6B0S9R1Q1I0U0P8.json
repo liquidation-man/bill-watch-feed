@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1T9Q0K5L2D8T1Q6B0S9R1Q1I0U0P8",
+  "title": "공항소음 방지 및 소음대책지역 지원에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김태흠의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-28",
+      "detail": "김태흠의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T9Q0K5L2D8T1Q6B0S9R1Q1I0U0P8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T9Q0K5L2D8T1Q6B0S9R1Q1I0U0P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T9Q0K5L2D8T1Q6B0S9R1Q1I0U0P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -3,94 +3,6 @@
   "title": "민간임대주택에 관한 특별법 시행규칙",
   "events": [
     {
-      "stage": "제정",
-      "category": "개정",
-      "administration": null,
-      "date": "1963-11-30",
-      "detail": "법률 · 공포번호 제 01457호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=1682&type=HTML"
-    },
-    {
-      "stage": "제정",
-      "category": "개정",
-      "administration": null,
-      "date": "1964-05-28",
-      "detail": "대통령령 · 공포번호 제 01828호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=11271&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1964-08-25",
-      "detail": "대통령령 · 공포번호 제 01919호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=11272&type=HTML"
-    },
-    {
-      "stage": "제정",
-      "category": "개정",
-      "administration": null,
-      "date": "1965-08-13",
-      "detail": "건설부령 · 공포번호 제 00019호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=37476&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1966-07-04",
-      "detail": "건설부령 · 공포번호 제 00028호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=37477&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1968-01-04",
-      "detail": "대통령령 · 공포번호 제 03342호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=11273&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1969-01-09",
-      "detail": "건설부령 · 공포번호 제 00061호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=37478&type=HTML"
-    },
-    {
-      "stage": "전부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1969-06-21",
-      "detail": "건설부령 · 공포번호 제 00069호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=53863&type=HTML"
-    },
-    {
-      "stage": "전부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1969-10-06",
-      "detail": "대통령령 · 공포번호 제 04117호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=5746&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1970-12-31",
-      "detail": "법률 · 공포번호 제 02269호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=1683&type=HTML"
-    },
-    {
-      "stage": "타법폐지",
-      "category": "개정",
-      "administration": null,
-      "date": "1972-12-30",
-      "detail": "법률 · 공포번호 제 02409호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=1684&type=HTML"
-    },
-    {
       "stage": "타법개정",
       "category": "개정",
       "administration": "박근혜정부",
@@ -158,6 +70,14 @@
       "stage": "타법개정",
       "category": "개정",
       "administration": "박근혜정부",
+      "date": "2016-08-12",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00354호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=185559&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
       "date": "2016-12-27",
       "detail": "국토교통부 · 법률 · 공포번호 제 14480호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=188653&type=HTML"
@@ -198,9 +118,25 @@
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
+      "date": "2017-07-11",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00434호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=194795&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
       "date": "2017-09-19",
       "detail": "국토교통부 · 대통령령 · 공포번호 제 28323호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=197559&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00446호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=197618&type=HTML"
     },
     {
       "stage": "타법개정",
@@ -254,6 +190,22 @@
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
+      "date": "2018-03-29",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00502호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=202954&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-04-02",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00506호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=203090&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
       "date": "2018-05-08",
       "detail": "국토교통부 · 대통령령 · 공포번호 제 28874호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=203502&type=HTML"
@@ -265,6 +217,14 @@
       "date": "2018-07-16",
       "detail": "국토교통부 · 대통령령 · 공포번호 제 29045호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=204064&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-07-17",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00536호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=204085&type=HTML"
     },
     {
       "stage": "일부개정",
@@ -291,12 +251,20 @@
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206493&type=HTML"
     },
     {
-      "stage": "타법폐지",
+      "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
-      "date": "2019-01-29",
-      "detail": "대통령령 · 공포번호 제 29507호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=207374&type=HTML"
+      "date": "2018-12-31",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00573호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206540&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-01-08",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00582호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206638&type=HTML"
     },
     {
       "stage": "일부개정",
@@ -307,12 +275,28 @@
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=207832&type=HTML"
     },
     {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-02-27",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00601호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=207936&type=HTML"
+    },
+    {
       "stage": "타법개정",
       "category": "개정",
       "administration": "문재인정부",
       "date": "2019-03-12",
       "detail": "국토교통부 · 대통령령 · 공포번호 제 29617호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208018&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-03-20",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00611호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208174&type=HTML"
     },
     {
       "stage": "일부개정",
@@ -334,9 +318,25 @@
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
+      "date": "2019-10-29",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00668호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=211305&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
       "date": "2019-11-26",
       "detail": "국토교통부 · 법률 · 공포번호 제 16630호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=211593&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-03-02",
+      "detail": "국토교통부 · 국토교통부령 · 공포번호 제 00704호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=215367&type=HTML"
     },
     {
       "stage": "타법개정",

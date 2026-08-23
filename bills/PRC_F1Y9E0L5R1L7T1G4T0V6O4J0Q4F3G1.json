@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1Y9E0L5R1L7T1G4T0V6O4J0Q4F3G1",
+  "title": "공공주택 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김종민의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-17",
+      "detail": "김종민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y9E0L5R1L7T1G4T0V6O4J0Q4F3G1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y9E0L5R1L7T1G4T0V6O4J0Q4F3G1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

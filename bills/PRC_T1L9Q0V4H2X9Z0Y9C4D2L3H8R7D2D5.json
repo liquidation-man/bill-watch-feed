@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1L9Q0V4H2X9Z0Y9C4D2L3H8R7D2D5",
+  "title": "고위공직자부패수사처 설치 및 운영에 관한 법안",
+  "committee": "법제사법위원회",
+  "proposer": "권은희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-29",
+      "detail": "권은희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1L9Q0V4H2X9Z0Y9C4D2L3H8R7D2D5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1L9Q0V4H2X9Z0Y9C4D2L3H8R7D2D5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1T9S0I3G2S5G1F7F3Y6C3N3W0G1K4",
+  "title": "국가교육위원회의 설치 및 운영에 관한 법률안",
+  "committee": "교육위원회",
+  "proposer": "조승래의원 등 45인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-25",
+      "detail": "조승래의원 등 45인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1T9S0I3G2S5G1F7F3Y6C3N3W0G1K4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-03-26",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1T9S0I3G2S5G1F7F3Y6C3N3W0G1K4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1T9S0I3G2S5G1F7F3Y6C3N3W0G1K4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

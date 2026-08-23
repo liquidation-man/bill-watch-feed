@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1A9K0C5A1F4V1A0O3R1P2A9B8P8H8",
+  "title": "자동차관리법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "민경욱의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-14",
+      "detail": "민경욱의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9K0C5A1F4V1A0O3R1P2A9B8P8H8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1A9K0C5A1F4V1A0O3R1P2A9B8P8H8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

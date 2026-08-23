@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M1R9T0G4L1S0E1U5T4X8A0W5J3H9K7",
+  "title": "대도시권 철도의 지하화와 통합 택지ㆍ도시개발을 통한 도시경쟁력 강화에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "김경협의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-10",
+      "detail": "김경협의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R9T0G4L1S0E1U5T4X8A0W5J3H9K7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R9T0G4L1S0E1U5T4X8A0W5J3H9K7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R9T0G4L1S0E1U5T4X8A0W5J3H9K7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1F9H0V3Q2W9T1D7I1H8D1P9P5C4M8",
+  "title": "방송법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박선숙의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-29",
+      "detail": "박선숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1F9H0V3Q2W9T1D7I1H8D1P9P5C4M8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1F9H0V3Q2W9T1D7I1H8D1P9P5C4M8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

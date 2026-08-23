@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1A9V0E3M2I1U1T5P3G1A5S2Y8N7X7",
+  "title": "국외재산 은닉 및 역외탈세의 방지에 관한 특별법안",
+  "committee": "기획재정위원회",
+  "proposer": "황희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-21",
+      "detail": "황희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1A9V0E3M2I1U1T5P3G1A5S2Y8N7X7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1A9V0E3M2I1U1T5P3G1A5S2Y8N7X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1A9V0E3M2I1U1T5P3G1A5S2Y8N7X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

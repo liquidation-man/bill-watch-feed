@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1Y9R0V3M1N3Y1H6S5T1A1A5H4V7P8",
+  "title": "담배사업법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김영호의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-13",
+      "detail": "김영호의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y9R0V3M1N3Y1H6S5T1A1A5H4V7P8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y9R0V3M1N3Y1H6S5T1A1A5H4V7P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y9R0V3M1N3Y1H6S5T1A1A5H4V7P8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

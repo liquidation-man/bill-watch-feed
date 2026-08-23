@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_L1I9E0Q4J1L2Y1O1R0P2Y0B5Y6E1U0",
+  "title": "주택임대차보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정인화의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-12",
+      "detail": "정인화의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1I9E0Q4J1L2Y1O1R0P2Y0B5Y6E1U0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1I9E0Q4J1L2Y1O1R0P2Y0B5Y6E1U0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법",
+    "부동산"
+  ]
+}

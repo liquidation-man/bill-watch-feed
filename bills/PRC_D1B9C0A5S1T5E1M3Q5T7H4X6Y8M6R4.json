@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D1B9C0A5S1T5E1M3Q5T7H4X6Y8M6R4",
+  "title": "유아교육법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "박찬대의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-15",
+      "detail": "박찬대의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1B9C0A5S1T5E1M3Q5T7H4X6Y8M6R4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-06-10",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1B9C0A5S1T5E1M3Q5T7H4X6Y8M6R4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

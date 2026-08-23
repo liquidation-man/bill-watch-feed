@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1B9M0T2F2N1E1I7X5W0Q2L5R1I0Y2",
+  "title": "삼차원프린팅산업 진흥법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "백혜련의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-02-21",
+      "detail": "백혜련의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1B9M0T2F2N1E1I7X5W0Q2L5R1I0Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-24",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1B9M0T2F2N1E1I7X5W0Q2L5R1I0Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1B9M0T2F2N1E1I7X5W0Q2L5R1I0Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

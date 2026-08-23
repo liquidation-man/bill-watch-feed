@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1P9T0V5D2G2H1Z5T0U9Z1G8E1W8Y2",
+  "title": "지역신용보증재단법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "고용진의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-22",
+      "detail": "고용진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9T0V5D2G2H1Z5T0U9Z1G8E1W8Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-10-08",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9T0V5D2G2H1Z5T0U9Z1G8E1W8Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P9T0V5D2G2H1Z5T0U9Z1G8E1W8Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

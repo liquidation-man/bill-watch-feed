@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1F9Z0X4M2O5L1F8X1M2I5D4X3N3F9",
+  "title": "고위공직자범죄수사처 설치 및 운영에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "백혜련의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-26",
+      "detail": "백혜련의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1F9Z0X4M2O5L1F8X1M2I5D4X3N3F9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-12-30",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1F9Z0X4M2O5L1F8X1M2I5D4X3N3F9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1N9G0E5S0W9V1I4T5O0R1P3V4X3D8",
+  "title": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "유의동의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-09",
+      "detail": "유의동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1N9G0E5S0W9V1I4T5O0R1P3V4X3D8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1N9G0E5S0W9V1I4T5O0R1P3V4X3D8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1N9G0E5S0W9V1I4T5O0R1P3V4X3D8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

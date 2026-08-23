@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_Z1M9X0Z6K0P3N1P7J5Q4T2M9N4M2B8",
+  "title": "지방교부세법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "정태옥의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-03",
+      "detail": "정태옥의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1M9X0Z6K0P3N1P7J5Q4T2M9N4M2B8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1M9X0Z6K0P3N1P7J5Q4T2M9N4M2B8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "세금"
+  ]
+}

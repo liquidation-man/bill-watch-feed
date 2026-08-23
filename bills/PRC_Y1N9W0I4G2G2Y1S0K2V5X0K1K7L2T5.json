@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1N9W0I4G2G2Y1S0K2V5X0K1K7L2T5",
+  "title": "국적법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김경진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-22",
+      "detail": "김경진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N9W0I4G2G2Y1S0K2V5X0K1K7L2T5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2019-05-07",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N9W0I4G2G2Y1S0K2V5X0K1K7L2T5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

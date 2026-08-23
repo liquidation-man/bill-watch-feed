@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1N9I0G3P2X7Y1Q8W1X2I5V4Y7I2T9",
+  "title": "전력기술관리법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "권칠승의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-27",
+      "detail": "권칠승의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1N9I0G3P2X7Y1Q8W1X2I5V4Y7I2T9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1N9I0G3P2X7Y1Q8W1X2I5V4Y7I2T9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1N9I0G3P2X7Y1Q8W1X2I5V4Y7I2T9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

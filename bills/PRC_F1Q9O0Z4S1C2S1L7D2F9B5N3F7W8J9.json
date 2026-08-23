@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1Q9O0Z4S1C2S1L7D2F9B5N3F7W8J9",
+  "title": "변호사시험법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김승희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-12",
+      "detail": "김승희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Q9O0Z4S1C2S1L7D2F9B5N3F7W8J9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Q9O0Z4S1C2S1L7D2F9B5N3F7W8J9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

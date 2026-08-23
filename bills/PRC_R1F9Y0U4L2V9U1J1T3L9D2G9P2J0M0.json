@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1F9Y0U4L2V9U1J1T3L9D2G9P2J0M0",
+  "title": "건축법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박경미의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-29",
+      "detail": "박경미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1F9Y0U4L2V9U1J1T3L9D2G9P2J0M0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1F9Y0U4L2V9U1J1T3L9D2G9P2J0M0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

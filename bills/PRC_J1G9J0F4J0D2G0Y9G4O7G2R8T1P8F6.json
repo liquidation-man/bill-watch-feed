@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J1G9J0F4J0D2G0Y9G4O7G2R8T1P8F6",
+  "title": "검찰청법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박주민의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-02",
+      "detail": "박주민의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1G9J0F4J0D2G0Y9G4O7G2R8T1P8F6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1G9J0F4J0D2G0Y9G4O7G2R8T1P8F6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

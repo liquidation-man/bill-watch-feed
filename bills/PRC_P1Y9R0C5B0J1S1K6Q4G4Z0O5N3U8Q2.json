@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1Y9R0C5B0J1S1K6Q4G4Z0O5N3U8Q2",
+  "title": "공중 등 협박목적 및 대량살상무기확산을 위한 자금조달행위의 금지에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이철규의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-01",
+      "detail": "이철규의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y9R0C5B0J1S1K6Q4G4Z0O5N3U8Q2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-08-22",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y9R0C5B0J1S1K6Q4G4Z0O5N3U8Q2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y9R0C5B0J1S1K6Q4G4Z0O5N3U8Q2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

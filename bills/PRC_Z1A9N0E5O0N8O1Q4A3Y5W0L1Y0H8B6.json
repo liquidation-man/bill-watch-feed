@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z1A9N0E5O0N8O1Q4A3Y5W0L1Y0H8B6",
+  "title": "변호사법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "유성엽의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-08",
+      "detail": "유성엽의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1A9N0E5O0N8O1Q4A3Y5W0L1Y0H8B6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1A9N0E5O0N8O1Q4A3Y5W0L1Y0H8B6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

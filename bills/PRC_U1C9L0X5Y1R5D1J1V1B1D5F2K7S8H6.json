@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1C9L0X5Y1R5D1J1V1B1D5F2K7S8H6",
+  "title": "장애인고용촉진 및 직업재활법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "송옥주의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-15",
+      "detail": "송옥주의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C9L0X5Y1R5D1J1V1B1D5F2K7S8H6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-08",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C9L0X5Y1R5D1J1V1B1D5F2K7S8H6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C9L0X5Y1R5D1J1V1B1D5F2K7S8H6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

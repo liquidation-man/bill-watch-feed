@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1O9E0H3N2E9N2V1R0W9U1Y0R1Y6Q8",
+  "title": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "제윤경의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-29",
+      "detail": "제윤경의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O9E0H3N2E9N2V1R0W9U1Y0R1Y6Q8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-08-22",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O9E0H3N2E9N2V1R0W9U1Y0R1Y6Q8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O9E0H3N2E9N2V1R0W9U1Y0R1Y6Q8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

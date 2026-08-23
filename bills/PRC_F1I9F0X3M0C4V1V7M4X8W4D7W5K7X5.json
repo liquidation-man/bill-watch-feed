@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1I9F0X3M0C4V1V7M4X8W4D7W5K7X5",
+  "title": "식품 등의 표시ㆍ광고에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김상희의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-04",
+      "detail": "김상희의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9F0X3M0C4V1V7M4X8W4D7W5K7X5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9F0X3M0C4V1V7M4X8W4D7W5K7X5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I9F0X3M0C4V1V7M4X8W4D7W5K7X5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

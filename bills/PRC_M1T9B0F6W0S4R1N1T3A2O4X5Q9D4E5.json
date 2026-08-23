@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1T9B0F6W0S4R1N1T3A2O4X5Q9D4E5",
+  "title": "미세먼지 해결을 위한 국가기후환경위원회법안",
+  "committee": "환경노동위원회",
+  "proposer": "김삼화의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-06-04",
+      "detail": "김삼화의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1T9B0F6W0S4R1N1T3A2O4X5Q9D4E5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-07",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1T9B0F6W0S4R1N1T3A2O4X5Q9D4E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1T9B0F6W0S4R1N1T3A2O4X5Q9D4E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

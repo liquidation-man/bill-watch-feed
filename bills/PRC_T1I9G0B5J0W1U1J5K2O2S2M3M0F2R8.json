@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1I9G0B5J0W1U1J5K2O2S2M3M0F2R8",
+  "title": "상가건물 임대차보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정동영의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-01",
+      "detail": "정동영의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1I9G0B5J0W1U1J5K2O2S2M3M0F2R8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1I9G0B5J0W1U1J5K2O2S2M3M0F2R8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

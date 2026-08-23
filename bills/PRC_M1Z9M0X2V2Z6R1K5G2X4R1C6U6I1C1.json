@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M1Z9M0X2V2Z6R1K5G2X4R1C6U6I1C1",
+  "title": "진실·화해를 위한 과거사정리 기본법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "홍익표의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-02-26",
+      "detail": "홍익표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z9M0X2V2Z6R1K5G2X4R1C6U6I1C1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z9M0X2V2Z6R1K5G2X4R1C6U6I1C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z9M0X2V2Z6R1K5G2X4R1C6U6I1C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

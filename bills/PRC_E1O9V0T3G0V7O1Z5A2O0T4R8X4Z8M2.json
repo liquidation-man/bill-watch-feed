@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1O9V0T3G0V7O1Z5A2O0T4R8X4Z8M2",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박주민의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-07",
+      "detail": "박주민의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O9V0T3G0V7O1Z5A2O0T4R8X4Z8M2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O9V0T3G0V7O1Z5A2O0T4R8X4Z8M2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

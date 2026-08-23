@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1V9U0Y5N1B0Z1J5H0Y3Q0X9G1S9O2",
+  "title": "공공외교법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "심재권의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-10",
+      "detail": "심재권의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1V9U0Y5N1B0Z1J5H0Y3Q0X9G1S9O2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1V9U0Y5N1B0Z1J5H0Y3Q0X9G1S9O2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1V9U0Y5N1B0Z1J5H0Y3Q0X9G1S9O2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

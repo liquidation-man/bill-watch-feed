@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1N9U0P5H2M0V1U0V5Q4J5M2W2O7Z6",
+  "title": "건강기능식품에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "금태섭의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-20",
+      "detail": "금태섭의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1N9U0P5H2M0V1U0V5Q4J5M2W2O7Z6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-12",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1N9U0P5H2M0V1U0V5Q4J5M2W2O7Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1N9U0P5H2M0V1U0V5Q4J5M2W2O7Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

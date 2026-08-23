@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z1I9R0M5C2C4M0C9N5J4F1B0M0R6F9",
+  "title": "주택법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "이정미의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-24",
+      "detail": "이정미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1I9R0M5C2C4M0C9N5J4F1B0M0R6F9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1I9R0M5C2C4M0C9N5J4F1B0M0R6F9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

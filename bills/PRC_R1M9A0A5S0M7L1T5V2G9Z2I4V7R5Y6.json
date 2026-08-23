@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1M9A0A5S0M7L1T5V2G9Z2I4V7R5Y6",
+  "title": "환경범죄 등의 단속 및 가중처벌에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김정우의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-07",
+      "detail": "김정우의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M9A0A5S0M7L1T5V2G9Z2I4V7R5Y6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-08",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M9A0A5S0M7L1T5V2G9Z2I4V7R5Y6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M9A0A5S0M7L1T5V2G9Z2I4V7R5Y6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1I9C0Y3S2X6C1N0I3Z9X5Q3S4J0U9",
+  "title": "노동교육 활성화에 관한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김동철의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-03-26",
+      "detail": "김동철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1I9C0Y3S2X6C1N0I3Z9X5Q3S4J0U9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-08",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1I9C0Y3S2X6C1N0I3Z9X5Q3S4J0U9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1I9C0Y3S2X6C1N0I3Z9X5Q3S4J0U9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

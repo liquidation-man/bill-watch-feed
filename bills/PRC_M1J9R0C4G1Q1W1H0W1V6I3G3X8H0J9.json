@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_M1J9R0C4G1Q1W1H0W1V6I3G3X8H0J9",
+  "title": "지방세법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "윤상현의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-11",
+      "detail": "윤상현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1J9R0C4G1Q1W1H0W1V6I3G3X8H0J9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1J9R0C4G1Q1W1H0W1V6I3G3X8H0J9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1J9R0C4G1Q1W1H0W1V6I3G3X8H0J9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "세금"
+  ]
+}

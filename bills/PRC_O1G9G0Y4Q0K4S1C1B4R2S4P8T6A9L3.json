@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O1G9G0Y4Q0K4S1C1B4R2S4P8T6A9L3",
+  "title": "군 공항 이전 및 지원에 관한 특별법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "송갑석의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-04-04",
+      "detail": "송갑석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1G9G0Y4Q0K4S1C1B4R2S4P8T6A9L3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-07-03",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1G9G0Y4Q0K4S1C1B4R2S4P8T6A9L3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1G9G0Y4Q0K4S1C1B4R2S4P8T6A9L3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

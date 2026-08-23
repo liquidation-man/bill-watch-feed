@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_G1F9G0X5T2W2H1R0L2T4U4E9S2Z9M6",
+  "title": "법학전문대학원 설치·운영에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "백혜련의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2019-05-22",
+      "detail": "백혜련의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F9G0X5T2W2H1R0L2T4U4E9S2Z9M6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-08-20",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F9G0X5T2W2H1R0L2T4U4E9S2Z9M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F9G0X5T2W2H1R0L2T4U4E9S2Z9M6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
