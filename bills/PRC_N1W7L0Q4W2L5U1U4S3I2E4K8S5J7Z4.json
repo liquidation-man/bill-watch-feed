@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1W7L0Q4W2L5U1U4S3I2E4K8S5J7Z4",
+  "title": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "제윤경의원 등 21인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-25",
+      "detail": "제윤경의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W7L0Q4W2L5U1U4S3I2E4K8S5J7Z4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-18",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W7L0Q4W2L5U1U4S3I2E4K8S5J7Z4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W7L0Q4W2L5U1U4S3I2E4K8S5J7Z4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

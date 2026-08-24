@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_G1O7M0U2D2A1K1T5X1G3C5Z7K8A9V6",
+  "title": "농어촌정비법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이개호의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-21",
+      "detail": "이개호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O7M0U2D2A1K1T5X1G3C5Z7K8A9V6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-01",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O7M0U2D2A1K1T5X1G3C5Z7K8A9V6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O7M0U2D2A1K1T5X1G3C5Z7K8A9V6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업",
+    "부동산"
+  ]
+}

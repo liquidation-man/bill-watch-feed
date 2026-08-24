@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1J7J0V3D3G0H1N4G2E9B1J1W7G3R5",
+  "title": "소방공무원 보건안전 및 복지 기본법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이재정의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-03-30",
+      "detail": "이재정의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1J7J0V3D3G0H1N4G2E9B1J1W7G3R5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1J7J0V3D3G0H1N4G2E9B1J1W7G3R5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

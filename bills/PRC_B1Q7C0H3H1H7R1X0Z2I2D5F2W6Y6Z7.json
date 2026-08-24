@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1Q7C0H3H1H7R1X0Z2I2D5F2W6Y6Z7",
+  "title": "출산·양육가정 지원에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "양승조의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-03-17",
+      "detail": "양승조의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7C0H3H1H7R1X0Z2I2D5F2W6Y6Z7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-08-23",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7C0H3H1H7R1X0Z2I2D5F2W6Y6Z7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7C0H3H1H7R1X0Z2I2D5F2W6Y6Z7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

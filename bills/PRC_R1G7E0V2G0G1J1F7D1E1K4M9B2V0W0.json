@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1G7E0V2G0G1J1F7D1E1K4M9B2V0W0",
+  "title": "에너지법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "유의동의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-01",
+      "detail": "유의동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1G7E0V2G0G1J1F7D1E1K4M9B2V0W0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": null,
+      "date": "2017-03-20",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1G7E0V2G0G1J1F7D1E1K4M9B2V0W0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1G7E0V2G0G1J1F7D1E1K4M9B2V0W0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

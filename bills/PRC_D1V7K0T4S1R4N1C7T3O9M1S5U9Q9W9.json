@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_D1V7K0T4S1R4N1C7T3O9M1S5U9Q9W9",
+  "title": "재해에 대한 기업 및 정부책임자 처벌에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "노회찬의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-14",
+      "detail": "노회찬의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V7K0T4S1R4N1C7T3O9M1S5U9Q9W9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V7K0T4S1R4N1C7T3O9M1S5U9Q9W9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V7K0T4S1R4N1C7T3O9M1S5U9Q9W9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

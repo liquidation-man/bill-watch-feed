@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1Z7J0M4Q1C7Q1R3X2A1F5B2L3X0K0",
+  "title": "정부조직법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박성중의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-17",
+      "detail": "박성중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z7J0M4Q1C7Q1R3X2A1F5B2L3X0K0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-07-04",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z7J0M4Q1C7Q1R3X2A1F5B2L3X0K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Z7J0M4Q1C7Q1R3X2A1F5B2L3X0K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

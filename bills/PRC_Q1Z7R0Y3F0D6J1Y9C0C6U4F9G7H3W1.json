@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1Z7R0Y3F0D6J1Y9C0C6U4F9G7H3W1",
+  "title": "특정범죄의 부정수익등재산의 국가귀속 및 피해구제에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "민병두의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-03-06",
+      "detail": "민병두의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Z7R0Y3F0D6J1Y9C0C6U4F9G7H3W1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Z7R0Y3F0D6J1Y9C0C6U4F9G7H3W1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Z7R0Y3F0D6J1Y9C0C6U4F9G7H3W1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

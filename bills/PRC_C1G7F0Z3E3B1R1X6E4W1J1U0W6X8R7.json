@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_C1G7F0Z3E3B1R1X6E4W1J1U0W6X8R7",
+  "title": "주택임대차보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "백혜련의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-03-31",
+      "detail": "백혜련의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1G7F0Z3E3B1R1X6E4W1J1U0W6X8R7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1G7F0Z3E3B1R1X6E4W1J1U0W6X8R7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1G7F0Z3E3B1R1X6E4W1J1U0W6X8R7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법",
+    "부동산"
+  ]
+}

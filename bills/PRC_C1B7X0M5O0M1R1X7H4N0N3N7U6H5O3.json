@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C1B7X0M5O0M1R1X7H4N0N3N7U6H5O3",
+  "title": "문준용의 한국고용정보원 취업특혜, 노무현 전 대통령 일가 640만불 뇌물수수, UN 북한 인권결의안 대북 결재사건 진상규명을 위한 특별검사의 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "최교일의원 등 86인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-05-01",
+      "detail": "최교일의원 등 86인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B7X0M5O0M1R1X7H4N0N3N7U6H5O3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B7X0M5O0M1R1X7H4N0N3N7U6H5O3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B7X0M5O0M1R1X7H4N0N3N7U6H5O3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1T7F0Z2Q0Z7B1A2P5S0L0F4E2C4F3",
+  "title": "제조물 책임법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "윤상직의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-07",
+      "detail": "윤상직의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T7F0Z2Q0Z7B1A2P5S0L0F4E2C4F3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T7F0Z2Q0Z7B1A2P5S0L0F4E2C4F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

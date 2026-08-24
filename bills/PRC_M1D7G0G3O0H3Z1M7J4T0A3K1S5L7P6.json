@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M1D7G0G3O0H3Z1M7J4T0A3K1S5L7P6",
+  "title": "학교시설의 개방 및 이용에 관한 법률안",
+  "committee": "교육위원회",
+  "proposer": "설훈의원 등 32인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-03-03",
+      "detail": "설훈의원 등 32인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1D7G0G3O0H3Z1M7J4T0A3K1S5L7P6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1D7G0G3O0H3Z1M7J4T0A3K1S5L7P6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

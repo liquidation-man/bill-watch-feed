@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1A7O0M4I0I5T1B0Y0K2D4F1Q0N5K3",
+  "title": "한국관광공사법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "조훈현의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-05",
+      "detail": "조훈현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1A7O0M4I0I5T1B0Y0K2D4F1Q0N5K3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-06-09",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1A7O0M4I0I5T1B0Y0K2D4F1Q0N5K3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

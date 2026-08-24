@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1W7G0Z2F0Q3T1Q5B3C4L1H8S0G8E2",
+  "title": "박근혜 정부의 최순실 등 민간인에 의한 국정농단 의혹 사건 규명을 위한 특별검사의 임명 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김진태의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-03",
+      "detail": "김진태의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W7G0Z2F0Q3T1Q5B3C4L1H8S0G8E2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W7G0Z2F0Q3T1Q5B3C4L1H8S0G8E2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

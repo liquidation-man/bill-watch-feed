@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U1R7E0F1D3A1E1D8S0V6Z0L3X9I7F0",
+  "title": "입양특례법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "남인순의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-01-31",
+      "detail": "남인순의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1R7E0F1D3A1E1D8S0V6Z0L3X9I7F0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-01-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1R7E0F1D3A1E1D8S0V6Z0L3X9I7F0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

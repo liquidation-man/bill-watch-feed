@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1Q7G0P5T1Z9U1Y2V0M8J1R1H4Z6F3",
+  "title": "국가회계법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "백재현의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-05-19",
+      "detail": "백재현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Q7G0P5T1Z9U1Y2V0M8J1R1H4Z6F3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Q7G0P5T1Z9U1Y2V0M8J1R1H4Z6F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Q7G0P5T1Z9U1Y2V0M8J1R1H4Z6F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

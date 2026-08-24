@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1Z7C0U5C3Q0N1I6S0D5I5Z1O2K1P9",
+  "title": "국가를 당사자로 하는 계약에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정동영의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-05-30",
+      "detail": "정동영의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Z7C0U5C3Q0N1I6S0D5I5Z1O2K1P9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Z7C0U5C3Q0N1I6S0D5I5Z1O2K1P9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Z7C0U5C3Q0N1I6S0D5I5Z1O2K1P9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

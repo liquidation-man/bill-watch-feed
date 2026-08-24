@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1B7W0H2Z2S1B1O0Q5Y7S2Q2T4V6B3",
+  "title": "대통령의 권한 남용 금지를 위한 특별법안",
+  "committee": "국회운영위원회",
+  "proposer": "강효상의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-21",
+      "detail": "강효상의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1B7W0H2Z2S1B1O0Q5Y7S2Q2T4V6B3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-21",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1B7W0H2Z2S1B1O0Q5Y7S2Q2T4V6B3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1B7W0H2Z2S1B1O0Q5Y7S2Q2T4V6B3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

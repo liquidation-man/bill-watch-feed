@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D1K7B0F5Y3Y1O1D5Q0Z6T4C9X9X8D8",
+  "title": "초·중등교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "양승조의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-05-31",
+      "detail": "양승조의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1K7B0F5Y3Y1O1D5Q0Z6T4C9X9X8D8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-06-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1K7B0F5Y3Y1O1D5Q0Z6T4C9X9X8D8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1Q7P0A4G0T6R1I3U4S1E5X3V3T6U3",
+  "title": "여수·순천 10·19사건 진상규명 및 희생자 명예회복·보상에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "정인화의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-06",
+      "detail": "정인화의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7P0A4G0T6R1I3U4S1E5X3V3T6U3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-06-26",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7P0A4G0T6R1I3U4S1E5X3V3T6U3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q7P0A4G0T6R1I3U4S1E5X3V3T6U3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

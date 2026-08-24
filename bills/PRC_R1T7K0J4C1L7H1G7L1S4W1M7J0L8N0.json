@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1T7K0J4C1L7H1G7L1S4W1M7J0L8N0",
+  "title": "국회에서의 증언·감정 등에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "장제원의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-17",
+      "detail": "장제원의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T7K0J4C1L7H1G7L1S4W1M7J0L8N0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-21",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T7K0J4C1L7H1G7L1S4W1M7J0L8N0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T7K0J4C1L7H1G7L1S4W1M7J0L8N0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

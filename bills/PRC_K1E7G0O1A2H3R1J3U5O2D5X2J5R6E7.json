@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1E7G0O1A2H3R1J3U5O2D5X2J5R6E7",
+  "title": "정당법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "송영길의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-01-23",
+      "detail": "송영길의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1E7G0O1A2H3R1J3U5O2D5X2J5R6E7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1E7G0O1A2H3R1J3U5O2D5X2J5R6E7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

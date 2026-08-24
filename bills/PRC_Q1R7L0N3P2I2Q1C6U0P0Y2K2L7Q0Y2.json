@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q1R7L0N3P2I2Q1C6U0P0Y2K2L7Q0Y2",
+  "title": "근로기준법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "윤영일의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-03-22",
+      "detail": "윤영일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1R7L0N3P2I2Q1C6U0P0Y2K2L7Q0Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1R7L0N3P2I2Q1C6U0P0Y2K2L7Q0Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

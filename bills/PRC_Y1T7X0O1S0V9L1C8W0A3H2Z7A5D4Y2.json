@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y1T7X0O1S0V9L1C8W0A3H2Z7A5D4Y2",
+  "title": "국헌문란 등 행위로 인한 부정수익의 국가귀속 및 피해자 권리구제에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "민병두의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-01-09",
+      "detail": "민병두의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1T7X0O1S0V9L1C8W0A3H2Z7A5D4Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-08-29",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1T7X0O1S0V9L1C8W0A3H2Z7A5D4Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1T7X0O1S0V9L1C8W0A3H2Z7A5D4Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

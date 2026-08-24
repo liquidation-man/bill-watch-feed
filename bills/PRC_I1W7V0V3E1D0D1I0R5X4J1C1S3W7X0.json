@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I1W7V0V3E1D0D1I0R5X4J1C1S3W7X0",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "유의동의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-03-10",
+      "detail": "유의동의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1W7V0V3E1D0D1I0R5X4J1C1S3W7X0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1W7V0V3E1D0D1I0R5X4J1C1S3W7X0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

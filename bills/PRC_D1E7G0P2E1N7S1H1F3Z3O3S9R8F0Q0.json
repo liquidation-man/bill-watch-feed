@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1E7G0P2E1N7S1H1F3Z3O3S9R8F0Q0",
+  "title": "군무원인사법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이종걸의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-17",
+      "detail": "이종걸의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1E7G0P2E1N7S1H1F3Z3O3S9R8F0Q0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-06-23",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1E7G0P2E1N7S1H1F3Z3O3S9R8F0Q0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1E7G0P2E1N7S1H1F3Z3O3S9R8F0Q0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1B7Z0C1G2H5V1G3M5E8U3A0C2G4G3",
+  "title": "범죄수익은닉의 규제 및 처벌 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김성원의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-01-25",
+      "detail": "김성원의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1B7Z0C1G2H5V1G3M5E8U3A0C2G4G3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-08-29",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1B7Z0C1G2H5V1G3M5E8U3A0C2G4G3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1B7Z0C1G2H5V1G3M5E8U3A0C2G4G3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

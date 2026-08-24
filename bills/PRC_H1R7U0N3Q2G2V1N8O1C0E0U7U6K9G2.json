@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1R7U0N3Q2G2V1N8O1C0E0U7U6K9G2",
+  "title": "형의 집행 및 수용자의 처우에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김동철의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-03-22",
+      "detail": "김동철의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1R7U0N3Q2G2V1N8O1C0E0U7U6K9G2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1R7U0N3Q2G2V1N8O1C0E0U7U6K9G2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1R7U0N3Q2G2V1N8O1C0E0U7U6K9G2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

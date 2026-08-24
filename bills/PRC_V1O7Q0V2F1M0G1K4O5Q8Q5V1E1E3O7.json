@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1O7Q0V2F1M0G1K4O5Q8Q5V1E1E3O7",
+  "title": "관세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김현미의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-02-10",
+      "detail": "김현미의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O7Q0V2F1M0G1K4O5Q8Q5V1E1E3O7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2017-03-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O7Q0V2F1M0G1K4O5Q8Q5V1E1E3O7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

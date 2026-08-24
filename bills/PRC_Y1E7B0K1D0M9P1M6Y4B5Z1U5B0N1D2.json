@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y1E7B0K1D0M9P1M6Y4B5Z1U5B0N1D2",
+  "title": "경찰공무원법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "윤재옥의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2017-01-09",
+      "detail": "윤재옥의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1E7B0K1D0M9P1M6Y4B5Z1U5B0N1D2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2017-01-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1E7B0K1D0M9P1M6Y4B5Z1U5B0N1D2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

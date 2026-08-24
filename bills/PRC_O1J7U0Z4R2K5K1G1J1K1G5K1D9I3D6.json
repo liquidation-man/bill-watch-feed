@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1J7U0Z4R2K5K1G1J1K1G5K1D9I3D6",
+  "title": "2018 평창 동계올림픽대회 및 동계패럴림픽대회 지원 등에 관한 특별법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "심기준의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": null,
+      "date": "2017-04-25",
+      "detail": "심기준의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J7U0Z4R2K5K1G1J1K1G5K1D9I3D6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J7U0Z4R2K5K1G1J1K1G5K1D9I3D6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J7U0Z4R2K5K1G1J1K1G5K1D9I3D6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}
