@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_D1O7X0H6B2H0L1Z5N1M5Z5G5O5N4X7",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "헌법개정 및 정치개혁 특별위원회",
+  "proposer": "백재현의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-20",
+      "detail": "백재현의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1O7X0H6B2H0L1Z5N1M5Z5G5O5N4X7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-01-23",
+      "detail": "헌법개정 및 정치개혁 특별위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1O7X0H6B2H0L1Z5N1M5Z5G5O5N4X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-04-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1O7X0H6B2H0L1Z5N1M5Z5G5O5N4X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-03-17",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1O7X0H6B2H0L1Z5N1M5Z5G5O5N4X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

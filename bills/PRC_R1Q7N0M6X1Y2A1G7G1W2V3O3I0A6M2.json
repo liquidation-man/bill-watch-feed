@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1Q7N0M6X1Y2A1G7G1W2V3O3I0A6M2",
+  "title": "저탄소 녹색성장 기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김상희의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-12",
+      "detail": "김상희의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Q7N0M6X1Y2A1G7G1W2V3O3I0A6M2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Q7N0M6X1Y2A1G7G1W2V3O3I0A6M2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Q7N0M6X1Y2A1G7G1W2V3O3I0A6M2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

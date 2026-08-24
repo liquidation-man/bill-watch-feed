@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1N7N0E7W2T7D1K3Q2W5D0M1O4S9T1",
+  "title": "지속가능발전법 전부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "송옥주의원 등 48인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-27",
+      "detail": "송옥주의원 등 48인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7N0E7W2T7D1K3Q2W5D0M1O4S9T1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-14",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7N0E7W2T7D1K3Q2W5D0M1O4S9T1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7N0E7W2T7D1K3Q2W5D0M1O4S9T1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

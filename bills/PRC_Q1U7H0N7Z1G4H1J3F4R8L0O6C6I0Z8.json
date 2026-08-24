@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1U7H0N7Z1G4H1J3F4R8L0O6C6I0Z8",
+  "title": "미군 위안부 문제에 대한 진상규명과 명예회복 및 지원 등에 관한 법률안",
+  "committee": "여성가족위원회",
+  "proposer": "유승희의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-14",
+      "detail": "유승희의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U7H0N7Z1G4H1J3F4R8L0O6C6I0Z8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-27",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U7H0N7Z1G4H1J3F4R8L0O6C6I0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U7H0N7Z1G4H1J3F4R8L0O6C6I0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

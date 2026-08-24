@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1G7R0K9S1C2Z1I1Y3D5A1L7O9B1I9",
+  "title": "형사소송법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이동섭의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-12",
+      "detail": "이동섭의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1G7R0K9S1C2Z1I1Y3D5A1L7O9B1I9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1G7R0K9S1C2Z1I1Y3D5A1L7O9B1I9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

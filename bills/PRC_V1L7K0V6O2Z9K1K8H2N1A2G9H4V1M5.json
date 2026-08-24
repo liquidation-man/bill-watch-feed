@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V1L7K0V6O2Z9K1K8H2N1A2G9H4V1M5",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "정치개혁 특별위원회",
+  "proposer": "박인숙의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-29",
+      "detail": "박인숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1L7K0V6O2Z9K1K8H2N1A2G9H4V1M5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-10-31",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1L7K0V6O2Z9K1K8H2N1A2G9H4V1M5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1M7Y0H6C0Q5A1M7H1M5N2X6W6M5P2",
+  "title": "문화예술진흥법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김철민의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-05",
+      "detail": "김철민의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M7Y0H6C0Q5A1M7H1M5N2X6W6M5P2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M7Y0H6C0Q5A1M7H1M5N2X6W6M5P2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1M7Y0H6C0Q5A1M7H1M5N2X6W6M5P2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

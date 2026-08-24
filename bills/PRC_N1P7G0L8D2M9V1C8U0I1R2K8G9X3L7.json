@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1P7G0L8D2M9V1C8U0I1R2K8G9X3L7",
+  "title": "축산물 위생관리법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김승희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-29",
+      "detail": "김승희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1P7G0L8D2M9V1C8U0I1R2K8G9X3L7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-09-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1P7G0L8D2M9V1C8U0I1R2K8G9X3L7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

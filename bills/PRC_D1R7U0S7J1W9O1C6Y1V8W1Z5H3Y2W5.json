@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1R7U0S7J1W9O1C6Y1V8W1Z5H3Y2W5",
+  "title": "군인사법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "서영교의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-19",
+      "detail": "서영교의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1R7U0S7J1W9O1C6Y1V8W1Z5H3Y2W5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-09-18",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1R7U0S7J1W9O1C6Y1V8W1Z5H3Y2W5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1R7U0S7J1W9O1C6Y1V8W1Z5H3Y2W5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

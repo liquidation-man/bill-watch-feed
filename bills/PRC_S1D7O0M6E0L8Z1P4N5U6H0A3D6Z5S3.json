@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1D7O0M6E0L8Z1P4N5U6H0A3D6Z5S3",
+  "title": "공공기관의 운영에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "홍익표의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-08",
+      "detail": "홍익표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1D7O0M6E0L8Z1P4N5U6H0A3D6Z5S3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1D7O0M6E0L8Z1P4N5U6H0A3D6Z5S3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1D7O0M6E0L8Z1P4N5U6H0A3D6Z5S3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

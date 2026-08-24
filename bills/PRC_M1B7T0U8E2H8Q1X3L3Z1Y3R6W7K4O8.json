@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1B7T0U8E2H8Q1X3L3Z1Y3R6W7K4O8",
+  "title": "외국인근로자의 고용 등에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "박광온의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-28",
+      "detail": "박광온의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1B7T0U8E2H8Q1X3L3Z1Y3R6W7K4O8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1B7T0U8E2H8Q1X3L3Z1Y3R6W7K4O8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1B7T0U8E2H8Q1X3L3Z1Y3R6W7K4O8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

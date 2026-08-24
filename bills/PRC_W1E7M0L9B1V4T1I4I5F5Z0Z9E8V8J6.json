@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W1E7M0L9B1V4T1I4I5F5Z0Z9E8V8J6",
+  "title": "동물보호법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "홍의락의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-14",
+      "detail": "홍의락의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1E7M0L9B1V4T1I4I5F5Z0Z9E8V8J6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1E7M0L9B1V4T1I4I5F5Z0Z9E8V8J6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

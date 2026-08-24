@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_X1S7F0F6X1E2U1W6U4U7L4Z0V0H1B4",
+  "title": "의용소방대 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김성원의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-12",
+      "detail": "김성원의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S7F0F6X1E2U1W6U4U7L4Z0V0H1B4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S7F0F6X1E2U1W6U4U7L4Z0V0H1B4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1S7F0F6X1E2U1W6U4U7L4Z0V0H1B4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

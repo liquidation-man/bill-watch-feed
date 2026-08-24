@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1W7X0L7Q1Q1O1J7M3V7D3L8B6I4G7",
+  "title": "교통안전법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "이동섭의원 등 21인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-11",
+      "detail": "이동섭의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1W7X0L7Q1Q1O1J7M3V7D3L8B6I4G7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1W7X0L7Q1Q1O1J7M3V7D3L8B6I4G7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1W7X0L7Q1Q1O1J7M3V7D3L8B6I4G7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1N7I0P9G0Q8D1U7R3B2A2H3Q5D1G2",
+  "title": "소년법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이석현의원 등 27인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-08",
+      "detail": "이석현의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7I0P9G0Q8D1U7R3B2A2H3Q5D1G2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-21",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7I0P9G0Q8D1U7R3B2A2H3Q5D1G2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N7I0P9G0Q8D1U7R3B2A2H3Q5D1G2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

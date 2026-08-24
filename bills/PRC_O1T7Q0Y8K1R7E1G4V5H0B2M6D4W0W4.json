@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1T7Q0Y8K1R7E1G4V5H0B2M6D4W0W4",
+  "title": "한국관광공사법 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김경수의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-17",
+      "detail": "김경수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T7Q0Y8K1R7E1G4V5H0B2M6D4W0W4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-03-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T7Q0Y8K1R7E1G4V5H0B2M6D4W0W4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T7Q0Y8K1R7E1G4V5H0B2M6D4W0W4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

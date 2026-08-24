@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L1K7O0N6S2X3X1H5L0L5N3C6V5D5O9",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "유승희의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-23",
+      "detail": "유승희의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1K7O0N6S2X3X1H5L0L5N3C6V5D5O9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1K7O0N6S2X3X1H5L0L5N3C6V5D5O9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

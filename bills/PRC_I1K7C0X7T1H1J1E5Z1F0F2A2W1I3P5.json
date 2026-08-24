@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1K7C0X7T1H1J1E5Z1F0F2A2W1I3P5",
+  "title": "공직자윤리법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박광온의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-11",
+      "detail": "박광온의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1K7C0X7T1H1J1E5Z1F0F2A2W1I3P5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-07-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1K7C0X7T1H1J1E5Z1F0F2A2W1I3P5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

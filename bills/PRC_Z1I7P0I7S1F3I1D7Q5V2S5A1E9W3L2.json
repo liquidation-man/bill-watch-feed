@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1I7P0I7S1F3I1D7Q5V2S5A1E9W3L2",
+  "title": "결핵예방법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박인숙의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-13",
+      "detail": "박인숙의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1I7P0I7S1F3I1D7Q5V2S5A1E9W3L2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-08-23",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1I7P0I7S1F3I1D7Q5V2S5A1E9W3L2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1I7P0I7S1F3I1D7Q5V2S5A1E9W3L2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

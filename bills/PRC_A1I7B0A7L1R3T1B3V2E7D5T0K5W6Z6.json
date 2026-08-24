@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1I7B0A7L1R3T1B3V2E7D5T0K5W6Z6",
+  "title": "공인탐정 및 공인탐정업에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이완영의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-13",
+      "detail": "이완영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1I7B0A7L1R3T1B3V2E7D5T0K5W6Z6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1I7B0A7L1R3T1B3V2E7D5T0K5W6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

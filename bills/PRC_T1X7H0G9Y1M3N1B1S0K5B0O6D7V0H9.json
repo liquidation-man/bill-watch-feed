@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1X7H0G9Y1M3N1B1S0K5B0O6D7V0H9",
+  "title": "낚시 관리 및 육성법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김종회의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-13",
+      "detail": "김종회의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X7H0G9Y1M3N1B1S0K5B0O6D7V0H9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-10-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X7H0G9Y1M3N1B1S0K5B0O6D7V0H9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

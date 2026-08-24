@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1X7E0A8X2H8T1G7Z3Z4P3Z1W5A4D4",
+  "title": "전선공동구 설치 등에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "이장우의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-28",
+      "detail": "이장우의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1X7E0A8X2H8T1G7Z3Z4P3Z1W5A4D4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-06",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1X7E0A8X2H8T1G7Z3Z4P3Z1W5A4D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1X7E0A8X2H8T1G7Z3Z4P3Z1W5A4D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_P1Z7N0E8W1L1N1X7Z3N0R3D6F4R2D4",
+  "title": "변형카메라의 관리에 관한 법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "장병완의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-11",
+      "detail": "장병완의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Z7N0E8W1L1N1X7Z3N0R3D6F4R2D4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-20",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Z7N0E8W1L1N1X7Z3N0R3D6F4R2D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Z7N0E8W1L1N1X7Z3N0R3D6F4R2D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

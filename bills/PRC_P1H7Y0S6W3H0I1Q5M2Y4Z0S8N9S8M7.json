@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1H7Y0S6W3H0I1Q5M2Y4Z0S8N9S8M7",
+  "title": "행정절차법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "권칠승의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-30",
+      "detail": "권칠승의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1H7Y0S6W3H0I1Q5M2Y4Z0S8N9S8M7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1H7Y0S6W3H0I1Q5M2Y4Z0S8N9S8M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1H7Y0S6W3H0I1Q5M2Y4Z0S8N9S8M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

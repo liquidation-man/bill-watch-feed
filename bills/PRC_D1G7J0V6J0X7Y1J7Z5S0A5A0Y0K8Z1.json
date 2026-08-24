@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1G7J0V6J0X7Y1J7Z5S0A5A0Y0K8Z1",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "송옥주의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-06-07",
+      "detail": "송옥주의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G7J0V6J0X7Y1J7Z5S0A5A0Y0K8Z1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G7J0V6J0X7Y1J7Z5S0A5A0Y0K8Z1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

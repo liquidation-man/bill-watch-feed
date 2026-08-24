@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1J7K0N7X2O0N1J1Q1K5P5K2J7U8A5",
+  "title": "스토킹 범죄 처벌 및 피해자 보호에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이동섭의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-20",
+      "detail": "이동섭의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1J7K0N7X2O0N1J1Q1K5P5K2J7U8A5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1J7K0N7X2O0N1J1Q1K5P5K2J7U8A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

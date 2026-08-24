@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1N7P0A7X0F4Z1K1X3D1Y1I4M6H0Z8",
+  "title": "6ㆍ3민주항쟁 유공자의 명예회복 및 보상에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "소병훈의원 등 23인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-07-04",
+      "detail": "소병훈의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N7P0A7X0F4Z1K1X3D1Y1I4M6H0Z8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N7P0A7X0F4Z1K1X3D1Y1I4M6H0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1N7P0A7X0F4Z1K1X3D1Y1I4M6H0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

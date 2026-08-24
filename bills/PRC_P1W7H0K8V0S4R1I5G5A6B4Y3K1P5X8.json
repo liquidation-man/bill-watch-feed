@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1W7H0K8V0S4R1I5G5A6B4Y3K1P5X8",
+  "title": "언론중재 및 피해구제 등에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "송희경의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-04",
+      "detail": "송희경의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W7H0K8V0S4R1I5G5A6B4Y3K1P5X8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-03-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W7H0K8V0S4R1I5G5A6B4Y3K1P5X8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W7H0K8V0S4R1I5G5A6B4Y3K1P5X8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

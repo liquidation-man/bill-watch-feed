@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1M7S0S9U0R5O1D5O5T5L1I4N1B1I2",
+  "title": "전자금융거래법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이동섭의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-05",
+      "detail": "이동섭의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1M7S0S9U0R5O1D5O5T5L1I4N1B1I2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1M7S0S9U0R5O1D5O5T5L1I4N1B1I2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

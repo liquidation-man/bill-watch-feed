@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1L7F0D8A0W1Y1V5P4G4E4G5G6D4I4",
+  "title": "개별소비세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "윤한홍의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-01",
+      "detail": "윤한홍의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1L7F0D8A0W1Y1V5P4G4E4G5G6D4I4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-11-09",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1L7F0D8A0W1Y1V5P4G4E4G5G6D4I4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

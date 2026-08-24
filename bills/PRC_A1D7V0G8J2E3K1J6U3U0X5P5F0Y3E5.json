@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1D7V0G8J2E3K1J6U3U0X5P5F0Y3E5",
+  "title": "공기업의 경영구조개선 및 민영화에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "인재근의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-23",
+      "detail": "인재근의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1D7V0G8J2E3K1J6U3U0X5P5F0Y3E5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-10",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1D7V0G8J2E3K1J6U3U0X5P5F0Y3E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1D7V0G8J2E3K1J6U3U0X5P5F0Y3E5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

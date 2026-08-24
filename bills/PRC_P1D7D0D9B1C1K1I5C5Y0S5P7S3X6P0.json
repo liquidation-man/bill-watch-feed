@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_P1D7D0D9B1C1K1I5C5Y0S5P7S3X6P0",
+  "title": "가사근로자의 고용개선 등에 대한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이정미의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-11",
+      "detail": "이정미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D7D0D9B1C1K1I5C5Y0S5P7S3X6P0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-23",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D7D0D9B1C1K1I5C5Y0S5P7S3X6P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D7D0D9B1C1K1I5C5Y0S5P7S3X6P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

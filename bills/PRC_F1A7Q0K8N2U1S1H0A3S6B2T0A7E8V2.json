@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1A7Q0K8N2U1S1H0A3S6B2T0A7E8V2",
+  "title": "농어촌주민의 보건복지 증진을 위한 특별법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "강석진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-21",
+      "detail": "강석진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A7Q0K8N2U1S1H0A3S6B2T0A7E8V2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-20",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A7Q0K8N2U1S1H0A3S6B2T0A7E8V2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A7Q0K8N2U1S1H0A3S6B2T0A7E8V2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

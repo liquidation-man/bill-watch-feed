@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1W7U0Y8O0N4P1A5J5F9Z0Q9P1N3Z6",
+  "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "정인화의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-04",
+      "detail": "정인화의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1W7U0Y8O0N4P1A5J5F9Z0Q9P1N3Z6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-03-19",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1W7U0Y8O0N4P1A5J5F9Z0Q9P1N3Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1W7U0Y8O0N4P1A5J5F9Z0Q9P1N3Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

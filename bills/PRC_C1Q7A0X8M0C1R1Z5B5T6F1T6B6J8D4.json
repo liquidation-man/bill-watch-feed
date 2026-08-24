@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1Q7A0X8M0C1R1Z5B5T6F1T6B6J8D4",
+  "title": "교통·에너지·환경세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "윤한홍의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-08-01",
+      "detail": "윤한홍의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Q7A0X8M0C1R1Z5B5T6F1T6B6J8D4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-11-09",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Q7A0X8M0C1R1Z5B5T6F1T6B6J8D4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}
