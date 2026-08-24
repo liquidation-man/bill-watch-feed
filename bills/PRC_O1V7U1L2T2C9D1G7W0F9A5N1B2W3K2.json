@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1V7U1L2T2C9D1G7W0F9A5N1B2W3K2",
+  "title": "국민건강보험과 실손의료보험의 연계에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김상희의원 등 43인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-29",
+      "detail": "김상희의원 등 43인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V7U1L2T2C9D1G7W0F9A5N1B2W3K2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-28",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V7U1L2T2C9D1G7W0F9A5N1B2W3K2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V7U1L2T2C9D1G7W0F9A5N1B2W3K2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

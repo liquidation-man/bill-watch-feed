@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1O7S1Y2R0Y7N1U7K5E0T2N8X9V8O2",
+  "title": "국회과학기술정책평가처법안",
+  "committee": "국회운영위원회",
+  "proposer": "유승희의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-07",
+      "detail": "유승희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O7S1Y2R0Y7N1U7K5E0T2N8X9V8O2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-12-14",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O7S1Y2R0Y7N1U7K5E0T2N8X9V8O2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

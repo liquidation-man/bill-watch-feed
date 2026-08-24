@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1B7H0A9B2C2F1K5X2C2N2N4D2P6I1",
+  "title": "독립유공자 피탈재산의 회복 및 보상에 관한 특별법안",
+  "committee": "정무위원회",
+  "proposer": "지상욱의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-22",
+      "detail": "지상욱의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B7H0A9B2C2F1K5X2C2N2N4D2P6I1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-11-27",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B7H0A9B2C2F1K5X2C2N2N4D2P6I1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B7H0A9B2C2F1K5X2C2N2N4D2P6I1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

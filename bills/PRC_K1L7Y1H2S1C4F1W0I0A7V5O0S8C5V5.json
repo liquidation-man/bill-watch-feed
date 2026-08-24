@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1L7Y1H2S1C4F1W0I0A7V5O0S8C5V5",
+  "title": "개인정보 보호법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "민경욱의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-14",
+      "detail": "민경욱의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1L7Y1H2S1C4F1W0I0A7V5O0S8C5V5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-01-31",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1L7Y1H2S1C4F1W0I0A7V5O0S8C5V5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1L7Y1H2S1C4F1W0I0A7V5O0S8C5V5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

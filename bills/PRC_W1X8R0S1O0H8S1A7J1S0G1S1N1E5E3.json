@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W1X8R0S1O0H8S1A7J1S0G1S1N1E5E3",
+  "title": "감사원법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박홍근의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-08",
+      "detail": "박홍근의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X8R0S1O0H8S1A7J1S0G1S1N1E5E3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X8R0S1O0H8S1A7J1S0G1S1N1E5E3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1M8F0E1P1B9E1W5C4G1F1T8M5L0E7",
+  "title": "비영리민간단체 지원법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "신보라의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-19",
+      "detail": "신보라의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M8F0E1P1B9E1W5C4G1F1T8M5L0E7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M8F0E1P1B9E1W5C4G1F1T8M5L0E7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

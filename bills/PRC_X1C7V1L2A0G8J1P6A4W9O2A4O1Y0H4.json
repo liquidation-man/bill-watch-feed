@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1C7V1L2A0G8J1P6A4W9O2A4O1Y0H4",
+  "title": "자율방재단 설치 및 운영에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "진선미의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-08",
+      "detail": "진선미의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C7V1L2A0G8J1P6A4W9O2A4O1Y0H4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C7V1L2A0G8J1P6A4W9O2A4O1Y0H4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

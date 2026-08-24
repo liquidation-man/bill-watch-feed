@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1W8P0I1P1Z7C0E9X3R8W2O9V3V0T4",
+  "title": "사회적 참사의 진상규명 및 안전사회 건설 등을 위한 특별법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "주광덕의원 등 33인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-17",
+      "detail": "주광덕의원 등 33인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W8P0I1P1Z7C0E9X3R8W2O9V3V0T4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-07-24",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W8P0I1P1Z7C0E9X3R8W2O9V3V0T4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W8P0I1P1Z7C0E9X3R8W2O9V3V0T4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

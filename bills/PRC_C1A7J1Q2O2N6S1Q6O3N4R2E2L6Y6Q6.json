@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1A7J1Q2O2N6S1Q6O3N4R2E2L6Y6Q6",
+  "title": "자율방범대 설치 및 지원에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김성원의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-26",
+      "detail": "김성원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A7J1Q2O2N6S1Q6O3N4R2E2L6Y6Q6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A7J1Q2O2N6S1Q6O3N4R2E2L6Y6Q6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

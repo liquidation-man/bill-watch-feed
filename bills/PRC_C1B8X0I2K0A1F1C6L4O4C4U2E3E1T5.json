@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1B8X0I2K0A1F1C6L4O4C4U2E3E1T5",
+  "title": "대한민국 국가법안",
+  "committee": "행정안전위원회",
+  "proposer": "정갑윤의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-01",
+      "detail": "정갑윤의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B8X0I2K0A1F1C6L4O4C4U2E3E1T5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B8X0I2K0A1F1C6L4O4C4U2E3E1T5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

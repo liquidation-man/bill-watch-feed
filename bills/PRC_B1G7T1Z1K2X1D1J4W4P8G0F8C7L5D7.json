@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1G7T1Z1K2X1D1J4W4P8G0F8C7L5D7",
+  "title": "부정청탁 및 금품등 수수의 금지에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "곽상도의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-21",
+      "detail": "곽상도의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G7T1Z1K2X1D1J4W4P8G0F8C7L5D7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-27",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G7T1Z1K2X1D1J4W4P8G0F8C7L5D7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G7T1Z1K2X1D1J4W4P8G0F8C7L5D7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

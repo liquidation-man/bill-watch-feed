@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1X7X1H2Q2E2Q1X6H1U2U3L0Z2B8A5",
+  "title": "민주평화통일자문회의법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "박주선의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-22",
+      "detail": "박주선의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X7X1H2Q2E2Q1X6H1U2U3L0Z2B8A5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-22",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X7X1H2Q2E2Q1X6H1U2U3L0Z2B8A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X7X1H2Q2E2Q1X6H1U2U3L0Z2B8A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

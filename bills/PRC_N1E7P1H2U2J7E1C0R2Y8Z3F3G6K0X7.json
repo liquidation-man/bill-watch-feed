@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1E7P1H2U2J7E1C0R2Y8Z3F3G6K0X7",
+  "title": "공중이용시설 등의 안전관리위반범죄 처벌 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "박주민의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-27",
+      "detail": "박주민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E7P1H2U2J7E1C0R2Y8Z3F3G6K0X7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-28",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E7P1H2U2J7E1C0R2Y8Z3F3G6K0X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E7P1H2U2J7E1C0R2Y8Z3F3G6K0X7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

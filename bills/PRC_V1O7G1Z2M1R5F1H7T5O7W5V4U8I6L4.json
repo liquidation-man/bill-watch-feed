@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1O7G1Z2M1R5F1H7T5O7W5V4U8I6L4",
+  "title": "고대역사문화권 연구·조사 및 발전에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "윤영일의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-15",
+      "detail": "윤영일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O7G1Z2M1R5F1H7T5O7W5V4U8I6L4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-06",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O7G1Z2M1R5F1H7T5O7W5V4U8I6L4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1O7G1Z2M1R5F1H7T5O7W5V4U8I6L4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

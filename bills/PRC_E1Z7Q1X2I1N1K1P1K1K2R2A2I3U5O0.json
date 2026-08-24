@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1Z7Q1X2I1N1K1P1K1K2R2A2I3U5O0",
+  "title": "비상대비자원 관리법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "박남춘의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-11",
+      "detail": "박남춘의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Z7Q1X2I1N1K1P1K1K2R2A2I3U5O0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Z7Q1X2I1N1K1P1K1K2R2A2I3U5O0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P1N7H0T9G1A5W1L6M5S2C3Y6X1D8W7",
+  "title": "경륜·경정법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "조훈현의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-15",
+      "detail": "조훈현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1N7H0T9G1A5W1L6M5S2C3Y6X1D8W7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-12-02",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1N7H0T9G1A5W1L6M5S2C3Y6X1D8W7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

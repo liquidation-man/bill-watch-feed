@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1J8G0Z1W1Y9A1T0B2U4V1X9P3I8Q7",
+  "title": "소비자집단소송법안",
+  "committee": "법제사법위원회",
+  "proposer": "이학영의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-19",
+      "detail": "이학영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1J8G0Z1W1Y9A1T0B2U4V1X9P3I8Q7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-01-31",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1J8G0Z1W1Y9A1T0B2U4V1X9P3I8Q7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

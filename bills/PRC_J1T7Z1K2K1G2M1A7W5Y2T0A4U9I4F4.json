@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J1T7Z1K2K1G2M1A7W5Y2T0A4U9I4F4",
+  "title": "국립묘지의 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김성찬의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-12",
+      "detail": "김성찬의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1T7Z1K2K1G2M1A7W5Y2T0A4U9I4F4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-12-15",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1T7Z1K2K1G2M1A7W5Y2T0A4U9I4F4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

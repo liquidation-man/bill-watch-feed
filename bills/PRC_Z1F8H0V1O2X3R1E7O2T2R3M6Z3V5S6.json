@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1F8H0V1O2X3R1E7O2T2R3M6Z3V5S6",
+  "title": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "기동민의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-23",
+      "detail": "기동민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F8H0V1O2X3R1E7O2T2R3M6Z3V5S6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-21",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F8H0V1O2X3R1E7O2T2R3M6Z3V5S6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F8H0V1O2X3R1E7O2T2R3M6Z3V5S6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

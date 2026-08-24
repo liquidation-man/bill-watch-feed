@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1Y7K1P0Z3M0E1T4D1C7Y2S1V9Z0F0",
+  "title": "청년주거안정지원 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "김현아의원 등 29인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-10-30",
+      "detail": "김현아의원 등 29인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Y7K1P0Z3M0E1T4D1C7Y2S1V9Z0F0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2017-12-12",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Y7K1P0Z3M0E1T4D1C7Y2S1V9Z0F0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Y7K1P0Z3M0E1T4D1C7Y2S1V9Z0F0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

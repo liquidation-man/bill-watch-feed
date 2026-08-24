@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1Q8K0X1O1M8T1H6S1C5C2I3I2D9L6",
+  "title": "감사원법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "추미애의원 등 89인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-18",
+      "detail": "추미애의원 등 89인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Q8K0X1O1M8T1H6S1C5C2I3I2D9L6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Q8K0X1O1M8T1H6S1C5C2I3I2D9L6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

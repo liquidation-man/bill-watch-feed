@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1S7S1E1E3P0V1D0R4N2B0R3H4Z4P0",
+  "title": "집단소송법안",
+  "committee": "법제사법위원회",
+  "proposer": "백혜련의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-30",
+      "detail": "백혜련의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1S7S1E1E3P0V1D0R4N2B0R3H4Z4P0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1S7S1E1E3P0V1D0R4N2B0R3H4Z4P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_T1K7S1N1B0L1V1Z0J5K7G4F5A5J4C9",
+  "title": "공유재산 및 물품 관리법 전부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "유재중의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-01",
+      "detail": "유재중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K7S1N1B0L1V1Z0J5K7G4F5A5J4C9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-01-31",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K7S1N1B0L1V1Z0J5K7G4F5A5J4C9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K7S1N1B0L1V1Z0J5K7G4F5A5J4C9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

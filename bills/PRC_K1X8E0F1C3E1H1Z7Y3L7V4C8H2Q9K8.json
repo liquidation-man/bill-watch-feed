@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1X8E0F1C3E1H1Z7Y3L7V4C8H2Q9K8",
+  "title": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박용진의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-31",
+      "detail": "박용진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X8E0F1C3E1H1Z7Y3L7V4C8H2Q9K8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-07-24",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X8E0F1C3E1H1Z7Y3L7V4C8H2Q9K8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1X8E0F1C3E1H1Z7Y3L7V4C8H2Q9K8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

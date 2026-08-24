@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1F7T1F1H0G9L1U6J2J2A2V2C3F0I0",
+  "title": "상속세 및 증여세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "노회찬의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-09",
+      "detail": "노회찬의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1F7T1F1H0G9L1U6J2J2A2V2C3F0I0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1F7T1F1H0G9L1U6J2J2A2V2C3F0I0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

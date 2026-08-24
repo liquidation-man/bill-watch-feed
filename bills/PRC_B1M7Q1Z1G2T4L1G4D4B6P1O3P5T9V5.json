@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1M7Q1Z1G2T4L1G4D4B6P1O3P5T9V5",
+  "title": "국가정보원법 일부개정법률안",
+  "committee": "정보위원회",
+  "proposer": "이태규의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-24",
+      "detail": "이태규의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1M7Q1Z1G2T4L1G4D4B6P1O3P5T9V5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1M7Q1Z1G2T4L1G4D4B6P1O3P5T9V5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

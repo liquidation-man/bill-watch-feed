@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1T8J0J1Z1J5S1D5I2O4J4V2G5T3Y8",
+  "title": "6·25전쟁 납북피해자 지원에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "윤상현의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-15",
+      "detail": "윤상현의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T8J0J1Z1J5S1D5I2O4J4V2G5T3Y8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-22",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T8J0J1Z1J5S1D5I2O4J4V2G5T3Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T8J0J1Z1J5S1D5I2O4J4V2G5T3Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

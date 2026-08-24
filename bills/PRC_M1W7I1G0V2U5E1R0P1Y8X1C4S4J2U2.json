@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M1W7I1G0V2U5E1R0P1Y8X1C4S4J2U2",
+  "title": "청소년 보호법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "신용현의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-10-25",
+      "detail": "신용현의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W7I1G0V2U5E1R0P1Y8X1C4S4J2U2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-12-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W7I1G0V2U5E1R0P1Y8X1C4S4J2U2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1N7W1S2O2M9U1J5V4F7K3R1Z4T1Y8",
+  "title": "사면법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "심재철의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-29",
+      "detail": "심재철의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1N7W1S2O2M9U1J5V4F7K3R1Z4T1Y8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1N7W1S2O2M9U1J5V4F7K3R1Z4T1Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

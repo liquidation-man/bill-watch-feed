@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1A7L1P1Y2O1C1W4V4Z5D3S4N9B7W7",
+  "title": "변호사법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "곽상도의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-21",
+      "detail": "곽상도의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A7L1P1Y2O1C1W4V4Z5D3S4N9B7W7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A7L1P1Y2O1C1W4V4Z5D3S4N9B7W7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

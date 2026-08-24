@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1G7U1D2V1R2G1E5H0T9E1X5C6L7A8",
+  "title": "성매매알선 등 행위의 처벌에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정갑윤의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-12-12",
+      "detail": "정갑윤의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G7U1D2V1R2G1E5H0T9E1X5C6L7A8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-28",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G7U1D2V1R2G1E5H0T9E1X5C6L7A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G7U1D2V1R2G1E5H0T9E1X5C6L7A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

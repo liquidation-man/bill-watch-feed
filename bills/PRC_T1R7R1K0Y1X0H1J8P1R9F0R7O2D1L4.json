@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1R7R1K0Y1X0H1J8P1R9F0R7O2D1L4",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "오신환의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-10-10",
+      "detail": "오신환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1R7R1K0Y1X0H1J8P1R9F0R7O2D1L4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1R7R1K0Y1X0H1J8P1R9F0R7O2D1L4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

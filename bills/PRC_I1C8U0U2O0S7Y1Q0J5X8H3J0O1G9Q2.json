@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1C8U0U2O0S7Y1Q0J5X8H3J0O1G9Q2",
+  "title": "임산부 지원 확대와 비밀출산에 관한 특별법안",
+  "committee": "보건복지위원회",
+  "proposer": "오신환의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-07",
+      "detail": "오신환의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C8U0U2O0S7Y1Q0J5X8H3J0O1G9Q2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-28",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C8U0U2O0S7Y1Q0J5X8H3J0O1G9Q2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C8U0U2O0S7Y1Q0J5X8H3J0O1G9Q2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

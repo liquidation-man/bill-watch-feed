@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1C8N0J1R1O5M1G8U4B4A1Q2X2Y6O0",
+  "title": "국가정보원법 전부개정법률안",
+  "committee": "정보위원회",
+  "proposer": "김병기의원 등 85인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-15",
+      "detail": "김병기의원 등 85인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1C8N0J1R1O5M1G8U4B4A1Q2X2Y6O0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1C8N0J1R1O5M1G8U4B4A1Q2X2Y6O0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

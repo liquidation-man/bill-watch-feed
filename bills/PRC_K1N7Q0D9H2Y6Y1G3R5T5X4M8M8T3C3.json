@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1N7Q0D9H2Y6Y1G3R5T5X4M8M8T3C3",
+  "title": "국악문화산업 진흥법안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김두관의원 등 36인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-09-26",
+      "detail": "김두관의원 등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N7Q0D9H2Y6Y1G3R5T5X4M8M8T3C3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-03-19",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N7Q0D9H2Y6Y1G3R5T5X4M8M8T3C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N7Q0D9H2Y6Y1G3R5T5X4M8M8T3C3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

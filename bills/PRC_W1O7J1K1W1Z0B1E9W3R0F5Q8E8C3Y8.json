@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1O7J1K1W1Z0B1E9W3R0F5Q8E8C3Y8",
+  "title": "4차 산업혁명 대비 신산업 창출과 산업혁신 지원법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "홍익표의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-10",
+      "detail": "홍익표의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O7J1K1W1Z0B1E9W3R0F5Q8E8C3Y8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-12",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O7J1K1W1Z0B1E9W3R0F5Q8E8C3Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1O7J1K1W1Z0B1E9W3R0F5Q8E8C3Y8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

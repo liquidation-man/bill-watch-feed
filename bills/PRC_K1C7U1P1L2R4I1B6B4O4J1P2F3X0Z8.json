@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1C7U1P1L2R4I1B6B4O4J1P2F3X0Z8",
+  "title": "문화유산과 자연환경자산에 관한 국민신탁법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이상돈의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-24",
+      "detail": "이상돈의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1C7U1P1L2R4I1B6B4O4J1P2F3X0Z8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-02-06",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1C7U1P1L2R4I1B6B4O4J1P2F3X0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1C7U1P1L2R4I1B6B4O4J1P2F3X0Z8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

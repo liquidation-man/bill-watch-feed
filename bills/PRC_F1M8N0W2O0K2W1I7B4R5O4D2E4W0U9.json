@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1M8N0W2O0K2W1I7B4R5O4D2E4W0U9",
+  "title": "고등교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "한선교의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-02",
+      "detail": "한선교의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1M8N0W2O0K2W1I7B4R5O4D2E4W0U9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-02-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1M8N0W2O0K2W1I7B4R5O4D2E4W0U9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

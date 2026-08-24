@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1F7D1W1O2Y8G1O0Y2G5J2R2B5W1H6",
+  "title": "국정감사 및 조사에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "정용기의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2017-11-28",
+      "detail": "정용기의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1F7D1W1O2Y8G1O0Y2G5J2R2B5W1H6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-20",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1F7D1W1O2Y8G1O0Y2G5J2R2B5W1H6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1F7D1W1O2Y8G1O0Y2G5J2R2B5W1H6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

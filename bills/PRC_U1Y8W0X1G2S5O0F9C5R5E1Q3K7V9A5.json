@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U1Y8W0X1G2S5O0F9C5R5E1Q3K7V9A5",
+  "title": "헌병의 직무수행 및 안전활동에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "이철희의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-01-25",
+      "detail": "이철희의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Y8W0X1G2S5O0F9C5R5E1Q3K7V9A5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Y8W0X1G2S5O0F9C5R5E1Q3K7V9A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
