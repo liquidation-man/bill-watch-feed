@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_D1U8L0L4S1A7C1T5H3I4M4O6Y5C4Q7",
+  "title": "민주당원 댓글조작 사건 및 김경수 의원 등 연루 의혹 진상규명을 위한 특별검사의 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "최교일의원 등 114인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-17",
+      "detail": "최교일의원 등 114인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U8L0L4S1A7C1T5H3I4M4O6Y5C4Q7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U8L0L4S1A7C1T5H3I4M4O6Y5C4Q7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U8L0L4S1A7C1T5H3I4M4O6Y5C4Q7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U8L0L4S1A7C1T5H3I4M4O6Y5C4Q7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1S8Q0K2F1L2J1O6Q4Z9O2B5P9G5A6",
+  "title": "게임산업진흥에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "김경협의원 등 26인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-12",
+      "detail": "김경협의원 등 26인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1S8Q0K2F1L2J1O6Q4Z9O2B5P9G5A6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-10",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1S8Q0K2F1L2J1O6Q4Z9O2B5P9G5A6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1S8Q0K2F1L2J1O6Q4Z9O2B5P9G5A6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1K8O0M3B2C7R1U3K4N3J2V7H3Z1Y6",
+  "title": "산업집적활성화 및 공장설립에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "김병관의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-27",
+      "detail": "김병관의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1K8O0M3B2C7R1U3K4N3J2V7H3Z1Y6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-23",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1K8O0M3B2C7R1U3K4N3J2V7H3Z1Y6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1K8O0M3B2C7R1U3K4N3J2V7H3Z1Y6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

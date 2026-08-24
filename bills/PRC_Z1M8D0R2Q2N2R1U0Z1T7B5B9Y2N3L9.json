@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1M8D0R2Q2N2R1U0Z1T7B5B9Y2N3L9",
+  "title": "소프트웨어 안전 기본법안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "박정의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-22",
+      "detail": "박정의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1M8D0R2Q2N2R1U0Z1T7B5B9Y2N3L9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-19",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1M8D0R2Q2N2R1U0Z1T7B5B9Y2N3L9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1M8D0R2Q2N2R1U0Z1T7B5B9Y2N3L9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

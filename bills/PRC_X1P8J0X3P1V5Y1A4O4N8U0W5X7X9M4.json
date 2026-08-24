@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_X1P8J0X3P1V5Y1A4O4N8U0W5X7X9M4",
+  "title": "농어촌 등 보건의료를 위한 특별조치법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김병기의원 등 19인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-15",
+      "detail": "김병기의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1P8J0X3P1V5Y1A4O4N8U0W5X7X9M4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-28",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1P8J0X3P1V5Y1A4O4N8U0W5X7X9M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1P8J0X3P1V5Y1A4O4N8U0W5X7X9M4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

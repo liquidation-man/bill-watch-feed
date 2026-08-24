@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1Z8Z0J4A0V4C1E7F4P9H0L7B1F5S4",
+  "title": "신문 등의 진흥에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "박성중의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-04",
+      "detail": "박성중의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z8Z0J4A0V4C1E7F4P9H0L7B1F5S4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-10",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z8Z0J4A0V4C1E7F4P9H0L7B1F5S4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Z8Z0J4A0V4C1E7F4P9H0L7B1F5S4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

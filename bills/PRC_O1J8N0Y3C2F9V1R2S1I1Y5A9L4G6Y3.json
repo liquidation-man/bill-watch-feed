@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1J8N0Y3C2F9V1R2S1I1Y5A9L4G6Y3",
+  "title": "민족통일협의회 지원에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "정우택의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-29",
+      "detail": "정우택의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J8N0Y3C2F9V1R2S1I1Y5A9L4G6Y3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-17",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J8N0Y3C2F9V1R2S1I1Y5A9L4G6Y3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1J8N0Y3C2F9V1R2S1I1Y5A9L4G6Y3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

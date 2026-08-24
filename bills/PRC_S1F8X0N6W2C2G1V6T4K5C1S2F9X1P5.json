@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1F8X0N6W2C2G1V6T4K5C1S2F9X1P5",
+  "title": "국립묘지의 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김중로의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-06-22",
+      "detail": "김중로의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1F8X0N6W2C2G1V6T4K5C1S2F9X1P5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-22",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1F8X0N6W2C2G1V6T4K5C1S2F9X1P5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1F8X0N6W2C2G1V6T4K5C1S2F9X1P5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

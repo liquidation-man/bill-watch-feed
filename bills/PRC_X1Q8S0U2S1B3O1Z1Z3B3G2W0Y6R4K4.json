@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1Q8S0U2S1B3O1Z1Z3B3G2W0Y6R4K4",
+  "title": "혐오표현규제법안",
+  "committee": "국회운영위원회",
+  "proposer": "김부겸의원 등 20인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-13",
+      "detail": "김부겸의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1Q8S0U2S1B3O1Z1Z3B3G2W0Y6R4K4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-02-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1Q8S0U2S1B3O1Z1Z3B3G2W0Y6R4K4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

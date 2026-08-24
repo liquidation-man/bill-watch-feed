@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1T8J0V6R2A7X1W3G3F7L5M8F1U3E7",
+  "title": "국민공휴일법안",
+  "committee": "행정안전위원회",
+  "proposer": "이종배의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-06-27",
+      "detail": "이종배의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1T8J0V6R2A7X1W3G3F7L5M8F1U3E7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1T8J0V6R2A7X1W3G3F7L5M8F1U3E7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

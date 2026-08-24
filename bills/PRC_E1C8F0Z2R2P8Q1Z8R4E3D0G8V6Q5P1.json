@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_E1C8F0Z2R2P8Q1Z8R4E3D0G8V6Q5P1",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "황주홍의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-28",
+      "detail": "황주홍의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C8F0Z2R2P8Q1Z8R4E3D0G8V6Q5P1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-28",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C8F0Z2R2P8Q1Z8R4E3D0G8V6Q5P1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C8F0Z2R2P8Q1Z8R4E3D0G8V6Q5P1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

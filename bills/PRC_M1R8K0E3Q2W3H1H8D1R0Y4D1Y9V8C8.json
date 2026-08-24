@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1R8K0E3Q2W3H1H8D1R0Y4D1Y9V8C8",
+  "title": "국회사무처법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이완영의원 등 57인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-23",
+      "detail": "이완영의원 등 57인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R8K0E3Q2W3H1H8D1R0Y4D1Y9V8C8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-20",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R8K0E3Q2W3H1H8D1R0Y4D1Y9V8C8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1R8K0E3Q2W3H1H8D1R0Y4D1Y9V8C8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

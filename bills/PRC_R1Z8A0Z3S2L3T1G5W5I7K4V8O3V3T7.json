@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1Z8A0Z3S2L3T1G5W5I7K4V8O3V3T7",
+  "title": "빈집 및 소규모주택 정비에 관한 특례법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "최인호의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-23",
+      "detail": "최인호의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Z8A0Z3S2L3T1G5W5I7K4V8O3V3T7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2020-04-28",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Z8A0Z3S2L3T1G5W5I7K4V8O3V3T7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Z8A0Z3S2L3T1G5W5I7K4V8O3V3T7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

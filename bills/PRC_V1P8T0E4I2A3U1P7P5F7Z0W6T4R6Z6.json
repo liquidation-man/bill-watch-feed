@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_V1P8T0E4I2A3U1P7P5F7Z0W6T4R6Z6",
+  "title": "더불어민주당원 등의 대통령선거 댓글공작 및 여론조작 사건과 관련된 진상규명을 위한 특별검사의 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김성태의원 등 3인 외 154인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-23",
+      "detail": "김성태의원 등 3인 외 154인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1P8T0E4I2A3U1P7P5F7Z0W6T4R6Z6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1P8T0E4I2A3U1P7P5F7Z0W6T4R6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1P8T0E4I2A3U1P7P5F7Z0W6T4R6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1P8T0E4I2A3U1P7P5F7Z0W6T4R6Z6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

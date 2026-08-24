@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z1W8A0S3A1P4O1Q4S4C9C1J0I9H7H3",
+  "title": "검시관의 자격과 직무 등에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "진선미의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-14",
+      "detail": "진선미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1W8A0S3A1P4O1Q4S4C9C1J0I9H7H3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1W8A0S3A1P4O1Q4S4C9C1J0I9H7H3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

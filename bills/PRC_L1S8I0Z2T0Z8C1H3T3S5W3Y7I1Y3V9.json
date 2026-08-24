@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1S8I0Z2T0Z8C1H3T3S5W3Y7I1Y3V9",
+  "title": "지방교육자치에 관한 법률 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "신창현의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-08",
+      "detail": "신창현의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S8I0Z2T0Z8C1H3T3S5W3Y7I1Y3V9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-08",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S8I0Z2T0Z8C1H3T3S5W3Y7I1Y3V9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S8I0Z2T0Z8C1H3T3S5W3Y7I1Y3V9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J1Z8X0N3U2R8Z1O4V1I1C5H4G2Z4P0",
+  "title": "강제퇴거 제한에 관한 특별법안",
+  "committee": "국토교통위원회",
+  "proposer": "정동영의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-28",
+      "detail": "정동영의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z8X0N3U2R8Z1O4V1I1C5H4G2Z4P0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Z8X0N3U2R8Z1O4V1I1C5H4G2Z4P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1R8E0V6A2H6Q1L4M4Q6G0P3B6C2K0",
+  "title": "방사선 및 방사성동위원소 이용진흥법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "송옥주의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-06-26",
+      "detail": "송옥주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1R8E0V6A2H6Q1L4M4Q6G0P3B6C2K0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-19",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1R8E0V6A2H6Q1L4M4Q6G0P3B6C2K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1R8E0V6A2H6Q1L4M4Q6G0P3B6C2K0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

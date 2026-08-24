@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1Z8F0M3P2K2G0E9J4G3W4G1Y4D5A8",
+  "title": "경찰법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "진선미의원 등 36인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-22",
+      "detail": "진선미의원 등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z8F0M3P2K2G0E9J4G3W4G1Y4D5A8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2019-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z8F0M3P2K2G0E9J4G3W4G1Y4D5A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Z8F0M3P2K2G0E9J4G3W4G1Y4D5A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

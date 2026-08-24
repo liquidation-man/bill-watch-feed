@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1H8K0V4H1B8C1C3G4H8V5E2H7B0L3",
+  "title": "도시공원 및 녹지 등에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김석기의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-18",
+      "detail": "김석기의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1H8K0V4H1B8C1C3G4H8V5E2H7B0L3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-05-21",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1H8K0V4H1B8C1C3G4H8V5E2H7B0L3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_I1R8A0N3E2I3Z1N7D1R4S0R2S7A2D7",
+  "title": "걷기여행길의 조성·관리 및 이용촉진에 관한 법률안",
+  "committee": "문화체육관광위원회",
+  "proposer": "위성곤의원 등 30인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-23",
+      "detail": "위성곤의원 등 30인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1R8A0N3E2I3Z1N7D1R4S0R2S7A2D7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-09-10",
+      "detail": "문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1R8A0N3E2I3Z1N7D1R4S0R2S7A2D7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1R8A0N3E2I3Z1N7D1R4S0R2S7A2D7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "문화"
+  ]
+}

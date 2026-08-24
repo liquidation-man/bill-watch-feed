@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_L1P8G0A4N0Y3N1Y8N5L7W3I1F9Q5G8",
+  "title": "동·서·남해안 및 내륙권 발전 특별법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "강훈식의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-03",
+      "detail": "강훈식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1P8G0A4N0Y3N1Y8N5L7W3I1F9Q5G8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-11-22",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1P8G0A4N0Y3N1Y8N5L7W3I1F9Q5G8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1P8G0A4N0Y3N1Y8N5L7W3I1F9Q5G8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

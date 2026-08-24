@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1Z8B0Y4I1S7H1E3Q4Z0I1R4T8R8O7",
+  "title": "디자인보호법 일부개정법률안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "홍의락의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-17",
+      "detail": "홍의락의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Z8B0Y4I1S7H1E3Q4Z0I1R4T8R8O7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-23",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Z8B0Y4I1S7H1E3Q4Z0I1R4T8R8O7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Z8B0Y4I1S7H1E3Q4Z0I1R4T8R8O7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

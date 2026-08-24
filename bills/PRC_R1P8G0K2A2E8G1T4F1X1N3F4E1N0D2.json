@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1P8G0K2A2E8G1T4F1X1N3F4E1N0D2",
+  "title": "공공기관의 정보공개에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김재원의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-02-28",
+      "detail": "김재원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1P8G0K2A2E8G1T4F1X1N3F4E1N0D2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1P8G0K2A2E8G1T4F1X1N3F4E1N0D2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

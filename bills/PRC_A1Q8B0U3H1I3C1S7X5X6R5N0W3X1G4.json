@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1Q8B0U3H1I3C1S7X5X6R5N0W3X1G4",
+  "title": "성별에 의한 차별ㆍ성희롱 금지 및 권리구제 등에 관한 법률안",
+  "committee": "여성가족위원회",
+  "proposer": "남인순의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-03-13",
+      "detail": "남인순의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Q8B0U3H1I3C1S7X5X6R5N0W3X1G4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "문재인정부",
+      "date": "2018-08-21",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Q8B0U3H1I3C1S7X5X6R5N0W3X1G4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Q8B0U3H1I3C1S7X5X6R5N0W3X1G4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1T8V0M6A2E5B1A7M3F0V4O6Z0W8A8",
+  "title": "민법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이태규의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-06-25",
+      "detail": "이태규의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1T8V0M6A2E5B1A7M3F0V4O6Z0W8A8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1T8V0M6A2E5B1A7M3F0V4O6Z0W8A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

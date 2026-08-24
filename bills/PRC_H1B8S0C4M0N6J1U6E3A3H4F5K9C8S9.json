@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H1B8S0C4M0N6J1U6E3A3H4F5K9C8S9",
+  "title": "공직자 등의 병역사항 신고 및 공개에 관한 법률 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김병기의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "문재인정부",
+      "date": "2018-04-06",
+      "detail": "김병기의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1B8S0C4M0N6J1U6E3A3H4F5K9C8S9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2018-04-10",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1B8S0C4M0N6J1U6E3A3H4F5K9C8S9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
