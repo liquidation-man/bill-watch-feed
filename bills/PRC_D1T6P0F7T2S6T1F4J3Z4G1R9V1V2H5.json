@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1T6P0F7T2S6T1F4J3Z4G1R9V1V2H5",
+  "title": "한국국제협력단법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "주승용의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-26",
+      "detail": "주승용의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1T6P0F7T2S6T1F4J3Z4G1R9V1V2H5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-09-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1T6P0F7T2S6T1F4J3Z4G1R9V1V2H5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

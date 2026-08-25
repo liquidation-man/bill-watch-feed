@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T1R6H0F6F2I3X1E5E0B9U3S5L1U1S7",
+  "title": "환경미화원 고용안정 및 근로조건 개선을 위한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이정미의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-23",
+      "detail": "이정미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1R6H0F6F2I3X1E5E0B9U3S5L1U1S7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-21",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1R6H0F6F2I3X1E5E0B9U3S5L1U1S7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1R6H0F6F2I3X1E5E0B9U3S5L1U1S7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T1A6E0T8B0H1W1Z1G2P0F1G4G9G8M3",
+  "title": "기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "오제세의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-01",
+      "detail": "오제세의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1A6E0T8B0H1W1Z1G2P0F1G4G9G8M3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-21",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1A6E0T8B0H1W1Z1G2P0F1G4G9G8M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1A6E0T8B0H1W1Z1G2P0F1G4G9G8M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1A6H0W9Y0L2L1R8W4Z7X5X7K1H0H0",
+  "title": "산업입지 및 개발에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "주승용의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-09-02",
+      "detail": "주승용의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1A6H0W9Y0L2L1R8W4Z7X5X7K1H0H0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1A6H0W9Y0L2L1R8W4Z7X5X7K1H0H0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1A6H0W9Y0L2L1R8W4Z7X5X7K1H0H0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

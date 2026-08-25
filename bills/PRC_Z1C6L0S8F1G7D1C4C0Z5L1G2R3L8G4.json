@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1C6L0S8F1G7D1C4C0Z5L1G2R3L8G4",
+  "title": "제주4·3사건 진상규명 및 희생자 명예회복에 관한 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "강창일의원 등 33인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-17",
+      "detail": "강창일의원 등 33인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1C6L0S8F1G7D1C4C0Z5L1G2R3L8G4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-07",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1C6L0S8F1G7D1C4C0Z5L1G2R3L8G4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1C6L0S8F1G7D1C4C0Z5L1G2R3L8G4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1E6J0J9P2Q3Y1T7Y1S3D1R4T6A0A1",
+  "title": "지방어린이재활병원의 설립 및 운영에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박범계의원 등 81인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-09-23",
+      "detail": "박범계의원 등 81인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1E6J0J9P2Q3Y1T7Y1S3D1R4T6A0A1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-10-31",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1E6J0J9P2Q3Y1T7Y1S3D1R4T6A0A1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1E6J0J9P2Q3Y1T7Y1S3D1R4T6A0A1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

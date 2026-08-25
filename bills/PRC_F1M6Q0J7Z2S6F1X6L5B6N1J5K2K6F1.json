@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1M6Q0J7Z2S6F1X6L5B6N1J5K2K6F1",
+  "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "제윤경의원 등 28인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-26",
+      "detail": "제윤경의원 등 28인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1M6Q0J7Z2S6F1X6L5B6N1J5K2K6F1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-12-08",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1M6Q0J7Z2S6F1X6L5B6N1J5K2K6F1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1M6Q0J7Z2S6F1X6L5B6N1J5K2K6F1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

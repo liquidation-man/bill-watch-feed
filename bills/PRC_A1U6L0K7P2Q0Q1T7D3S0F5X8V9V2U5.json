@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1U6L0K7P2Q0Q1T7D3S0F5X8V9V2U5",
+  "title": "물류시설의 개발 및 운영에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박용진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-20",
+      "detail": "박용진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1U6L0K7P2Q0Q1T7D3S0F5X8V9V2U5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-07",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1U6L0K7P2Q0Q1T7D3S0F5X8V9V2U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1U6L0K7P2Q0Q1T7D3S0F5X8V9V2U5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

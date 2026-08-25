@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O1Q6H0E8X2J9F1M7A1I8E2X0R8Q7H8",
+  "title": "도서개발 촉진법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "윤영일의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-29",
+      "detail": "윤영일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Q6H0E8X2J9F1M7A1I8E2X0R8Q7H8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-10-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1Q6H0E8X2J9F1M7A1I8E2X0R8Q7H8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

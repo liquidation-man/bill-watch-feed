@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1H6N0Y7I0C7W1G8G1J5F0C8U2L4O1",
+  "title": "생활화학용품 피해배상 및 구제에 관한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이언주의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-07",
+      "detail": "이언주의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1H6N0Y7I0C7W1G8G1J5F0C8U2L4O1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-21",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1H6N0Y7I0C7W1G8G1J5F0C8U2L4O1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1H6N0Y7I0C7W1G8G1J5F0C8U2L4O1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

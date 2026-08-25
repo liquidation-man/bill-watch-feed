@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U1Q6P0K6M2Y4U1O7Y2M8I2C1E5R9J0",
+  "title": "소금산업 진흥법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "이개호의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-24",
+      "detail": "이개호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Q6P0K6M2Y4U1O7Y2M8I2C1E5R9J0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Q6P0K6M2Y4U1O7Y2M8I2C1E5R9J0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

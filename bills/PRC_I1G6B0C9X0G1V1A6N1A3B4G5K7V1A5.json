@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I1G6B0C9X0G1V1A6N1A3B4G5K7V1A5",
+  "title": "법인세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박영선의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-09-01",
+      "detail": "박영선의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1G6B0C9X0G1V1A6N1A3B4G5K7V1A5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-09-26",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1G6B0C9X0G1V1A6N1A3B4G5K7V1A5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

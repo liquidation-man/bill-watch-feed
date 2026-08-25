@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1E6C0O7C0U7I1C5K4G0E1M9F7Q3Z2",
+  "title": "주한미군 공여구역주변지역 등 지원 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "도종환의원 등 29인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-07",
+      "detail": "도종환의원 등 29인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1E6C0O7C0U7I1C5K4G0E1M9F7Q3Z2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-07",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1E6C0O7C0U7I1C5K4G0E1M9F7Q3Z2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1E6C0O7C0U7I1C5K4G0E1M9F7Q3Z2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

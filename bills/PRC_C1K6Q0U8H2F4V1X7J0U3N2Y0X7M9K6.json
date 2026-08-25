@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1K6Q0U8H2F4V1X7J0U3N2Y0X7M9K6",
+  "title": "원자력안전법 일부개정법률안",
+  "committee": "과학기술정보방송통신위원회",
+  "proposer": "배덕광의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-24",
+      "detail": "배덕광의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1K6Q0U8H2F4V1X7J0U3N2Y0X7M9K6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-09",
+      "detail": "과학기술정보방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1K6Q0U8H2F4V1X7J0U3N2Y0X7M9K6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1K6Q0U8H2F4V1X7J0U3N2Y0X7M9K6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

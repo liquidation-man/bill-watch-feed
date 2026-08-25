@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1S6I0Z8X1I6Z1E6B4S4A0E4C4Z5M7",
+  "title": "기부금품의 모집 및 사용에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "안호영의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-16",
+      "detail": "안호영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1S6I0Z8X1I6Z1E6B4S4A0E4C4Z5M7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-07",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1S6I0Z8X1I6Z1E6B4S4A0E4C4Z5M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1S6I0Z8X1I6Z1E6B4S4A0E4C4Z5M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

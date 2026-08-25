@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C1N6W0O6P2W0E1W0P3D5A5G8M6B3B2",
+  "title": "각급 법원의 설치와 관할구역에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "양승조의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-20",
+      "detail": "양승조의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1N6W0O6P2W0E1W0P3D5A5G8M6B3B2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1N6W0O6P2W0E1W0P3D5A5G8M6B3B2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1N6W0O6P2W0E1W0P3D5A5G8M6B3B2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1H6G0H9H2V8H1Q4P5T4I5L5L8N4F5",
+  "title": "일본군위안부 피해자 유엔 기림일 지정 운동과 유네스코 세계기록유산 등재 운동 등에 대한 국회의 지원에 관한 법률안",
+  "committee": "국회운영위원회",
+  "proposer": "추혜선의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-09-28",
+      "detail": "추혜선의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1H6G0H9H2V8H1Q4P5T4I5L5L8N4F5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-17",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1H6G0H9H2V8H1Q4P5T4I5L5L8N4F5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1H6G0H9H2V8H1Q4P5T4I5L5L8N4F5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

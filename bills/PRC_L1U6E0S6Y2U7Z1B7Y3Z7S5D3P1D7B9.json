@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L1U6E0S6Y2U7Z1B7Y3Z7S5D3P1D7B9",
+  "title": "고문방지 및 고문피해자 구제ㆍ지원에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "인재근의원 등 56인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-27",
+      "detail": "인재근의원 등 56인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1U6E0S6Y2U7Z1B7Y3Z7S5D3P1D7B9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1U6E0S6Y2U7Z1B7Y3Z7S5D3P1D7B9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

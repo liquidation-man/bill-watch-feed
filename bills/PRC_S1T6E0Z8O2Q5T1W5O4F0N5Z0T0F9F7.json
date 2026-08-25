@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1T6E0Z8O2Q5T1W5O4F0N5Z0T0F9F7",
+  "title": "국군의 해외파견활동에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "김영우의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-25",
+      "detail": "김영우의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T6E0Z8O2Q5T1W5O4F0N5Z0T0F9F7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-08",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T6E0Z8O2Q5T1W5O4F0N5Z0T0F9F7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T6E0Z8O2Q5T1W5O4F0N5Z0T0F9F7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

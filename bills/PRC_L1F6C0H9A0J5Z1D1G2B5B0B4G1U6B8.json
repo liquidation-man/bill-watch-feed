@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_L1F6C0H9A0J5Z1D1G2B5B0B4G1U6B8",
+  "title": "국민방위군 사건 진상규명 및 명예회복에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "박정의원 등 36인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-09-05",
+      "detail": "박정의원 등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F6C0H9A0J5Z1D1G2B5B0B4G1U6B8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-22",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F6C0H9A0J5Z1D1G2B5B0B4G1U6B8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F6C0H9A0J5Z1D1G2B5B0B4G1U6B8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

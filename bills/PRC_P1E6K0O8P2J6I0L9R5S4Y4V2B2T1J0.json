@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1E6K0O8P2J6I0L9R5S4Y4V2B2T1J0",
+  "title": "상속세 및 증여세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박주현의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-08-26",
+      "detail": "박주현의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1E6K0O8P2J6I0L9R5S4Y4V2B2T1J0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-10-21",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1E6K0O8P2J6I0L9R5S4Y4V2B2T1J0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

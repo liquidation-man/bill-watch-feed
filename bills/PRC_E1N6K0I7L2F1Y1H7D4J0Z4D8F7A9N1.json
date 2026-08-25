@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1N6K0I7L2F1Y1H7D4J0Z4D8F7A9N1",
+  "title": "고위공직자비리수사처 설치에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "노회찬의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-07-21",
+      "detail": "노회찬의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N6K0I7L2F1Y1H7D4J0Z4D8F7A9N1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N6K0I7L2F1Y1H7D4J0Z4D8F7A9N1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}
