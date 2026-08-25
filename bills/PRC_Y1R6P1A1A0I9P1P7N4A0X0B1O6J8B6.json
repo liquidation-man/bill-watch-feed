@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1R6P1A1A0I9P1P7N4A0X0B1O6J8B6",
+  "title": "지방교육재정교부금법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "유성엽의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-09",
+      "detail": "유성엽의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R6P1A1A0I9P1P7N4A0X0B1O6J8B6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-16",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R6P1A1A0I9P1P7N4A0X0B1O6J8B6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-02",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R6P1A1A0I9P1P7N4A0X0B1O6J8B6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

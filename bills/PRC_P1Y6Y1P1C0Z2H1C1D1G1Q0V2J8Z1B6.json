@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P1Y6Y1P1C0Z2H1C1D1G1Q0V2J8Z1B6",
+  "title": "고등교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김진태의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-02",
+      "detail": "김진태의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y6Y1P1C0Z2H1C1D1G1Q0V2J8Z1B6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2017-02-08",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y6Y1P1C0Z2H1C1D1G1Q0V2J8Z1B6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1T6F1P2K2I6A1B5Z4C8I5F5M6G0N5",
+  "title": "주민등록법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "채이배의원 등 18인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-26",
+      "detail": "채이배의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1T6F1P2K2I6A1B5Z4C8I5F5M6G0N5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1T6F1P2K2I6A1B5Z4C8I5F5M6G0N5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

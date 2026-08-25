@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1W6I1X2D0Z9I1G4Y2R4D3P6F8Z8S9",
+  "title": "유휴토지의 임시활용 촉진에 관한 법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박정의원 등 21인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-09",
+      "detail": "박정의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1W6I1X2D0Z9I1G4Y2R4D3P6F8Z8S9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-14",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1W6I1X2D0Z9I1G4Y2R4D3P6F8Z8S9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1W6I1X2D0Z9I1G4Y2R4D3P6F8Z8S9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1T6A1F2D1K9Z1W8W1O0I0B7C4W3P0",
+  "title": "사회적 참사의 진상규명 및 안전사회 건설 등을 위한 특별법안",
+  "committee": "환경노동위원회",
+  "proposer": "박주민의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-19",
+      "detail": "박주민의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T6A1F2D1K9Z1W8W1O0I0B7C4W3P0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T6A1F2D1K9Z1W8W1O0I0B7C4W3P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2017-11-24",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T6A1F2D1K9Z1W8W1O0I0B7C4W3P0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

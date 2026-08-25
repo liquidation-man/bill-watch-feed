@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1B6D1L1P2R9D1H5W4G8V2Y8E8N0E4",
+  "title": "민주헌정침해행위자의 부정축적 재산 환수에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "채이배의원 등 38인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-29",
+      "detail": "채이배의원 등 38인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B6D1L1P2R9D1H5W4G8V2Y8E8N0E4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-23",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B6D1L1P2R9D1H5W4G8V2Y8E8N0E4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B6D1L1P2R9D1H5W4G8V2Y8E8N0E4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

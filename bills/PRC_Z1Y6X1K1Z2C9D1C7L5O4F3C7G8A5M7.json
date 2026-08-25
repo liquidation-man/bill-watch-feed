@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1Y6X1K1Z2C9D1C7L5O4F3C7G8A5M7",
+  "title": "감정노동자보호법안",
+  "committee": "환경노동위원회",
+  "proposer": "김부겸의원 등 47인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-29",
+      "detail": "김부겸의원 등 47인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Y6X1K1Z2C9D1C7L5O4F3C7G8A5M7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Y6X1K1Z2C9D1C7L5O4F3C7G8A5M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Y6X1K1Z2C9D1C7L5O4F3C7G8A5M7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

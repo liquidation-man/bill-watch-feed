@@ -1,7 +1,7 @@
 {
   "billId": "PRC_F2E6E0C8B0C3J1K0I1J2H2G6G9C8C1",
   "title": "여권법 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "홍기원의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E6E0C8B0C3J1K0I1J2H2G6G9C8C1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

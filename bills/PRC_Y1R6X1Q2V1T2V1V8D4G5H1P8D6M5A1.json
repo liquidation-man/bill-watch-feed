@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1R6X1Q2V1T2V1V8D4G5H1P8D6M5A1",
+  "title": "증오범죄 통계법안",
+  "committee": "법제사법위원회",
+  "proposer": "이종걸의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-12",
+      "detail": "이종걸의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R6X1Q2V1T2V1V8D4G5H1P8D6M5A1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R6X1Q2V1T2V1V8D4G5H1P8D6M5A1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T1Z6J1Q0A2W4H2Z0F5Q5X0I1F0Y2F1",
+  "title": "청년 첫일자리 지원 특별법안",
+  "committee": "환경노동위원회",
+  "proposer": "박홍근의원 등 15인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-10-24",
+      "detail": "박홍근의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1Z6J1Q0A2W4H2Z0F5Q5X0I1F0Y2F1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1Z6J1Q0A2W4H2Z0F5Q5X0I1F0Y2F1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1Z6J1Q0A2W4H2Z0F5Q5X0I1F0Y2F1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

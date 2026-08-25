@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L1M6A1H2S2B0A1Z4P5H4B1L8X9B4N3",
+  "title": "영유아보육법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "천정배의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-20",
+      "detail": "천정배의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1M6A1H2S2B0A1Z4P5H4B1L8X9B4N3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1M6A1H2S2B0A1Z4P5H4B1L8X9B4N3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

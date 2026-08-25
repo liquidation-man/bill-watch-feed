@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1Z6R1S0C2Q1X1Y7G3X8Z5F2Y2M8S2",
+  "title": "디자인보호법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "김현아의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-10-21",
+      "detail": "김현아의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Z6R1S0C2Q1X1Y7G3X8Z5F2Y2M8S2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-11-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Z6R1S0C2Q1X1Y7G3X8Z5F2Y2M8S2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

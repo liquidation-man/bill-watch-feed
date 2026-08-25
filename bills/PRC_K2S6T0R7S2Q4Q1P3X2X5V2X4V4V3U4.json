@@ -1,7 +1,7 @@
 {
   "billId": "PRC_K2S6T0R7S2Q4Q1P3X2X5V2X4V4V3U4",
   "title": "구강보건법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "소병훈의원 등 13인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2S6T0R7S2Q4Q1P3X2X5V2X4V4V3U4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

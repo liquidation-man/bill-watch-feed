@@ -1,7 +1,7 @@
 {
   "billId": "PRC_U2B6D0B6B3Z0Y1Z1G4H1G2G7E8D8D5",
   "title": "사회보장급여의 이용·제공 및 수급권자 발굴에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "황운하의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2B6D0B6B3Z0Y1Z1G4H1G2G7E8D8D5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

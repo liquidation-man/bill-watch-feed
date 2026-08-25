@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_G1F6J1J1U0P4F1E3U2Q8R1A4A5O5L5",
+  "title": "채용절차의 공정화에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이정미의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-04",
+      "detail": "이정미의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F6J1J1U0P4F1E3U2Q8R1A4A5O5L5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F6J1J1U0P4F1E3U2Q8R1A4A5O5L5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F6J1J1U0P4F1E3U2Q8R1A4A5O5L5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1Y6F1W2M0I8N1L5W5H0P4Z7S8B8R9",
+  "title": "국회의원의 국민소환에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김병욱의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-08",
+      "detail": "김병욱의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Y6F1W2M0I8N1L5W5H0P4Z7S8B8R9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Y6F1W2M0I8N1L5W5H0P4Z7S8B8R9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H1D6I1W2X2V0U1E4P5M5Z4T4B2W5U2",
+  "title": "유아교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "천정배의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-20",
+      "detail": "천정배의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1D6I1W2X2V0U1E4P5M5Z4T4B2W5U2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1D6I1W2X2V0U1E4P5M5Z4T4B2W5U2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

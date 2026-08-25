@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1U6L1Q2Z2F8A1I4K2B0G2R1Y4R7W0",
+  "title": "검찰청법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정성호의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-28",
+      "detail": "정성호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1U6L1Q2Z2F8A1I4K2B0G2R1Y4R7W0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1U6L1Q2Z2F8A1I4K2B0G2R1Y4R7W0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

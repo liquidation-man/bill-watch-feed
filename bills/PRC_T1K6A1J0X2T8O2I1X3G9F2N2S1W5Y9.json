@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1K6A1J0X2T8O2I1X3G9F2N2S1W5Y9",
+  "title": "항공안전법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "최인호의원 등 17인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-10-28",
+      "detail": "최인호의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K6A1J0X2T8O2I1X3G9F2N2S1W5Y9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-11-04",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K6A1J0X2T8O2I1X3G9F2N2S1W5Y9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

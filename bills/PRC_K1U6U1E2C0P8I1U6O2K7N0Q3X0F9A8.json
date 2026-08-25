@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1U6U1E2C0P8I1U6O2K7N0Q3X0F9A8",
+  "title": "헌법재판소법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박용진의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-08",
+      "detail": "박용진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1U6U1E2C0P8I1U6O2K7N0Q3X0F9A8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-12-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1U6U1E2C0P8I1U6O2K7N0Q3X0F9A8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

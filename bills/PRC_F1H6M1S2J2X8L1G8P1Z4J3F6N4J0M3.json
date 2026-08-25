@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1H6M1S2J2X8L1G8P1Z4J3F6N4J0M3",
+  "title": "도로교통법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이춘석의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-28",
+      "detail": "이춘석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H6M1S2J2X8L1G8P1Z4J3F6N4J0M3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H6M1S2J2X8L1G8P1Z4J3F6N4J0M3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

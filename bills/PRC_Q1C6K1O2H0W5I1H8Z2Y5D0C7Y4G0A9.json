@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q1C6K1O2H0W5I1H8Z2Y5D0C7Y4G0A9",
+  "title": "문화재보호법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "노웅래의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-05",
+      "detail": "노웅래의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1C6K1O2H0W5I1H8Z2Y5D0C7Y4G0A9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": null,
+      "date": "2017-03-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1C6K1O2H0W5I1H8Z2Y5D0C7Y4G0A9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

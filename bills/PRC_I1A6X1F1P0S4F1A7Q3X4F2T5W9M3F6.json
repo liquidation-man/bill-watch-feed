@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1A6X1F1P0S4F1A7Q3X4F2T5W9M3F6",
+  "title": "최저임금법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김삼화의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-04",
+      "detail": "김삼화의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1A6X1F1P0S4F1A7Q3X4F2T5W9M3F6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1A6X1F1P0S4F1A7Q3X4F2T5W9M3F6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

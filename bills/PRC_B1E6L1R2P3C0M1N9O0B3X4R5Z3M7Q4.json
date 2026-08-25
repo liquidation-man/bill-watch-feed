@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1E6L1R2P3C0M1N9O0B3X4R5Z3M7Q4",
+  "title": "건설기술 진흥법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "박찬우의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-30",
+      "detail": "박찬우의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1E6L1R2P3C0M1N9O0B3X4R5Z3M7Q4&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2017-01-03",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1E6L1R2P3C0M1N9O0B3X4R5Z3M7Q4&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J1F6F1L2S2J2K1J5N1N2N0Q7S1Z8C1",
+  "title": "여신전문금융업법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박정의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-12-22",
+      "detail": "박정의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1F6F1L2S2J2K1J5N1N2N0Q7S1Z8C1&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": null,
+      "date": "2017-03-21",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1F6F1L2S2J2K1J5N1N2N0Q7S1Z8C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1F6F1L2S2J2K1J5N1N2N0Q7S1Z8C1&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

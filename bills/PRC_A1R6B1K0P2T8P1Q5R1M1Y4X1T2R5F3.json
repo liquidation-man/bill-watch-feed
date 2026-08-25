@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1R6B1K0P2T8P1Q5R1M1Y4X1T2R5F3",
+  "title": "지방교육재정교부금법 일부개정법률안",
+  "committee": "교육위원회",
+  "proposer": "이동섭의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-10-28",
+      "detail": "이동섭의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1R6B1K0P2T8P1Q5R1M1Y4X1T2R5F3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-16",
+      "detail": "교육위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1R6B1K0P2T8P1Q5R1M1Y4X1T2R5F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1R6B1K0P2T8P1Q5R1M1Y4X1T2R5F3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

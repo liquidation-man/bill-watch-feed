@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1M6E1J1A0O4Y1A6Z1F0V0I4J5S6C6",
+  "title": "주한미군기지 이전, 축소, 철수 등에 따른 주한미군 한국인근로자 및 이직자의 지원에 관한 특별법안",
+  "committee": "환경노동위원회",
+  "proposer": "문진국의원 등 14인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-04",
+      "detail": "문진국의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1M6E1J1A0O4Y1A6Z1F0V0I4J5S6C6&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-13",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1M6E1J1A0O4Y1A6Z1F0V0I4J5S6C6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1M6E1J1A0O4Y1A6Z1F0V0I4J5S6C6&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U1W6T1A1J0D1E1M6D3P6N2M9Z0I7Q2",
+  "title": "특정건축물 정리에 관한 특별조치법안",
+  "committee": "국토교통위원회",
+  "proposer": "박홍근의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-11-01",
+      "detail": "박홍근의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1W6T1A1J0D1E1M6D3P6N2M9Z0I7Q2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1W6T1A1J0D1E1M6D3P6N2M9Z0I7Q2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C1L6O1W0X2B4W1G6J3P8Y4N1I9Z6K3",
+  "title": "청년 창업 활성화 및 청년창업기업 지원에 관한 특별법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "김경수의원 등 16인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-10-24",
+      "detail": "김경수의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L6O1W0X2B4W1G6J3P8Y4N1I9Z6K3&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-12-22",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L6O1W0X2B4W1G6J3P8Y4N1I9Z6K3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L6O1W0X2B4W1G6J3P8Y4N1I9Z6K3&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}
