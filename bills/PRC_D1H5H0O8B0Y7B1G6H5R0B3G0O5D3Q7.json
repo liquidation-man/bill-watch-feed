@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1H5H0O8B0Y7B1G6H5R0B3G0O5D3Q7",
+  "title": "한국수출입은행법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "홍종학의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-08-07",
+      "detail": "홍종학의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1H5H0O8B0Y7B1G6H5R0B3G0O5D3Q7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-10-20",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1H5H0O8B0Y7B1G6H5R0B3G0O5D3Q7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1H5H0O8B0Y7B1G6H5R0B3G0O5D3Q7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

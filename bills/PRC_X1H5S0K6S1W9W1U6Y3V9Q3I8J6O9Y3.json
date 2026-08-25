@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X1H5S0K6S1W9W1U6Y3V9Q3I8J6O9Y3",
+  "title": "채용절차의 공정화에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김영록의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-19",
+      "detail": "김영록의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H5S0K6S1W9W1U6Y3V9Q3I8J6O9Y3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H5S0K6S1W9W1U6Y3V9Q3I8J6O9Y3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H5S0K6S1W9W1U6Y3V9Q3I8J6O9Y3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

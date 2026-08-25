@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1G5J0W6H0D3K1C7F0W5K4L7H5B6Q8",
+  "title": "농어업·농어촌 및 식품산업 기본법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "유성엽의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-03",
+      "detail": "유성엽의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G5J0W6H0D3K1C7F0W5K4L7H5B6Q8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-10",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G5J0W6H0D3K1C7F0W5K4L7H5B6Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G5J0W6H0D3K1C7F0W5K4L7H5B6Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

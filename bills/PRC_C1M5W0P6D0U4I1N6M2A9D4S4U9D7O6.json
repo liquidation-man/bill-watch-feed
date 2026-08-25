@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1M5W0P6D0U4I1N6M2A9D4S4U9D7O6",
+  "title": "산업집적활성화 및 공장설립에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "홍영표의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-04",
+      "detail": "홍영표의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1M5W0P6D0U4I1N6M2A9D4S4U9D7O6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-06-25",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1M5W0P6D0U4I1N6M2A9D4S4U9D7O6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1M5W0P6D0U4I1N6M2A9D4S4U9D7O6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

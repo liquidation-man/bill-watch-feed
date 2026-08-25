@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1C5C0Z8R0G7Y1O4F5S2P4O9H9W7R7",
+  "title": "공중화장실 등에 관한 법률 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이원욱의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-08-07",
+      "detail": "이원욱의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5C0Z8R0G7Y1O4F5S2P4O9H9W7R7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-23",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5C0Z8R0G7Y1O4F5S2P4O9H9W7R7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5C0Z8R0G7Y1O4F5S2P4O9H9W7R7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

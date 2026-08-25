@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y1Y5J0D4H2Q7C1N7W4N8G3F9F3D5W6",
+  "title": "대규모유통업에서의 거래 공정화에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "한명숙의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-27",
+      "detail": "한명숙의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y5J0D4H2Q7C1N7W4N8G3F9F3D5W6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-06-17",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y5J0D4H2Q7C1N7W4N8G3F9F3D5W6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y5J0D4H2Q7C1N7W4N8G3F9F3D5W6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

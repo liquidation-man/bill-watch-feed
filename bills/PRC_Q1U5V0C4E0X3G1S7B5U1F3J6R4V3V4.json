@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1U5V0C4E0X3G1S7B5U1F3J6R4V3V4",
+  "title": "중소기업의 해외 직접판매 지원을 위한 법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "민병두의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-03",
+      "detail": "민병두의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U5V0C4E0X3G1S7B5U1F3J6R4V3V4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-06-11",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U5V0C4E0X3G1S7B5U1F3J6R4V3V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U5V0C4E0X3G1S7B5U1F3J6R4V3V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1Q5Q0O6O0V9W1T5M3O8I3T2X0L5Q0",
+  "title": "한국은행법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정우택의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-09",
+      "detail": "정우택의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1Q5Q0O6O0V9W1T5M3O8I3T2X0L5Q0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1Q5Q0O6O0V9W1T5M3O8I3T2X0L5Q0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

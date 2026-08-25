@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_X1A5A0Q5Z2C6P1B7Z5B5G4A8Y0F9Q9",
+  "title": "국민의 휴일에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "홍익표의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-05-26",
+      "detail": "홍익표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1A5A0Q5Z2C6P1B7Z5B5G4A8Y0F9Q9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1A5A0Q5Z2C6P1B7Z5B5G4A8Y0F9Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X1U5V0C4K1L6N1Y4Z0P7S1P9E8K1D1",
+  "title": "기부금품의 모집 및 사용에 관한 법률 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "정의화의원 등 47인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-16",
+      "detail": "정의화의원 등 47인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1U5V0C4K1L6N1Y4Z0P7S1P9E8K1D1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-07-02",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1U5V0C4K1L6N1Y4Z0P7S1P9E8K1D1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1U5V0C4K1L6N1Y4Z0P7S1P9E8K1D1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

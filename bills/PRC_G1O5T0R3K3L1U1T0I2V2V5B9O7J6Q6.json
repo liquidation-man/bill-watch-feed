@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1O5T0R3K3L1U1T0I2V2V5B9O7J6Q6",
+  "title": "행정규제기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김기식의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-03-31",
+      "detail": "김기식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O5T0R3K3L1U1T0I2V2V5B9O7J6Q6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1O5T0R3K3L1U1T0I2V2V5B9O7J6Q6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1D5N0R4X2N2Y1X7N5Q9E1Z0U2S5V4",
+  "title": "재해위험주거지구 주민의 거주안전확보에 관한 법률안",
+  "committee": "국토교통위원회",
+  "proposer": "이군현의원 등 36인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-22",
+      "detail": "이군현의원 등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D5N0R4X2N2Y1X7N5Q9E1Z0U2S5V4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-12-01",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D5N0R4X2N2Y1X7N5Q9E1Z0U2S5V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1D5N0R4X2N2Y1X7N5Q9E1Z0U2S5V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

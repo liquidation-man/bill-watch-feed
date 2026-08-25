@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_L1R5T0Q4R1P0H1C6Z5M3Y5K9H1E4Z5",
+  "title": "민속 소싸움 진흥법안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "유성엽의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-10",
+      "detail": "유성엽의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1R5T0Q4R1P0H1C6Z5M3Y5K9H1E4Z5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-10",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1R5T0Q4R1P0H1C6Z5M3Y5K9H1E4Z5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1R5T0Q4R1P0H1C6Z5M3Y5K9H1E4Z5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1M5Z0N7F0G6S1T3Z5Q5K1F1J4T3H0",
+  "title": "사형 폐지에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "유인태의원 등 172인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-06",
+      "detail": "유인태의원 등 172인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1M5Z0N7F0G6S1T3Z5Q5K1F1J4T3H0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-08-11",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1M5Z0N7F0G6S1T3Z5Q5K1F1J4T3H0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1M5Z0N7F0G6S1T3Z5Q5K1F1J4T3H0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

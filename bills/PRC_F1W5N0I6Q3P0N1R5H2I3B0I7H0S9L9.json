@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1W5N0I6Q3P0N1R5H2I3B0I7H0S9L9",
+  "title": "군보건의료에 관한 법률 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "송영근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-30",
+      "detail": "송영근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W5N0I6Q3P0N1R5H2I3B0I7H0S9L9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-07-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W5N0I6Q3P0N1R5H2I3B0I7H0S9L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1Z5I0B3F1I7Y1I4U3V8C4Q6L2F0C3",
+  "title": "상공회의소법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "김한표의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-03-17",
+      "detail": "김한표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Z5I0B3F1I7Y1I4U3V8C4Q6L2F0C3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-04-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Z5I0B3F1I7Y1I4U3V8C4Q6L2F0C3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

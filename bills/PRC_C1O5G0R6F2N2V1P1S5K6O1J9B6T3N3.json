@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C1O5G0R6F2N2V1P1S5K6O1J9B6T3N3",
+  "title": "주민등록법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박대동의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-22",
+      "detail": "박대동의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1O5G0R6F2N2V1P1S5K6O1J9B6T3N3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1O5G0R6F2N2V1P1S5K6O1J9B6T3N3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

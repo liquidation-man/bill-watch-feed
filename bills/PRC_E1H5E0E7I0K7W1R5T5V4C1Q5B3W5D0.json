@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1H5E0E7I0K7W1R5T5V4C1Q5B3W5D0",
+  "title": "공인회계사법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김용남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-07",
+      "detail": "김용남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1H5E0E7I0K7W1R5T5V4C1Q5B3W5D0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1H5E0E7I0K7W1R5T5V4C1Q5B3W5D0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

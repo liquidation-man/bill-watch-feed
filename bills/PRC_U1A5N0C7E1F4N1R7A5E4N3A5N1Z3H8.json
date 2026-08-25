@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1A5N0C7E1F4N1R7A5E4N3A5N1Z3H8",
+  "title": "고위공직자 보수 및 경비 심사 등에 관한 특별법안",
+  "committee": "국회운영위원회",
+  "proposer": "최재성의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-14",
+      "detail": "최재성의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A5N0C7E1F4N1R7A5E4N3A5N1Z3H8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-12-09",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A5N0C7E1F4N1R7A5E4N3A5N1Z3H8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1A5N0C7E1F4N1R7A5E4N3A5N1Z3H8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

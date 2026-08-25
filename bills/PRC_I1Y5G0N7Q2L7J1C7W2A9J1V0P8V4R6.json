@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I1Y5G0N7Q2L7J1C7W2A9J1V0P8V4R6",
+  "title": "국민연금기금운용위원회의 설치 등에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "정희수의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-27",
+      "detail": "정희수의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y5G0N7Q2L7J1C7W2A9J1V0P8V4R6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y5G0N7Q2L7J1C7W2A9J1V0P8V4R6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

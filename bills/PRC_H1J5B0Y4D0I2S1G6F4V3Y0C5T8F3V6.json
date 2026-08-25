@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1J5B0Y4D0I2S1G6F4V3Y0C5T8F3V6",
+  "title": "디엔에이신원확인정보의 이용 및 보호에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "임내현의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-02",
+      "detail": "임내현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J5B0Y4D0I2S1G6F4V3Y0C5T8F3V6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-12-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J5B0Y4D0I2S1G6F4V3Y0C5T8F3V6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J5B0Y4D0I2S1G6F4V3Y0C5T8F3V6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

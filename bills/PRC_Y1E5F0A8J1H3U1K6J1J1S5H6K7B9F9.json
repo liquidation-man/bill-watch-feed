@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1E5F0A8J1H3U1K6J1J1S5H6K7B9F9",
+  "title": "미래세대의 권익보호를 위한 기본법안",
+  "committee": "정무위원회",
+  "proposer": "원혜영의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-08-13",
+      "detail": "원혜영의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1E5F0A8J1H3U1K6J1J1S5H6K7B9F9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1E5F0A8J1H3U1K6J1J1S5H6K7B9F9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1Z5T0D5S0N6E1C4P1S1O2O9Y1S1C8",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "윤명희의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-05-06",
+      "detail": "윤명희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Z5T0D5S0N6E1C4P1S1O2O9Y1S1C8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Z5T0D5S0N6E1C4P1S1O2O9Y1S1C8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

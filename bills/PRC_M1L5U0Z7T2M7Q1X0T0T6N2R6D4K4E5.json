@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1L5U0Z7T2M7Q1X0T0T6N2R6D4K4E5",
+  "title": "기회균등 촉진에 관한 법률안",
+  "committee": "정무위원회",
+  "proposer": "강석훈의원 등 21인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-27",
+      "detail": "강석훈의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1L5U0Z7T2M7Q1X0T0T6N2R6D4K4E5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1L5U0Z7T2M7Q1X0T0T6N2R6D4K4E5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

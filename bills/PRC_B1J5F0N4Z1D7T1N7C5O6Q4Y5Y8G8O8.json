@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1J5F0N4Z1D7T1N7C5O6Q4Y5Y8G8O8",
+  "title": "취재원 보호법안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "배재정의원 등 21인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-04-17",
+      "detail": "배재정의원 등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1J5F0N4Z1D7T1N7C5O6Q4Y5Y8G8O8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-24",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1J5F0N4Z1D7T1N7C5O6Q4Y5Y8G8O8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1J5F0N4Z1D7T1N7C5O6Q4Y5Y8G8O8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

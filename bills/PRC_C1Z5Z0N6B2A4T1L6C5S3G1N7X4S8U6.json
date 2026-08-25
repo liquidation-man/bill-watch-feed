@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C1Z5Z0N6B2A4T1L6C5S3G1N7X4S8U6",
+  "title": "사이버테러 방지 및 대응에 관한 법률안",
+  "committee": "정보위원회",
+  "proposer": "이노근의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-24",
+      "detail": "이노근의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Z5Z0N6B2A4T1L6C5S3G1N7X4S8U6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Z5Z0N6B2A4T1L6C5S3G1N7X4S8U6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

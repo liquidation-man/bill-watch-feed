@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1D5S0W7C1J7Q1V8S0P8G2G3K9I0B8",
+  "title": "소비자기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김기준의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-07-17",
+      "detail": "김기준의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1D5S0W7C1J7Q1V8S0P8G2G3K9I0B8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1D5S0W7C1J7Q1V8S0P8G2G3K9I0B8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

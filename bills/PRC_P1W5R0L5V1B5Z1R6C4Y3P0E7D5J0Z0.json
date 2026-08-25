@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_P1W5R0L5V1B5Z1R6C4Y3P0E7D5J0Z0",
+  "title": "감정노동종사자의 보호 등에 관한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "황주홍의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-05-15",
+      "detail": "황주홍의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W5R0L5V1B5Z1R6C4Y3P0E7D5J0Z0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W5R0L5V1B5Z1R6C4Y3P0E7D5J0Z0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1W5R0L5V1B5Z1R6C4Y3P0E7D5J0Z0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

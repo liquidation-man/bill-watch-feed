@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1H5B0Q6H0H4L1J4C1T6O3S9X2Z4D1",
+  "title": "진실·화해를 위한 과거사정리 기본법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "정문헌의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-06-04",
+      "detail": "정문헌의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H5B0Q6H0H4L1J4C1T6O3S9X2Z4D1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-23",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H5B0Q6H0H4L1J4C1T6O3S9X2Z4D1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H5B0Q6H0H4L1J4C1T6O3S9X2Z4D1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
