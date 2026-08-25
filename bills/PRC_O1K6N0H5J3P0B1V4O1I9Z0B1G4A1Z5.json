@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1K6N0H5J3P0B1V4O1I9Z0B1G4A1Z5",
+  "title": "국민행복과 일자리 창출·국가경쟁력 강화를 위한 규제개혁특별법안",
+  "committee": "정무위원회",
+  "proposer": "김광림의원 등 122인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-05-30",
+      "detail": "김광림의원 등 122인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1K6N0H5J3P0B1V4O1I9Z0B1G4A1Z5&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-16",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1K6N0H5J3P0B1V4O1I9Z0B1G4A1Z5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1K6N0H5J3P0B1V4O1I9Z0B1G4A1Z5&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

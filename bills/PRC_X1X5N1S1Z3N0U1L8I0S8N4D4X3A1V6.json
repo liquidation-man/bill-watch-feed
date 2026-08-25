@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1X5N1S1Z3N0U1L8I0S8N4D4X3A1V6",
+  "title": "은행법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박대동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-30",
+      "detail": "박대동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X5N1S1Z3N0U1L8I0S8N4D4X3A1V6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X5N1S1Z3N0U1L8I0S8N4D4X3A1V6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

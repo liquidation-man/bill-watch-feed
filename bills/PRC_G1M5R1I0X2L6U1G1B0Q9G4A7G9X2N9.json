@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1M5R1I0X2L6U1G1B0Q9G4A7G9X2N9",
+  "title": "모자보건법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "우윤근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-26",
+      "detail": "우윤근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1M5R1I0X2L6U1G1B0Q9G4A7G9X2N9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1M5R1I0X2L6U1G1B0Q9G4A7G9X2N9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

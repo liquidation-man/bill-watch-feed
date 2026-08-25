@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1W6E0Z1X1X4M0P9V2F0Z0L0G7X6F9",
+  "title": "계량에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "이노근의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-01-14",
+      "detail": "이노근의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W6E0Z1X1X4M0P9V2F0Z0L0G7X6F9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1W6E0Z1X1X4M0P9V2F0Z0L0G7X6F9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1L5G1G2A3Q1F1N9H0G4A5J9M4C9D4",
+  "title": "국제입양에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신경림의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-31",
+      "detail": "신경림의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1L5G1G2A3Q1F1N9H0G4A5J9M4C9D4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1L5G1G2A3Q1F1N9H0G4A5J9M4C9D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

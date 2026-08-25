@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N1I5T1Z1G0J3D1C8G1Z4T3C8P8X1J7",
+  "title": "기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "추미애의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-03",
+      "detail": "추미애의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1I5T1Z1G0J3D1C8G1Z4T3C8P8X1J7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-12-15",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1I5T1Z1G0J3D1C8G1Z4T3C8P8X1J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1I5T1Z1G0J3D1C8G1Z4T3C8P8X1J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

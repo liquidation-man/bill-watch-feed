@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1T5Y1K1U0X9R1I6I4O6N4T2G7Z9Y3",
+  "title": "재외국민등록법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "인재근의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-09",
+      "detail": "인재근의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1T5Y1K1U0X9R1I6I4O6N4T2G7Z9Y3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1T5Y1K1U0X9R1I6I4O6N4T2G7Z9Y3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

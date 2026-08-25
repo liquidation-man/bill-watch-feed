@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1L5D1U1S1B8W1S5Z2P9V2W8D8S1F0",
+  "title": "행정기관 소속 위원회의 설치·운영에 관한 법률 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "유재중의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-18",
+      "detail": "유재중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1L5D1U1S1B8W1S5Z2P9V2W8D8S1F0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1L5D1U1S1B8W1S5Z2P9V2W8D8S1F0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

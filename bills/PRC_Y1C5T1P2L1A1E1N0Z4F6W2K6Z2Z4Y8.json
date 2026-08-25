@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1C5T1P2L1A1E1N0Z4F6W2K6Z2Z4Y8",
+  "title": "유료도로법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "최민희의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-11",
+      "detail": "최민희의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1C5T1P2L1A1E1N0Z4F6W2K6Z2Z4Y8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1C5T1P2L1A1E1N0Z4F6W2K6Z2Z4Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

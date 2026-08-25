@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Z1L5S1G2A3L1T1J7O1D4N2B2W9F5X8",
+  "title": "민방위기본법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "송영근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-31",
+      "detail": "송영근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1L5S1G2A3L1T1J7O1D4N2B2W9F5X8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1L5S1G2A3L1T1J7O1D4N2B2W9F5X8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

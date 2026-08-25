@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1F6Q0A5H3Y0I1O4K4M6B5N9U5V5I8",
+  "title": "지역전략산업 육성을 위한 규제프리존의 지정과 운영에 관한 특별법안",
+  "committee": "기획재정위원회",
+  "proposer": "이학재의원 등 125인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-05-30",
+      "detail": "이학재의원 등 125인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1F6Q0A5H3Y0I1O4K4M6B5N9U5V5I8&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-03",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1F6Q0A5H3Y0I1O4K4M6B5N9U5V5I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1F6Q0A5H3Y0I1O4K4M6B5N9U5V5I8&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

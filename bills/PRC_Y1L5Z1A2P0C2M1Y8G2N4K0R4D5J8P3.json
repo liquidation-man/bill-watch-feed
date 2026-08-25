@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1L5Z1A2P0C2M1Y8G2N4K0R4D5J8P3",
+  "title": "학교보건법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "박원석의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-02",
+      "detail": "박원석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5Z1A2P0C2M1Y8G2N4K0R4D5J8P3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-11",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5Z1A2P0C2M1Y8G2N4K0R4D5J8P3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5Z1A2P0C2M1Y8G2N4K0R4D5J8P3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

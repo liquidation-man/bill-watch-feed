@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1B5Z1L2H0N7F1Q3V5O2Y5H0I7X9T0",
+  "title": "청년세법안",
+  "committee": "기획재정위원회",
+  "proposer": "정세균의원 등 51인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-07",
+      "detail": "정세균의원 등 51인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B5Z1L2H0N7F1Q3V5O2Y5H0I7X9T0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1B5Z1L2H0N7F1Q3V5O2Y5H0I7X9T0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

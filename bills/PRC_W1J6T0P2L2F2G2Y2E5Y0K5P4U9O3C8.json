@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1J6T0P2L2F2G2Y2E5Y0K5P4U9O3C8",
+  "title": "국가 사이버테러 방지 등에 관한 법률안",
+  "committee": "정보위원회",
+  "proposer": "서상기의원 등 24인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-02-22",
+      "detail": "서상기의원 등 24인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1J6T0P2L2F2G2Y2E5Y0K5P4U9O3C8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1J6T0P2L2F2G2Y2E5Y0K5P4U9O3C8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

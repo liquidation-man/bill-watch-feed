@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1T6E0J6A0I7X1M3H0A3N0V0F4U8W7",
+  "title": "산업안전보건범죄의 단속 및 가중처벌 등에 관한 법률안",
+  "committee": "환경노동위원회",
+  "proposer": "심상정의원 등 10인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-07",
+      "detail": "심상정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T6E0J6A0I7X1M3H0A3N0V0F4U8W7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-21",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T6E0J6A0I7X1M3H0A3N0V0F4U8W7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T6E0J6A0I7X1M3H0A3N0V0F4U8W7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1Z6M0L5M3W0U1W4T2M8K4L3S5I0Y2",
+  "title": "국가 사이버안보에 관한 법률안",
+  "committee": "정보위원회",
+  "proposer": "이철우의원 등 122인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-05-30",
+      "detail": "이철우의원 등 122인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Z6M0L5M3W0U1W4T2M8K4L3S5I0Y2&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2017-02-27",
+      "detail": "정보위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Z6M0L5M3W0U1W4T2M8K4L3S5I0Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Z6M0L5M3W0U1W4T2M8K4L3S5I0Y2&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

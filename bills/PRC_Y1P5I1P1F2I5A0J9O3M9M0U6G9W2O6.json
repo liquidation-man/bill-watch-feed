@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y1P5I1P1F2I5A0J9O3M9M0U6G9W2O6",
+  "title": "집회 및 시위에 관한 법률 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "정갑윤의원 등 32인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-25",
+      "detail": "정갑윤의원 등 32인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1P5I1P1F2I5A0J9O3M9M0U6G9W2O6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1P5I1P1F2I5A0J9O3M9M0U6G9W2O6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

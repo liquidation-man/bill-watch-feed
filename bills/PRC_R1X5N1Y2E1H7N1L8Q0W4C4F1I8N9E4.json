@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_R1X5N1Y2E1H7N1L8Q0W4C4F1I8N9E4",
+  "title": "복권 및 복권기금법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "조명철의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-17",
+      "detail": "조명철의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X5N1Y2E1H7N1L8Q0W4C4F1I8N9E4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X5N1Y2E1H7N1L8Q0W4C4F1I8N9E4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

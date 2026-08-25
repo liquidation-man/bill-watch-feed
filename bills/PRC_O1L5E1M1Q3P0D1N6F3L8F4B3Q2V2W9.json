@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O1L5E1M1Q3P0D1N6F3L8F4B3Q2V2W9",
+  "title": "장애인 등에 대한 특수교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "유재중의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-30",
+      "detail": "유재중의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1L5E1M1Q3P0D1N6F3L8F4B3Q2V2W9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-11",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1L5E1M1Q3P0D1N6F3L8F4B3Q2V2W9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1L5E1M1Q3P0D1N6F3L8F4B3Q2V2W9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

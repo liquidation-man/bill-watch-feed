@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1C5X1J1L1D3W1Q7V3S9S3B2Z3Q4C9",
+  "title": "대한민국 재외공관 설치법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "인재근의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-13",
+      "detail": "인재근의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1C5X1J1L1D3W1Q7V3S9S3B2Z3Q4C9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1C5X1J1L1D3W1Q7V3S9S3B2Z3Q4C9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

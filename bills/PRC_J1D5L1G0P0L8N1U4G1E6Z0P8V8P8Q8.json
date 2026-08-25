@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J1D5L1G0P0L8N1U4G1E6Z0P8V8P8Q8",
+  "title": "전기사업법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "오영식의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-08",
+      "detail": "오영식의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1D5L1G0P0L8N1U4G1E6Z0P8V8P8Q8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-10-28",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1D5L1G0P0L8N1U4G1E6Z0P8V8P8Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1D5L1G0P0L8N1U4G1E6Z0P8V8P8Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

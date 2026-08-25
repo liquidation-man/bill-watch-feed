@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1Q5V0N9P0J9Y1G5F1T7T3E1D0Z4R2",
+  "title": "농어촌특별세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "유성엽의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-09",
+      "detail": "유성엽의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q5V0N9P0J9Y1G5F1T7T3E1D0Z4R2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-10-20",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q5V0N9P0J9Y1G5F1T7T3E1D0Z4R2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-12-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q5V0N9P0J9Y1G5F1T7T3E1D0Z4R2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

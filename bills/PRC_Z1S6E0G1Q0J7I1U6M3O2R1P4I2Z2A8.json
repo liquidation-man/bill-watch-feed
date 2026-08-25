@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Z1S6E0G1Q0J7I1U6M3O2R1P4I2Z2A8",
+  "title": "복권 및 복권기금법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김을동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-01-07",
+      "detail": "김을동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1S6E0G1Q0J7I1U6M3O2R1P4I2Z2A8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1S6E0G1Q0J7I1U6M3O2R1P4I2Z2A8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

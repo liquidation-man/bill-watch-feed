@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1A6K0F2W1F8Q1X1Q2U0G5U9B0H1R8",
+  "title": "지방세특례제한법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "안철수의원 외 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-02-18",
+      "detail": "안철수의원 외 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1A6K0F2W1F8Q1X1Q2U0G5U9B0H1R8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1A6K0F2W1F8Q1X1Q2U0G5U9B0H1R8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

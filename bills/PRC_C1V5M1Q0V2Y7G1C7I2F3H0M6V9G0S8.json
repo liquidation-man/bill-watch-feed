@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C1V5M1Q0V2Y7G1C7I2F3H0M6V9G0S8",
+  "title": "도로명주소법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "심재권의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-27",
+      "detail": "심재권의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V5M1Q0V2Y7G1C7I2F3H0M6V9G0S8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V5M1Q0V2Y7G1C7I2F3H0M6V9G0S8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A1J5J1E1N1K0Q1O4A4V8L1H4C2Q4C9",
+  "title": "방위사업법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "김성찬의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-10",
+      "detail": "김성찬의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J5J1E1N1K0Q1O4A4V8L1H4C2Q4C9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-11-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1J5J1E1N1K0Q1O4A4V8L1H4C2Q4C9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

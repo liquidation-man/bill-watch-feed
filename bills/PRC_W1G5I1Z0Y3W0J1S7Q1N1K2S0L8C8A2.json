@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1G5I1Z0Y3W0J1S7Q1N1K2S0L8C8A2",
+  "title": "주민등록법 일부개정법률안",
+  "committee": "",
+  "proposer": "정청래의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-30",
+      "detail": "정청래의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G5I1Z0Y3W0J1S7Q1N1K2S0L8C8A2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-12-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G5I1Z0Y3W0J1S7Q1N1K2S0L8C8A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

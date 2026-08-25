@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1L5H0C9Y1Y5F1E4G2M0N5Y3C4N4W1",
+  "title": "전시산업발전법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "노영민의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-15",
+      "detail": "노영민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5H0C9Y1Y5F1E4G2M0N5Y3C4N4W1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-10-28",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5H0C9Y1Y5F1E4G2M0N5Y3C4N4W1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1L5H0C9Y1Y5F1E4G2M0N5Y3C4N4W1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

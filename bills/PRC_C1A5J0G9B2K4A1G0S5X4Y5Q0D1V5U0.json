@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1A5J0G9B2K4A1G0S5X4Y5Q0D1V5U0",
+  "title": "유통산업발전법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "김제남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-24",
+      "detail": "김제남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A5J0G9B2K4A1G0S5X4Y5Q0D1V5U0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-10-28",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A5J0G9B2K4A1G0S5X4Y5Q0D1V5U0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A5J0G9B2K4A1G0S5X4Y5Q0D1V5U0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

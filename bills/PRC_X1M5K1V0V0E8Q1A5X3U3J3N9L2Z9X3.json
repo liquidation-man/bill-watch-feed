@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1M5K1V0V0E8Q1A5X3U3J3N9L2Z9X3",
+  "title": "부동산 거래신고 등에 관한 법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김태원의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-08",
+      "detail": "김태원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1M5K1V0V0E8Q1A5X3U3J3N9L2Z9X3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-10-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1M5K1V0V0E8Q1A5X3U3J3N9L2Z9X3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

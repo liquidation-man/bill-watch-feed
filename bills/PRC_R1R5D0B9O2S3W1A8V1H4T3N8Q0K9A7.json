@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1R5D0B9O2S3W1A8V1H4T3N8Q0K9A7",
+  "title": "고용정책 기본법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "장하나의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-23",
+      "detail": "장하나의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R5D0B9O2S3W1A8V1H4T3N8Q0K9A7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R5D0B9O2S3W1A8V1H4T3N8Q0K9A7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R5D0B9O2S3W1A8V1H4T3N8Q0K9A7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

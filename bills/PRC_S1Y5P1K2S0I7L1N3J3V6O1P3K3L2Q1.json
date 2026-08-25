@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1Y5P1K2S0I7L1N3J3V6O1P3K3L2Q1",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정세균의원 등 49인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-07",
+      "detail": "정세균의원 등 49인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y5P1K2S0I7L1N3J3V6O1P3K3L2Q1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y5P1K2S0I7L1N3J3V6O1P3K3L2Q1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

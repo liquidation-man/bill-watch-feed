@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V1Z5E1B1M0E4E1R6M5F5S2J3V6G8J0",
+  "title": "상훈법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이명수의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-04",
+      "detail": "이명수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Z5E1B1M0E4E1R6M5F5S2J3V6G8J0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Z5E1B1M0E4E1R6M5F5S2J3V6G8J0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

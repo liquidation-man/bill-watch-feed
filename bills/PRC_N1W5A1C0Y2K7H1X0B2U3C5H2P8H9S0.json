@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N1W5A1C0Y2K7H1X0B2U3C5H2P8H9S0",
+  "title": "양육비 이행확보 및 지원에 관한 법률 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "유승희의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-27",
+      "detail": "유승희의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W5A1C0Y2K7H1X0B2U3C5H2P8H9S0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-13",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W5A1C0Y2K7H1X0B2U3C5H2P8H9S0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1W5A1C0Y2K7H1X0B2U3C5H2P8H9S0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

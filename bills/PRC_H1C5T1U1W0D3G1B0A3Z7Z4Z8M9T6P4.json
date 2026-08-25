@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1C5T1U1W0D3G1B0A3Z7Z4Z8M9T6P4",
+  "title": "영화 및 비디오물의 진흥에 관한 법률 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "유승희의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-03",
+      "detail": "유승희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5T1U1W0D3G1B0A3Z7Z4Z8M9T6P4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-11",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5T1U1W0D3G1B0A3Z7Z4Z8M9T6P4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C5T1U1W0D3G1B0A3Z7Z4Z8M9T6P4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

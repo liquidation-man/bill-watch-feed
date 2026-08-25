@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U1Z5F0T9U1C5E1X8S1T7Y0X5C4V9E3",
+  "title": "국토의 계획 및 이용에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "홍익표의원 등 20인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-15",
+      "detail": "홍익표의원 등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Z5F0T9U1C5E1X8S1T7Y0X5C4V9E3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Z5F0T9U1C5E1X8S1T7Y0X5C4V9E3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

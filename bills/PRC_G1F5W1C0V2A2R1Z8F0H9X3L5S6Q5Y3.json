@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1F5W1C0V2A2R1Z8F0H9X3L5S6Q5Y3",
+  "title": "국민건강보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김춘진의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-22",
+      "detail": "김춘진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F5W1C0V2A2R1Z8F0H9X3L5S6Q5Y3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-10-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1F5W1C0V2A2R1Z8F0H9X3L5S6Q5Y3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C1Y5O1S1W2C4M1N6Y5A9Y1U6W1D2H3",
+  "title": "국가를 당사자로 하는 계약에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "박맹우의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-24",
+      "detail": "박맹우의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Y5O1S1W2C4M1N6Y5A9Y1U6W1D2H3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Y5O1S1W2C4M1N6Y5A9Y1U6W1D2H3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1W6I0V6S1E6A1T6W1I0Y0G8V0E3J7",
+  "title": "법인세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "윤호중의원 등 13인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-16",
+      "detail": "윤호중의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1W6I0V6S1E6A1T6W1I0Y0G8V0E3J7&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-09-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1W6I0V6S1E6A1T6W1I0Y0G8V0E3J7&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

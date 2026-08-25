@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1J6K0X6H0S2I1Z3G1R7Y2C4V6X7Q0",
+  "title": "중소기업ㆍ중소상인 적합업종 보호에 관한 특별법안",
+  "committee": "산업통상자원중소벤처기업위원회",
+  "proposer": "우원식의원 등 11인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-02",
+      "detail": "우원식의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1J6K0X6H0S2I1Z3G1R7Y2C4V6X7Q0&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-11-03",
+      "detail": "산업통상자원중소벤처기업위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1J6K0X6H0S2I1Z3G1R7Y2C4V6X7Q0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "문재인정부",
+      "date": "2020-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1J6K0X6H0S2I1Z3G1R7Y2C4V6X7Q0&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "산업"
+  ]
+}

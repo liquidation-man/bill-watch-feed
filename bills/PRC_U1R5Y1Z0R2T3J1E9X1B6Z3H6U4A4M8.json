@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1R5Y1Z0R2T3J1E9X1B6Z3H6U4A4M8",
+  "title": "의원급 의료기관 지원 등에 관한 특별법안",
+  "committee": "보건복지위원회",
+  "proposer": "김용익의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-23",
+      "detail": "김용익의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1R5Y1Z0R2T3J1E9X1B6Z3H6U4A4M8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-09",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1R5Y1Z0R2T3J1E9X1B6Z3H6U4A4M8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1R5Y1Z0R2T3J1E9X1B6Z3H6U4A4M8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

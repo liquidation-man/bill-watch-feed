@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_N1Z5A1Y0U2P3P1B6V2Z1D5N9J5V8P0",
+  "title": "대학 구조개혁에 관한 법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "안홍준의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-10-23",
+      "detail": "안홍준의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Z5A1Y0U2P3P1B6V2Z1D5N9J5V8P0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Z5A1Y0U2P3P1B6V2Z1D5N9J5V8P0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

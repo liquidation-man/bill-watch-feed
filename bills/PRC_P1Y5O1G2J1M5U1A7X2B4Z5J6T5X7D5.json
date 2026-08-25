@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P1Y5O1G2J1M5U1A7X2B4Z5J6T5X7D5",
+  "title": "발명진흥법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "홍영표의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-12-15",
+      "detail": "홍영표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y5O1G2J1M5U1A7X2B4Z5J6T5X7D5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Y5O1G2J1M5U1A7X2B4Z5J6T5X7D5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1A5J1P1N0G9V1C6J5W7X5A1T5U2Z5",
+  "title": "서예진흥에 관한 법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "최재천의원 등 119인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-11-09",
+      "detail": "최재천의원 등 119인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1A5J1P1N0G9V1C6J5W7X5A1T5U2Z5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-05-11",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1A5J1P1N0G9V1C6J5W7X5A1T5U2Z5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1A5J1P1N0G9V1C6J5W7X5A1T5U2Z5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

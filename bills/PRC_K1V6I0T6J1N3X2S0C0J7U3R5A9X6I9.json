@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1V6I0T6J1N3X2S0C0J7U3R5A9X6I9",
+  "title": "재해구호법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "기동민의원 등 12인",
+  "assemblyTerm": 20,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-06-13",
+      "detail": "기동민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1V6I0T6J1N3X2S0C0J7U3R5A9X6I9&ageFrom=20&ageTo=20"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2016-06-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1V6I0T6J1N3X2S0C0J7U3R5A9X6I9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-06-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1V6I0T6J1N3X2S0C0J7U3R5A9X6I9&ageFrom=20&ageTo=20",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

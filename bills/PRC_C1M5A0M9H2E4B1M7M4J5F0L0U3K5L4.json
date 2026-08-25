@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1M5A0M9H2E4B1M7M4J5F0L0U3K5L4",
+  "title": "생명윤리 및 안전에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신경림의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-09-24",
+      "detail": "신경림의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1M5A0M9H2E4B1M7M4J5F0L0U3K5L4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1M5A0M9H2E4B1M7M4J5F0L0U3K5L4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

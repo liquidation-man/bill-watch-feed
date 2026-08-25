@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1A6J0U2J0Z1T1K4A3R5H5X6N9X7S3",
+  "title": "건축법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김태원의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2016-02-01",
+      "detail": "김태원의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1A6J0U2J0Z1T1K4A3R5H5X6N9X7S3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1A6J0U2J0Z1T1K4A3R5H5X6N9X7S3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}
