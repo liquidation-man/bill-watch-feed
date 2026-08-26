@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1T5U0W1M1C6R1P6N4K4K2T9Z6B1G6",
+  "title": "문화예술진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "진선미의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-01-16",
+      "detail": "진선미의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1T5U0W1M1C6R1P6N4K4K2T9Z6B1G6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-17",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1T5U0W1M1C6R1P6N4K4K2T9Z6B1G6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1T5U0W1M1C6R1P6N4K4K2T9Z6B1G6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

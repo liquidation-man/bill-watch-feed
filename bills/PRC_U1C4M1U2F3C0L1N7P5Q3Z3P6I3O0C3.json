@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1C4M1U2F3C0L1N7P5Q3Z3P6I3O0C3",
+  "title": "전자정부법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "신경민의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-30",
+      "detail": "신경민의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C4M1U2F3C0L1N7P5Q3Z3P6I3O0C3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-11",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C4M1U2F3C0L1N7P5Q3Z3P6I3O0C3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1C4M1U2F3C0L1N7P5Q3Z3P6I3O0C3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

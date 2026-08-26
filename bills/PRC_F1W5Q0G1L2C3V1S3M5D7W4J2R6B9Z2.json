@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1W5Q0G1L2C3V1S3M5D7W4J2R6B9Z2",
+  "title": "장애인복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "부좌현의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-01-23",
+      "detail": "부좌현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W5Q0G1L2C3V1S3M5D7W4J2R6B9Z2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W5Q0G1L2C3V1S3M5D7W4J2R6B9Z2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

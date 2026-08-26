@@ -1,7 +1,7 @@
 {
   "billId": "PRC_I2H6I0G7H2F1N1O4M0M3L5M7K0G6G1",
   "title": "관광기본법 전부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "임오경의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2H6I0G7H2F1N1O4M0M3L5M7K0G6G1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }

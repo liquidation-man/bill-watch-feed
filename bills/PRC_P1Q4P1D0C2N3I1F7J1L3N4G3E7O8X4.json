@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1Q4P1D0C2N3I1F7J1L3N4G3E7O8X4",
+  "title": "금융중심지의 조성과 발전에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김정훈의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-10-23",
+      "detail": "김정훈의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Q4P1D0C2N3I1F7J1L3N4G3E7O8X4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-25",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Q4P1D0C2N3I1F7J1L3N4G3E7O8X4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Q4P1D0C2N3I1F7J1L3N4G3E7O8X4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

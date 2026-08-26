@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1Y4J0C9L0D4C1E7D5S0L5F1Y1F3U7",
+  "title": "빗물관리기본법안",
+  "committee": "국토교통위원회",
+  "proposer": "류성걸의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-04",
+      "detail": "류성걸의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y4J0C9L0D4C1E7D5S0L5F1Y1F3U7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y4J0C9L0D4C1E7D5S0L5F1Y1F3U7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

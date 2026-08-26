@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1F4Q1U2Y1B8E1O7X5H0Y1F5K6D3Q7",
+  "title": "원자력안전위원회의 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "최민희의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-18",
+      "detail": "최민희의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F4Q1U2Y1B8E1O7X5H0Y1F5K6D3Q7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-11",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F4Q1U2Y1B8E1O7X5H0Y1F5K6D3Q7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1F4Q1U2Y1B8E1O7X5H0Y1F5K6D3Q7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

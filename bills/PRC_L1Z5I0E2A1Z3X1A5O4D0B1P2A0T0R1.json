@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L1Z5I0E2A1Z3X1A5O4D0B1P2A0T0R1",
+  "title": "자동차운전대행업에 관한 법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김윤덕의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-02-13",
+      "detail": "김윤덕의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Z5I0E2A1Z3X1A5O4D0B1P2A0T0R1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Z5I0E2A1Z3X1A5O4D0B1P2A0T0R1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

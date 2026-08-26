@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1V4T1P2K3C0T1U8B0M7B3O3G4C1Y0",
+  "title": "소비자기본법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이운룡의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-30",
+      "detail": "이운룡의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V4T1P2K3C0T1U8B0M7B3O3G4C1Y0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1V4T1P2K3C0T1U8B0M7B3O3G4C1Y0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

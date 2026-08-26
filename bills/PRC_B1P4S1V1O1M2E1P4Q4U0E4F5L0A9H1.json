@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1P4S1V1O1M2E1P4Q4U0E4F5L0A9H1",
+  "title": "방과후 학교 지원에 관한 법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김춘진의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-12",
+      "detail": "김춘진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1P4S1V1O1M2E1P4Q4U0E4F5L0A9H1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-10",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1P4S1V1O1M2E1P4Q4U0E4F5L0A9H1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1P4S1V1O1M2E1P4Q4U0E4F5L0A9H1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

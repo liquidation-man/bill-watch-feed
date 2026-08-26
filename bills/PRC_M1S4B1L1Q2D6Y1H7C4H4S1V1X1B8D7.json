@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1S4B1L1Q2D6Y1H7C4H4S1V1X1B8D7",
+  "title": "다문화가족지원법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "임수경의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-26",
+      "detail": "임수경의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4B1L1Q2D6Y1H7C4H4S1V1X1B8D7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-20",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4B1L1Q2D6Y1H7C4H4S1V1X1B8D7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4B1L1Q2D6Y1H7C4H4S1V1X1B8D7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

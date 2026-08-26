@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O1T4H1E2Z2R9X1K8Q2A7B0D6C3G4O7",
+  "title": "콘텐츠산업 진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "장병완의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-29",
+      "detail": "장병완의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T4H1E2Z2R9X1K8Q2A7B0D6C3G4O7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-17",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T4H1E2Z2R9X1K8Q2A7B0D6C3G4O7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T4H1E2Z2R9X1K8Q2A7B0D6C3G4O7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

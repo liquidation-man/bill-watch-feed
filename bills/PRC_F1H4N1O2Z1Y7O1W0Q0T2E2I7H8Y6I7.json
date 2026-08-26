@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_F1H4N1O2Z1Y7O1W0Q0T2E2I7H8Y6I7",
+  "title": "아토피질환관리법안",
+  "committee": "보건복지위원회",
+  "proposer": "박남춘의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-17",
+      "detail": "박남춘의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H4N1O2Z1Y7O1W0Q0T2E2I7H8Y6I7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H4N1O2Z1Y7O1W0Q0T2E2I7H8Y6I7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

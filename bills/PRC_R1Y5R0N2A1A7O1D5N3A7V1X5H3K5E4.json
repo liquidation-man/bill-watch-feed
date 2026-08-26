@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1Y5R0N2A1A7O1D5N3A7V1X5H3K5E4",
+  "title": "특정재산범죄수익 등의 환수 및 피해구제에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박영선의원 등 104인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-02-17",
+      "detail": "박영선의원 등 104인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y5R0N2A1A7O1D5N3A7V1X5H3K5E4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-06-15",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y5R0N2A1A7O1D5N3A7V1X5H3K5E4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y5R0N2A1A7O1D5N3A7V1X5H3K5E4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

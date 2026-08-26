@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1T4G0Q9U2V3P1H1M4Y3E1B3V4C4A7",
+  "title": "사회복지사업법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "조명철의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-23",
+      "detail": "조명철의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T4G0Q9U2V3P1H1M4Y3E1B3V4C4A7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T4G0Q9U2V3P1H1M4Y3E1B3V4C4A7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

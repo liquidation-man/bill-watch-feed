@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_E1A4T1V2W1X5L1F1M4Z1O0V5Z3G1D3",
+  "title": "종합부동산세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "심재철의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-15",
+      "detail": "심재철의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1A4T1V2W1X5L1F1M4Z1O0V5Z3G1D3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-05",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1A4T1V2W1X5L1F1M4Z1O0V5Z3G1D3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-02-04",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1A4T1V2W1X5L1F1M4Z1O0V5Z3G1D3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금",
+    "부동산"
+  ]
+}

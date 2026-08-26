@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2O6P0N8N0M7M1L7L1T2S4S0Q1R4Q3",
   "title": "수산생물질병 관리법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "황운하의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2O6P0N8N0M7M1L7L1T2S4S0Q1R4Q3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

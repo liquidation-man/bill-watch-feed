@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Y2F6G0F8D1D4B1C5K4L0J4I9I8G7H9",
   "title": "하천법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "김종양의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2F6G0F8D1D4B1C5K4L0J4I9I8G7H9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

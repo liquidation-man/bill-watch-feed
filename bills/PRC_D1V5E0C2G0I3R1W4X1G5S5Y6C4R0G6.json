@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1V5E0C2G0I3R1W4X1G5S5Y6C4R0G6",
+  "title": "한국교직원공제회법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "박남춘의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2015-02-03",
+      "detail": "박남춘의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V5E0C2G0I3R1W4X1G5S5Y6C4R0G6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-17",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V5E0C2G0I3R1W4X1G5S5Y6C4R0G6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1V5E0C2G0I3R1W4X1G5S5Y6C4R0G6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

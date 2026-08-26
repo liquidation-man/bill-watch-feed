@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1Y4O1F1P0M6W1U4W3L8G4H5X9Q5M8",
+  "title": "도로교통법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "주승용의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-06",
+      "detail": "주승용의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1Y4O1F1P0M6W1U4W3L8G4H5X9Q5M8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1Y4O1F1P0M6W1U4W3L8G4H5X9Q5M8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

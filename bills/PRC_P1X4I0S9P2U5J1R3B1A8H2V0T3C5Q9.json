@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1X4I0S9P2U5J1R3B1A8H2V0T3C5Q9",
+  "title": "금융소비자 보호 기본법안",
+  "committee": "정무위원회",
+  "proposer": "이재영의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-25",
+      "detail": "이재영의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1X4I0S9P2U5J1R3B1A8H2V0T3C5Q9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1X4I0S9P2U5J1R3B1A8H2V0T3C5Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

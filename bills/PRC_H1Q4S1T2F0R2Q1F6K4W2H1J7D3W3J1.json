@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1Q4S1T2F0R2Q1F6K4W2H1J7D3W3J1",
+  "title": "지방교부세법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "백재현의원 등 27인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-02",
+      "detail": "백재현의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q4S1T2F0R2Q1F6K4W2H1J7D3W3J1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-02",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q4S1T2F0R2Q1F6K4W2H1J7D3W3J1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

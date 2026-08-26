@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1W4Q1A1K1O8R1W4K3N5S3T8I5E8J0",
+  "title": "대통령 등의 경호에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "최민희의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-18",
+      "detail": "최민희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W4Q1A1K1O8R1W4K3N5S3T8I5E8J0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-07-03",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W4Q1A1K1O8R1W4K3N5S3T8I5E8J0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1W4Q1A1K1O8R1W4K3N5S3T8I5E8J0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

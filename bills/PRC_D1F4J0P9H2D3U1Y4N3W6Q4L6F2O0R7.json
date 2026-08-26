@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_D1F4J0P9H2D3U1Y4N3W6Q4L6F2O0R7",
+  "title": "공휴일에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "홍의락의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-23",
+      "detail": "홍의락의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4J0P9H2D3U1Y4N3W6Q4L6F2O0R7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4J0P9H2D3U1Y4N3W6Q4L6F2O0R7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

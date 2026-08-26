@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1Z4H1V1J0I7M1B3Z2R6V2Y7H2I0H7",
+  "title": "한국투자공사법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정희수의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "정희수의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z4H1V1J0I7M1B3Z2R6V2Y7H2I0H7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z4H1V1J0I7M1B3Z2R6V2Y7H2I0H7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

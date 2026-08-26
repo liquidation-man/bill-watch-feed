@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1Q4H1C2X2U2M1J5M3E8J0N5H7O6R7",
+  "title": "어촌특화발전 지원 특별법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김우남의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-22",
+      "detail": "김우남의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q4H1C2X2U2M1J5M3E8J0N5H7O6R7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-24",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q4H1C2X2U2M1J5M3E8J0N5H7O6R7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Q4H1C2X2U2M1J5M3E8J0N5H7O6R7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

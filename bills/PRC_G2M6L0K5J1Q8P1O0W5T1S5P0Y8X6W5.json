@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2M6L0K5J1Q8P1O0W5T1S5P0Y8X6W5",
   "title": "사회보장급여의 이용·제공 및 수급권자 발굴에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "장철민의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2M6L0K5J1Q8P1O0W5T1S5P0Y8X6W5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

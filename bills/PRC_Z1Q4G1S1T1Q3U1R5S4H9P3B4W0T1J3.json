@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1Q4G1S1T1Q3U1R5S4H9P3B4W0T1J3",
+  "title": "취업 후 학자금 상환 특별법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김우남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-11-13",
+      "detail": "김우남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q4G1S1T1Q3U1R5S4H9P3B4W0T1J3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-10",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q4G1S1T1Q3U1R5S4H9P3B4W0T1J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Q4G1S1T1Q3U1R5S4H9P3B4W0T1J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

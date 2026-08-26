@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_N1Z4B0S9V2R6X1M5B5D0U1B0V6L4L1",
+  "title": "하천법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김우남의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-26",
+      "detail": "김우남의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Z4B0S9V2R6X1M5B5D0U1B0V6L4L1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Z4B0S9V2R6X1M5B5D0U1B0V6L4L1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

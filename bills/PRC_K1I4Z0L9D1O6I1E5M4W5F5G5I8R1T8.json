@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_K1I4Z0L9D1O6I1E5M4W5F5G5I8R1T8",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "최민희의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-09-16",
+      "detail": "최민희의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1I4Z0L9D1O6I1E5M4W5F5G5I8R1T8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1I4Z0L9D1O6I1E5M4W5F5G5I8R1T8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

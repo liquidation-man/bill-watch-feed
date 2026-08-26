@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1L4U1O0L1F0U1J7S4H1Y4H3K1Q8T9",
+  "title": "인권교육지원법안",
+  "committee": "국회운영위원회",
+  "proposer": "유승민의원 등 45인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-10-10",
+      "detail": "유승민의원 등 45인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1L4U1O0L1F0U1J7S4H1Y4H3K1Q8T9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-11-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1L4U1O0L1F0U1J7S4H1Y4H3K1Q8T9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

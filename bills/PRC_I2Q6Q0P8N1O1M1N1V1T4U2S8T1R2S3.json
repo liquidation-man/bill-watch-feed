@@ -1,7 +1,7 @@
 {
   "billId": "PRC_I2Q6Q0P8N1O1M1N1V1T4U2S8T1R2S3",
   "title": "한국발전공사법안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "안호영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q6Q0P8N1O1M1N1V1T4U2S8T1R2S3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

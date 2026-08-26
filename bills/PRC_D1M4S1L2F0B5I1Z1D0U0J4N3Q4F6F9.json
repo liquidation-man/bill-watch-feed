@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1M4S1L2F0B5I1Z1D0U0J4N3Q4F6F9",
+  "title": "입양특례법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "조명철의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-05",
+      "detail": "조명철의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1M4S1L2F0B5I1Z1D0U0J4N3Q4F6F9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1M4S1L2F0B5I1Z1D0U0J4N3Q4F6F9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

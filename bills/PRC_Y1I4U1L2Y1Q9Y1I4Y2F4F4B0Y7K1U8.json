@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_Y1I4U1L2Y1Q9Y1I4Y2F4F4B0Y7K1U8",
+  "title": "공유부동산의 분할에 관한 특례법안",
+  "committee": "법제사법위원회",
+  "proposer": "손인춘의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-12-19",
+      "detail": "손인춘의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I4U1L2Y1Q9Y1I4Y2F4F4B0Y7K1U8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-29",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I4U1L2Y1Q9Y1I4Y2F4F4B0Y7K1U8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I4U1L2Y1Q9Y1I4Y2F4F4B0Y7K1U8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법",
+    "부동산"
+  ]
+}
