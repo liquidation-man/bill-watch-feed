@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1V4W0E2Y2Z5Y1J3P1G6B2Q3B1U8Y3",
+  "title": "공공기관의 급여규제에 관한 법률안",
+  "committee": "기획재정위원회",
+  "proposer": "황주홍의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-25",
+      "detail": "황주홍의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1V4W0E2Y2Z5Y1J3P1G6B2Q3B1U8Y3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-03-03",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1V4W0E2Y2Z5Y1J3P1G6B2Q3B1U8Y3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

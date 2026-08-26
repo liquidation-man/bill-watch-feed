@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1P4I0D5O1U5P1C1L0J8Y0M3O8K2N8",
+  "title": "범죄피해자ㆍ신고자ㆍ증인 등 보호에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "조해진의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-15",
+      "detail": "조해진의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1P4I0D5O1U5P1C1L0J8Y0M3O8K2N8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-12",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1P4I0D5O1U5P1C1L0J8Y0M3O8K2N8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1P4I0D5O1U5P1C1L0J8Y0M3O8K2N8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_F1B4X0A3G1U8W1V4S4K5Z4C0I3H9N6",
+  "title": "국가표준기본법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "김태원의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-18",
+      "detail": "김태원의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4X0A3G1U8W1V4S4K5Z4C0I3H9N6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-14",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4X0A3G1U8W1V4S4K5Z4C0I3H9N6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4X0A3G1U8W1V4S4K5Z4C0I3H9N6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4X0A3G1U8W1V4S4K5Z4C0I3H9N6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

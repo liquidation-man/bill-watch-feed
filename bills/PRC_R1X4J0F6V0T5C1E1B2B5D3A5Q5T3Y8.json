@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1X4J0F6V0T5C1E1B2B5D3A5Q5T3Y8",
+  "title": "응급의료에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "도종환의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-05",
+      "detail": "도종환의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X4J0F6V0T5C1E1B2B5D3A5Q5T3Y8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X4J0F6V0T5C1E1B2B5D3A5Q5T3Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

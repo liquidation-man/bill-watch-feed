@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1B4V0U4N2F8N1E5D5S5Q5Y3Z6L1F8",
+  "title": "6ㆍ25전쟁 참전 군속의 퇴직급여금 지급에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "박수현의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-28",
+      "detail": "박수현의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B4V0U4N2F8N1E5D5S5Q5Y3Z6L1F8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-08-19",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B4V0U4N2F8N1E5D5S5Q5Y3Z6L1F8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1B4V0U4N2F8N1E5D5S5Q5Y3Z6L1F8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1X4O0U5L2T6F1E3P2D4O2X5K5V0G4",
+  "title": "국방전력지원체계연구소법안",
+  "committee": "국방위원회",
+  "proposer": "정희수의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-26",
+      "detail": "정희수의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X4O0U5L2T6F1E3P2D4O2X5K5V0G4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-06-25",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X4O0U5L2T6F1E3P2D4O2X5K5V0G4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

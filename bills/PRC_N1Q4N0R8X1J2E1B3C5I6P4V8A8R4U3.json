@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1Q4N0R8X1J2E1B3C5I6P4V8A8R4U3",
+  "title": "철도건설법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "변재일의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-08-12",
+      "detail": "변재일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q4N0R8X1J2E1B3C5I6P4V8A8R4U3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-26",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q4N0R8X1J2E1B3C5I6P4V8A8R4U3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q4N0R8X1J2E1B3C5I6P4V8A8R4U3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

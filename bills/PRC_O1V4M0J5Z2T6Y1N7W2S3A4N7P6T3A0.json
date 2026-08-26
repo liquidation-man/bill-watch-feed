@@ -1,0 +1,63 @@
+{
+  "billId": "PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0",
+  "title": "인성교육진흥법안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "정의화의원 등 102인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-26",
+      "detail": "정의화의원 등 102인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-03",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-05",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-24",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-24",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1V4M0J5Z2T6Y1N7W2S3A4N7P6T3A0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

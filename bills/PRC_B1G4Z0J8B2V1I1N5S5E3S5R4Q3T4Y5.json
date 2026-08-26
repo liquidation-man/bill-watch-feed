@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_B1G4Z0J8B2V1I1N5S5E3S5R4Q3T4Y5",
+  "title": "공익신고자 보호법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박주선의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-08-21",
+      "detail": "박주선의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G4Z0J8B2V1I1N5S5E3S5R4Q3T4Y5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-30",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G4Z0J8B2V1I1N5S5E3S5R4Q3T4Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-04-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G4Z0J8B2V1I1N5S5E3S5R4Q3T4Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-07-06",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G4Z0J8B2V1I1N5S5E3S5R4Q3T4Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1L4V0D2Y0C3L1S6R5X5C4R6I7G4J9",
+  "title": "공인중개사의 업무 및 부동산 거래신고에 관한 법률 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "김승남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-03",
+      "detail": "김승남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1L4V0D2Y0C3L1S6R5X5C4R6I7G4J9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-26",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1L4V0D2Y0C3L1S6R5X5C4R6I7G4J9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1L4V0D2Y0C3L1S6R5X5C4R6I7G4J9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

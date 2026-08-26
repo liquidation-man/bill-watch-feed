@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_H1U4E0P4X1D6A0D9U5B0T3M7J1S6D4",
+  "title": "해외자원개발 사업법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "부좌현의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-16",
+      "detail": "부좌현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U4E0P4X1D6A0D9U5B0T3M7J1S6D4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-13",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U4E0P4X1D6A0D9U5B0T3M7J1S6D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U4E0P4X1D6A0D9U5B0T3M7J1S6D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-01-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U4E0P4X1D6A0D9U5B0T3M7J1S6D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

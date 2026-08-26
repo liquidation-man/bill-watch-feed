@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1B4A0A6X2F6Z1U5E4M2I0T9V1I5G3",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최동익의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-26",
+      "detail": "최동익의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1B4A0A6X2F6Z1U5E4M2I0T9V1I5G3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1B4A0A6X2F6Z1U5E4M2I0T9V1I5G3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

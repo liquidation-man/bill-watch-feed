@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G1L4I0G3G2X1H0C9X2I8A2G8K8E5L8",
+  "title": "도시 및 주거환경정비법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "함진규의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-21",
+      "detail": "함진규의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1L4I0G3G2X1H0C9X2I8A2G8K8E5L8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-26",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1L4I0G3G2X1H0C9X2I8A2G8K8E5L8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1L4I0G3G2X1H0C9X2I8A2G8K8E5L8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

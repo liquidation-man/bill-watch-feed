@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_M1U4L0E4Q0I3D1Y7U3P9Q2C6I1G2S2",
+  "title": "아동복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "양승조의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-03",
+      "detail": "양승조의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1U4L0E4Q0I3D1Y7U3P9Q2C6I1G2S2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1U4L0E4Q0I3D1Y7U3P9Q2C6I1G2S2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1U4L0E4Q0I3D1Y7U3P9Q2C6I1G2S2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-03-03",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1U4L0E4Q0I3D1Y7U3P9Q2C6I1G2S2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

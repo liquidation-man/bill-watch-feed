@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1K4J0M5N2B7Q1Y4N3Y9I2P6Z6Z7M9",
+  "title": "지방세법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이한구의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-27",
+      "detail": "이한구의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1K4J0M5N2B7Q1Y4N3Y9I2P6Z6Z7M9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1K4J0M5N2B7Q1Y4N3Y9I2P6Z6Z7M9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

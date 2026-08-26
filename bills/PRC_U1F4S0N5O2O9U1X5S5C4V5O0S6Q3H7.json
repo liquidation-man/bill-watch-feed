@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_U1F4S0N5O2O9U1X5S5C4V5O0S6Q3H7",
+  "title": "공직자윤리법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "유기홍의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-29",
+      "detail": "유기홍의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1F4S0N5O2O9U1X5S5C4V5O0S6Q3H7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1F4S0N5O2O9U1X5S5C4V5O0S6Q3H7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-14",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1F4S0N5O2O9U1X5S5C4V5O0S6Q3H7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1F4S0N5O2O9U1X5S5C4V5O0S6Q3H7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

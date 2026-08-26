@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_L1E4Q0I7E0F1M1W6Y5H5V4E0F8I9G3",
+  "title": "세월호 침몰사고 피해보상 등에 관한 특별법안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김학용의원 등 27인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-07-01",
+      "detail": "김학용의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E4Q0I7E0F1M1W6Y5H5V4E0F8I9G3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E4Q0I7E0F1M1W6Y5H5V4E0F8I9G3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-01-07",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E4Q0I7E0F1M1W6Y5H5V4E0F8I9G3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-01-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E4Q0I7E0F1M1W6Y5H5V4E0F8I9G3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

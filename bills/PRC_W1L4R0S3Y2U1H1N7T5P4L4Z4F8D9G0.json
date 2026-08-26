@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1L4R0S3Y2U1H1N7T5P4L4Z4F8D9G0",
+  "title": "건축법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "강창일의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-21",
+      "detail": "강창일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1L4R0S3Y2U1H1N7T5P4L4Z4F8D9G0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-07-08",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1L4R0S3Y2U1H1N7T5P4L4Z4F8D9G0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1L4R0S3Y2U1H1N7T5P4L4Z4F8D9G0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

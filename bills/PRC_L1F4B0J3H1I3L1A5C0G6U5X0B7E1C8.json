@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_L1F4B0J3H1I3L1A5C0G6U5X0B7E1C8",
+  "title": "관광진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "유기홍의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-13",
+      "detail": "유기홍의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F4B0J3H1I3L1A5C0G6U5X0B7E1C8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-03",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F4B0J3H1I3L1A5C0G6U5X0B7E1C8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-05",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F4B0J3H1I3L1A5C0G6U5X0B7E1C8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-01-12",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1F4B0J3H1I3L1A5C0G6U5X0B7E1C8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

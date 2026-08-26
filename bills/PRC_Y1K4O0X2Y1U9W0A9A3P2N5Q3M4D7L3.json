@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1K4O0X2Y1U9W0A9A3P2N5Q3M4D7L3",
+  "title": "사회기반시설에 대한 민간투자법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "전순옥의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-19",
+      "detail": "전순옥의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1K4O0X2Y1U9W0A9A3P2N5Q3M4D7L3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-06",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1K4O0X2Y1U9W0A9A3P2N5Q3M4D7L3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1K4O0X2Y1U9W0A9A3P2N5Q3M4D7L3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

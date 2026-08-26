@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_G1C4R0D3H0U3W1W6M3R8P5A7V5K6R8",
+  "title": "국가연구개발사업 등의 성과평가 및 성과관리에 관한 법률 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "김상훈의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-03",
+      "detail": "김상훈의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C4R0D3H0U3W1W6M3R8P5A7V5K6R8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-21",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C4R0D3H0U3W1W6M3R8P5A7V5K6R8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-03",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C4R0D3H0U3W1W6M3R8P5A7V5K6R8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C4R0D3H0U3W1W6M3R8P5A7V5K6R8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

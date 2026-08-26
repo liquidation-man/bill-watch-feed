@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1X4Q0I3H1I3W1Y0I0D4U4V1F3X7W7",
+  "title": "출산장려기금법안",
+  "committee": "보건복지위원회",
+  "proposer": "황주홍의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-13",
+      "detail": "황주홍의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X4Q0I3H1I3W1Y0I0D4U4V1F3X7W7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X4Q0I3H1I3W1Y0I0D4U4V1F3X7W7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

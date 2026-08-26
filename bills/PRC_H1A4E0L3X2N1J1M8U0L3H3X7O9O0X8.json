@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1A4E0L3X2N1J1M8U0L3H3X7O9O0X8",
+  "title": "전자증권의 발행 및 유통에 관한 법률안",
+  "committee": "정무위원회",
+  "proposer": "이종걸의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-21",
+      "detail": "이종걸의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1A4E0L3X2N1J1M8U0L3H3X7O9O0X8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-11-21",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1A4E0L3X2N1J1M8U0L3H3X7O9O0X8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

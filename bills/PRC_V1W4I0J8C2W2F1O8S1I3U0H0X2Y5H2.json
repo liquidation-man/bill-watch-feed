@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1W4I0J8C2W2F1O8S1I3U0H0X2Y5H2",
+  "title": "전원개발촉진법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "이이재의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-08-22",
+      "detail": "이이재의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1W4I0J8C2W2F1O8S1I3U0H0X2Y5H2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-13",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1W4I0J8C2W2F1O8S1I3U0H0X2Y5H2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1W4I0J8C2W2F1O8S1I3U0H0X2Y5H2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

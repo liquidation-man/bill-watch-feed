@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1H4X0X7K1I6Q1R5L2P7G1I1E5R4L9",
+  "title": "국회과학기술처법안",
+  "committee": "국회운영위원회",
+  "proposer": "최원식의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-07-16",
+      "detail": "최원식의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H4X0X7K1I6Q1R5L2P7G1I1E5R4L9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-07-03",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H4X0X7K1I6Q1R5L2P7G1I1E5R4L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1H4X0X7K1I6Q1R5L2P7G1I1E5R4L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

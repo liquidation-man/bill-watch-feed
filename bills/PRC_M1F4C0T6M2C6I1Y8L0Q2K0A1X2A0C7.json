@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1F4C0T6M2C6I1Y8L0Q2K0A1X2A0C7",
+  "title": "정신보건법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김영우의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-26",
+      "detail": "김영우의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1F4C0T6M2C6I1Y8L0Q2K0A1X2A0C7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1F4C0T6M2C6I1Y8L0Q2K0A1X2A0C7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

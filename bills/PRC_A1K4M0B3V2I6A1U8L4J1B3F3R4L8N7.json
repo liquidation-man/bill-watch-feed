@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A1K4M0B3V2I6A1U8L4J1B3F3R4L8N7",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김학용의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-26",
+      "detail": "김학용의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K4M0B3V2I6A1U8L4J1B3F3R4L8N7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K4M0B3V2I6A1U8L4J1B3F3R4L8N7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

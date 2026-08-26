@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_D1F4Q0W8U2M8W1T0Q0Y1W0E1Z3P9B4",
+  "title": "초·중등교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김학용의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-08-28",
+      "detail": "김학용의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4Q0W8U2M8W1T0Q0Y1W0E1Z3P9B4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-10",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4Q0W8U2M8W1T0Q0Y1W0E1Z3P9B4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-12-07",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4Q0W8U2M8W1T0Q0Y1W0E1Z3P9B4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-12-31",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1F4Q0W8U2M8W1T0Q0Y1W0E1Z3P9B4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

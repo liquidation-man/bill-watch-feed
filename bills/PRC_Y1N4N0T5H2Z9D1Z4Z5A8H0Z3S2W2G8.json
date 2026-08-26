@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y1N4N0T5H2Z9D1Z4Z5A8H0Z3S2W2G8",
+  "title": "해양사고의 조사 및 심판에 관한 법률 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김관영의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-29",
+      "detail": "김관영의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N4N0T5H2Z9D1Z4Z5A8H0Z3S2W2G8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-07-09",
+      "detail": "농림축산식품해양수산위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N4N0T5H2Z9D1Z4Z5A8H0Z3S2W2G8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N4N0T5H2Z9D1Z4Z5A8H0Z3S2W2G8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_A1W4C0N6G3Y0O1O6T2H0L5P0N5O7X2",
+  "title": "원자력안전법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "김제남의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-30",
+      "detail": "김제남의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1W4C0N6G3Y0O1O6T2H0L5P0N5O7X2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-21",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1W4C0N6G3Y0O1O6T2H0L5P0N5O7X2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-03",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1W4C0N6G3Y0O1O6T2H0L5P0N5O7X2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-12-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1W4C0N6G3Y0O1O6T2H0L5P0N5O7X2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

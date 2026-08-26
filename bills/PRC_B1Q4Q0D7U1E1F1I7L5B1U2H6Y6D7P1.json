@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1Q4Q0D7U1E1F1I7L5B1U2H6Y6D7P1",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신경림의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-07-11",
+      "detail": "신경림의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q4Q0D7U1E1F1I7L5B1U2H6Y6D7P1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-07-16",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q4Q0D7U1E1F1I7L5B1U2H6Y6D7P1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

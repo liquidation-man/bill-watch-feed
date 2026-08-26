@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1A4W0G4A0P9Z1Q6O3M9S3K2A7W6G8",
+  "title": "경찰공무원 보건안전 및 복지 기본법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박성호의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-09",
+      "detail": "박성호의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A4W0G4A0P9Z1Q6O3M9S3K2A7W6G8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A4W0G4A0P9Z1Q6O3M9S3K2A7W6G8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1A4W0G4A0P9Z1Q6O3M9S3K2A7W6G8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

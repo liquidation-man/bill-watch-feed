@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_Z1X4I0O2W1A0C1Y0L3P4J0I2X6W3M1",
+  "title": "학교 밖 청소년 지원법안",
+  "committee": "여성가족위원회",
+  "proposer": "남인순의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-10",
+      "detail": "남인순의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1X4I0O2W1A0C1Y0L3P4J0I2X6W3M1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-28",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1X4I0O2W1A0C1Y0L3P4J0I2X6W3M1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-28",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1X4I0O2W1A0C1Y0L3P4J0I2X6W3M1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-05-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1X4I0O2W1A0C1Y0L3P4J0I2X6W3M1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

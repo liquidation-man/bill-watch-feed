@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1R4D0I6P1P2V1F5S3K0D1F0D3W4K3",
+  "title": "지방공무원법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김영록의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-12",
+      "detail": "김영록의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1R4D0I6P1P2V1F5S3K0D1F0D3W4K3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1R4D0I6P1P2V1F5S3K0D1F0D3W4K3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

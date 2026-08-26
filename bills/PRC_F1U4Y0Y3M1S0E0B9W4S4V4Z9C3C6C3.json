@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1U4Y0Y3M1S0E0B9W4S4V4Z9C3C6C3",
+  "title": "국회에서의 증언·감정 등에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "최원식의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-10",
+      "detail": "최원식의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1U4Y0Y3M1S0E0B9W4S4V4Z9C3C6C3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1U4Y0Y3M1S0E0B9W4S4V4Z9C3C6C3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

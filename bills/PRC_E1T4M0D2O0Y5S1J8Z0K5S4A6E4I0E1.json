@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1T4M0D2O0Y5S1J8Z0K5S4A6E4I0E1",
+  "title": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김정훈의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-05",
+      "detail": "김정훈의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T4M0D2O0Y5S1J8Z0K5S4A6E4I0E1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-02-07",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T4M0D2O0Y5S1J8Z0K5S4A6E4I0E1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

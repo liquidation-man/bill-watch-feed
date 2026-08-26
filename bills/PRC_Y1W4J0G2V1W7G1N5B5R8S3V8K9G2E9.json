@@ -1,0 +1,63 @@
+{
+  "billId": "PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9",
+  "title": "방송통신위원회의 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "이상민의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-17",
+      "detail": "이상민의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-27",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-30",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-05-02",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-01-12",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-01-12",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1W4J0G2V1W7G1N5B5R8S3V8K9G2E9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

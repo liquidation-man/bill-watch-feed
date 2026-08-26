@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M1S4Y0I8P2R1E1K8N3W0O4V6B7O8E0",
+  "title": "제약산업 육성 및 지원에 관한 특별법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신경림의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-08-21",
+      "detail": "신경림의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4Y0I8P2R1E1K8N3W0O4V6B7O8E0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-14",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4Y0I8P2R1E1K8N3W0O4V6B7O8E0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1S4Y0I8P2R1E1K8N3W0O4V6B7O8E0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

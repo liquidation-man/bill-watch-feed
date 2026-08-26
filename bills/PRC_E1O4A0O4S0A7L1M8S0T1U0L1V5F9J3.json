@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1O4A0O4S0A7L1M8S0T1U0L1V5F9J3",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박기춘의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-07",
+      "detail": "박기춘의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O4A0O4S0A7L1M8S0T1U0L1V5F9J3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O4A0O4S0A7L1M8S0T1U0L1V5F9J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O4A0O4S0A7L1M8S0T1U0L1V5F9J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

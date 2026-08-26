@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1N4Y0X4V0K8A1Y7V3Q2V0S6F5T2W7",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김승남의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-08",
+      "detail": "김승남의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1N4Y0X4V0K8A1Y7V3Q2V0S6F5T2W7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1N4Y0X4V0K8A1Y7V3Q2V0S6F5T2W7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1N4Y0X4V0K8A1Y7V3Q2V0S6F5T2W7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

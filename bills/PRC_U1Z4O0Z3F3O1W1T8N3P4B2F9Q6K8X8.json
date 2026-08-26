@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1Z4O0Z3F3O1W1T8N3P4B2F9Q6K8X8",
+  "title": "정보화마을의 조성 및 육성에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "우윤근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-31",
+      "detail": "우윤근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Z4O0Z3F3O1W1T8N3P4B2F9Q6K8X8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Z4O0Z3F3O1W1T8N3P4B2F9Q6K8X8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1Z4O0Z3F3O1W1T8N3P4B2F9Q6K8X8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

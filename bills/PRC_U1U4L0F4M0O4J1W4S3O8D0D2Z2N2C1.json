@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1U4L0F4M0O4J1W4S3O8D0D2Z2N2C1",
+  "title": "특별감찰관법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "노철래의원 등 24인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-04",
+      "detail": "노철래의원 등 24인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1U4L0F4M0O4J1W4S3O8D0D2Z2N2C1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-07-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1U4L0F4M0O4J1W4S3O8D0D2Z2N2C1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1U4L0F4M0O4J1W4S3O8D0D2Z2N2C1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

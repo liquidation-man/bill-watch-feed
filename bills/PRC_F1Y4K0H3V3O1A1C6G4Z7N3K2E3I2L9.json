@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1Y4K0H3V3O1A1C6G4Z7N3K2E3I2L9",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "전해철의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-31",
+      "detail": "전해철의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y4K0H3V3O1A1C6G4Z7N3K2E3I2L9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-07",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y4K0H3V3O1A1C6G4Z7N3K2E3I2L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y4K0H3V3O1A1C6G4Z7N3K2E3I2L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

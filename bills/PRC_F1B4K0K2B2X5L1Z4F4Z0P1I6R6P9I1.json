@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1B4K0K2B2X5L1Z4F4Z0P1I6R6P9I1",
+  "title": "국가장애인위원회 설치 및 운영에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최동익의원 등 18인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-02-25",
+      "detail": "최동익의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4K0K2B2X5L1Z4F4Z0P1I6R6P9I1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-05-01",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4K0K2B2X5L1Z4F4Z0P1I6R6P9I1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1B4K0K2B2X5L1Z4F4Z0P1I6R6P9I1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

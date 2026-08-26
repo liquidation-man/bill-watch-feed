@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1E4R0N3Q2E8C1C0Y3A4A3Y2H5W2J9",
+  "title": "주택법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "강석호의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-28",
+      "detail": "강석호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1E4R0N3Q2E8C1C0Y3A4A3Y2H5W2J9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-04-16",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1E4R0N3Q2E8C1C0Y3A4A3Y2H5W2J9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

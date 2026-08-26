@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1O4P0V3F3P1Z1F7F2X3U4A1R3I7P1",
+  "title": "발전소주변지역 지원에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "부좌현의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-31",
+      "detail": "부좌현의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O4P0V3F3P1Z1F7F2X3U4A1R3I7P1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-14",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O4P0V3F3P1Z1F7F2X3U4A1R3I7P1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1O4P0V3F3P1Z1F7F2X3U4A1R3I7P1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

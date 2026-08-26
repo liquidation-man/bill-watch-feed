@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1P4E0D3Q1Y3G1I1S4W4K3Z8P8P1B2",
+  "title": "청년발전기본법안",
+  "committee": "여성가족위원회",
+  "proposer": "박기춘의원 등 27인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-03-13",
+      "detail": "박기춘의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1P4E0D3Q1Y3G1I1S4W4K3Z8P8P1B2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-11-13",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1P4E0D3Q1Y3G1I1S4W4K3Z8P8P1B2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1P4E0D3Q1Y3G1I1S4W4K3Z8P8P1B2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

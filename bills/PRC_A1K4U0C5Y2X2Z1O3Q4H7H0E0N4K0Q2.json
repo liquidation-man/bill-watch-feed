@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1K4U0C5Y2X2Z1O3Q4H7H0E0N4K0Q2",
+  "title": "청년발전기본법안",
+  "committee": "기획재정위원회",
+  "proposer": "김상민의원 등 53인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-05-22",
+      "detail": "김상민의원 등 53인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K4U0C5Y2X2Z1O3Q4H7H0E0N4K0Q2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-06",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K4U0C5Y2X2Z1O3Q4H7H0E0N4K0Q2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K4U0C5Y2X2Z1O3Q4H7H0E0N4K0Q2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

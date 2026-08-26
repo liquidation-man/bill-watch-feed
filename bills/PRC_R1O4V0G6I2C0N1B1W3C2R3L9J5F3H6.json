@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_R1O4V0G6I2C0N1B1W3C2R3L9J5F3H6",
+  "title": "아이돌봄 지원법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "홍지만의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-06-20",
+      "detail": "홍지만의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O4V0G6I2C0N1B1W3C2R3L9J5F3H6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-18",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O4V0G6I2C0N1B1W3C2R3L9J5F3H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-12-05",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O4V0G6I2C0N1B1W3C2R3L9J5F3H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-02-16",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O4V0G6I2C0N1B1W3C2R3L9J5F3H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

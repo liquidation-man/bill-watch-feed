@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1L4N0K4Z0W1N1S6W1Z6B2C1G4G4D2",
+  "title": "근로기준법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "심상정의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-04-01",
+      "detail": "심상정의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L4N0K4Z0W1N1S6W1Z6B2C1G4G4D2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-15",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L4N0K4Z0W1N1S6W1Z6B2C1G4G4D2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1L4N0K4Z0W1N1S6W1Z6B2C1G4G4D2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
