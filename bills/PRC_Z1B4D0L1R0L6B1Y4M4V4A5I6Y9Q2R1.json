@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Z1B4D0L1R0L6B1Y4M4V4A5I6Y9Q2R1",
+  "title": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김회선의원 등 34인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-01-06",
+      "detail": "김회선의원 등 34인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1B4D0L1R0L6B1Y4M4V4A5I6Y9Q2R1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-20",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1B4D0L1R0L6B1Y4M4V4A5I6Y9Q2R1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1B4D0L1R0L6B1Y4M4V4A5I6Y9Q2R1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

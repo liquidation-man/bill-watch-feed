@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_E1V3J1F1I1H4U1A7P3K2T4K0L5N1V5",
+  "title": "식품위생법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김우남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-14",
+      "detail": "김우남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1V3J1F1I1H4U1A7P3K2T4K0L5N1V5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1V3J1F1I1H4U1A7P3K2T4K0L5N1V5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

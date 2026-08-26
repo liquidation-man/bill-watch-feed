@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1X4F0I1R2F0E1M5S2M1X0H2I8F6U0",
+  "title": "수의사법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "서영교의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-01-20",
+      "detail": "서영교의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1X4F0I1R2F0E1M5S2M1X0H2I8F6U0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-02-04",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1X4F0I1R2F0E1M5S2M1X0H2I8F6U0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

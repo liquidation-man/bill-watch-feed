@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1G3G1I2S2J7V1N1Q5G7V4C2M4P4U4",
+  "title": "국민건강증진법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "유재중의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-27",
+      "detail": "유재중의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G3G1I2S2J7V1N1Q5G7V4C2M4P4U4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1G3G1I2S2J7V1N1Q5G7V4C2M4P4U4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

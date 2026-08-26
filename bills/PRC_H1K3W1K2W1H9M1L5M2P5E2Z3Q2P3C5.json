@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1K3W1K2W1H9M1L5M2P5E2Z3Q2P3C5",
+  "title": "국민체육진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "박혜자의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-19",
+      "detail": "박혜자의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1K3W1K2W1H9M1L5M2P5E2Z3Q2P3C5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2015-02-10",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1K3W1K2W1H9M1L5M2P5E2Z3Q2P3C5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1K3W1K2W1H9M1L5M2P5E2Z3Q2P3C5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

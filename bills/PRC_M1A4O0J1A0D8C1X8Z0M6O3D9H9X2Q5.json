@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1A4O0J1A0D8C1X8Z0M6O3D9H9X2Q5",
+  "title": "국세청법안",
+  "committee": "기획재정위원회",
+  "proposer": "조정식의원 등 34인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-01-08",
+      "detail": "조정식의원 등 34인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1A4O0J1A0D8C1X8Z0M6O3D9H9X2Q5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-13",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1A4O0J1A0D8C1X8Z0M6O3D9H9X2Q5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1A4O0J1A0D8C1X8Z0M6O3D9H9X2Q5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

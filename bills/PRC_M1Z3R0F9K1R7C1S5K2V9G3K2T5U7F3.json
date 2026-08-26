@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M1Z3R0F9K1R7C1S5K2V9G3K2T5U7F3",
+  "title": "독립유공자예우에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김을동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-17",
+      "detail": "김을동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z3R0F9K1R7C1S5K2V9G3K2T5U7F3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-06",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z3R0F9K1R7C1S5K2V9G3K2T5U7F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1Z3R0F9K1R7C1S5K2V9G3K2T5U7F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

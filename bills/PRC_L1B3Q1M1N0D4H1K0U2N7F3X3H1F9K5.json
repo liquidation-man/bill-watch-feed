@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1B3Q1M1N0D4H1K0U2N7F3X3H1F9K5",
+  "title": "기상법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김성태의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-04",
+      "detail": "김성태의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1B3Q1M1N0D4H1K0U2N7F3X3H1F9K5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-11-27",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1B3Q1M1N0D4H1K0U2N7F3X3H1F9K5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

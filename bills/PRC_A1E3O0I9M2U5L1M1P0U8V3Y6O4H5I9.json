@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A1E3O0I9M2U5L1M1P0U8V3Y6O4H5I9",
+  "title": "국제문화교류 진흥법안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "박병석의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-25",
+      "detail": "박병석의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1E3O0I9M2U5L1M1P0U8V3Y6O4H5I9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-10-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1E3O0I9M2U5L1M1P0U8V3Y6O4H5I9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

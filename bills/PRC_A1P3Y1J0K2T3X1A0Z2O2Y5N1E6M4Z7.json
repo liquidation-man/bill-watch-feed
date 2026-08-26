@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1P3Y1J0K2T3X1A0Z2O2Y5N1E6M4Z7",
+  "title": "병역법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "송영근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-10-23",
+      "detail": "송영근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P3Y1J0K2T3X1A0Z2O2Y5N1E6M4Z7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-23",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P3Y1J0K2T3X1A0Z2O2Y5N1E6M4Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1P3Y1J0K2T3X1A0Z2O2Y5N1E6M4Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

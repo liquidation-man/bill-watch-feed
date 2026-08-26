@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_C1E3D1S1V0K5I1L1C2A6D2C7N0Y5C3",
+  "title": "대한민국국기법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김성곤의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-05",
+      "detail": "김성곤의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1E3D1S1V0K5I1L1C2A6D2C7N0Y5C3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1E3D1S1V0K5I1L1C2A6D2C7N0Y5C3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

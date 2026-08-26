@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I1K3U1W1A2N6A1M7I5E8C4T5L5G5T5",
+  "title": "지방세법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김현미의원 등 19인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-26",
+      "detail": "김현미의원 등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1K3U1W1A2N6A1M7I5E8C4T5L5G5T5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1K3U1W1A2N6A1M7I5E8C4T5L5G5T5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

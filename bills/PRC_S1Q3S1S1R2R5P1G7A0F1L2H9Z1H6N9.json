@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1Q3S1S1R2R5P1G7A0F1L2H9Z1H6N9",
+  "title": "정당법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "양승조의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-25",
+      "detail": "양승조의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q3S1S1R2R5P1G7A0F1L2H9Z1H6N9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Q3S1S1R2R5P1G7A0F1L2H9Z1H6N9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

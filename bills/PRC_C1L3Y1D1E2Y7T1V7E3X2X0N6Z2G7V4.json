@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1L3Y1D1E2Y7T1V7E3X2X0N6Z2G7V4",
+  "title": "자연공원법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "염동열의원 등 33인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-27",
+      "detail": "염동열의원 등 33인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L3Y1D1E2Y7T1V7E3X2X0N6Z2G7V4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-14",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L3Y1D1E2Y7T1V7E3X2X0N6Z2G7V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1L3Y1D1E2Y7T1V7E3X2X0N6Z2G7V4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

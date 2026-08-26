@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1I3V1Y2M0C3Y1O1V1E2R5R2C5Q8J1",
+  "title": "고등교육법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "안민석의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-03",
+      "detail": "안민석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I3V1Y2M0C3Y1O1V1E2R5R2C5Q8J1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1I3V1Y2M0C3Y1O1V1E2R5R2C5Q8J1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

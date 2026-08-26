@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X1W3M1Z2Q3P1W1Q8M0J3A4Y5L8T5Y1",
+  "title": "새마을금고법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "성완종의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-31",
+      "detail": "성완종의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1W3M1Z2Q3P1W1Q8M0J3A4Y5L8T5Y1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-14",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1W3M1Z2Q3P1W1Q8M0J3A4Y5L8T5Y1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1W3M1Z2Q3P1W1Q8M0J3A4Y5L8T5Y1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

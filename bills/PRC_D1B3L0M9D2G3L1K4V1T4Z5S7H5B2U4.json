@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D1B3L0M9D2G3L1K4V1T4Z5S7H5B2U4",
+  "title": "방송통신발전 기본법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "심윤조의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-23",
+      "detail": "심윤조의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1B3L0M9D2G3L1K4V1T4Z5S7H5B2U4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-18",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1B3L0M9D2G3L1K4V1T4Z5S7H5B2U4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1B3L0M9D2G3L1K4V1T4Z5S7H5B2U4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

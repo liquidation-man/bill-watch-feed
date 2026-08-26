@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1N3Z1E1H1S8D1Y5R3N8W3W1G0V2H6",
+  "title": "가족관계의 등록 등에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김춘진의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-18",
+      "detail": "김춘진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3Z1E1H1S8D1Y5R3N8W3W1G0V2H6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3Z1E1H1S8D1Y5R3N8W3W1G0V2H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3Z1E1H1S8D1Y5R3N8W3W1G0V2H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

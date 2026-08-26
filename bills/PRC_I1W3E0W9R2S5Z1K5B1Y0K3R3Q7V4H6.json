@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1W3E0W9R2S5Z1K5B1Y0K3R3Q7V4H6",
+  "title": "군 사망사고 진상규명에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "김광진의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-25",
+      "detail": "김광진의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1W3E0W9R2S5Z1K5B1Y0K3R3Q7V4H6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-23",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1W3E0W9R2S5Z1K5B1Y0K3R3Q7V4H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1W3E0W9R2S5Z1K5B1Y0K3R3Q7V4H6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S1C3Y0Q9M1I3S1R8O0Q4X3T9H0A1L9",
+  "title": "지방교부세법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김춘진의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-13",
+      "detail": "김춘진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1C3Y0Q9M1I3S1R8O0Q4X3T9H0A1L9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1C3Y0Q9M1I3S1R8O0Q4X3T9H0A1L9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1Y3F1N1D1L5X1L6G0A2S2D5G9N9X2",
+  "title": "진실·화해를 위한 과거사정리 기본법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이재오의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-15",
+      "detail": "이재오의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y3F1N1D1L5X1L6G0A2S2D5G9N9X2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-06",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y3F1N1D1L5X1L6G0A2S2D5G9N9X2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Y3F1N1D1L5X1L6G0A2S2D5G9N9X2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1L3M1Y2J1L2P1L6W5O3Q1X1C6S9E8",
+  "title": "통일법제추진단의 설치 및 운영에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "임수경의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-12",
+      "detail": "임수경의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1L3M1Y2J1L2P1L6W5O3Q1X1C6S9E8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-02-07",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1L3M1Y2J1L2P1L6W5O3Q1X1C6S9E8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

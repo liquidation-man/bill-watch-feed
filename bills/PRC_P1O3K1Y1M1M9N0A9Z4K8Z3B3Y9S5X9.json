@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_P1O3K1Y1M1M9N0A9Z4K8Z3B3Y9S5X9",
+  "title": "별정우체국법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "강동원의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-19",
+      "detail": "강동원의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1O3K1Y1M1M9N0A9Z4K8Z3B3Y9S5X9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-19",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1O3K1Y1M1M9N0A9Z4K8Z3B3Y9S5X9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1O3K1Y1M1M9N0A9Z4K8Z3B3Y9S5X9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

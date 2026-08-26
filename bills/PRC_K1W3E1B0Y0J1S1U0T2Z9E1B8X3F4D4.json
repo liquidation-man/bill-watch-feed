@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1W3E1B0Y0J1S1U0T2Z9E1B8X3F4D4",
+  "title": "제철소 주변지역 지원에 관한 법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "김동완의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-10-01",
+      "detail": "김동완의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W3E1B0Y0J1S1U0T2Z9E1B8X3F4D4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-10",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W3E1B0Y0J1S1U0T2Z9E1B8X3F4D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1W3E1B0Y0J1S1U0T2Z9E1B8X3F4D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

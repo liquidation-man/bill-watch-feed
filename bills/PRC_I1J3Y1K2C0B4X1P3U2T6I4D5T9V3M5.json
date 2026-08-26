@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1J3Y1K2C0B4X1P3U2T6I4D5T9V3M5",
+  "title": "노동조합 및 노동관계조정법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "은수미의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-12-04",
+      "detail": "은수미의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J3Y1K2C0B4X1P3U2T6I4D5T9V3M5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-14",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J3Y1K2C0B4X1P3U2T6I4D5T9V3M5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J3Y1K2C0B4X1P3U2T6I4D5T9V3M5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

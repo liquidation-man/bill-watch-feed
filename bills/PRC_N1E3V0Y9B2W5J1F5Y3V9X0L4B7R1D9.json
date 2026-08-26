@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N1E3V0Y9B2W5J1F5Y3V9X0L4B7R1D9",
+  "title": "의무복무 중 사망 군인의 예우 및 지원에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "김광진의원 등 23인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-09-25",
+      "detail": "김광진의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E3V0Y9B2W5J1F5Y3V9X0L4B7R1D9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-23",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E3V0Y9B2W5J1F5Y3V9X0L4B7R1D9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1E3V0Y9B2W5J1F5Y3V9X0L4B7R1D9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

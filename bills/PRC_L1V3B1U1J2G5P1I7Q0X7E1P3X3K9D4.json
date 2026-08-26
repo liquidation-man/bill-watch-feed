@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1V3B1U1J2G5P1I7Q0X7E1P3X3K9D4",
+  "title": "국가기념일에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김성곤의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-11-25",
+      "detail": "김성곤의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1V3B1U1J2G5P1I7Q0X7E1P3X3K9D4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1V3B1U1J2G5P1I7Q0X7E1P3X3K9D4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

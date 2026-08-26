@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1Q4S0U1R0E3U1A3W3D0Y2Q3W6S7B0",
+  "title": "통신비밀보호법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "서상기의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2014-01-03",
+      "detail": "서상기의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Q4S0U1R0E3U1A3W3D0Y2Q3W6S7B0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-11-21",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Q4S0U1R0E3U1A3W3D0Y2Q3W6S7B0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Q4S0U1R0E3U1A3W3D0Y2Q3W6S7B0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
