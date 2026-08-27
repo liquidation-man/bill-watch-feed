@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_G1C3A0V2Q1N9V1C7W1A7P5M8M7I0Q8",
+  "title": "한국원격대학교육협의회법안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "정우택의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-19",
+      "detail": "정우택의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C3A0V2Q1N9V1C7W1A7P5M8M7I0Q8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-09",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C3A0V2Q1N9V1C7W1A7P5M8M7I0Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1C3A0V2Q1N9V1C7W1A7P5M8M7I0Q8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

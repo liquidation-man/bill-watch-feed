@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1O2Q1D0H2F5A1J8C0T0U1L9D0K3S8",
+  "title": "국회에서의 증언·감정 등에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "윤관석의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-25",
+      "detail": "윤관석의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O2Q1D0H2F5A1J8C0T0U1L9D0K3S8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-15",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O2Q1D0H2F5A1J8C0T0U1L9D0K3S8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1O2Q1D0H2F5A1J8C0T0U1L9D0K3S8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

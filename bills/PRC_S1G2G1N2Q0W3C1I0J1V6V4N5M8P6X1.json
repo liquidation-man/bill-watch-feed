@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_S1G2G1N2Q0W3C1I0J1V6V4N5M8P6X1",
+  "title": "관광진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "홍지만의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-12-03",
+      "detail": "홍지만의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G2G1N2Q0W3C1I0J1V6V4N5M8P6X1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-09",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G2G1N2Q0W3C1I0J1V6V4N5M8P6X1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1G2G1N2Q0W3C1I0J1V6V4N5M8P6X1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

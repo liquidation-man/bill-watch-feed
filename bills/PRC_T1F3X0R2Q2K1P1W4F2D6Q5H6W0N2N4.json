@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T1F3X0R2Q2K1P1W4F2D6Q5H6W0N2N4",
+  "title": "통상조약의 체결절차 및 이행에 관한 법률 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "정청래의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-21",
+      "detail": "정청래의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1F3X0R2Q2K1P1W4F2D6Q5H6W0N2N4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-14",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1F3X0R2Q2K1P1W4F2D6Q5H6W0N2N4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1F3X0R2Q2K1P1W4F2D6Q5H6W0N2N4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

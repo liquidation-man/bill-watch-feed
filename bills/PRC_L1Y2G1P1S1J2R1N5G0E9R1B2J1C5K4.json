@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1Y2G1P1S1J2R1N5G0E9R1B2J1C5K4",
+  "title": "원자력안전법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "박홍근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-12",
+      "detail": "박홍근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Y2G1P1S1J2R1N5G0E9R1B2J1C5K4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Y2G1P1S1J2R1N5G0E9R1B2J1C5K4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Y2G1P1S1J2R1N5G0E9R1B2J1C5K4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

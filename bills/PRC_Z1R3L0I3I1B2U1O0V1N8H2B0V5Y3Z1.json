@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z1R3L0I3I1B2U1O0V1N8H2B0V5Y3Z1",
+  "title": "금융위원회의 설치 등에 관한 법률 전부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "정호준의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-12",
+      "detail": "정호준의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1R3L0I3I1B2U1O0V1N8H2B0V5Y3Z1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1R3L0I3I1B2U1O0V1N8H2B0V5Y3Z1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

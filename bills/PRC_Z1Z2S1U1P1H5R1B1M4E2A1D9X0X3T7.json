@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1Z2S1U1P1H5R1B1M4E2A1D9X0X3T7",
+  "title": "문화예술진흥법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "윤관석의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-15",
+      "detail": "윤관석의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Z2S1U1P1H5R1B1M4E2A1D9X0X3T7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-09",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Z2S1U1P1H5R1B1M4E2A1D9X0X3T7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1Z2S1U1P1H5R1B1M4E2A1D9X0X3T7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

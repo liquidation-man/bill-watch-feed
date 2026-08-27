@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2Z6Z0Y8Y2W4X1F5F3E8C4D3B0C9K1",
   "title": "전기사업법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "이소영의원 등 17인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z6Z0Y8Y2W4X1F5F3E8C4D3B0C9K1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

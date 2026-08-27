@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1E3P0I1H0U2P1T7W3P2Z3Q4Z0C6F3",
+  "title": "광업법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "염동열의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-01-02",
+      "detail": "염동열의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E3P0I1H0U2P1T7W3P2Z3Q4Z0C6F3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-10",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E3P0I1H0U2P1T7W3P2Z3Q4Z0C6F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E3P0I1H0U2P1T7W3P2Z3Q4Z0C6F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

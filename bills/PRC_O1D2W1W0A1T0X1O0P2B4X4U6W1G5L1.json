@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O1D2W1W0A1T0X1O0P2B4X4U6W1G5L1",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김성곤의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-10",
+      "detail": "김성곤의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1D2W1W0A1T0X1O0P2B4X4U6W1G5L1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1D2W1W0A1T0X1O0P2B4X4U6W1G5L1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F1A3W0B3H0U5A1L1T3K0Z2X9B0U0Z1",
+  "title": "한국해양금융공사법안",
+  "committee": "정무위원회",
+  "proposer": "김정훈의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-05",
+      "detail": "김정훈의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A3W0B3H0U5A1L1T3K0Z2X9B0U0Z1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-16",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A3W0B3H0U5A1L1T3K0Z2X9B0U0Z1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A3W0B3H0U5A1L1T3K0Z2X9B0U0Z1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

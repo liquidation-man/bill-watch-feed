@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1Y2S1Q0R2Z5H1E1T0J0O0M9W0N9E0",
+  "title": "초·중등교원 특별충원에 관한 법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "최재성의원 외 9인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-25",
+      "detail": "최재성의원 외 9인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2S1Q0R2Z5H1E1T0J0O0M9W0N9E0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2013-02-05",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2S1Q0R2Z5H1E1T0J0O0M9W0N9E0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2S1Q0R2Z5H1E1T0J0O0M9W0N9E0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

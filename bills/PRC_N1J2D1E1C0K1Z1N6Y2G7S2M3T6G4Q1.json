@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_N1J2D1E1C0K1Z1N6Y2G7S2M3T6G4Q1",
+  "title": "여객자동차 운수사업법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "서영교의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-01",
+      "detail": "서영교의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1J2D1E1C0K1Z1N6Y2G7S2M3T6G4Q1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2013-02-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1J2D1E1C0K1Z1N6Y2G7S2M3T6G4Q1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1J2D1E1C0K1Z1N6Y2G7S2M3T6G4Q1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

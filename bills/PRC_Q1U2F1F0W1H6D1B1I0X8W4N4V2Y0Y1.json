@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q1U2F1F0W1H6D1B1I0X8W4N4V2Y0Y1",
+  "title": "국제조세조정에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "홍종학의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-16",
+      "detail": "홍종학의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U2F1F0W1H6D1B1I0X8W4N4V2Y0Y1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-10-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1U2F1F0W1H6D1B1I0X8W4N4V2Y0Y1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

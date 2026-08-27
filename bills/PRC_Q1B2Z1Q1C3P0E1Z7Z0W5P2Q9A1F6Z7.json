@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1B2Z1Q1C3P0E1Z7Z0W5P2Q9A1F6Z7",
+  "title": "아동복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박성호의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-30",
+      "detail": "박성호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2Z1Q1C3P0E1Z7Z0W5P2Q9A1F6Z7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-13",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2Z1Q1C3P0E1Z7Z0W5P2Q9A1F6Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2Z1Q1C3P0E1Z7Z0W5P2Q9A1F6Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

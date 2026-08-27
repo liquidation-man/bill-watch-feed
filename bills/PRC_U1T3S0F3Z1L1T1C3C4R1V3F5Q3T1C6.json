@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_U1T3S0F3Z1L1T1C3C4R1V3F5Q3T1C6",
+  "title": "서민금융 및 지역재투자 활성화를 위한 법률안",
+  "committee": "정무위원회",
+  "proposer": "정호준의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-11",
+      "detail": "정호준의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T3S0F3Z1L1T1C3C4R1V3F5Q3T1C6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-18",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T3S0F3Z1L1T1C3C4R1V3F5Q3T1C6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T3S0F3Z1L1T1C3C4R1V3F5Q3T1C6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

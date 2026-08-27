@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M1W3R0F2I2B2Y1L6M4Q7A2Y9E5O2O8",
+  "title": "국제개발협력기본법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "안홍준의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-22",
+      "detail": "안홍준의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W3R0F2I2B2Y1L6M4Q7A2Y9E5O2O8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-17",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W3R0F2I2B2Y1L6M4Q7A2Y9E5O2O8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1W3R0F2I2B2Y1L6M4Q7A2Y9E5O2O8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1U3C0C2R0M4S1U3U2U2X2Z0Y7C0D7",
+  "title": "국가를 당사자로 하는 계약에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "강석호의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-04",
+      "detail": "강석호의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1U3C0C2R0M4S1U3U2U2X2Z0Y7C0D7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1U3C0C2R0M4S1U3U2U2X2Z0Y7C0D7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

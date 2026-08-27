@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1T2F1Z2F1V8U1S3R5I7C3U5M2I2Q6",
+  "title": "한국전쟁전후 민간인희생사건 등 과거사 진상규명과 명예회복을 위한 기본법안",
+  "committee": "안전행정위원회",
+  "proposer": "이낙연의원 등 36인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-12-18",
+      "detail": "이낙연의원 등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1T2F1Z2F1V8U1S3R5I7C3U5M2I2Q6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2013-02-04",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1T2F1Z2F1V8U1S3R5I7C3U5M2I2Q6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1T2F1Z2F1V8U1S3R5I7C3U5M2I2Q6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

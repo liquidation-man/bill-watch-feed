@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1B3W0R2C0A4R1L1L1Z9N2Y2N1H7J4",
+  "title": "대한민국 국가법안",
+  "committee": "안전행정위원회",
+  "proposer": "장윤석의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-04",
+      "detail": "장윤석의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B3W0R2C0A4R1L1L1Z9N2Y2N1H7J4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B3W0R2C0A4R1L1L1Z9N2Y2N1H7J4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

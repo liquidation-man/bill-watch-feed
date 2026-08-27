@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1T3D0E2O2R0Q1V0Z2Z4O1V5F5S5S8",
+  "title": "차별금지법안",
+  "committee": "법제사법위원회",
+  "proposer": "최원식의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-20",
+      "detail": "최원식의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T3D0E2O2R0Q1V0Z2Z4O1V5F5S5S8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-04-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1T3D0E2O2R0Q1V0Z2Z4O1V5F5S5S8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

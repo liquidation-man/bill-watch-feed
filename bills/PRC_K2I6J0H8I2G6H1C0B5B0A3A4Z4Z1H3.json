@@ -1,7 +1,7 @@
 {
   "billId": "PRC_K2I6J0H8I2G6H1C0B5B0A3A4Z4Z1H3",
   "title": "행정조사기본법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "이강일의원 등 15인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2I6J0H8I2G6H1C0B5B0A3A4Z4Z1H3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }

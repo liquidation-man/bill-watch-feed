@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1S2D1V1V2J0P1I7M0D4D0V2U9L6I7",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최재성의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-20",
+      "detail": "최재성의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1S2D1V1V2J0P1I7M0D4D0V2U9L6I7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-12-05",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1S2D1V1V2J0P1I7M0D4D0V2U9L6I7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1O2L1Y1G1N5T1L1D0Y6M4Z2B7S5D8",
+  "title": "소프트웨어산업 진흥법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "전순옥의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-11-15",
+      "detail": "전순옥의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1O2L1Y1G1N5T1L1D0Y6M4Z2B7S5D8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-18",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1O2L1Y1G1N5T1L1D0Y6M4Z2B7S5D8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1O2L1Y1G1N5T1L1D0Y6M4Z2B7S5D8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

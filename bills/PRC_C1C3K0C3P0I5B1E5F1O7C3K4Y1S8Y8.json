@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C1C3K0C3P0I5B1E5F1O7C3K4Y1S8Y8",
+  "title": "국가안전기획부(현 국가정보원) 불법도청테이프 등의 처리에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "심상정의원 등 43인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-05",
+      "detail": "심상정의원 등 43인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1C3K0C3P0I5B1E5F1O7C3K4Y1S8Y8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-20",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1C3K0C3P0I5B1E5F1O7C3K4Y1S8Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1C3K0C3P0I5B1E5F1O7C3K4Y1S8Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

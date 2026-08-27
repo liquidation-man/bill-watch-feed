@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q1Q3G0K1Y2P8M1T5B0L7R4Y2Q5Z1Q6",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "전정희의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-01-28",
+      "detail": "전정희의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Q3G0K1Y2P8M1T5B0L7R4Y2Q5Z1Q6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-05-15",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Q3G0K1Y2P8M1T5B0L7R4Y2Q5Z1Q6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

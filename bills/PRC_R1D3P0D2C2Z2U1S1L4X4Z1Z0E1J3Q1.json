@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1D3P0D2C2Z2U1S1L4X4Z1Z0E1J3Q1",
+  "title": "재난 및 안전관리 기본법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김영록의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-02-22",
+      "detail": "김영록의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1D3P0D2C2Z2U1S1L4X4Z1Z0E1J3Q1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-18",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1D3P0D2C2Z2U1S1L4X4Z1Z0E1J3Q1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1D3P0D2C2Z2U1S1L4X4Z1Z0E1J3Q1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

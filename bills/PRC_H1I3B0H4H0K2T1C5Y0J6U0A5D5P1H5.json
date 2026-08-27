@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1I3B0H4H0K2T1C5Y0J6U0A5D5P1H5",
+  "title": "소방공무원법 전부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이재오의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-04-02",
+      "detail": "이재오의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1I3B0H4H0K2T1C5Y0J6U0A5D5P1H5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1I3B0H4H0K2T1C5Y0J6U0A5D5P1H5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1I3B0H4H0K2T1C5Y0J6U0A5D5P1H5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

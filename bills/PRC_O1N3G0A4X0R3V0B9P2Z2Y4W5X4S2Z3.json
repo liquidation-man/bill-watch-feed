@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1N3G0A4X0R3V0B9P2Z2Y4W5X4S2Z3",
+  "title": "중증장애인생산품 우선구매 특별법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박대동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-04-03",
+      "detail": "박대동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3G0A4X0R3V0B9P2Z2Y4W5X4S2Z3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-04-11",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3G0A4X0R3V0B9P2Z2Y4W5X4S2Z3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N3G0A4X0R3V0B9P2Z2Y4W5X4S2Z3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

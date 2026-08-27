@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1I2Q1T2B0P6V1H7I2Q2M0G6N9U9Y2",
+  "title": "인사청문회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이춘석의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-12-06",
+      "detail": "이춘석의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I2Q1T2B0P6V1H7I2Q2M0G6N9U9Y2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-03-19",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I2Q1T2B0P6V1H7I2Q2M0G6N9U9Y2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I2Q1T2B0P6V1H7I2Q2M0G6N9U9Y2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

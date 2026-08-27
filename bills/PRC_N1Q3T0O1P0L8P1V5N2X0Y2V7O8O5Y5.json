@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N1Q3T0O1P0L8P1V5N2X0Y2V7O8O5Y5",
+  "title": "인터넷게임중독 치유지원에 관한 법률안",
+  "committee": "여성가족위원회",
+  "proposer": "손인춘의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2013-01-08",
+      "detail": "손인춘의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q3T0O1P0L8P1V5N2X0Y2V7O8O5Y5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-20",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q3T0O1P0L8P1V5N2X0Y2V7O8O5Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1Q3T0O1P0L8P1V5N2X0Y2V7O8O5Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

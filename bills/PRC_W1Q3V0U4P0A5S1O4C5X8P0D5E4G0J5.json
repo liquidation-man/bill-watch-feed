@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1Q3V0U4P0A5S1O4C5X8P0D5E4G0J5",
+  "title": "공공기록물 관리에 관한 법률 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박남춘의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-04-05",
+      "detail": "박남춘의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1Q3V0U4P0A5S1O4C5X8P0D5E4G0J5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1Q3V0U4P0A5S1O4C5X8P0D5E4G0J5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1Q3V0U4P0A5S1O4C5X8P0D5E4G0J5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

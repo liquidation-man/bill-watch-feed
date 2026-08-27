@@ -1,7 +1,7 @@
 {
   "billId": "PRC_P2N6O0W8W1V1T1U1S1T8O3P0N1M6M3",
   "title": "건설근로자의 고용개선 등에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "안호영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2N6O0W8W1V1T1U1S1T8O3P0N1M6M3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

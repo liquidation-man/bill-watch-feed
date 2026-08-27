@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H1U3P0U3Y1N1M1J3X5V0P0G2M8O9J4",
+  "title": "금융소비자 보호법안",
+  "committee": "정무위원회",
+  "proposer": "정호준의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-11",
+      "detail": "정호준의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U3P0U3Y1N1M1J3X5V0P0G2M8O9J4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1U3P0U3Y1N1M1J3X5V0P0G2M8O9J4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

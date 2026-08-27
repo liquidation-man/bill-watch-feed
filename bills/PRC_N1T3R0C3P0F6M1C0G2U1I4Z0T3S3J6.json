@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_N1T3R0C3P0F6M1C0G2U1I4Z0T3S3J6",
+  "title": "주민투표법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "강창일의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-03-06",
+      "detail": "강창일의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1T3R0C3P0F6M1C0G2U1I4Z0T3S3J6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1T3R0C3P0F6M1C0G2U1I4Z0T3S3J6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
