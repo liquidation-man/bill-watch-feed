@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L1P3U0X7M0R2L1U5A3R3V5W2R5C1S4",
+  "title": "항만법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "안효대의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-07-02",
+      "detail": "안효대의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1P3U0X7M0R2L1U5A3R3V5W2R5C1S4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-07-16",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1P3U0X7M0R2L1U5A3R3V5W2R5C1S4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

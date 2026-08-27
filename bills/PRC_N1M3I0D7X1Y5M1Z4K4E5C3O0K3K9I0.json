@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_N1M3I0D7X1Y5M1Z4K4E5C3O0K3K9I0",
+  "title": "지방공무원법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "원혜영의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-07-15",
+      "detail": "원혜영의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1M3I0D7X1Y5M1Z4K4E5C3O0K3K9I0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2014-02-19",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1M3I0D7X1Y5M1Z4K4E5C3O0K3K9I0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1M3I0D7X1Y5M1Z4K4E5C3O0K3K9I0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

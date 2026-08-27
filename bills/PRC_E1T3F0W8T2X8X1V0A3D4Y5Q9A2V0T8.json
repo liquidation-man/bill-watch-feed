@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_E1T3F0W8T2X8X1V0A3D4Y5Q9A2V0T8",
+  "title": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "변재일의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-08-28",
+      "detail": "변재일의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T3F0W8T2X8X1V0A3D4Y5Q9A2V0T8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-10",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T3F0W8T2X8X1V0A3D4Y5Q9A2V0T8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1T3F0W8T2X8X1V0A3D4Y5Q9A2V0T8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

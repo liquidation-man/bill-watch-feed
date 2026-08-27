@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C1I3V0Y6K2X5E1V0Z0Z7B0O0U8U8T2",
+  "title": "탄소중립도시 조성에 관한 특별법안",
+  "committee": "환경노동위원회",
+  "proposer": "김동철의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-06-25",
+      "detail": "김동철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1I3V0Y6K2X5E1V0Z0Z7B0O0U8U8T2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1I3V0Y6K2X5E1V0Z0Z7B0O0U8U8T2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1I3V0Y6K2X5E1V0Z0Z7B0O0U8U8T2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

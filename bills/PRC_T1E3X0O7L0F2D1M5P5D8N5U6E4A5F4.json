@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1E3X0O7L0F2D1M5P5D8N5U6E4A5F4",
+  "title": "지방세법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "정성호의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-07-02",
+      "detail": "정성호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E3X0O7L0F2D1M5P5D8N5U6E4A5F4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1E3X0O7L0F2D1M5P5D8N5U6E4A5F4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

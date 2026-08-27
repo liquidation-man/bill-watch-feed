@@ -1,7 +1,7 @@
 {
   "billId": "PRC_D2E6M0K8L2J0K1I0E1E5D0E2C8C6A3",
   "title": "문화유산의 보존 및 활용에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "엄태영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2E6M0K8L2J0K1I0E1E5D0E2C8C6A3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }

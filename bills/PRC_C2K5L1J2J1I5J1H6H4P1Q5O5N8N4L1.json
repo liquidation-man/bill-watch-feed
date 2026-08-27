@@ -30,6 +30,24 @@
       "detail": "수정가결",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K5L1J2J1I5J1H6H4P1Q5O5N8N4L1&ageFrom=22&ageTo=22",
       "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-08-26",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K5L1J2J1I5J1H6H4P1Q5O5N8N4L1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-08-26",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K5L1J2J1I5J1H6H4P1Q5O5N8N4L1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
   "tags": [

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Y1U3M0O7E0U9V1I7E3T3O2P5Y6U3Y4",
+  "title": "산림조합법 일부개정법률안",
+  "committee": "농림축산식품해양수산위원회",
+  "proposer": "김우남의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-07-09",
+      "detail": "김우남의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U3M0O7E0U9V1I7E3T3O2P5Y6U3Y4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2014-06-25",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U3M0O7E0U9V1I7E3T3O2P5Y6U3Y4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "농업"
+  ]
+}

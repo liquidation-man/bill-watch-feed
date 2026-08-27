@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1W3H0W6S1Q3H1A0G2L5Q1Z4T4N7V6",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "홍종학의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-06-13",
+      "detail": "홍종학의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1W3H0W6S1Q3H1A0G2L5Q1Z4T4N7V6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1W3H0W6S1Q3H1A0G2L5Q1Z4T4N7V6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2015-12-14",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1W3H0W6S1Q3H1A0G2L5Q1Z4T4N7V6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

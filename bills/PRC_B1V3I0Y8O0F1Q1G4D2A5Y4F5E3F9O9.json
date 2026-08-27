@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1V3I0Y8O0F1Q1G4D2A5Y4F5E3F9O9",
+  "title": "국가를 당사자로 하는 계약에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김영주의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-08-01",
+      "detail": "김영주의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1V3I0Y8O0F1Q1G4D2A5Y4F5E3F9O9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-11-26",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1V3I0Y8O0F1Q1G4D2A5Y4F5E3F9O9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1V3I0Y8O0F1Q1G4D2A5Y4F5E3F9O9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

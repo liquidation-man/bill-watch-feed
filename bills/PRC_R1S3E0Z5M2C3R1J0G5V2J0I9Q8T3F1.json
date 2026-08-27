@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1S3E0Z5M2C3R1J0G5V2J0I9Q8T3F1",
+  "title": "흡연피해방지법안",
+  "committee": "보건복지위원회",
+  "proposer": "함진규의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-05-23",
+      "detail": "함진규의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1S3E0Z5M2C3R1J0G5V2J0I9Q8T3F1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1S3E0Z5M2C3R1J0G5V2J0I9Q8T3F1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

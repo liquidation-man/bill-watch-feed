@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1U3Y0T5C0N7P1W3K5Z2G0B4I3J8Q5",
+  "title": "국회입법조사처법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "유기준의원 등 24인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-05-07",
+      "detail": "유기준의원 등 24인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U3Y0T5C0N7P1W3K5Z2G0B4I3J8Q5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-14",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U3Y0T5C0N7P1W3K5Z2G0B4I3J8Q5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U3Y0T5C0N7P1W3K5Z2G0B4I3J8Q5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

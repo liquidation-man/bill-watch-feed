@@ -1,7 +1,7 @@
 {
   "billId": "PRC_C2B6B0J8K2I1I1H6F2G6O5P5N8L8M6",
   "title": "지방자치분권 및 균형성장에 관한 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "양부남의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B6B0J8K2I1I1H6F2G6O5P5N8L8M6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

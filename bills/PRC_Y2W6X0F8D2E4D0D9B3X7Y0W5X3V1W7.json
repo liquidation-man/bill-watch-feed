@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Y2W6X0F8D2E4D0D9B3X7Y0W5X3V1W7",
   "title": "한국에너지공과대학교법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "신정훈의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W6X0F8D2E4D0D9B3X7Y0W5X3V1W7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

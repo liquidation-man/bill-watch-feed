@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2K6I0J7H2D7D1C4C0A9Z5A5H1I6H7",
   "title": "도로교통법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "김미애의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6I0J7H2D7D1C4C0A9Z5A5H1I6H7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

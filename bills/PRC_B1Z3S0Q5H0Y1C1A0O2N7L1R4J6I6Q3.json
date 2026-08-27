@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1Z3S0Q5H0Y1C1A0O2N7L1R4J6I6Q3",
+  "title": "고위공직후보자 사전검증에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "함진규의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-05-01",
+      "detail": "함진규의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Z3S0Q5H0Y1C1A0O2N7L1R4J6I6Q3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Z3S0Q5H0Y1C1A0O2N7L1R4J6I6Q3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

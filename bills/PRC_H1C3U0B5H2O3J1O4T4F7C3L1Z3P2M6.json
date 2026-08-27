@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1C3U0B5H2O3J1O4T4F7C3L1Z3P2M6",
+  "title": "채무자 회생 및 파산에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "이현재의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-05-23",
+      "detail": "이현재의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C3U0B5H2O3J1O4T4F7C3L1Z3P2M6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-13",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C3U0B5H2O3J1O4T4F7C3L1Z3P2M6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1C3U0B5H2O3J1O4T4F7C3L1Z3P2M6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S1V3N0E5C2X4D1E4Z1C1E0Y7E1J2W4",
+  "title": "부정청탁금지 및 공직자의 이해충돌방지법안",
+  "committee": "정무위원회",
+  "proposer": "김영주의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-05-24",
+      "detail": "김영주의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1V3N0E5C2X4D1E4Z1C1E0Y7E1J2W4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1V3N0E5C2X4D1E4Z1C1E0Y7E1J2W4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

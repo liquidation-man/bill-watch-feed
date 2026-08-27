@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2R6Q0O8O1M9N0V8W2U3V0T1T9S6A9",
   "title": "한국수출입은행법 일부개정법률안",
-  "committee": "",
+  "committee": "재정경제기획위원회",
   "proposer": "김병주의원ㆍ유용원의원 등 17인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R6Q0O8O1M9N0V8W2U3V0T1T9S6A9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "세금"
+  ]
 }

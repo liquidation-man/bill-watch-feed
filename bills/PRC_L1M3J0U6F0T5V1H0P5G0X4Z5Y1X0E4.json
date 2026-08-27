@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1M3J0U6F0T5V1H0P5G0X4Z5Y1X0E4",
+  "title": "나주화순사건 희생자 명예회복 및 보상 등에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "배기운의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "박근혜정부",
+      "date": "2013-06-05",
+      "detail": "배기운의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1M3J0U6F0T5V1H0P5G0X4Z5Y1X0E4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-12-23",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1M3J0U6F0T5V1H0P5G0X4Z5Y1X0E4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1M3J0U6F0T5V1H0P5G0X4Z5Y1X0E4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

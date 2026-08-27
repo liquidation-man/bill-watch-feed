@@ -1,7 +1,7 @@
 {
   "billId": "PRC_M2K6L0J8I1I9E0E8D2E0C2C9B6J6J4",
   "title": "무역보험법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "김병주의원ㆍ유용원의원 등 18인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2K6L0J8I1I9E0E8D2E0C2C9B6J6J4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }
