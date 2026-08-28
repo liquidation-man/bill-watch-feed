@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1B1L1Y2D0I8Q1N7Q4P1F0J2P8I8X6",
+  "title": "변리사법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "강창일의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-08",
+      "detail": "강창일의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1B1L1Y2D0I8Q1N7Q4P1F0J2P8I8X6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1B1L1Y2D0I8Q1N7Q4P1F0J2P8I8X6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

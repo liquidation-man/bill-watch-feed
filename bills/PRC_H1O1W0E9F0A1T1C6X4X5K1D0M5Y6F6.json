@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_H1O1W0E9F0A1T1C6X4X5K1D0M5Y6F6",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "강창일의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-09-01",
+      "detail": "강창일의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1O1W0E9F0A1T1C6X4X5K1D0M5Y6F6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-04",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1O1W0E9F0A1T1C6X4X5K1D0M5Y6F6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-28",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1O1W0E9F0A1T1C6X4X5K1D0M5Y6F6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-12-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1O1W0E9F0A1T1C6X4X5K1D0M5Y6F6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

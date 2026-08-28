@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1T1B0Q5K2B5E1O8H1Q3B1U6H6L8H2",
+  "title": "재해위험 개선사업 및 이주대책에 관한 특별법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이명수의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-25",
+      "detail": "이명수의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1T1B0Q5K2B5E1O8H1Q3B1U6H6L8H2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-06",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1T1B0Q5K2B5E1O8H1Q3B1U6H6L8H2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1T1B0Q5K2B5E1O8H1Q3B1U6H6L8H2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_T1L1L1S2D2C3I1B8I2B4Y4S2O7H7W9",
+  "title": "군공항 이전 및 지원에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "유승민의원 등 25인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-23",
+      "detail": "유승민의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1L1L1S2D2C3I1B8I2B4Y4S2O7H7W9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1L1L1S2D2C3I1B8I2B4Y4S2O7H7W9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

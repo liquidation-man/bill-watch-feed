@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1I1I0U9V0K2H1U6H0Q6Q2A3A6Y6C4",
+  "title": "지방의료원의 설립 및 운영에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신상진의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-09-02",
+      "detail": "신상진의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1I1I0U9V0K2H1U6H0Q6Q2A3A6Y6C4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-09-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1I1I0U9V0K2H1U6H0Q6Q2A3A6Y6C4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

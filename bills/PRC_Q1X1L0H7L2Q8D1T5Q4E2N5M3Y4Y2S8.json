@@ -1,0 +1,63 @@
+{
+  "billId": "PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8",
+  "title": "한국해양과학기술원법안",
+  "committee": "국토해양위원회",
+  "proposer": "박희태의원등 22인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-07-28",
+      "detail": "박희태의원등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-17",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-26",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-28",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-28",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-12-29",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X1L0H7L2Q8D1T5Q4E2N5M3Y4Y2S8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

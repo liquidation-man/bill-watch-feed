@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1U1A0P5L2G5R1B8E2H6V5N5Z7D9I2",
+  "title": "국립대학치과병원 설치법 일부개정법률안",
+  "committee": "교육과학기술위원회",
+  "proposer": "이명수의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-25",
+      "detail": "이명수의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U1A0P5L2G5R1B8E2H6V5N5Z7D9I2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-26",
+      "detail": "교육과학기술위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U1A0P5L2G5R1B8E2H6V5N5Z7D9I2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U1A0P5L2G5R1B8E2H6V5N5Z7D9I2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

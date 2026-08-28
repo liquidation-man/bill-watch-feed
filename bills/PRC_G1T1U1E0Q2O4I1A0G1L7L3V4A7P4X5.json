@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1T1U1E0Q2O4I1A0G1L7L3V4A7P4X5",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "양승조의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-24",
+      "detail": "양승조의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1T1U1E0Q2O4I1A0G1L7L3V4A7P4X5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1T1U1E0Q2O4I1A0G1L7L3V4A7P4X5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1G1C1S1T0J7J1I5E0R1Q4G3N5O7V5",
+  "title": "약사법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "윤상현의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-11-07",
+      "detail": "윤상현의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1G1C1S1T0J7J1I5E0R1Q4G3N5O7V5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-11-11",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1G1C1S1T0J7J1I5E0R1Q4G3N5O7V5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

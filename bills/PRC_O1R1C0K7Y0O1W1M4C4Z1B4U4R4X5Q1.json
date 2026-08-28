@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O1R1C0K7Y0O1W1M4C4Z1B4U4R4X5Q1",
+  "title": "중소상인 적합업종 보호에 관한 특별법안",
+  "committee": "지식경제위원회",
+  "proposer": "노영민의원등 38인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-07-01",
+      "detail": "노영민의원등 38인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1R1C0K7Y0O1W1M4C4Z1B4U4R4X5Q1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-10-24",
+      "detail": "지식경제위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1R1C0K7Y0O1W1M4C4Z1B4U4R4X5Q1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1R1C0K7Y0O1W1M4C4Z1B4U4R4X5Q1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

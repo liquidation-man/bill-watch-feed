@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R1R2G0W1Y0Z3R1C3D4X8N0M7C6Y2S6",
+  "title": "임대주택법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "김태호의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-03",
+      "detail": "김태호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R2G0W1Y0Z3R1C3D4X8N0M7C6Y2S6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-01-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1R2G0W1Y0Z3R1C3D4X8N0M7C6Y2S6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

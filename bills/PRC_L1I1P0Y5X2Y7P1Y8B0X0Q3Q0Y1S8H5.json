@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1I1P0Y5X2Y7P1Y8B0X0Q3Q0Y1S8H5",
+  "title": "한국환경공단법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "조해진의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-27",
+      "detail": "조해진의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1I1P0Y5X2Y7P1Y8B0X0Q3Q0Y1S8H5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-06-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1I1P0Y5X2Y7P1Y8B0X0Q3Q0Y1S8H5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_C1Y1X0C8N2D6C1B5Q5P7Z5J5X7H7U8",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이인제의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-08-26",
+      "detail": "이인제의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Y1X0C8N2D6C1B5Q5P7Z5J5X7H7U8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-09-09",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C1Y1X0C8N2D6C1B5Q5P7Z5J5X7H7U8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

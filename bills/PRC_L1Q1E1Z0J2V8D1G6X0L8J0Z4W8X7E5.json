@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_L1Q1E1Z0J2V8D1G6X0L8J0Z4W8X7E5",
+  "title": "건축법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "김우남의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-28",
+      "detail": "김우남의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Q1E1Z0J2V8D1G6X0L8J0Z4W8X7E5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1Q1E1Z0J2V8D1G6X0L8J0Z4W8X7E5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

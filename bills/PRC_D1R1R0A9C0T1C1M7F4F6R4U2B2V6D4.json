@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1R1R0A9C0T1C1M7F4F6R4U2B2V6D4",
+  "title": "상속세 및 증여세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이정희의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-09-01",
+      "detail": "이정희의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1R1R0A9C0T1C1M7F4F6R4U2B2V6D4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-09-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1R1R0A9C0T1C1M7F4F6R4U2B2V6D4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

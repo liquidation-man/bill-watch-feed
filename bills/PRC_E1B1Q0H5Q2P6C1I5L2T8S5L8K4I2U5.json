@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1B1Q0H5Q2P6C1I5L2T8S5L8K4I2U5",
+  "title": "지역신문발전지원 특별법 일부개정법률안",
+  "committee": "문화체육관광방송통신위원회",
+  "proposer": "이명수의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-26",
+      "detail": "이명수의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B1Q0H5Q2P6C1I5L2T8S5L8K4I2U5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-08",
+      "detail": "문화체육관광방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B1Q0H5Q2P6C1I5L2T8S5L8K4I2U5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B1Q0H5Q2P6C1I5L2T8S5L8K4I2U5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

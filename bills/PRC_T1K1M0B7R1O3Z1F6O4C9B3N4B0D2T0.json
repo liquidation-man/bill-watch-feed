@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1K1M0B7R1O3Z1F6O4C9B3N4B0D2T0",
+  "title": "할부거래에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "최규성의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-07-13",
+      "detail": "최규성의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K1M0B7R1O3Z1F6O4C9B3N4B0D2T0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1K1M0B7R1O3Z1F6O4C9B3N4B0D2T0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

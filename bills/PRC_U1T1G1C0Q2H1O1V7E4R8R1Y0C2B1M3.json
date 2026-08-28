@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_U1T1G1C0Q2H1O1V7E4R8R1Y0C2B1M3",
+  "title": "지방세특례제한법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "진영의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-21",
+      "detail": "진영의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T1G1C0Q2H1O1V7E4R8R1Y0C2B1M3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-11",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T1G1C0Q2H1O1V7E4R8R1Y0C2B1M3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T1G1C0Q2H1O1V7E4R8R1Y0C2B1M3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-02-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1T1G1C0Q2H1O1V7E4R8R1Y0C2B1M3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

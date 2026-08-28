@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1K1D1C2F0K2V1I0L4B4D3Q0G8X4N7",
+  "title": "고용정책 기본법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "강성종의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-02",
+      "detail": "강성종의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K1D1C2F0K2V1I0L4B4D3Q0G8X4N7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K1D1C2F0K2V1I0L4B4D3Q0G8X4N7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

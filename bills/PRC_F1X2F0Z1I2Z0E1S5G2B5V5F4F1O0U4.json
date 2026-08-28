@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "안효대의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-20",
+      "detail": "안효대의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-06",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-08",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-27",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-27",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-02-27",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1X2F0Z1I2Z0E1S5G2B5V5F4F1O0U4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1L2M0U1W1G1Q1Z7F2I5J0M3R1W2R9",
+  "title": "도로법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "전현희의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-11",
+      "detail": "전현희의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1L2M0U1W1G1Q1Z7F2I5J0M3R1W2R9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1L2M0U1W1G1Q1Z7F2I5J0M3R1W2R9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

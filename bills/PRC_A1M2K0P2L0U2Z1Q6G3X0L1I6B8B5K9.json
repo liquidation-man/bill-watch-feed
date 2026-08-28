@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_A1M2K0P2L0U2Z1Q6G3X0L1I6B8B5K9",
+  "title": "폭력행위 등 처벌에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "권영진의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-02-02",
+      "detail": "권영진의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1M2K0P2L0U2Z1Q6G3X0L1I6B8B5K9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1M2K0P2L0U2Z1Q6G3X0L1I6B8B5K9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

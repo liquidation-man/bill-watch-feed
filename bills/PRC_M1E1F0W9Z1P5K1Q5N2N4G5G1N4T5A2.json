@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_M1E1F0W9Z1P5K1Q5N2N4G5G1N4T5A2",
+  "title": "군인복무기본법안",
+  "committee": "국방위원회",
+  "proposer": "한기호의원등 21인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-09-15",
+      "detail": "한기호의원등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1E1F0W9Z1P5K1Q5N2N4G5G1N4T5A2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1E1F0W9Z1P5K1Q5N2N4G5G1N4T5A2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

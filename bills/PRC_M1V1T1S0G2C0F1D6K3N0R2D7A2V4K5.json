@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_M1V1T1S0G2C0F1D6K3N0R2D7A2V4K5",
+  "title": "여신전문금융업법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "정태근의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-20",
+      "detail": "정태근의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1V1T1S0G2C0F1D6K3N0R2D7A2V4K5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1V1T1S0G2C0F1D6K3N0R2D7A2V4K5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

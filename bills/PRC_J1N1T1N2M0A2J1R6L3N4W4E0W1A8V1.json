@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J1N1T1N2M0A2J1R6L3N4W4E0W1A8V1",
+  "title": "조세특례제한법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "현기환의원 등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-02",
+      "detail": "현기환의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1N1T1N2M0A2J1R6L3N4W4E0W1A8V1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-07",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1N1T1N2M0A2J1R6L3N4W4E0W1A8V1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1N1T1N2M0A2J1R6L3N4W4E0W1A8V1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

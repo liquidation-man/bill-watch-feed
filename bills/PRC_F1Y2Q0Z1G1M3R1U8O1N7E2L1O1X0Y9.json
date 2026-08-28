@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1Y2Q0Z1G1M3R1U8O1N7E2L1O1X0Y9",
+  "title": "군공항 이전 및 지원에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "김동철의원 등 25인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-13",
+      "detail": "김동철의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y2Q0Z1G1M3R1U8O1N7E2L1O1X0Y9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1Y2Q0Z1G1M3R1U8O1N7E2L1O1X0Y9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

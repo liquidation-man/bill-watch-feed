@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_L1X1S1C0P1N1J1A8O0X0U2X5K6X0N0",
+  "title": "농업협동조합법 일부개정법률안",
+  "committee": "농림수산식품위원회",
+  "proposer": "정해걸의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-11",
+      "detail": "정해걸의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1X1S1C0P1N1J1A8O0X0U2X5K6X0N0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-17",
+      "detail": "농림수산식품위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1X1S1C0P1N1J1A8O0X0U2X5K6X0N0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1X1S1C0P1N1J1A8O0X0U2X5K6X0N0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1X1S1C0P1N1J1A8O0X0U2X5K6X0N0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1B1V0Z6Q2G8C1L5Z1L9D2A1R6Q3A3",
+  "title": "한국국제협력단법 일부개정법률안",
+  "committee": "외교통상통일위원회",
+  "proposer": "홍정욱의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-06-28",
+      "detail": "홍정욱의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1B1V0Z6Q2G8C1L5Z1L9D2A1R6Q3A3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-06",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1B1V0Z6Q2G8C1L5Z1L9D2A1R6Q3A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1B1V0Z6Q2G8C1L5Z1L9D2A1R6Q3A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

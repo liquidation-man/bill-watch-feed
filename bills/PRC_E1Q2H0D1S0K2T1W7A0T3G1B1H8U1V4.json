@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1Q2H0D1S0K2T1W7A0T3G1B1H8U1V4",
+  "title": "사립대학병원 설치법안",
+  "committee": "교육과학기술위원회",
+  "proposer": "권영길의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-02",
+      "detail": "권영길의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Q2H0D1S0K2T1W7A0T3G1B1H8U1V4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1Q2H0D1S0K2T1W7A0T3G1B1H8U1V4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

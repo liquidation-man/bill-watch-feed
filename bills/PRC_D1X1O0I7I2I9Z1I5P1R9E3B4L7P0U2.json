@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_D1X1O0I7I2I9Z1I5P1R9E3B4L7P0U2",
+  "title": "자연환경보전법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "노영민의원등 16인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-07-29",
+      "detail": "노영민의원등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X1O0I7I2I9Z1I5P1R9E3B4L7P0U2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-22",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X1O0I7I2I9Z1I5P1R9E3B4L7P0U2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X1O0I7I2I9Z1I5P1R9E3B4L7P0U2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1X1O0I7I2I9Z1I5P1R9E3B4L7P0U2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

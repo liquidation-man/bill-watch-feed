@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1I1L1F2O3O0A1R5P5S3P5T2U3K5X5",
+  "title": "건축사법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "허천의원 등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-30",
+      "detail": "허천의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1I1L1F2O3O0A1R5P5S3P5T2U3K5X5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1I1L1F2O3O0A1R5P5S3P5T2U3K5X5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

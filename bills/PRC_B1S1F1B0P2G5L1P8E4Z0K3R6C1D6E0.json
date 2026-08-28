@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1S1F1B0P2G5L1P8E4Z0K3R6C1D6E0",
+  "title": "공공기록물 관리에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "장병완의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-25",
+      "detail": "장병완의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1S1F1B0P2G5L1P8E4Z0K3R6C1D6E0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-06",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1S1F1B0P2G5L1P8E4Z0K3R6C1D6E0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1S1F1B0P2G5L1P8E4Z0K3R6C1D6E0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

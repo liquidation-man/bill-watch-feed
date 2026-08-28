@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_W1U1D1L2P2T9A1J6L1U5F0O4A3N8H1",
+  "title": "국민건강보험법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "손숙미의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-12-29",
+      "detail": "손숙미의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U1D1L2P2T9A1J6L1U5F0O4A3N8H1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-02-15",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1U1D1L2P2T9A1J6L1U5F0O4A3N8H1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

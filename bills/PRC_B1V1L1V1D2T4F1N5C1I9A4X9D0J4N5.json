@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1V1L1V1D2T4F1N5C1I9A4X9D0J4N5",
+  "title": "국정감사 및 조사에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이한성의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-11-24",
+      "detail": "이한성의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1V1L1V1D2T4F1N5C1I9A4X9D0J4N5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1V1L1V1D2T4F1N5C1I9A4X9D0J4N5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

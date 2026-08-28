@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F1P1C1R1L1M0J1Q8Q1H6J5N3S2C3Y2",
+  "title": "한국석유공사법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "장병완의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-11-10",
+      "detail": "장병완의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1P1C1R1L1M0J1Q8Q1H6J5N3S2C3Y2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1P1C1R1L1M0J1Q8Q1H6J5N3S2C3Y2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

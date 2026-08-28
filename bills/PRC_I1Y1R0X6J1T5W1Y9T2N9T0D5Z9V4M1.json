@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_I1Y1R0X6J1T5W1Y9T2N9T0D5Z9V4M1",
+  "title": "경찰관직무집행법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김정권의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-06-15",
+      "detail": "김정권의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y1R0X6J1T5W1Y9T2N9T0D5Z9V4M1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y1R0X6J1T5W1Y9T2N9T0D5Z9V4M1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

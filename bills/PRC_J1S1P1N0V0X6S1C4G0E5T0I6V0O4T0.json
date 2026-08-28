@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_J1S1P1N0V0X6S1C4G0E5T0I6V0O4T0",
+  "title": "대한적십자사 조직법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "양승조의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-06",
+      "detail": "양승조의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1S1P1N0V0X6S1C4G0E5T0I6V0O4T0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-10-17",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1S1P1N0V0X6S1C4G0E5T0I6V0O4T0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

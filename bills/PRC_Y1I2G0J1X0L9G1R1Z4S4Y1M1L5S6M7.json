@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_Y1I2G0J1X0L9G1R1Z4S4Y1M1L5S6M7",
+  "title": "한나라당 관련자들의 중앙선거관리위원회와 박원순 홈페이지에 대한 사이버테러 진상규명을 위한 특별검사의 임명 등에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김학재의원 등 1인 외 88인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-09",
+      "detail": "김학재의원 등 1인 외 88인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I2G0J1X0L9G1R1Z4S4Y1M1L5S6M7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-08",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I2G0J1X0L9G1R1Z4S4Y1M1L5S6M7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-02-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I2G0J1X0L9G1R1Z4S4Y1M1L5S6M7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-02-09",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1I2G0J1X0L9G1R1Z4S4Y1M1L5S6M7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

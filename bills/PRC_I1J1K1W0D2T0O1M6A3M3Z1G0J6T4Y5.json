@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1J1K1W0D2T0O1M6A3M3Z1G0J6T4Y5",
+  "title": "소기업 및 소상공인 지원을 위한 특별조치법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "정태근의원등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-10-20",
+      "detail": "정태근의원등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J1K1W0D2T0O1M6A3M3Z1G0J6T4Y5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-21",
+      "detail": "지식경제위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J1K1W0D2T0O1M6A3M3Z1G0J6T4Y5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1J1K1W0D2T0O1M6A3M3Z1G0J6T4Y5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

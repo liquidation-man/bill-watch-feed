@@ -1,0 +1,65 @@
+{
+  "billId": "PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7",
+  "title": "농어촌정비법 일부개정법률안",
+  "committee": "농림수산식품위원회",
+  "proposer": "정해걸의원등 31인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-08-04",
+      "detail": "정해걸의원등 31인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-08-19",
+      "detail": "농림수산식품위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-08-23",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-10-27",
+      "detail": "",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-10-27",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-10-28",
+      "detail": "수정가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Y1O0E8O0N4Y1G5K1C4Y0D0C8Q4X7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}

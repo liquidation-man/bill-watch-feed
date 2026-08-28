@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2R6S0Q8O2P5O1O6W4W3V5T9U2S9S4",
   "title": "기후테크기업 육성 및 기후테크산업 생태계 조성에 관한 특별법안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "김소희의원 등 42인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2R6S0Q8O2P5O1O6W4W3V5T9U2S9S4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

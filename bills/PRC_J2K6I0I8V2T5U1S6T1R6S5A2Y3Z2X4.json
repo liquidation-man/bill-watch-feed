@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2K6I0I8V2T5U1S6T1R6S5A2Y3Z2X4",
   "title": "해녀어업 보전 및 지원에 관한 법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "정희용의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6I0I8V2T5U1S6T1R6S5A2Y3Z2X4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

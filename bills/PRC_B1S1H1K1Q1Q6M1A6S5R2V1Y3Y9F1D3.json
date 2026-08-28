@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_B1S1H1K1Q1Q6M1A6S5R2V1Y3Y9F1D3",
+  "title": "도청이전을 위한 도시건설 및 지원에 관한 특별법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "권선택의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-11-16",
+      "detail": "권선택의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1S1H1K1Q1Q6M1A6S5R2V1Y3Y9F1D3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-01-27",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1S1H1K1Q1Q6M1A6S5R2V1Y3Y9F1D3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

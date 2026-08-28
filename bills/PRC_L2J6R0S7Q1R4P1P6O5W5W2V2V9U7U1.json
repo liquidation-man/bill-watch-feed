@@ -1,7 +1,7 @@
 {
   "billId": "PRC_L2J6R0S7Q1R4P1P6O5W5W2V2V9U7U1",
   "title": "범죄피해자 보호법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "박정현의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2J6R0S7Q1R4P1P6O5W5W2V2V9U7U1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

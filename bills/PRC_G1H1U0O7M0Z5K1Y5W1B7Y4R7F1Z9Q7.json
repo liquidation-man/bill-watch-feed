@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G1H1U0O7M0Z5K1Y5W1B7Y4R7F1Z9Q7",
+  "title": "약사법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최경희의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-07-05",
+      "detail": "최경희의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1H1U0O7M0Z5K1Y5W1B7Y4R7F1Z9Q7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-07-13",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1H1U0O7M0Z5K1Y5W1B7Y4R7F1Z9Q7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

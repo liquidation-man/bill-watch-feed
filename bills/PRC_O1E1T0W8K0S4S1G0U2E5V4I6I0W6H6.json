@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O1E1T0W8K0S4S1G0U2E5V4I6I0W6H6",
+  "title": "수도권정비계획법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "이학재의원등 19인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-08-04",
+      "detail": "이학재의원등 19인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1E1T0W8K0S4S1G0U2E5V4I6I0W6H6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1E1T0W8K0S4S1G0U2E5V4I6I0W6H6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

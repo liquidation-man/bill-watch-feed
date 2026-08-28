@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U1L2L0J1W2L0W1H0D3B4D1T7A3T4T9",
+  "title": "고용보험법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "정진섭의원 등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-01-20",
+      "detail": "정진섭의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1L2L0J1W2L0W1H0D3B4D1T7A3T4T9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1L2L0J1W2L0W1H0D3B4D1T7A3T4T9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

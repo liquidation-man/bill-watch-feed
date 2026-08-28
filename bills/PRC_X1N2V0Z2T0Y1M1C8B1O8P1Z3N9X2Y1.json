@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X1N2V0Z2T0Y1M1C8B1O8P1Z3N9X2Y1",
+  "title": "기부금품의 모집 및 사용에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김춘진의원 등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-02-01",
+      "detail": "김춘진의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1N2V0Z2T0Y1M1C8B1O8P1Z3N9X2Y1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1N2V0Z2T0Y1M1C8B1O8P1Z3N9X2Y1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
