@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1T2B0C7W3G1Z1V5D5P1M5Y9N1Y3W4",
+  "title": "특정건축물 정리에 관한 특별조치법안",
+  "committee": "국토해양위원회",
+  "proposer": "전병헌의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-31",
+      "detail": "전병헌의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T2B0C7W3G1Z1V5D5P1M5Y9N1Y3W4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-08-02",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1T2B0C7W3G1Z1V5D5P1M5Y9N1Y3W4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

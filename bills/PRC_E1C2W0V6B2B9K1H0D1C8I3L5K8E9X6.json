@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1C2W0V6B2B9K1H0D1C8I3L5K8E9X6",
+  "title": "공공기관의 운영에 관한 법률 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "정호준의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-29",
+      "detail": "정호준의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C2W0V6B2B9K1H0D1C8I3L5K8E9X6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C2W0V6B2B9K1H0D1C8I3L5K8E9X6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1C2W0V6B2B9K1H0D1C8I3L5K8E9X6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

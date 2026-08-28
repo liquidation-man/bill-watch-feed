@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S1N2R0L9Q1Y7J1Y7D1H0U4N2F6R9Y9",
+  "title": "영유아보육법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "서영교의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-17",
+      "detail": "서영교의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N2R0L9Q1Y7J1Y7D1H0U4N2F6R9Y9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-05",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N2R0L9Q1Y7J1Y7D1H0U4N2F6R9Y9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1N2R0L9Q1Y7J1Y7D1H0U4N2F6R9Y9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

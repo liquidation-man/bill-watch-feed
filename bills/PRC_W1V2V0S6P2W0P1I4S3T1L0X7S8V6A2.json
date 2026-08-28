@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1V2V0S6P2W0P1I4S3T1L0X7S8V6A2",
+  "title": "국가균형발전 특별법 일부개정법률안",
+  "committee": "산업통상자원위원회",
+  "proposer": "유승우의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-20",
+      "detail": "유승우의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2V0S6P2W0P1I4S3T1L0X7S8V6A2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-18",
+      "detail": "산업통상자원위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2V0S6P2W0P1I4S3T1L0X7S8V6A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2V0S6P2W0P1I4S3T1L0X7S8V6A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

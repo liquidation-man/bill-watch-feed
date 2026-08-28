@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1C2A0T8W3N1Y1H7G3W0I1O9X5Q0C0",
+  "title": "학교폭력예방 및 대책에 관한 법률 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김명연의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-31",
+      "detail": "김명연의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C2A0T8W3N1Y1H7G3W0I1O9X5Q0C0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C2A0T8W3N1Y1H7G3W0I1O9X5Q0C0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1C2A0T8W3N1Y1H7G3W0I1O9X5Q0C0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

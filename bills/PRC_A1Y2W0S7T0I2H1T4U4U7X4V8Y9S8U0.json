@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_A1Y2W0S7T0I2H1T4U4U7X4V8Y9S8U0",
+  "title": "거창사건관련자의 배상 등에 관한 특별조치법안",
+  "committee": "법제사법위원회",
+  "proposer": "우윤근의원 등 33인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-02",
+      "detail": "우윤근의원 등 33인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2W0S7T0I2H1T4U4U7X4V8Y9S8U0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-14",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2W0S7T0I2H1T4U4U7X4V8Y9S8U0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1Y2W0S7T0I2H1T4U4U7X4V8Y9S8U0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

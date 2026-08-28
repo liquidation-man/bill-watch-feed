@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z1P2J0H9Y1R1K1V1T0E3B3S4W8Q5O1",
+  "title": "사립학교법 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김상희의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-11",
+      "detail": "김상희의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P2J0H9Y1R1K1V1T0E3B3S4W8Q5O1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P2J0H9Y1R1K1V1T0E3B3S4W8Q5O1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1P2J0H9Y1R1K1V1T0E3B3S4W8Q5O1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

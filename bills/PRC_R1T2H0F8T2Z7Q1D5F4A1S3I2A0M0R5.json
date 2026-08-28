@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1T2H0F8T2Z7Q1D5F4A1S3I2A0M0R5",
+  "title": "범죄피해자 보호법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박성호의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-27",
+      "detail": "박성호의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T2H0F8T2Z7Q1D5F4A1S3I2A0M0R5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-14",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T2H0F8T2Z7Q1D5F4A1S3I2A0M0R5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1T2H0F8T2Z7Q1D5F4A1S3I2A0M0R5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_A1O2U1G0P0U4B1K0D1E4F1Y5M4P9F3",
+  "title": "특정 범죄자에 대한 위치추적 전자장치 부착 등에 관한 법률 일부개정법률안",
+  "committee": "아동·여성대상 성폭력 대책 특별위원회",
+  "proposer": "권성동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-04",
+      "detail": "권성동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1O2U1G0P0U4B1K0D1E4F1Y5M4P9F3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "아동·여성대상 성폭력 대책 특별위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1O2U1G0P0U4B1K0D1E4F1Y5M4P9F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1O2U1G0P0U4B1K0D1E4F1Y5M4P9F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-11-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1O2U1G0P0U4B1K0D1E4F1Y5M4P9F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

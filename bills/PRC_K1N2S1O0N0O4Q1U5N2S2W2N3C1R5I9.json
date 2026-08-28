@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K1N2S1O0N0O4Q1U5N2S2W2N3C1R5I9",
+  "title": "자동차관리법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "심재철의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-04",
+      "detail": "심재철의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N2S1O0N0O4Q1U5N2S2W2N3C1R5I9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2013-02-21",
+      "detail": "국토교통위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N2S1O0N0O4Q1U5N2S2W2N3C1R5I9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1N2S1O0N0O4Q1U5N2S2W2N3C1R5I9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "교통"
+  ]
+}

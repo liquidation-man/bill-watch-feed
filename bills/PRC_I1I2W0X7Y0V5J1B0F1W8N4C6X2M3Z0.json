@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_I1I2W0X7Y0V5J1B0F1W8N4C6X2M3Z0",
+  "title": "한국은행법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "문병호의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-05",
+      "detail": "문병호의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1I2W0X7Y0V5J1B0F1W8N4C6X2M3Z0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1I2W0X7Y0V5J1B0F1W8N4C6X2M3Z0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1I2W0X7Y0V5J1B0F1W8N4C6X2M3Z0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

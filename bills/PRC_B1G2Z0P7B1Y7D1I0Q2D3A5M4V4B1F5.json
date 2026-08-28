@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1G2Z0P7B1Y7D1I0Q2D3A5M4V4B1F5",
+  "title": "조약의 체결ㆍ비준 절차 등에 관한 법률안",
+  "committee": "외교통일위원회",
+  "proposer": "홍익표의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-17",
+      "detail": "홍익표의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G2Z0P7B1Y7D1I0Q2D3A5M4V4B1F5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-19",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G2Z0P7B1Y7D1I0Q2D3A5M4V4B1F5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G2Z0P7B1Y7D1I0Q2D3A5M4V4B1F5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

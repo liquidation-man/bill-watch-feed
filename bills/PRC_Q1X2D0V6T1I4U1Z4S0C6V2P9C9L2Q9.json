@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1X2D0V6T1I4U1Z4S0C6V2P9C9L2Q9",
+  "title": "국가채권 관리법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이주영의원 등 18인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-14",
+      "detail": "이주영의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X2D0V6T1I4U1Z4S0C6V2P9C9L2Q9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X2D0V6T1I4U1Z4S0C6V2P9C9L2Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1X2D0V6T1I4U1Z4S0C6V2P9C9L2Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

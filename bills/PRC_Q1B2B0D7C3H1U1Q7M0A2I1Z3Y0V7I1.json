@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1B2B0D7C3H1U1Q7M0A2I1Z3Y0V7I1",
+  "title": "방송통신위원회의 설치 및 운영에 관한 법률 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "배재정의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-31",
+      "detail": "배재정의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2B0D7C3H1U1Q7M0A2I1Z3Y0V7I1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2B0D7C3H1U1Q7M0A2I1Z3Y0V7I1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1B2B0D7C3H1U1Q7M0A2I1Z3Y0V7I1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1W2R0K8F0J2G1I5C3D3I2P9S1M0J3",
+  "title": "이명박 정권의 언론장악 관련 해직언론인 등의 복직 및 명예회복 등에 관한 특별법안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "정청래의원 등 27인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-02",
+      "detail": "정청래의원 등 27인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W2R0K8F0J2G1I5C3D3I2P9S1M0J3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W2R0K8F0J2G1I5C3D3I2P9S1M0J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1W2R0K8F0J2G1I5C3D3I2P9S1M0J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

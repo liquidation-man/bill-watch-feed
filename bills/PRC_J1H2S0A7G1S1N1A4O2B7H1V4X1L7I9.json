@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J1H2S0A7G1S1N1A4O2B7H1V4X1L7I9",
+  "title": "일제강제동원 피해진상조사와 유해봉환 및 지원 등에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "이명수의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-11",
+      "detail": "이명수의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1H2S0A7G1S1N1A4O2B7H1V4X1L7I9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-17",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1H2S0A7G1S1N1A4O2B7H1V4X1L7I9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1H2S0A7G1S1N1A4O2B7H1V4X1L7I9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

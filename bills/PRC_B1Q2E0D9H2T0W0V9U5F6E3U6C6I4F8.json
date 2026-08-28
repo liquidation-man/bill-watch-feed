@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1Q2E0D9H2T0W0V9U5F6E3U6C6I4F8",
+  "title": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김우남의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-20",
+      "detail": "김우남의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q2E0D9H2T0W0V9U5F6E3U6C6I4F8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-12",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q2E0D9H2T0W0V9U5F6E3U6C6I4F8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1Q2E0D9H2T0W0V9U5F6E3U6C6I4F8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

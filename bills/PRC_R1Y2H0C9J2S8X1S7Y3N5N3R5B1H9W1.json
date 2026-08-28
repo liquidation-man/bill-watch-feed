@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1Y2H0C9J2S8X1S7Y3N5N3R5B1H9W1",
+  "title": "재외국민의 교육지원 등에 관한 법률 일부개정법률안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "김성곤의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-28",
+      "detail": "김성곤의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y2H0C9J2S8X1S7Y3N5N3R5B1H9W1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2013-02-05",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y2H0C9J2S8X1S7Y3N5N3R5B1H9W1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1Y2H0C9J2S8X1S7Y3N5N3R5B1H9W1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

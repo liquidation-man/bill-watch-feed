@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_X1C2M0U6N2F5X1L6A2T1T4Q1O2J5Z8",
+  "title": "법원조직법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김동철의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-25",
+      "detail": "김동철의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C2M0U6N2F5X1L6A2T1T4Q1O2J5Z8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-14",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C2M0U6N2F5X1L6A2T1T4Q1O2J5Z8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C2M0U6N2F5X1L6A2T1T4Q1O2J5Z8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

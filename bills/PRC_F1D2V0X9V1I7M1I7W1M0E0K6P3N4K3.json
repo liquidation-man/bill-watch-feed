@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1D2V0X9V1I7M1I7W1M0E0K6P3N4K3",
+  "title": "한국교육방송공사법 일부개정법률안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "최민희의원 등 15인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-17",
+      "detail": "최민희의원 등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D2V0X9V1I7M1I7W1M0E0K6P3N4K3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-17",
+      "detail": "미래창조과학방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D2V0X9V1I7M1I7W1M0E0K6P3N4K3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1D2V0X9V1I7M1I7W1M0E0K6P3N4K3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

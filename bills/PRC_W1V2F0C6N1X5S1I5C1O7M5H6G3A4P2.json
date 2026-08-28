@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1V2F0C6N1X5S1I5C1O7M5H6G3A4P2",
+  "title": "세계유산의 보존·관리·활용에 관한 특별법안",
+  "committee": "교육문화체육관광위원회",
+  "proposer": "남경필의원 등 18인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-15",
+      "detail": "남경필의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2F0C6N1X5S1I5C1O7M5H6G3A4P2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-10",
+      "detail": "교육문화체육관광위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2F0C6N1X5S1I5C1O7M5H6G3A4P2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1V2F0C6N1X5S1I5C1O7M5H6G3A4P2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

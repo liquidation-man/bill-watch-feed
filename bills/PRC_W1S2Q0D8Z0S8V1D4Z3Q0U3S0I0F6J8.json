@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1S2Q0D8Z0S8V1D4Z3Q0U3S0I0F6J8",
+  "title": "국고금 관리법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "송영근의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-08",
+      "detail": "송영근의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S2Q0D8Z0S8V1D4Z3Q0U3S0I0F6J8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S2Q0D8Z0S8V1D4Z3Q0U3S0I0F6J8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1S2Q0D8Z0S8V1D4Z3Q0U3S0I0F6J8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

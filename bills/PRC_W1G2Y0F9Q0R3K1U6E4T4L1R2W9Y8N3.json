@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_W1G2Y0F9Q0R3K1U6E4T4L1R2W9Y8N3",
+  "title": "대한민국헌정회 육성법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이용섭의원 외 127인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-03",
+      "detail": "이용섭의원 외 127인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G2Y0F9Q0R3K1U6E4T4L1R2W9Y8N3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-15",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G2Y0F9Q0R3K1U6E4T4L1R2W9Y8N3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G2Y0F9Q0R3K1U6E4T4L1R2W9Y8N3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-07-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G2Y0F9Q0R3K1U6E4T4L1R2W9Y8N3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

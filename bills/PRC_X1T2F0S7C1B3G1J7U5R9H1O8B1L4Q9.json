@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_X1T2F0S7C1B3G1J7U5R9H1O8B1L4Q9",
+  "title": "대통령 등의 경호에 관한 법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "박지원의원 등 46인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-13",
+      "detail": "박지원의원 등 46인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1T2F0S7C1B3G1J7U5R9H1O8B1L4Q9&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-08-29",
+      "detail": "국회운영위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1T2F0S7C1B3G1J7U5R9H1O8B1L4Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-06-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1T2F0S7C1B3G1J7U5R9H1O8B1L4Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-07-02",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1T2F0S7C1B3G1J7U5R9H1O8B1L4Q9&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

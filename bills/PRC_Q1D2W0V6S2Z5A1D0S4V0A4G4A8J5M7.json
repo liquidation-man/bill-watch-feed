@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1D2W0V6S2Z5A1D0S4V0A4G4A8J5M7",
+  "title": "장애인·노인·임산부등의편의증진보장에관한법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "안규백의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-25",
+      "detail": "안규백의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D2W0V6S2Z5A1D0S4V0A4G4A8J5M7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-08-24",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D2W0V6S2Z5A1D0S4V0A4G4A8J5M7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1D2W0V6S2Z5A1D0S4V0A4G4A8J5M7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

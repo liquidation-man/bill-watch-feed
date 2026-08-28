@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1Q2Z0N9E2Y4D1N1Q0R8Z3U3F2A5T3",
+  "title": "재외동포재단법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "김성곤의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-24",
+      "detail": "김성곤의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q2Z0N9E2Y4D1N1Q0R8Z3U3F2A5T3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q2Z0N9E2Y4D1N1Q0R8Z3U3F2A5T3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1Q2Z0N9E2Y4D1N1Q0R8Z3U3F2A5T3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

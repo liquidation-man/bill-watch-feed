@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_G1K2J0P8J0B2H1Q7Y1H4F1H5M8W7H8",
+  "title": "도시공원 및 녹지 등에 관한 법률 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "정의화의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-02",
+      "detail": "정의화의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1K2J0P8J0B2H1Q7Y1H4F1H5M8W7H8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-08-07",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G1K2J0P8J0B2H1Q7Y1H4F1H5M8W7H8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

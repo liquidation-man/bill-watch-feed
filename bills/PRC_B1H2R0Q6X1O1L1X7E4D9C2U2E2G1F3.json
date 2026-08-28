@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1H2R0Q6X1O1L1X7E4D9C2U2E2G1F3",
+  "title": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김학용의원 등 14인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-11",
+      "detail": "김학용의원 등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H2R0Q6X1O1L1X7E4D9C2U2E2G1F3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-08-23",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H2R0Q6X1O1L1X7E4D9C2U2E2G1F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H2R0Q6X1O1L1X7E4D9C2U2E2G1F3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

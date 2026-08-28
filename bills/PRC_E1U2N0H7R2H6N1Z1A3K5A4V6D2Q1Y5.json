@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1U2N0H7R2H6N1Z1A3K5A4V6D2Q1Y5",
+  "title": "데이터베이스산업 진흥법안",
+  "committee": "미래창조과학방송통신위원회",
+  "proposer": "김을동의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-26",
+      "detail": "김을동의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1U2N0H7R2H6N1Z1A3K5A4V6D2Q1Y5&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-06-04",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1U2N0H7R2H6N1Z1A3K5A4V6D2Q1Y5&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

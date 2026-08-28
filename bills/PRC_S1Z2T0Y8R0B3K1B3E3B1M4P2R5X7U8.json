@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_S1Z2T0Y8R0B3K1B3E3B1M4P2R5X7U8",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "정희수의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-03",
+      "detail": "정희수의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z2T0Y8R0B3K1B3E3B1M4P2R5X7U8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1Z2T0Y8R0B3K1B3E3B1M4P2R5X7U8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

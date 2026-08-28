@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S1I2M0M9N0Q4Q1Q6Q4J4Y1X5T1I5V0",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박인숙의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-04",
+      "detail": "박인숙의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I2M0M9N0Q4Q1Q6Q4J4Y1X5T1I5V0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-09-07",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S1I2M0M9N0Q4Q1Q6Q4J4Y1X5T1I5V0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1K2Y0N7Q1C3S1B7V0O8R0W7Q9E9Z7",
+  "title": "고위공직자비리조사처 설치 및 운영에 관한 법률안",
+  "committee": "법제사법위원회",
+  "proposer": "양승조의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-13",
+      "detail": "양승조의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K2Y0N7Q1C3S1B7V0O8R0W7Q9E9Z7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-19",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K2Y0N7Q1C3S1B7V0O8R0W7Q9E9Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1K2Y0N7Q1C3S1B7V0O8R0W7Q9E9Z7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

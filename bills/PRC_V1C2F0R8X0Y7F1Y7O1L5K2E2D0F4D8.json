@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1C2F0R8X0Y7F1Y7O1L5K2E2D0F4D8",
+  "title": "재외국민보호법안",
+  "committee": "외교통일위원회",
+  "proposer": "유기준의원 등 23인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-07",
+      "detail": "유기준의원 등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1C2F0R8X0Y7F1Y7O1L5K2E2D0F4D8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-19",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1C2F0R8X0Y7F1Y7O1L5K2E2D0F4D8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1C2F0R8X0Y7F1Y7O1L5K2E2D0F4D8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

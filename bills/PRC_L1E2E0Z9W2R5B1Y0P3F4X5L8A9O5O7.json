@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_L1E2E0Z9W2R5B1Y0P3F4X5L8A9O5O7",
+  "title": "청소년 보호법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "이원욱의원 등 13인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-25",
+      "detail": "이원욱의원 등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E2E0Z9W2R5B1Y0P3F4X5L8A9O5O7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-09",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E2E0Z9W2R5B1Y0P3F4X5L8A9O5O7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-15",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E2E0Z9W2R5B1Y0P3F4X5L8A9O5O7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2013-04-14",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1E2E0Z9W2R5B1Y0P3F4X5L8A9O5O7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

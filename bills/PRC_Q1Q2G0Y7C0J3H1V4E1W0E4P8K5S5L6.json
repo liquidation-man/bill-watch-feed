@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Q1Q2G0Y7C0J3H1V4E1W0E4P8K5S5L6",
+  "title": "부가가치세법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "전병헌의원 등 25인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-03",
+      "detail": "전병헌의원 등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Q2G0Y7C0J3H1V4E1W0E4P8K5S5L6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Q2G0Y7C0J3H1V4E1W0E4P8K5S5L6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1Q2G0Y7C0J3H1V4E1W0E4P8K5S5L6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "세금"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1T2B0Y8T2K2W1I7O4R0N4K1U7B0L8",
+  "title": "군사정권에 의한 재산권 침해의 진상규명 등에 관한 특별법안",
+  "committee": "안전행정위원회",
+  "proposer": "김경협의원 등 29인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-22",
+      "detail": "김경협의원 등 29인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T2B0Y8T2K2W1I7O4R0N4K1U7B0L8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-12",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T2B0Y8T2K2W1I7O4R0N4K1U7B0L8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1T2B0Y8T2K2W1I7O4R0N4K1U7B0L8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

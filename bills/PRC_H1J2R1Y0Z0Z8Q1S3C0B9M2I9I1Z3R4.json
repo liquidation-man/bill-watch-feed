@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_H1J2R1Y0Z0Z8Q1S3C0B9M2I9I1Z3R4",
+  "title": "남북협력기금법 일부개정법률안",
+  "committee": "외교통일위원회",
+  "proposer": "이병석의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-08",
+      "detail": "이병석의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J2R1Y0Z0Z8Q1S3C0B9M2I9I1Z3R4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-19",
+      "detail": "외교통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J2R1Y0Z0Z8Q1S3C0B9M2I9I1Z3R4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1J2R1Y0Z0Z8Q1S3C0B9M2I9I1Z3R4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "외교"
+  ]
+}

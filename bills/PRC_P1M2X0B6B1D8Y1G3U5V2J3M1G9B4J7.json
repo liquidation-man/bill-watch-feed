@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_P1M2X0B6B1D8Y1G3U5V2J3M1G9B4J7",
+  "title": "감찰기관의 정보수집 제한에 관한 법률안",
+  "committee": "정무위원회",
+  "proposer": "진영의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-18",
+      "detail": "진영의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M2X0B6B1D8Y1G3U5V2J3M1G9B4J7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-08-28",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M2X0B6B1D8Y1G3U5V2J3M1G9B4J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1M2X0B6B1D8Y1G3U5V2J3M1G9B4J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

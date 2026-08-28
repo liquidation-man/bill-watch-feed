@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R1I2P0M7K1E0W1Z0Z5C1G5O9Z1Z6T6",
+  "title": "농어촌주민의 보건복지증진을 위한 특별법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "신성범의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-10",
+      "detail": "신성범의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1I2P0M7K1E0W1Z0Z5C1G5O9Z1Z6T6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-08-24",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1I2P0M7K1E0W1Z0Z5C1G5O9Z1Z6T6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1I2P0M7K1E0W1Z0Z5C1G5O9Z1Z6T6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

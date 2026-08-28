@@ -1,25 +1,41 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제672호(2026년 8월 3주) - 경제, 주가지수 전망, 올해 국내 주식 투자&middot;손익 여부",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1654",
-  "period": "2026년 8월 셋째 주(18~20일)",
+  "reportTitle": "데일리 오피니언 제673호(2026년 8월 4주) - 전작권 환수, 북한 전쟁 도발 위험성, 남북한 군사력, 핵무기 보유, 3군 사관학교 통합 (8월 통합 포함)",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1656",
+  "period": "2026년 8월 넷째 주(25~27일)",
   "approval": {
-    "approvePct": 45,
-    "disapprovePct": 45,
-    "undecidedPct": 11
+    "approvePct": 42,
+    "disapprovePct": 50,
+    "undecidedPct": 8
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 41
+        "pct": 39
       },
       {
         "name": "국민의힘",
         "pct": 25
+      },
+      {
+        "name": "조국혁신당",
+        "pct": 4
+      },
+      {
+        "name": "개혁신당",
+        "pct": 3
+      },
+      {
+        "name": "진보당",
+        "pct": 1
+      },
+      {
+        "name": "정당/단체",
+        "pct": 2
       }
     ],
     "undecidedPct": 26
   },
-  "fetchedAt": "2026-08-27T22:48:13.558Z"
+  "fetchedAt": "2026-08-28T11:32:11.468Z"
 }

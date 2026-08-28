@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_L1S2X0H9M2X7E1S6H2Z8Y3F8G8W1J7",
+  "title": "복권 및 복권기금법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이현재의원 등 18인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-27",
+      "detail": "이현재의원 등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S2X0H9M2X7E1S6H2Z8Y3F8G8W1J7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-07",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S2X0H9M2X7E1S6H2Z8Y3F8G8W1J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L1S2X0H9M2X7E1S6H2Z8Y3F8G8W1J7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

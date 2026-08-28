@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_W1X2O0R5N3V0K1M1H1P3P2T0E6H4A2",
+  "title": "중소기업진흥에 관한 법률 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "안종범의원 등 24인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-05-30",
+      "detail": "안종범의원 등 24인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X2O0R5N3V0K1M1H1P3P2T0E6H4A2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-18",
+      "detail": "지식경제위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X2O0R5N3V0K1M1H1P3P2T0E6H4A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-16",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X2O0R5N3V0K1M1H1P3P2T0E6H4A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-11-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1X2O0R5N3V0K1M1H1P3P2T0E6H4A2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

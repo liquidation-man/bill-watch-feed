@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Y1F2Y0K6Y2G6K1H7P2P5F3A6P5C4Y8",
+  "title": "생태계위해 외래생물관리법안",
+  "committee": "환경노동위원회",
+  "proposer": "주호영의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-06-26",
+      "detail": "주호영의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1F2Y0K6Y2G6K1H7P2P5F3A6P5C4Y8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-15",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1F2Y0K6Y2G6K1H7P2P5F3A6P5C4Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1F2Y0K6Y2G6K1H7P2P5F3A6P5C4Y8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

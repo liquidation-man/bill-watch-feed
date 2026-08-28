@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Q1J2P0Z8Y1A7C1F4T3S8V1Z8P3N8E8",
+  "title": "정치자금법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김영우의원 등 11인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-17",
+      "detail": "김영우의원 등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1J2P0Z8Y1A7C1F4T3S8V1Z8P3N8E8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1J2P0Z8Y1A7C1F4T3S8V1Z8P3N8E8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1H2Q0B9L0A5L1S4T3E5Y2L9X6B1Y2",
+  "title": "금융위원회의 설치 등에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "이상민의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-05",
+      "detail": "이상민의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H2Q0B9L0A5L1S4T3E5Y2L9X6B1Y2&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H2Q0B9L0A5L1S4T3E5Y2L9X6B1Y2&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

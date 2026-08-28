@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1K2H1R0Q0F5O1N7Z2F8J4Y2A0Y4H3",
+  "title": "국가재정법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "김윤덕의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-05",
+      "detail": "김윤덕의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K2H1R0Q0F5O1N7Z2F8J4Y2A0Y4H3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-11-07",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K2H1R0Q0F5O1N7Z2F8J4Y2A0Y4H3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1K2H1R0Q0F5O1N7Z2F8J4Y2A0Y4H3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

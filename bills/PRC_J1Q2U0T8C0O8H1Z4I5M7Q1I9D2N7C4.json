@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J1Q2U0T8C0O8H1Z4I5M7Q1I9D2N7C4",
+  "title": "대한민국 국화에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "박완주의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-08-08",
+      "detail": "박완주의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Q2U0T8C0O8H1Z4I5M7Q1I9D2N7C4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-17",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Q2U0T8C0O8H1Z4I5M7Q1I9D2N7C4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Q2U0T8C0O8H1Z4I5M7Q1I9D2N7C4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

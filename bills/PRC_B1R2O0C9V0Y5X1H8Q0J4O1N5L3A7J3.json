@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1R2O0C9V0Y5X1H8Q0J4O1N5L3A7J3",
+  "title": "노동조합 및 노동관계조정법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김경협의원 외 127인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-05",
+      "detail": "김경협의원 외 127인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R2O0C9V0Y5X1H8Q0J4O1N5L3A7J3&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-26",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R2O0C9V0Y5X1H8Q0J4O1N5L3A7J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R2O0C9V0Y5X1H8Q0J4O1N5L3A7J3&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

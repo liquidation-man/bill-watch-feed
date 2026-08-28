@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T1X2R1H0B0L8M1O7A1V1D5G3U2H6A7",
+  "title": "지방자치법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "문병호의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-10-08",
+      "detail": "문병호의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X2R1H0B0L8M1O7A1V1D5G3U2H6A7&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-10-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T1X2R1H0B0L8M1O7A1V1D5G3U2H6A7&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Q1I2S0C7D2N7Z1M6W4U1C0Z9F9O0B0",
+  "title": "다문화사회기본법안",
+  "committee": "여성가족위원회",
+  "proposer": "김명연의원 등 22인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-27",
+      "detail": "김명연의원 등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1I2S0C7D2N7Z1M6W4U1C0Z9F9O0B0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-19",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1I2S0C7D2N7Z1M6W4U1C0Z9F9O0B0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1I2S0C7D2N7Z1M6W4U1C0Z9F9O0B0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

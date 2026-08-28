@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_K1T2Z0D9J2D7I1W6O1Y4I1K9O5N4F4",
+  "title": "방위사업 원가관리 공정화에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "신학용의원 등 10인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-27",
+      "detail": "신학용의원 등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1T2Z0D9J2D7I1W6O1Y4I1K9O5N4F4&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "박근혜정부",
+      "date": "2013-04-15",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1T2Z0D9J2D7I1W6O1Y4I1K9O5N4F4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1T2Z0D9J2D7I1W6O1Y4I1K9O5N4F4&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

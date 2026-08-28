@@ -1,0 +1,809 @@
+{
+  "billId": "LAWHIST_재난및안전관리기본법시행령",
+  "title": "재난 및 안전관리 기본법 시행령",
+  "events": [
+    {
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-03-11",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 07188호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=61859&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-02-21",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 07849호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=73187&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-01-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 08274호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=77201&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-05-11",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 08420호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=78900&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-08-03",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 08623호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=80017&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 08856호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=83525&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 09205호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90351&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-31",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 09299호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=90947&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 09847호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=98036&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-01-18",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 09932호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=98619&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-31",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 10219호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=104007&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-06-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 10347호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=105881&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-03-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 10442호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=110953&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-03-29",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 10467호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=111338&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-02-22",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 11346호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=123355&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-10-22",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 11495호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=129310&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 11713호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=137330&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 11690호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=136766&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-08-06",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 11994호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=142564&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 12844호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=162424&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-12-30",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 12943호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=166249&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-24",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 13440호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=173299&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-24",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 13426호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=173232&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-01-07",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 13752호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=179018&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-03-22",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 14079호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=181836&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 14248호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=183710&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2017-01-17",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 14553호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=191169&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2017-01-17",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 14545호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=191156&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 14839호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=195290&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-01-16",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 15344호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=201160&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-09-18",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 15764호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=204494&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-01-22",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 29498호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=206797&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-02-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 29518호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=207728&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-03-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 16301호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208135&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-06-11",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 29849호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208856&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-08-27",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30050호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=210369&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-12-03",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 16666호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=211793&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-01-07",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30325호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=213159&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-04-02",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30595호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=216579&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-05-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30704호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218377&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-02",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30731호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=218509&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 17383호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=219015&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-07-28",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30876호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=220227&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-08-18",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 17479호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=220957&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-09-02",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 30989호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=221351&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-09-10",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31012호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=221647&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-09-11",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31013호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=221679&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-10-20",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 17519호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=222463&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-01",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31211호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=223301&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31225호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=223827&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-22",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 17698호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=224565&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-01-05",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31380호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=227783&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-03-30",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31576호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=230637&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-04-13",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31617호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=231535&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-06-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 18206호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=232631&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-06-10",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 31765호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=232821&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-10-05",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 32026호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=235891&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2022-01-04",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 18685호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=238811&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2022-01-04",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 18684호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=238807&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2022-04-05",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 32563호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=241567&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-06-14",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 32697호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=243247&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-06-28",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 32725호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=243387&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-08-23",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 32877호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=244343&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-12-06",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 33023호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=245777&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-01-03",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 33198호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=247211&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-01-17",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 19213호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=247855&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-03-14",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 19234호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=248789&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-05-16",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 19406호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=251015&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-06-27",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 33578호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=252017&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-08-08",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 33659호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=253295&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-12",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 33938호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=256527&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-12-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 19838호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=257285&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-09",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34111호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=258455&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-16",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20030호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=258729&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-03-19",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20376호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=261093&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-03-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34354호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=261341&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-03-29",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34369호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=261577&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-05-07",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34487호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=262325&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-05-14",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34505호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=262653&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-06-18",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34573호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=263151&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-07-16",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34707호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=264015&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-07-23",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34731호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=264297&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-09-26",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 34923호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=265621&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-01-07",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20653호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=268101&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-01-14",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35199호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=268197&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-01-31",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20727호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=268803&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-03-12",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35382호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=269755&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-03-19",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35394호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=270013&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2025-04-01",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20867호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=270359&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2025-05-27",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 20961호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=271243&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-07-01",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35620호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=272617&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-09-23",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35769호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=273761&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 21065호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276323&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35811호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=277753&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-11-27",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35875호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=279947&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-12-30",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 35947호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=281037&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-01-21",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 21313호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282883&type=HTML"
+    },
+    {
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 21421호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283851&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-07-07",
+      "detail": "소방청,해양경찰청,행정안전부 · 법률 · 공포번호 제 21834호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=287801&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-07-21",
+      "detail": "소방청,해양경찰청,행정안전부 · 대통령령 · 공포번호 제 36516호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=288259&type=HTML"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

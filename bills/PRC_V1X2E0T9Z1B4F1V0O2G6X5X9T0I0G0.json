@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_V1X2E0T9Z1B4F1V0O2G6X5X9T0I0G0",
+  "title": "정당법 일부개정법률안",
+  "committee": "안전행정위원회",
+  "proposer": "심재권의원 등 17인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-14",
+      "detail": "심재권의원 등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X2E0T9Z1B4F1V0O2G6X5X9T0I0G0&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X2E0T9Z1B4F1V0O2G6X5X9T0I0G0&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

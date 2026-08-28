@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_E1N2H0X7K3Y1H1L8V3B5C4M1J1K8Z6",
+  "title": "국가상징물 지정 및 선양에 관한 법률안",
+  "committee": "안전행정위원회",
+  "proposer": "김종태의원 등 16인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-31",
+      "detail": "김종태의원 등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N2H0X7K3Y1H1L8V3B5C4M1J1K8Z6&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-17",
+      "detail": "안전행정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N2H0X7K3Y1H1L8V3B5C4M1J1K8Z6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1N2H0X7K3Y1H1L8V3B5C4M1J1K8Z6&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

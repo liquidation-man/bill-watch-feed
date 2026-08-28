@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A1L2Z0M7P1K6Y0X9F5B4J4Z7F0J9I8",
+  "title": "건강문화융합구역 등의 지정 및 운영에 관한 법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이한구의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-07-16",
+      "detail": "이한구의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1L2Z0M7P1K6Y0X9F5B4J4Z7F0J9I8&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2012-09-12",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1L2Z0M7P1K6Y0X9F5B4J4Z7F0J9I8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A1L2Z0M7P1K6Y0X9F5B4J4Z7F0J9I8&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

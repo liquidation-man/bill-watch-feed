@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q1F2Y0I9V0L3A1H8Q2C2Z2Y1E6L1A1",
+  "title": "도시 및 주거환경정비법 일부개정법률안",
+  "committee": "국토교통위원회",
+  "proposer": "노회찬의원 등 12인",
+  "assemblyTerm": 19,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2012-09-03",
+      "detail": "노회찬의원 등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1F2Y0I9V0L3A1H8Q2C2Z2Y1E6L1A1&ageFrom=19&ageTo=19"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "박근혜정부",
+      "date": "2016-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1F2Y0I9V0L3A1H8Q2C2Z2Y1E6L1A1&ageFrom=19&ageTo=19",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "부동산"
+  ]
+}
