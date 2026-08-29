@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_F0I9I0Y6I2O2Q1G7N4S1O0A1O9Y4L8",
+  "title": "삶의 마지막 단계에서 자연스러운 죽음을 맞이할 권리에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김세연의원등 28인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-06-22",
+      "detail": "김세연의원등 28인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0I9I0Y6I2O2Q1G7N4S1O0A1O9Y4L8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-20",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0I9I0Y6I2O2Q1G7N4S1O0A1O9Y4L8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0I9I0Y6I2O2Q1G7N4S1O0A1O9Y4L8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

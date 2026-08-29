@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J0M9P0W6V1V8N1S8D3Y5I1U2S3L2B9",
+  "title": "산업안전보건법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "김춘진의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-06-18",
+      "detail": "김춘진의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0M9P0W6V1V8N1S8D3Y5I1U2S3L2B9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-22",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0M9P0W6V1V8N1S8D3Y5I1U2S3L2B9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0M9P0W6V1V8N1S8D3Y5I1U2S3L2B9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

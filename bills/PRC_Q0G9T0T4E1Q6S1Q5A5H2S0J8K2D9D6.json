@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q0G9T0T4E1Q6S1Q5A5H2S0J8K2D9D6",
+  "title": "여신전문금융업법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "김용태의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-04-16",
+      "detail": "김용태의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0G9T0T4E1Q6S1Q5A5H2S0J8K2D9D6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-04-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0G9T0T4E1Q6S1Q5A5H2S0J8K2D9D6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_X0N9P0D6K2M6L1P6D2I5F0A0S9M9L1",
+  "title": "양육비 대지급법안",
+  "committee": "여성가족위원회",
+  "proposer": "강명순의원등 17인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-06-26",
+      "detail": "강명순의원등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0N9P0D6K2M6L1P6D2I5F0A0S9M9L1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-04-04",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0N9P0D6K2M6L1P6D2I5F0A0S9M9L1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0N9P0D6K2M6L1P6D2I5F0A0S9M9L1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

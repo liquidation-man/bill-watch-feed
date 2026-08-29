@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_H0R9K0Z7T3I1M1B6E5D0O2X7Q3E2I3",
+  "title": "대한적십자사 조직법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "임두성의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-07-31",
+      "detail": "임두성의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0R9K0Z7T3I1M1B6E5D0O2X7Q3E2I3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0R9K0Z7T3I1M1B6E5D0O2X7Q3E2I3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

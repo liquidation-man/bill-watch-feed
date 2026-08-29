@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R0I9T0Y4B0M3E1R8Y2D6N0B7E4M1C3",
+  "title": "한부모가족지원법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "박은수의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-04-03",
+      "detail": "박은수의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0I9T0Y4B0M3E1R8Y2D6N0B7E4M1C3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-09-17",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0I9T0Y4B0M3E1R8Y2D6N0B7E4M1C3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-09-17",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0I9T0Y4B0M3E1R8Y2D6N0B7E4M1C3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

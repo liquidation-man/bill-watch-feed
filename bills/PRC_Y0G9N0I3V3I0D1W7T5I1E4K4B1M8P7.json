@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y0G9N0I3V3I0D1W7T5I1E4K4B1M8P7",
+  "title": "민간조사업법안",
+  "committee": "",
+  "proposer": "이한성의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-03-30",
+      "detail": "이한성의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0G9N0I3V3I0D1W7T5I1E4K4B1M8P7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-04-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0G9N0I3V3I0D1W7T5I1E4K4B1M8P7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

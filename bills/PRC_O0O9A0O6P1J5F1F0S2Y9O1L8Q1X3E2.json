@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O0O9A0O6P1J5F1F0S2Y9O1L8Q1X3E2",
+  "title": "정보통신기반 보호법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "조진형의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-06-15",
+      "detail": "조진형의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0O9A0O6P1J5F1F0S2Y9O1L8Q1X3E2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0O9A0O6P1J5F1F0S2Y9O1L8Q1X3E2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

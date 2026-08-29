@@ -1,0 +1,30 @@
+{
+  "billId": "PRC_H0C9T0W3X1R0G1K1B1A3B4F7E6T9J3",
+  "title": "지방교부세법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "원유철의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-03-10",
+      "detail": "원유철의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0C9T0W3X1R0G1K1B1A3B4F7E6T9J3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0C9T0W3X1R0G1K1B1A3B4F7E6T9J3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정",
+    "세금"
+  ]
+}

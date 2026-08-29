@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E0D9N1K1K0A5J1P7D1T0A4B0M7E8K3",
+  "title": "전염병예방법 일부개정법률안",
+  "committee": "보건복지가족위원회",
+  "proposer": "이명수의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-11-05",
+      "detail": "이명수의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0D9N1K1K0A5J1P7D1T0A4B0M7E8K3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-11-11",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0D9N1K1K0A5J1P7D1T0A4B0M7E8K3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

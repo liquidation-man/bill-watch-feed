@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_S0Q9B0L9U2H4N1C6L3V5M0S2U3X7D8",
+  "title": "장애인차별금지 및 권리구제 등에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "박은수의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-09-24",
+      "detail": "박은수의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S0Q9B0L9U2H4N1C6L3V5M0S2U3X7D8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-19",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S0Q9B0L9U2H4N1C6L3V5M0S2U3X7D8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S0Q9B0L9U2H4N1C6L3V5M0S2U3X7D8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

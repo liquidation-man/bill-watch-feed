@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M0T9K0U6E1K8B1B3T5W1C1M8T6Y5O4",
+  "title": "산업입지 및 개발에 관한 법률 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "신영수의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-06-18",
+      "detail": "신영수의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0T9K0U6E1K8B1B3T5W1C1M8T6Y5O4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-12-08",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0T9K0U6E1K8B1B3T5W1C1M8T6Y5O4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0T9K0U6E1K8B1B3T5W1C1M8T6Y5O4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

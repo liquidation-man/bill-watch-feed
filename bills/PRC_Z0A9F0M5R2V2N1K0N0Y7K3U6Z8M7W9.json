@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_Z0A9F0M5R2V2N1K0N0Y7K3U6Z8M7W9",
+  "title": "습지보전법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "강창일의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-05-22",
+      "detail": "강창일의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0A9F0M5R2V2N1K0N0Y7K3U6Z8M7W9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-04-16",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0A9F0M5R2V2N1K0N0Y7K3U6Z8M7W9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0A9F0M5R2V2N1K0N0Y7K3U6Z8M7W9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P0J9Y0W8G3Y1B1O5C0P6Y5S4S4A2D5",
+  "title": "물관리 기본법안",
+  "committee": "국토해양위원회",
+  "proposer": "이윤성의원등 26인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-08-31",
+      "detail": "이윤성의원등 26인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0J9Y0W8G3Y1B1O5C0P6Y5S4S4A2D5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0J9Y0W8G3Y1B1O5C0P6Y5S4S4A2D5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

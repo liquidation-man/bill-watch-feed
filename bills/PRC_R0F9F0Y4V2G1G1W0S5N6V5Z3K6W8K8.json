@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_R0F9F0Y4V2G1G1W0S5N6V5Z3K6W8K8",
+  "title": "정부과천청사 이전에 따른 과천시 등의 지원에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "안상수의원등 21인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-04-21",
+      "detail": "안상수의원등 21인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0F9F0Y4V2G1G1W0S5N6V5Z3K6W8K8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-11-23",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0F9F0Y4V2G1G1W0S5N6V5Z3K6W8K8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0F9F0Y4V2G1G1W0S5N6V5Z3K6W8K8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

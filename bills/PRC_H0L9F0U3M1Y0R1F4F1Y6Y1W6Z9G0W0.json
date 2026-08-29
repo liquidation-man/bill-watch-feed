@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H0L9F0U3M1Y0R1F4F1Y6Y1W6Z9G0W0",
+  "title": "국방개혁에 관한 법률 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "안규백의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-03-10",
+      "detail": "안규백의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0L9F0U3M1Y0R1F4F1Y6Y1W6Z9G0W0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-07-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0L9F0U3M1Y0R1F4F1Y6Y1W6Z9G0W0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

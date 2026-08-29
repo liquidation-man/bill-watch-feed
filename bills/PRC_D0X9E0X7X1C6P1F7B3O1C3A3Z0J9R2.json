@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D0X9E0X7X1C6P1F7B3O1C3A3Z0J9R2",
+  "title": "집단에너지사업법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "홍장표의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-07-16",
+      "detail": "홍장표의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0X9E0X7X1C6P1F7B3O1C3A3Z0J9R2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0X9E0X7X1C6P1F7B3O1C3A3Z0J9R2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0X9E0X7X1C6P1F7B3O1C3A3Z0J9R2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

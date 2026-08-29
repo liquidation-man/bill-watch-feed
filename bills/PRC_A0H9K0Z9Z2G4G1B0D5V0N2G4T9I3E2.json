@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_A0H9K0Z9Z2G4G1B0D5V0N2G4T9I3E2",
+  "title": "국방대학교설치법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "공성진의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-09-24",
+      "detail": "공성진의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A0H9K0Z9Z2G4G1B0D5V0N2G4T9I3E2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-24",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A0H9K0Z9Z2G4G1B0D5V0N2G4T9I3E2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A0H9K0Z9Z2G4G1B0D5V0N2G4T9I3E2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G0V9B1C0R0A8Y1S1F1H4F0Z3F6D2N9",
+  "title": "사형폐지에 관한 특별법안",
+  "committee": "법제사법위원회",
+  "proposer": "김부겸의원등 53인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-10-08",
+      "detail": "김부겸의원등 53인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0V9B1C0R0A8Y1S1F1H4F0Z3F6D2N9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-18",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0V9B1C0R0A8Y1S1F1H4F0Z3F6D2N9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0V9B1C0R0A8Y1S1F1H4F0Z3F6D2N9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

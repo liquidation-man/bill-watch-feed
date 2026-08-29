@@ -1,0 +1,47 @@
+{
+  "billId": "PRC_L0R9S0C5K2N6Q1D7N1T9M1H2M9C4Y8",
+  "title": "해외신도시 건설사업 지원 특별법안",
+  "committee": "국토해양위원회",
+  "proposer": "김정권의원등 31인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-05-26",
+      "detail": "김정권의원등 31인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0R9S0C5K2N6Q1D7N1T9M1H2M9C4Y8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-17",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0R9S0C5K2N6Q1D7N1T9M1H2M9C4Y8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-26",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0R9S0C5K2N6Q1D7N1T9M1H2M9C4Y8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-01-26",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0R9S0C5K2N6Q1D7N1T9M1H2M9C4Y8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "특정사업"
+  ]
+}
