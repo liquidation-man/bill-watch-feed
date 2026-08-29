@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_J1Y1X0T2Y1H7X1D6R1I0C2L6L2Z9A6",
+  "title": "사립학교법 전부개정법률안",
+  "committee": "교육과학기술위원회",
+  "proposer": "조전혁의원등 22인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-02-17",
+      "detail": "조전혁의원등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Y1X0T2Y1H7X1D6R1I0C2L6L2Z9A6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-04-14",
+      "detail": "교육과학기술위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Y1X0T2Y1H7X1D6R1I0C2L6L2Z9A6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1Y1X0T2Y1H7X1D6R1I0C2L6L2Z9A6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

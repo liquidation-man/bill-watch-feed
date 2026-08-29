@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1Y1H0O2N1E8H1S7F5A5M1V3H6G7Q3",
+  "title": "철도건설법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "이종혁의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-02-18",
+      "detail": "이종혁의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y1H0O2N1E8H1S7F5A5M1V3H6G7Q3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-06-20",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1Y1H0O2N1E8H1S7F5A5M1V3H6G7Q3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

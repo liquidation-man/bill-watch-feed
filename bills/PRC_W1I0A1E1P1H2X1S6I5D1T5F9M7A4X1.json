@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1I0A1E1P1H2X1S6I5D1T5F9M7A4X1",
+  "title": "지방자치단체에 두는 국가공무원의 정원에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "조진형의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-11-12",
+      "detail": "조진형의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I0A1E1P1H2X1S6I5D1T5F9M7A4X1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-07",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I0A1E1P1H2X1S6I5D1T5F9M7A4X1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I0A1E1P1H2X1S6I5D1T5F9M7A4X1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

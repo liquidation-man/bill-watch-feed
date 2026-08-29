@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1N0B1Z2A0B6K1F7W0A8T1Z8W0U2G4",
+  "title": "채무자 회생 및 파산에 관한 법률 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "박영선의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-12-06",
+      "detail": "박영선의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N0B1Z2A0B6K1F7W0A8T1Z8W0U2G4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1N0B1Z2A0B6K1F7W0A8T1Z8W0U2G4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

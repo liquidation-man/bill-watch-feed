@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1R1M0O3P2U5O1X8B1Z7T3Q7S8F3X8",
+  "title": "국가유공자 등 단체설립에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "양승조의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-03-25",
+      "detail": "양승조의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R1M0O3P2U5O1X8B1Z7T3Q7S8F3X8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-09",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R1M0O3P2U5O1X8B1Z7T3Q7S8F3X8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1R1M0O3P2U5O1X8B1Z7T3Q7S8F3X8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

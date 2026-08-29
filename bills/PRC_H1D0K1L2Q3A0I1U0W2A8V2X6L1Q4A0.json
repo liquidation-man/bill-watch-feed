@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H1D0K1L2Q3A0I1U0W2A8V2X6L1Q4A0",
+  "title": "친수구역 활용에 관한 특별법 폐지법률안",
+  "committee": "국토해양위원회",
+  "proposer": "최규성의원등 3인 외 89인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-12-30",
+      "detail": "최규성의원등 3인 외 89인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1D0K1L2Q3A0I1U0W2A8V2X6L1Q4A0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-07",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1D0K1L2Q3A0I1U0W2A8V2X6L1Q4A0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H1D0K1L2Q3A0I1U0W2A8V2X6L1Q4A0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

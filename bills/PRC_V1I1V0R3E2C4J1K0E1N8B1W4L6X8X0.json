@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_V1I1V0R3E2C4J1K0E1N8B1W4L6X8X0",
+  "title": "형법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김옥이의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-03-24",
+      "detail": "김옥이의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1I1V0R3E2C4J1K0E1N8B1W4L6X8X0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1I1V0R3E2C4J1K0E1N8B1W4L6X8X0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

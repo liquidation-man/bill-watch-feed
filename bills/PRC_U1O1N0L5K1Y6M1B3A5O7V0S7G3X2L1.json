@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_U1O1N0L5K1Y6M1B3A5O7V0S7G3X2L1",
+  "title": "공직선거법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "조진형의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-16",
+      "detail": "조진형의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1O1N0L5K1Y6M1B3A5O7V0S7G3X2L1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1O1N0L5K1Y6M1B3A5O7V0S7G3X2L1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_M1E1Q0M4H2B2D1W4L3O5U3V8S4M3M8",
+  "title": "임금채권보장법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "이화수의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-04-22",
+      "detail": "이화수의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1E1Q0M4H2B2D1W4L3O5U3V8S4M3M8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-22",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1E1Q0M4H2B2D1W4L3O5U3V8S4M3M8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M1E1Q0M4H2B2D1W4L3O5U3V8S4M3M8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

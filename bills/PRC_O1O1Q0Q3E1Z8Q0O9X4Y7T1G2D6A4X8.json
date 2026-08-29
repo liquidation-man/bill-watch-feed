@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O1O1Q0Q3E1Z8Q0O9X4Y7T1G2D6A4X8",
+  "title": "변호사법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "홍준표의원등 16인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-03-18",
+      "detail": "홍준표의원등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1O1Q0Q3E1Z8Q0O9X4Y7T1G2D6A4X8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-03-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1O1Q0Q3E1Z8Q0O9X4Y7T1G2D6A4X8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

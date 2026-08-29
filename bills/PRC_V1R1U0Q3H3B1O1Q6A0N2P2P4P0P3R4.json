@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1R1U0Q3H3B1O1Q6A0N2P2P4P0P3R4",
+  "title": "개발제한구역의 지정 및 관리에 관한 특별조치법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "주광덕의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-03-31",
+      "detail": "주광덕의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1R1U0Q3H3B1O1Q6A0N2P2P4P0P3R4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-22",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1R1U0Q3H3B1O1Q6A0N2P2P4P0P3R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1R1U0Q3H3B1O1Q6A0N2P2P4P0P3R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

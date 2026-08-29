@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B1M1B0S4B0U5Z1V5X1T4F5Q2S6U4X9",
+  "title": "노인일자리 개발 및 지원에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "손숙미의원등 22인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-04-05",
+      "detail": "손숙미의원등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1M1B0S4B0U5Z1V5X1T4F5Q2S6U4X9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-13",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1M1B0S4B0U5Z1V5X1T4F5Q2S6U4X9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1M1B0S4B0U5Z1V5X1T4F5Q2S6U4X9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

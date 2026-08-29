@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1S0Z1X1E0Q2C1S5S0M1W5G1T2W2I5",
+  "title": "금융실명거래 및 비밀보장에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "주성영의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-11-02",
+      "detail": "주성영의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1S0Z1X1E0Q2C1S5S0M1W5G1T2W2I5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-04-19",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1S0Z1X1E0Q2C1S5S0M1W5G1T2W2I5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1S0Z1X1E0Q2C1S5S0M1W5G1T2W2I5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

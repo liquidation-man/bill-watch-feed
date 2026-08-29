@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P1B0X1E1E0A2S1L1R5Z0H1F7J0O2Y6",
+  "title": "경찰법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "김정권의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-11-02",
+      "detail": "김정권의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B0X1E1E0A2S1L1R5Z0H1F7J0O2Y6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-11-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1B0X1E1E0A2S1L1R5Z0H1F7J0O2Y6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

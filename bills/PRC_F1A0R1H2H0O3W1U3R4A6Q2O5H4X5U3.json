@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F1A0R1H2H0O3W1U3R4A6Q2O5H4X5U3",
+  "title": "에너지및자원사업특별회계법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "조승수의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-12-03",
+      "detail": "조승수의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A0R1H2H0O3W1U3R4A6Q2O5H4X5U3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-11-21",
+      "detail": "지식경제위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A0R1H2H0O3W1U3R4A6Q2O5H4X5U3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F1A0R1H2H0O3W1U3R4A6Q2O5H4X5U3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

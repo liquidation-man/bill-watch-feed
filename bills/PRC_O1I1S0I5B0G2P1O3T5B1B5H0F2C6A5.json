@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O1I1S0I5B0G2P1O3T5B1B5H0F2C6A5",
+  "title": "정부출연연구기관 등의 설립·운영 및 육성에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박병석의원등 20인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-02",
+      "detail": "박병석의원등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1I1S0I5B0G2P1O3T5B1B5H0F2C6A5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-15",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1I1S0I5B0G2P1O3T5B1B5H0F2C6A5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O1I1S0I5B0G2P1O3T5B1B5H0F2C6A5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

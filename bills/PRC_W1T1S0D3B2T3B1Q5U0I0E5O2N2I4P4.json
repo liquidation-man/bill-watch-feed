@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W1T1S0D3B2T3B1Q5U0I0E5O2N2I4P4",
+  "title": "도시재생사업 지원법안",
+  "committee": "국토해양위원회",
+  "proposer": "조영택의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-03-23",
+      "detail": "조영택의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T1S0D3B2T3B1Q5U0I0E5O2N2I4P4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-22",
+      "detail": "국토해양위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T1S0D3B2T3B1Q5U0I0E5O2N2I4P4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1T1S0D3B2T3B1Q5U0I0E5O2N2I4P4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "특정사업"
+  ]
+}

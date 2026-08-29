@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I1A1C0N1O0S5Q1S1J5A5M1Y8J1Y0Q5",
+  "title": "국회내 민주적 기본질서 유지에 관한 특별법안",
+  "committee": "국회운영위원회",
+  "proposer": "정미경의원등 28인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-01-05",
+      "detail": "정미경의원등 28인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1A1C0N1O0S5Q1S1J5A5M1Y8J1Y0Q5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I1A1C0N1O0S5Q1S1J5A5M1Y8J1Y0Q5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

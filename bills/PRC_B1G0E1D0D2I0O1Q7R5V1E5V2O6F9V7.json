@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_B1G0E1D0D2I0O1Q7R5V1E5V2O6F9V7",
+  "title": "6·25전쟁 참전유공자 무공훈장 수여에 관한 특별법안",
+  "committee": "국방위원회",
+  "proposer": "황진하의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-10-20",
+      "detail": "황진하의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G0E1D0D2I0O1Q7R5V1E5V2O6F9V7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-20",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G0E1D0D2I0O1Q7R5V1E5V2O6F9V7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1G0E1D0D2I0O1Q7R5V1E5V2O6F9V7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

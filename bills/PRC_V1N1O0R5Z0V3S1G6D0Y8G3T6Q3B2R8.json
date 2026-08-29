@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1N1O0R5Z0V3S1G6D0Y8G3T6Q3B2R8",
+  "title": "이동통신기기의 부정이용 방지에 관한 법률안",
+  "committee": "문화체육관광방송통신위원회",
+  "proposer": "강기정의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2011-05-03",
+      "detail": "강기정의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N1O0R5Z0V3S1G6D0Y8G3T6Q3B2R8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-12-23",
+      "detail": "문화체육관광방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N1O0R5Z0V3S1G6D0Y8G3T6Q3B2R8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N1O0R5Z0V3S1G6D0Y8G3T6Q3B2R8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

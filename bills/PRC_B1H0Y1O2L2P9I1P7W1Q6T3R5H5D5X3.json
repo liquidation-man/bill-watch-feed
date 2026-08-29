@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_B1H0Y1O2L2P9I1P7W1Q6T3R5H5D5X3",
+  "title": "영유아보육법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "장병완의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-12-29",
+      "detail": "장병완의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H0Y1O2L2P9I1P7W1Q6T3R5H5D5X3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B1H0Y1O2L2P9I1P7W1Q6T3R5H5D5X3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W1H0R1E1C0Y5T1N6R0R3R3T3U7Y4J5",
+  "title": "여성발전기본법 일부개정법률안",
+  "committee": "여성가족위원회",
+  "proposer": "김금래의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-11-05",
+      "detail": "김금래의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H0R1E1C0Y5T1N6R0R3R3T3U7Y4J5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-03",
+      "detail": "여성가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H0R1E1C0Y5T1N6R0R3R3T3U7Y4J5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H0R1E1C0Y5T1N6R0R3R3T3U7Y4J5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
