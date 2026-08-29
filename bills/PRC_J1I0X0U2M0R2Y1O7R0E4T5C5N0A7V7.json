@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_J1I0X0U2M0R2Y1O7R0E4T5C5N0A7V7",
+  "title": "국회에서의증언·감정등에관한법률 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "신지호의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-02-02",
+      "detail": "신지호의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1I0X0U2M0R2Y1O7R0E4T5C5N0A7V7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J1I0X0U2M0R2Y1O7R0E4T5C5N0A7V7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_Y1R0E0L2C1W1Y1K8U1A8G0S1I4V6B4",
+  "title": "국가균형발전 특별법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "강운태의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-02-11",
+      "detail": "강운태의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R0E0L2C1W1Y1K8U1A8G0S1I4V6B4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-03-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1R0E0L2C1W1Y1K8U1A8G0S1I4V6B4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

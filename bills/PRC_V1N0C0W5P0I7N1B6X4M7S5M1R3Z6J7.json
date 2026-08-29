@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V1N0C0W5P0I7N1B6X4M7S5M1R3Z6J7",
+  "title": "인터넷 중독의 예방과 해소에 관한 법률안",
+  "committee": "행정안전위원회",
+  "proposer": "최인기의원등 17인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-05-07",
+      "detail": "최인기의원등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N0C0W5P0I7N1B6X4M7S5M1R3Z6J7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-07",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N0C0W5P0I7N1B6X4M7S5M1R3Z6J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1N0C0W5P0I7N1B6X4M7S5M1R3Z6J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

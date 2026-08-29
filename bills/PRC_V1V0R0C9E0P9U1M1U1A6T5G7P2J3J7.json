@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_V1V0R0C9E0P9U1M1U1A6T5G7P2J3J7",
+  "title": "쌀과 보건의료의 인도적 대북 지원 특별법안",
+  "committee": "외교통상통일위원회",
+  "proposer": "김영진의원등 30인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-09-09",
+      "detail": "김영진의원등 30인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1V0R0C9E0P9U1M1U1A6T5G7P2J3J7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-11-29",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1V0R0C9E0P9U1M1U1A6T5G7P2J3J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1V0R0C9E0P9U1M1U1A6T5G7P2J3J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O0J9K1S2H1J1Z1C5F4L5J3Y6W0V8S9",
+  "title": "주요공공기관 구조개혁 및 사회안전망확충기금 설치에 관한 법률안",
+  "committee": "기획재정위원회",
+  "proposer": "나성린의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-12-11",
+      "detail": "나성린의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0J9K1S2H1J1Z1C5F4L5J3Y6W0V8S9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-19",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0J9K1S2H1J1Z1C5F4L5J3Y6W0V8S9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0J9K1S2H1J1Z1C5F4L5J3Y6W0V8S9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

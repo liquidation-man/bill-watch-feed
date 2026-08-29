@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_P1G0U0N2O1U1N1Q1H0X2W5Y5U3Q6I5",
+  "title": "남북관계 발전에 관한 법률 일부개정법률안",
+  "committee": "외교통상통일위원회",
+  "proposer": "홍정욱의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-02-11",
+      "detail": "홍정욱의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1G0U0N2O1U1N1Q1H0X2W5Y5U3Q6I5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-04-13",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1G0U0N2O1U1N1Q1H0X2W5Y5U3Q6I5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1G0U0N2O1U1N1Q1H0X2W5Y5U3Q6I5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

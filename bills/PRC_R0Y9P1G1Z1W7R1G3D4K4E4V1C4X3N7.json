@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_R0Y9P1G1Z1W7R1G3D4K4E4V1C4X3N7",
+  "title": "경찰법 전부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "유기준의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-11-17",
+      "detail": "유기준의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0Y9P1G1Z1W7R1G3D4K4E4V1C4X3N7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R0Y9P1G1Z1W7R1G3D4K4E4V1C4X3N7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

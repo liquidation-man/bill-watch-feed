@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_M0O9Z1W2L1P0X1I6Y3S7W2B2O0H5D4",
+  "title": "공유재산 및 물품 관리법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "신지호의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-12-10",
+      "detail": "신지호의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0O9Z1W2L1P0X1I6Y3S7W2B2O0H5D4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-04-14",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0O9Z1W2L1P0X1I6Y3S7W2B2O0H5D4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M0O9Z1W2L1P0X1I6Y3S7W2B2O0H5D4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

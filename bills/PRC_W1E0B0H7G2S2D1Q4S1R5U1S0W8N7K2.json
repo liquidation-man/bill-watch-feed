@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W1E0B0H7G2S2D1Q4S1R5U1S0W8N7K2",
+  "title": "국가인권위원회법 일부개정법률안",
+  "committee": "국회운영위원회",
+  "proposer": "이춘석의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-07-22",
+      "detail": "이춘석의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1E0B0H7G2S2D1Q4S1R5U1S0W8N7K2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1E0B0H7G2S2D1Q4S1R5U1S0W8N7K2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

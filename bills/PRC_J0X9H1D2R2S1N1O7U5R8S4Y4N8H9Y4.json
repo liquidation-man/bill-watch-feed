@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_J0X9H1D2R2S1N1O7U5R8S4Y4N8H9Y4",
+  "title": "노동조합관련 해직 및 징계처분을 받은 공무원의 복권에 관한 특별법안",
+  "committee": "행정안전위원회",
+  "proposer": "홍영표의원등 50인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-12-21",
+      "detail": "홍영표의원등 50인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0X9H1D2R2S1N1O7U5R8S4Y4N8H9Y4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-06-23",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0X9H1D2R2S1N1O7U5R8S4Y4N8H9Y4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0X9H1D2R2S1N1O7U5R8S4Y4N8H9Y4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

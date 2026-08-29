@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U1V0H0W3J3R0Z1W7C5O1N4R6X7N1U7",
+  "title": "방위사업에서의 원가부정행위 방지 등에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "김무성의원등 22인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-03-30",
+      "detail": "김무성의원등 22인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1V0H0W3J3R0Z1W7C5O1N4R6X7N1U7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-11-30",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1V0H0W3J3R0Z1W7C5O1N4R6X7N1U7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1V0H0W3J3R0Z1W7C5O1N4R6X7N1U7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "billId": "PRC_E1O0F0W3B0B4K1V1G1J1P3X5T3Z7V7",
+  "title": "한국주택금융공사법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "조경태의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-03-04",
+      "detail": "조경태의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O0F0W3B0B4K1V1G1J1P3X5T3Z7V7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-04-13",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O0F0W3B0B4K1V1G1J1P3X5T3Z7V7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1O0F0W3B0B4K1V1G1J1P3X5T3Z7V7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융",
+    "부동산"
+  ]
+}

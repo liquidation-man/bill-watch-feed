@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1K0C0D6H1A7M1Y5Z4P0O1N0H2E8K4",
+  "title": "사법정보등 공개에 관한 특례법안",
+  "committee": "법제사법위원회",
+  "proposer": "박영선의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-06-17",
+      "detail": "박영선의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1K0C0D6H1A7M1Y5Z4P0O1N0H2E8K4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1K0C0D6H1A7M1Y5Z4P0O1N0H2E8K4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

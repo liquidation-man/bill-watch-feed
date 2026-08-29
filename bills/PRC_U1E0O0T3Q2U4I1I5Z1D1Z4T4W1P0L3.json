@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_U1E0O0T3Q2U4I1I5Z1D1Z4T4W1P0L3",
+  "title": "국민투표법 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "노영민의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-03-24",
+      "detail": "노영민의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1E0O0T3Q2U4I1I5Z1D1Z4T4W1P0L3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U1E0O0T3Q2U4I1I5Z1D1Z4T4W1P0L3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

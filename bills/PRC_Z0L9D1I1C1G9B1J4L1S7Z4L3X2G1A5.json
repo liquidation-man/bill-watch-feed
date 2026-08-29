@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Z0L9D1I1C1G9B1J4L1S7Z4L3X2G1A5",
+  "title": "기초노령연금법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "최영희의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-11-19",
+      "detail": "최영희의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0L9D1I1C1G9B1J4L1S7Z4L3X2G1A5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0L9D1I1C1G9B1J4L1S7Z4L3X2G1A5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

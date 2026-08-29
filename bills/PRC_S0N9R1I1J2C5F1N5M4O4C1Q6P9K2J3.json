@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_S0N9R1I1J2C5F1N5M4O4C1Q6P9K2J3",
+  "title": "아동수당에 관한 법률안",
+  "committee": "보건복지위원회",
+  "proposer": "이낙연의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-11-25",
+      "detail": "이낙연의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S0N9R1I1J2C5F1N5M4O4C1Q6P9K2J3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S0N9R1I1J2C5F1N5M4O4C1Q6P9K2J3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

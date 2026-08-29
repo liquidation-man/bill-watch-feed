@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_L0V9E1Z2I3B0I1N6R5Y1A2R5K9Z7F2",
+  "title": "통일주체국민회의법 폐지법률안",
+  "committee": "행정안전위원회",
+  "proposer": "현경병의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-12-30",
+      "detail": "현경병의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0V9E1Z2I3B0I1N6R5Y1A2R5K9Z7F2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L0V9E1Z2I3B0I1N6R5Y1A2R5K9Z7F2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

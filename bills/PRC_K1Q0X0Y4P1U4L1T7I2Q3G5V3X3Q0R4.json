@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_K1Q0X0Y4P1U4L1T7I2Q3G5V3X3Q0R4",
+  "title": "노동법원법안",
+  "committee": "법제사법위원회",
+  "proposer": "조배숙의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-04-14",
+      "detail": "조배숙의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Q0X0Y4P1U4L1T7I2Q3G5V3X3Q0R4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K1Q0X0Y4P1U4L1T7I2Q3G5V3X3Q0R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

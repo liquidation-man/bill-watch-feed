@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y1J0P0Y4M3G0U1A0C1X9T2M3I9Q6O0",
+  "title": "국가유공자 등 예우 및 지원에 관한 법률 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "유정현의원등 23인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-04-30",
+      "detail": "유정현의원등 23인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1J0P0Y4M3G0U1A0C1X9T2M3I9Q6O0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-04-13",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1J0P0Y4M3G0U1A0C1X9T2M3I9Q6O0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1J0P0Y4M3G0U1A0C1X9T2M3I9Q6O0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

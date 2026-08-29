@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D1U0X0O7C2X0E1P7X5I2H3S6X8B5O5",
+  "title": "장애인복지법 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "윤석용의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-07-20",
+      "detail": "윤석용의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U0X0O7C2X0E1P7X5I2H3S6X8B5O5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D1U0X0O7C2X0E1P7X5I2H3S6X8B5O5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

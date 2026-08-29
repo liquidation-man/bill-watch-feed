@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_R1X0I0T9L0K8T1D7E5Q1W5Z1X2V2D9",
+  "title": "국가회계법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "서병수의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-09-08",
+      "detail": "서병수의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X0I0T9L0K8T1D7E5Q1W5Z1X2V2D9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-11-15",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X0I0T9L0K8T1D7E5Q1W5Z1X2V2D9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R1X0I0T9L0K8T1D7E5Q1W5Z1X2V2D9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

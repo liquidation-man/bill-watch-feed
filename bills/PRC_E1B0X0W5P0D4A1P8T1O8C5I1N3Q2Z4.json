@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_E1B0X0W5P0D4A1P8T1O8C5I1N3Q2Z4",
+  "title": "고용보험법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "조원진의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2010-05-04",
+      "detail": "조원진의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B0X0W5P0D4A1P8T1O8C5I1N3Q2Z4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-11-10",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1B0X0W5P0D4A1P8T1O8C5I1N3Q2Z4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}
