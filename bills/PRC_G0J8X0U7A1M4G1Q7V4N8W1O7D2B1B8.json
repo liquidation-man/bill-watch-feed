@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G0J8X0U7A1M4G1Q7V4N8W1O7D2B1B8",
+  "title": "사회책임연대은행법안",
+  "committee": "보건복지위원회",
+  "proposer": "김영선의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-07-14",
+      "detail": "김영선의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0J8X0U7A1M4G1Q7V4N8W1O7D2B1B8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0J8X0U7A1M4G1Q7V4N8W1O7D2B1B8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

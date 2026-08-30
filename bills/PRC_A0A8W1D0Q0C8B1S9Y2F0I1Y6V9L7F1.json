@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_A0A8W1D0Q0C8B1S9Y2F0I1Y6V9L7F1",
+  "title": "철도안전법 일부개정법률안",
+  "committee": "",
+  "proposer": "홍준표의원 외 171인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-10-08",
+      "detail": "홍준표의원 외 171인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A0A8W1D0Q0C8B1S9Y2F0I1Y6V9L7F1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A0A8W1D0Q0C8B1S9Y2F0I1Y6V9L7F1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

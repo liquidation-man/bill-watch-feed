@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C0H8C0Y8S1G3N1G9M1W6T4R1I7V4T3",
+  "title": "국회법 일부개정법률안",
+  "committee": "국회법및국회상임위원회위원정수에관한규칙개정특별위원회",
+  "proposer": "홍준표의원 외 171인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-08-13",
+      "detail": "홍준표의원 외 171인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0H8C0Y8S1G3N1G9M1W6T4R1I7V4T3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2008-08-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0H8C0Y8S1G3N1G9M1W6T4R1I7V4T3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-08-19",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0H8C0Y8S1G3N1G9M1W6T4R1I7V4T3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

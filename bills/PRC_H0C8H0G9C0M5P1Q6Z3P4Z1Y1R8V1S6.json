@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_H0C8H0G9C0M5P1Q6Z3P4Z1Y1R8V1S6",
+  "title": "택지개발촉진법 일부개정법률안",
+  "committee": "국토해양위원회",
+  "proposer": "백성운의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-09-05",
+      "detail": "백성운의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0C8H0G9C0M5P1Q6Z3P4Z1Y1R8V1S6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-09-22",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0C8H0G9C0M5P1Q6Z3P4Z1Y1R8V1S6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

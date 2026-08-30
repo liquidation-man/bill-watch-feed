@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_Q0S8S0M7U0Q3I1M0A2I1V3V1P2O3O1",
+  "title": "국경일에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "정갑윤의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-07-03",
+      "detail": "정갑윤의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0S8S0M7U0Q3I1M0A2I1V3V1P2O3O1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-09-12",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0S8S0M7U0Q3I1M0A2I1V3V1P2O3O1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

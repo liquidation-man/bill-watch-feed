@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_O0W8U0I9F2V5B1D4D5B0R0O4L5D7A7",
+  "title": "장애인고용촉진 및 직업재활법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "박은수의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-09-25",
+      "detail": "박은수의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0W8U0I9F2V5B1D4D5B0R0O4L5D7A7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-09-08",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0W8U0I9F2V5B1D4D5B0R0O4L5D7A7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0W8U0I9F2V5B1D4D5B0R0O4L5D7A7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K0P8Y0Q8Q2B1Y1E1B0I8X1N6I3T8A3",
+  "title": "독립유공자 피탈재산의 회복 및 보상에 관한 특별법안",
+  "committee": "정무위원회",
+  "proposer": "박상돈의원등 36인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-08-21",
+      "detail": "박상돈의원등 36인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0P8Y0Q8Q2B1Y1E1B0I8X1N6I3T8A3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0P8Y0Q8Q2B1Y1E1B0I8X1N6I3T8A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0P8Y0Q8Q2B1Y1E1B0I8X1N6I3T8A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}
