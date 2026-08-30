@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D0Q8P1G2X2A6D1T5L1W9G3U5V9M4L5",
+  "title": "군사기밀보호법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "이상민의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-26",
+      "detail": "이상민의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0Q8P1G2X2A6D1T5L1W9G3U5V9M4L5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-19",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0Q8P1G2X2A6D1T5L1W9G3U5V9M4L5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0Q8P1G2X2A6D1T5L1W9G3U5V9M4L5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

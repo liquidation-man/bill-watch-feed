@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_F0G8S1M1J2J7J1B5R1V9S1R9Y4T4X3",
+  "title": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안",
+  "committee": "문화체육관광방송통신위원회",
+  "proposer": "이성헌의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-27",
+      "detail": "이성헌의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0G8S1M1J2J7J1B5R1V9S1R9Y4T4X3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-04-22",
+      "detail": "문화체육관광방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0G8S1M1J2J7J1B5R1V9S1R9Y4T4X3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0G8S1M1J2J7J1B5R1V9S1R9Y4T4X3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

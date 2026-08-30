@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_Y0M9U0B2X1G6B1W7G3K5L5M2P6B4T5",
+  "title": "화염병사용등의처벌에관한법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "이은재의원등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-16",
+      "detail": "이은재의원등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0M9U0B2X1G6B1W7G3K5L5M2P6B4T5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-04-12",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0M9U0B2X1G6B1W7G3K5L5M2P6B4T5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0M9U0B2X1G6B1W7G3K5L5M2P6B4T5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

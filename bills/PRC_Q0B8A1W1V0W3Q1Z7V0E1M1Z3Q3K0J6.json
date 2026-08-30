@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_Q0B8A1W1V0W3Q1Z7V0E1M1Z3Q3K0J6",
+  "title": "국제개발협력법안",
+  "committee": "외교통상통일위원회",
+  "proposer": "김부겸의원등 20인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-03",
+      "detail": "김부겸의원등 20인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0B8A1W1V0W3Q1Z7V0E1M1Z3Q3K0J6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-04-13",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0B8A1W1V0W3Q1Z7V0E1M1Z3Q3K0J6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-25",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0B8A1W1V0W3Q1Z7V0E1M1Z3Q3K0J6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q0B8A1W1V0W3Q1Z7V0E1M1Z3Q3K0J6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_F0Z9I0U1Z1Y5B1K6S2B0O1Q9Y0R1G5",
+  "title": "석면피해보상법안",
+  "committee": "환경노동위원회",
+  "proposer": "양승조의원 외 81인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-01-15",
+      "detail": "양승조의원 외 81인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0Z9I0U1Z1Y5B1K6S2B0O1Q9Y0R1G5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-03-26",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0Z9I0U1Z1Y5B1K6S2B0O1Q9Y0R1G5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-12-22",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0Z9I0U1Z1Y5B1K6S2B0O1Q9Y0R1G5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-02-26",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0Z9I0U1Z1Y5B1K6S2B0O1Q9Y0R1G5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

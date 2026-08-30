@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U0E8J1H1V2J1H1N6U3M5T4L7U0N8J0",
+  "title": "고용보험법 일부개정법률안",
+  "committee": "환경노동위원회",
+  "proposer": "심대평의원등 30인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-21",
+      "detail": "심대평의원등 30인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8J1H1V2J1H1N6U3M5T4L7U0N8J0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-06-22",
+      "detail": "환경노동위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8J1H1V2J1H1N6U3M5T4L7U0N8J0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8J1H1V2J1H1N6U3M5T4L7U0N8J0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_B0S8L1N2F2O3W1J7Z5X7T0Q6B2O3X9",
+  "title": "집회 및 시위에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "권경석의원등 16인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-23",
+      "detail": "권경석의원등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B0S8L1N2F2O3W1J7Z5X7T0Q6B2O3X9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-27",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B0S8L1N2F2O3W1J7Z5X7T0Q6B2O3X9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B0S8L1N2F2O3W1J7Z5X7T0Q6B2O3X9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

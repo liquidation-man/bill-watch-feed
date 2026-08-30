@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_E0X8C1P1A2M8X2J2U2N3E2G2E5Q3R4",
+  "title": "의료법 일부개정법률안",
+  "committee": "보건복지가족위원회",
+  "proposer": "이명수의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "이명수의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0X8C1P1A2M8X2J2U2N3E2G2E5Q3R4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-20",
+      "detail": "보건복지가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0X8C1P1A2M8X2J2U2N3E2G2E5Q3R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-12-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0X8C1P1A2M8X2J2U2N3E2G2E5Q3R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0X8C1P1A2M8X2J2U2N3E2G2E5Q3R4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

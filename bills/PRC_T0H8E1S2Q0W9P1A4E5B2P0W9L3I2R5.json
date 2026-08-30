@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_T0H8E1S2Q0W9P1A4E5B2P0W9L3I2R5",
+  "title": "재외국민보호법안",
+  "committee": "외교통상통일위원회",
+  "proposer": "김정훈의원등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-09",
+      "detail": "김정훈의원등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T0H8E1S2Q0W9P1A4E5B2P0W9L3I2R5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-04-13",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T0H8E1S2Q0W9P1A4E5B2P0W9L3I2R5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T0H8E1S2Q0W9P1A4E5B2P0W9L3I2R5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

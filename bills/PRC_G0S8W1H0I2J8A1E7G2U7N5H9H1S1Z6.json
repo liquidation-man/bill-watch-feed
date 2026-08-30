@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_G0S8W1H0I2J8A1E7G2U7N5H9H1S1Z6",
+  "title": "신용협동조합법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "전여옥의원 외 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-10-28",
+      "detail": "전여옥의원 외 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0S8W1H0I2J8A1E7G2U7N5H9H1S1Z6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2008-12-01",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0S8W1H0I2J8A1E7G2U7N5H9H1S1Z6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0S8W1H0I2J8A1E7G2U7N5H9H1S1Z6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

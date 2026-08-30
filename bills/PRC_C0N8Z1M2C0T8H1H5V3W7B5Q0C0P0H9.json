@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_C0N8Z1M2C0T8H1H5V3W7B5Q0C0P0H9",
+  "title": "군인공제회법 일부개정법률안",
+  "committee": "국방위원회",
+  "proposer": "임동규의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-08",
+      "detail": "임동규의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0N8Z1M2C0T8H1H5V3W7B5Q0C0P0H9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-19",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0N8Z1M2C0T8H1H5V3W7B5Q0C0P0H9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0N8Z1M2C0T8H1H5V3W7B5Q0C0P0H9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

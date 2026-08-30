@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_P0N9Y0N3Z0M6Q1S1F2M5W2W3U9L2L7",
+  "title": "결핵예방법 일부개정법률안",
+  "committee": "보건복지가족위원회",
+  "proposer": "손숙미의원등 11인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-03-06",
+      "detail": "손숙미의원등 11인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0N9Y0N3Z0M6Q1S1F2M5W2W3U9L2L7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-13",
+      "detail": "보건복지가족위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0N9Y0N3Z0M6Q1S1F2M5W2W3U9L2L7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-12-08",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0N9Y0N3Z0M6Q1S1F2M5W2W3U9L2L7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0N9Y0N3Z0M6Q1S1F2M5W2W3U9L2L7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_C0L8G1D1U2I8Q1A9T4Z2B5P3P5F9R5",
+  "title": "출입국관리법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "정진석의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "정진석의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0L8G1D1U2I8Q1A9T4Z2B5P3P5F9R5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-18",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0L8G1D1U2I8Q1A9T4Z2B5P3P5F9R5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C0L8G1D1U2I8Q1A9T4Z2B5P3P5F9R5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

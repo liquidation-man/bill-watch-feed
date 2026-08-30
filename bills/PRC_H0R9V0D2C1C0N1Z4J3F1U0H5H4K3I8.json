@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_H0R9V0D2C1C0N1Z4J3F1U0H5H4K3I8",
+  "title": "방송법 일부개정법률안",
+  "committee": "문화체육관광방송통신위원회",
+  "proposer": "한선교의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-10",
+      "detail": "한선교의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0R9V0D2C1C0N1Z4J3F1U0H5H4K3I8&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-04-22",
+      "detail": "문화체육관광방송통신위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0R9V0D2C1C0N1Z4J3F1U0H5H4K3I8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H0R9V0D2C1C0N1Z4J3F1U0H5H4K3I8&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

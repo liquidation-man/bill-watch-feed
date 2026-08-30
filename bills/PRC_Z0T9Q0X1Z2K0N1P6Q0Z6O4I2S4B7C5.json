@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_Z0T9Q0X1Z2K0N1P6Q0Z6O4I2S4B7C5",
+  "title": "경제자유구역의 지정 및 운영에 관한 법률 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "김학송의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-01-20",
+      "detail": "김학송의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0T9Q0X1Z2K0N1P6Q0Z6O4I2S4B7C5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-03",
+      "detail": "지식경제위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0T9Q0X1Z2K0N1P6Q0Z6O4I2S4B7C5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-07",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0T9Q0X1Z2K0N1P6Q0Z6O4I2S4B7C5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2011-03-11",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0T9Q0X1Z2K0N1P6Q0Z6O4I2S4B7C5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

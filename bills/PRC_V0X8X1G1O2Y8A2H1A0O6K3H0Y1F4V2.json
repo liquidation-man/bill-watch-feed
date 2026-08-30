@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_V0X8X1G1O2Y8A2H1A0O6K3H0Y1F4V2",
+  "title": "농어촌발전특별조치법 일부개정법률안",
+  "committee": "농림수산식품위원회",
+  "proposer": "김종률의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "김종률의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0X8X1G1O2Y8A2H1A0O6K3H0Y1F4V2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-22",
+      "detail": "농림수산식품위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0X8X1G1O2Y8A2H1A0O6K3H0Y1F4V2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-22",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0X8X1G1O2Y8A2H1A0O6K3H0Y1F4V2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-03-05",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0X8X1G1O2Y8A2H1A0O6K3H0Y1F4V2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

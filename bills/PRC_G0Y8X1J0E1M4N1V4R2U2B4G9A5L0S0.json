@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_G0Y8X1J0E1M4N1V4R2U2B4G9A5L0S0",
+  "title": "집회 및 시위에 관한 법률 일부개정법률안",
+  "committee": "행정안전위원회",
+  "proposer": "신지호의원등 17인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-10-14",
+      "detail": "신지호의원등 17인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0Y8X1J0E1M4N1V4R2U2B4G9A5L0S0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-01-30",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G0Y8X1J0E1M4N1V4R2U2B4G9A5L0S0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K0B8U1N2O3O0S1E7F5F5T5P3I1U3H0",
+  "title": "출입국관리법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "신학용의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-30",
+      "detail": "신학용의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0B8U1N2O3O0S1E7F5F5T5P3I1U3H0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-24",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0B8U1N2O3O0S1E7F5F5T5P3I1U3H0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0B8U1N2O3O0S1E7F5F5T5P3I1U3H0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

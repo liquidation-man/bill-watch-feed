@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_W0V9R0V1N1Q6R1X7V3S2U0A9D1S6G3",
+  "title": "부담금관리기본법 일부개정법률안",
+  "committee": "기획재정위원회",
+  "proposer": "이달곤의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-01-16",
+      "detail": "이달곤의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0V9R0V1N1Q6R1X7V3S2U0A9D1S6G3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-20",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0V9R0V1N1Q6R1X7V3S2U0A9D1S6G3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0V9R0V1N1Q6R1X7V3S2U0A9D1S6G3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

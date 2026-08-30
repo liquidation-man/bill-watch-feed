@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V0Z9A0S2I2W6Z1J5G5R4H2W4Y3K5R9",
+  "title": "희귀난치성질환기금법안",
+  "committee": "보건복지위원회",
+  "proposer": "이명수의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-26",
+      "detail": "이명수의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0Z9A0S2I2W6Z1J5G5R4H2W4Y3K5R9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-12-02",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0Z9A0S2I2W6Z1J5G5R4H2W4Y3K5R9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0Z9A0S2I2W6Z1J5G5R4H2W4Y3K5R9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

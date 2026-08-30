@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_K0Q9T0C2M1Q1A1B1V0Z1I0M5P4D2N1",
+  "title": "교통사고처리특례법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "김태원의원등 25인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-11",
+      "detail": "김태원의원등 25인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0Q9T0C2M1Q1A1B1V0Z1I0M5P4D2N1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-04-13",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0Q9T0C2M1Q1A1B1V0Z1I0M5P4D2N1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K0Q9T0C2M1Q1A1B1V0Z1I0M5P4D2N1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

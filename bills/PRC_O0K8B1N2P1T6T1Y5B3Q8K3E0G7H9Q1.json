@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_O0K8B1N2P1T6T1Y5B3Q8K3E0G7H9Q1",
+  "title": "선거관리위원회법 일부개정법률안",
+  "committee": "정치개혁특별위원회",
+  "proposer": "임동규의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-16",
+      "detail": "임동규의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0K8B1N2P1T6T1Y5B3Q8K3E0G7H9Q1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-30",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0K8B1N2P1T6T1Y5B3Q8K3E0G7H9Q1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

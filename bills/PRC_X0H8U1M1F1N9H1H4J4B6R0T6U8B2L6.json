@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_X0H8U1M1F1N9H1H4J4B6R0T6U8B2L6",
+  "title": "지방교육자치에 관한 법률 전부개정법률안",
+  "committee": "교육과학기술위원회",
+  "proposer": "이시종의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-19",
+      "detail": "이시종의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0H8U1M1F1N9H1H4J4B6R0T6U8B2L6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-10",
+      "detail": "교육과학기술위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0H8U1M1F1N9H1H4J4B6R0T6U8B2L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-10",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0H8U1M1F1N9H1H4J4B6R0T6U8B2L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-02-18",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0H8U1M1F1N9H1H4J4B6R0T6U8B2L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

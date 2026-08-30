@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_X0D8I1P2A1N6L1C6A3N1Q5X9E6A5K5",
+  "title": "개인건강정보 보호법안",
+  "committee": "보건복지위원회",
+  "proposer": "유일호의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-16",
+      "detail": "유일호의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0D8I1P2A1N6L1C6A3N1Q5X9E6A5K5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X0D8I1P2A1N6L1C6A3N1Q5X9E6A5K5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

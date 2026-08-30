@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_E0J8Z1T1Y2S8F2D1A4E1W1O0I2Z9S9",
+  "title": "가축전염병예방법 일부개정법률안",
+  "committee": "농림수산식품위원회",
+  "proposer": "김종률의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-28",
+      "detail": "김종률의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0J8Z1T1Y2S8F2D1A4E1W1O0I2Z9S9&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-19",
+      "detail": "농림수산식품위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0J8Z1T1Y2S8F2D1A4E1W1O0I2Z9S9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-02-17",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0J8Z1T1Y2S8F2D1A4E1W1O0I2Z9S9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-03-18",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0J8Z1T1Y2S8F2D1A4E1W1O0I2Z9S9&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

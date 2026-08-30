@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_J0N8R1T1T1U1Y1A0U5C4K0R2R0I5K1",
+  "title": "국민건강증진법 일부개정법률안",
+  "committee": "보건복지가족위원회",
+  "proposer": "백원우의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-11",
+      "detail": "백원우의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0N8R1T1T1U1Y1A0U5C4K0R2R0I5K1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-11-17",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J0N8R1T1T1U1Y1A0U5C4K0R2R0I5K1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

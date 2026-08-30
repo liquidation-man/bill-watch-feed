@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_I0T8N1J2L0Q1X1G2N3I7Y0L4V2T1J7",
+  "title": "국제연합 평화유지활동 참여에 관한 법률안",
+  "committee": "외교통상통일위원회",
+  "proposer": "김무성의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-01",
+      "detail": "김무성의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0T8N1J2L0Q1X1G2N3I7Y0L4V2T1J7&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-10",
+      "detail": "외교통상통일위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0T8N1J2L0Q1X1G2N3I7Y0L4V2T1J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-25",
+      "detail": "폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0T8N1J2L0Q1X1G2N3I7Y0L4V2T1J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0T8N1J2L0Q1X1G2N3I7Y0L4V2T1J7&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

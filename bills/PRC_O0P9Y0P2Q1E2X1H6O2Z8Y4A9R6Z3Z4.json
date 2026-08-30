@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O0P9Y0P2Q1E2X1H6O2Z8Y4A9R6Z3Z4",
+  "title": "연쇄살인 방지 및 치안력 확보를 위한 특별조치법안",
+  "committee": "행정안전위원회",
+  "proposer": "차명진의원등 30인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-12",
+      "detail": "차명진의원등 30인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0P9Y0P2Q1E2X1H6O2Z8Y4A9R6Z3Z4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-20",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0P9Y0P2Q1E2X1H6O2Z8Y4A9R6Z3Z4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0P9Y0P2Q1E2X1H6O2Z8Y4A9R6Z3Z4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}

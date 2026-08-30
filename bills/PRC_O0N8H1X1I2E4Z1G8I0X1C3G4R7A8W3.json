@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_O0N8H1X1I2E4Z1G8I0X1C3G4R7A8W3",
+  "title": "은행법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "박종희의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-24",
+      "detail": "박종희의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0N8H1X1I2E4Z1G8I0X1C3G4R7A8W3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-12-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0N8H1X1I2E4Z1G8I0X1C3G4R7A8W3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}

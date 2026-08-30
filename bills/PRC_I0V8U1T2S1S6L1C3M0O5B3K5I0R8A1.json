@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_I0V8U1T2S1S6L1C3M0O5B3K5I0R8A1",
+  "title": "국방의학원법안",
+  "committee": "국방위원회",
+  "proposer": "박진의원등 105인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-16",
+      "detail": "박진의원등 105인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0V8U1T2S1S6L1C3M0O5B3K5I0R8A1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-10-14",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I0V8U1T2S1S6L1C3M0O5B3K5I0R8A1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

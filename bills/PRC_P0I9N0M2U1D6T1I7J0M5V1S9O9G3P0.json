@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_P0I9N0M2U1D6T1I7J0M5V1S9O9G3P0",
+  "title": "의료기사 등에 관한 법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "김춘진의원등 12인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-02-16",
+      "detail": "김춘진의원등 12인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0I9N0M2U1D6T1I7J0M5V1S9O9G3P0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0I9N0M2U1D6T1I7J0M5V1S9O9G3P0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

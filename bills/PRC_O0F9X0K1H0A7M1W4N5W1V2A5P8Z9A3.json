@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_O0F9X0K1H0A7M1W4N5W1V2A5P8Z9A3",
+  "title": "민사집행법 일부개정법률안",
+  "committee": "법제사법위원회",
+  "proposer": "유기준의원등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-01-07",
+      "detail": "유기준의원등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0F9X0K1H0A7M1W4N5W1V2A5P8Z9A3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-24",
+      "detail": "법제사법위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0F9X0K1H0A7M1W4N5W1V2A5P8Z9A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O0F9X0K1H0A7M1W4N5W1V2A5P8Z9A3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "법"
+  ]
+}

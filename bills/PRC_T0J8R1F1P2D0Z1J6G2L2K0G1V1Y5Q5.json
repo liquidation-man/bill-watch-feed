@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_T0J8R1F1P2D0Z1J6G2L2K0G1V1Y5Q5",
+  "title": "복지교부금법안",
+  "committee": "보건복지위원회",
+  "proposer": "이광재의원등 14인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-19",
+      "detail": "이광재의원등 14인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T0J8R1F1P2D0Z1J6G2L2K0G1V1Y5Q5&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T0J8R1F1P2D0Z1J6G2L2K0G1V1Y5Q5&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

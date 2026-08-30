@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_F0A8O1R1O2Q6Z1V8W1E6Q3G1N5P0M3",
+  "title": "국세기본법 일부개정법률안",
+  "committee": "",
+  "proposer": "안효대의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-26",
+      "detail": "안효대의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0A8O1R1O2Q6Z1V8W1E6Q3G1N5P0M3&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2009-01-06",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F0A8O1R1O2Q6Z1V8W1E6Q3G1N5P0M3&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

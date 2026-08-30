@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_W0U8N1Q2W2K9B1Q0P2Q1E1N8L5W8H2",
+  "title": "에너지기본법 일부개정법률안",
+  "committee": "지식경제위원회",
+  "proposer": "홍준표의원 외 171인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-29",
+      "detail": "홍준표의원 외 171인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0U8N1Q2W2K9B1Q0P2Q1E1N8L5W8H2&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0U8N1Q2W2K9B1Q0P2Q1E1N8L5W8H2&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

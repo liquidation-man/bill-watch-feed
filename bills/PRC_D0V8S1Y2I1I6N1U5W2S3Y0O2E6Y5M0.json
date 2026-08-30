@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_D0V8S1Y2I1I6N1U5W2S3Y0O2E6Y5M0",
+  "title": "탄약창 주변지역 지원에 관한 법률안",
+  "committee": "국방위원회",
+  "proposer": "박상돈의원등 13인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-16",
+      "detail": "박상돈의원등 13인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0V8S1Y2I1I6N1U5W2S3Y0O2E6Y5M0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-19",
+      "detail": "국방위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0V8S1Y2I1I6N1U5W2S3Y0O2E6Y5M0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0V8S1Y2I1I6N1U5W2S3Y0O2E6Y5M0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

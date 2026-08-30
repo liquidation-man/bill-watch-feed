@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_V0P8X1Y1J0O5E1C8J0C3Z5D7C4S7K0",
+  "title": "경제자유구역의 외국의료기관 등 설립·운영에 관한 특별법안",
+  "committee": "보건복지위원회",
+  "proposer": "황우여의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-05",
+      "detail": "황우여의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0P8X1Y1J0O5E1C8J0C3Z5D7C4S7K0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-02-20",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0P8X1Y1J0O5E1C8J0C3Z5D7C4S7K0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V0P8X1Y1J0O5E1C8J0C3Z5D7C4S7K0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

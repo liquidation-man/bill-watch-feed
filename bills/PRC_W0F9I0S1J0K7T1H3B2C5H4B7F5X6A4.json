@@ -1,0 +1,38 @@
+{
+  "billId": "PRC_W0F9I0S1J0K7T1H3B2C5H4B7F5X6A4",
+  "title": "인체조직안전및관리등에관한법률 일부개정법률안",
+  "committee": "보건복지위원회",
+  "proposer": "황영철의원등 15인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-01-07",
+      "detail": "황영철의원등 15인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0F9I0S1J0K7T1H3B2C5H4B7F5X6A4&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2011-03-04",
+      "detail": "보건복지위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0F9I0S1J0K7T1H3B2C5H4B7F5X6A4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0F9I0S1J0K7T1H3B2C5H4B7F5X6A4&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "보건"
+  ]
+}

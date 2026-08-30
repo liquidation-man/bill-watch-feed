@@ -1,0 +1,27 @@
+{
+  "billId": "PRC_P0X9N0F3N0A3M1O4O0G0V4Z1L4Z1H1",
+  "title": "물관리 기본법안",
+  "committee": "국토해양위원회",
+  "proposer": "김소남의원등 10인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2009-03-03",
+      "detail": "김소남의원등 10인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0X9N0F3N0A3M1O4O0G0V4Z1L4Z1H1&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P0X9N0F3N0A3M1O4O0G0V4Z1L4Z1H1&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

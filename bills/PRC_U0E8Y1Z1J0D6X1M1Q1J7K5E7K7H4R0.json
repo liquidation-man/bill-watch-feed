@@ -1,0 +1,36 @@
+{
+  "billId": "PRC_U0E8Y1Z1J0D6X1M1Q1J7K5E7K7H4R0",
+  "title": "공기업의경영구조개선및민영화에관한법률 폐지법률안",
+  "committee": "기획재정위원회",
+  "proposer": "강창일의원등 18인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-06",
+      "detail": "강창일의원등 18인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8Y1Z1J0D6X1M1Q1J7K5E7K7H4R0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2008-11-20",
+      "detail": "기획재정위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8Y1Z1J0D6X1M1Q1J7K5E7K7H4R0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2012-05-29",
+      "detail": "임기만료폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0E8Y1Z1J0D6X1M1Q1J7K5E7K7H4R0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

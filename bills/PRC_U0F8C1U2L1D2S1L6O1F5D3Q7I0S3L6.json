@@ -1,0 +1,45 @@
+{
+  "billId": "PRC_U0F8C1U2L1D2S1L6O1F5D3Q7I0S3L6",
+  "title": "지방행정체제 개편을 위한 특별법안",
+  "committee": "지방행정체제개편특별위원회",
+  "proposer": "우윤근의원등 16인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-12-12",
+      "detail": "우윤근의원등 16인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0F8C1U2L1D2S1L6O1F5D3Q7I0S3L6&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2009-11-04",
+      "detail": "지방행정체제개편특별위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0F8C1U2L1D2S1L6O1F5D3Q7I0S3L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이명박정부",
+      "date": "2010-04-27",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0F8C1U2L1D2S1L6O1F5D3Q7I0S3L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2010-09-16",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U0F8C1U2L1D2S1L6O1F5D3Q7I0S3L6&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": []
+}

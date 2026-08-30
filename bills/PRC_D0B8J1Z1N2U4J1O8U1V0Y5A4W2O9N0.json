@@ -1,0 +1,29 @@
+{
+  "billId": "PRC_D0B8J1Z1N2U4J1O8U1V0Y5A4W2O9N0",
+  "title": "금융지주회사법 일부개정법률안",
+  "committee": "정무위원회",
+  "proposer": "공성진의원등 34인",
+  "assemblyTerm": 18,
+  "events": [
+    {
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이명박정부",
+      "date": "2008-11-24",
+      "detail": "공성진의원등 34인 발의",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0B8J1Z1N2U4J1O8U1V0Y5A4W2O9N0&ageFrom=18&ageTo=18"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이명박정부",
+      "date": "2008-12-24",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D0B8J1Z1N2U4J1O8U1V0Y5A4W2O9N0&ageFrom=18&ageTo=18",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    }
+  ],
+  "tags": [
+    "금융"
+  ]
+}
