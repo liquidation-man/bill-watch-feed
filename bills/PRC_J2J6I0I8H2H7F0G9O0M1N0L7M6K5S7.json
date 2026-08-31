@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2J6I0I8H2H7F0G9O0M1N0L7M6K5S7",
   "title": "국가경찰과 자치경찰의 조직 및 운영에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "황운하의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2J6I0I8H2H7F0G9O0M1N0L7M6K5S7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

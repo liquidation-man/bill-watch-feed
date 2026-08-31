@@ -1,7 +1,7 @@
 {
   "billId": "PRC_H2G6G0E8F2N5O1M4N1L9J0K5F3G8F2",
   "title": "환경오염시설의 통합관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "이용우의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G6G0E8F2N5O1M4N1L9J0K5F3G8F2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

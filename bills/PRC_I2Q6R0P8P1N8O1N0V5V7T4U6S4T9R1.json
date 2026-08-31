@@ -1,7 +1,7 @@
 {
   "billId": "PRC_I2Q6R0P8P1N8O1N0V5V7T4U6S4T9R1",
   "title": "국립대학병원 설치법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "박용갑의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q6R0P8P1N8O1N0V5V7T4U6S4T9R1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

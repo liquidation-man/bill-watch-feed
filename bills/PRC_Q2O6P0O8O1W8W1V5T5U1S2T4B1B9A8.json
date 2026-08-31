@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2O6P0O8O1W8W1V5T5U1S2T4B1B9A8",
   "title": "선거관리위원회법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "윤건영의원 등 13인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O6P0O8O1W8W1V5T5U1S2T4B1B9A8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
