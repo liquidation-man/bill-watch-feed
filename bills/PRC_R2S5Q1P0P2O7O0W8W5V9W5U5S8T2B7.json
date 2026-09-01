@@ -1,7 +1,7 @@
 {
   "billId": "PRC_R2S5Q1P0P2O7O0W8W5V9W5U5S8T2B7",
   "title": "온실가스 배출권의 할당 및 거래에 관한 법률 일부개정법률안",
-  "committee": "기후위기 특별위원회",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "김용태의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S5Q1P0P2O7O0W8W5V9W5U5S8T2B7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

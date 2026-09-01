@@ -1,7 +1,7 @@
 {
   "billId": "PRC_F2G6F0F8E2C4D1K7J3J2I4J8H0H4D5",
   "title": "개인정보 보호법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "손명수의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G6F0F8E2C4D1K7J3J2I4J8H0H4D5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }

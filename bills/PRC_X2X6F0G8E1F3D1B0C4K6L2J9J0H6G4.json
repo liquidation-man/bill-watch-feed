@@ -1,7 +1,7 @@
 {
   "billId": "PRC_X2X6F0G8E1F3D1B0C4K6L2J9J0H6G4",
   "title": "광업법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "이철규의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2X6F0G8E1F3D1B0C4K6L2J9J0H6G4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

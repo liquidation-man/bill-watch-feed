@@ -1,7 +1,7 @@
 {
   "billId": "PRC_X2X6W0W8V2V7U1C2C4A9B0Z9A2Y4Z6",
   "title": "형법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "고동진의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2X6W0W8V2V7U1C2C4A9B0Z9A2Y4Z6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

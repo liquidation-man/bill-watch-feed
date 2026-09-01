@@ -1,7 +1,7 @@
 {
   "billId": "PRC_K2S4T1R1S0Q7P1P4X2Y2W3X3V8T0U5",
   "title": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 일부개정법률안",
-  "committee": "기후위기 특별위원회",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "한정애의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2S4T1R1S0Q7P1P4X2Y2W3X3V8T0U5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
