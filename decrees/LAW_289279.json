@@ -1,0 +1,87 @@
+{
+  "billId": "LAW_289279",
+  "title": "대통령비서실 직제",
+  "org": "행정안전부",
+  "kind": "대통령령",
+  "articles": [
+    {
+      "number": "1",
+      "isChapterHeading": false,
+      "title": "목적",
+      "content": "제1조(목적) 이 영은 대통령비서실의 조직과 직무범위, 그 밖에 필요한 사항을 규정함을 목적으로 한다."
+    },
+    {
+      "number": "2",
+      "isChapterHeading": false,
+      "title": "직무",
+      "content": "제2조(직무) 대통령비서실은 대통령의 직무를 보좌한다."
+    },
+    {
+      "number": "3",
+      "isChapterHeading": false,
+      "title": "대통령비서실장",
+      "content": "제3조(대통령비서실장) 대통령비서실장은 대통령의 명을 받아 대통령비서실의 사무를 처리하고, 소속 공무원을 지휘ㆍ감독한다."
+    },
+    {
+      "number": "3",
+      "isChapterHeading": false,
+      "title": "정책실",
+      "content": "제3조의2(정책실)"
+    },
+    {
+      "number": "4",
+      "isChapterHeading": false,
+      "title": "보좌관 및 수석비서관",
+      "content": "제4조(보좌관 및 수석비서관)"
+    },
+    {
+      "number": "5",
+      "isChapterHeading": false,
+      "title": "기획관ㆍ비서관ㆍ상황실장ㆍ선임행정관 및 행정관",
+      "content": "제5조(기획관ㆍ비서관ㆍ상황실장ㆍ선임행정관 및 행정관)"
+    },
+    {
+      "number": "6",
+      "isChapterHeading": false,
+      "title": "인사위원회",
+      "content": "제6조(인사위원회)"
+    },
+    {
+      "number": "7",
+      "isChapterHeading": false,
+      "title": "감찰반",
+      "content": "제7조(감찰반)"
+    },
+    {
+      "number": "8",
+      "isChapterHeading": false,
+      "title": "특별보좌관 및 자문위원",
+      "content": "제8조(특별보좌관 및 자문위원)"
+    },
+    {
+      "number": "9",
+      "isChapterHeading": false,
+      "title": "하부조직",
+      "content": "제9조(하부조직) 대통령비서실에 두는 하부조직과 그 분장사무는 대통령비서실장이 정한다."
+    },
+    {
+      "number": "10",
+      "isChapterHeading": false,
+      "title": "대통령비서실에 두는 공무원의 정원",
+      "content": "제10조(대통령비서실에 두는 공무원의 정원)"
+    }
+  ],
+  "events": [
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-09-02",
+      "detail": "행정안전부 · 대통령령",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289279&type=HTML&mobileYn=&efYd=20260902"
+    }
+  ],
+  "tags": [
+    "행정"
+  ]
+}
