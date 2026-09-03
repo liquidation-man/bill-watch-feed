@@ -12,6 +12,24 @@
       "date": "2026-03-31",
       "detail": "이주희의원 등 11인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T6S0G3E2D7E1C8Z0X8V5W7V8D6C6&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-03",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T6S0G3E2D7E1C8Z0X8V5W7V8D6C6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-03",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T6S0G3E2D7E1C8Z0X8V5W7V8D6C6&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
   "tags": [

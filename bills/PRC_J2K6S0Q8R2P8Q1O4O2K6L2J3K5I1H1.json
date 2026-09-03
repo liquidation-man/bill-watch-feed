@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2K6S0Q8R2P8Q1O4O2K6L2J3K5I1H1",
   "title": "농업협동조합법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "주철현의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6S0Q8R2P8Q1O4O2K6L2J3K5I1H1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

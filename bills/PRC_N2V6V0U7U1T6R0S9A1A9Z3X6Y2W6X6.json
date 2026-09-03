@@ -1,7 +1,7 @@
 {
   "billId": "PRC_N2V6V0U7U1T6R0S9A1A9Z3X6Y2W6X6",
   "title": "마약류 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "서영석의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2V6V0U7U1T6R0S9A1A9Z3X6Y2W6X6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

@@ -12,6 +12,24 @@
       "date": "2026-08-05",
       "detail": "최기상의원 등 10인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6I0H7H2F9G1G3E4F3D3E4L2K9L1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-03",
+      "detail": "정무위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6I0H7H2F9G1G3E4F3D3E4L2K9L1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-03",
+      "detail": "대안반영폐기",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2K6I0H7H2F9G1G3E4F3D3E4L2K9L1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
   "tags": [

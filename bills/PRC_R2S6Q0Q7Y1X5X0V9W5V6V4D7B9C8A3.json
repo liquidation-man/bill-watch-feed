@@ -1,7 +1,7 @@
 {
   "billId": "PRC_R2S6Q0Q7Y1X5X0V9W5V6V4D7B9C8A3",
   "title": "발달장애인 권리보장 및 지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "한지아의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S6Q0Q7Y1X5X0V9W5V6V4D7B9C8A3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
