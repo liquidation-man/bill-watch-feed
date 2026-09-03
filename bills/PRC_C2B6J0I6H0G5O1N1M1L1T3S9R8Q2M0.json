@@ -1,7 +1,7 @@
 {
   "billId": "PRC_C2B6J0I6H0G5O1N1M1L1T3S9R8Q2M0",
   "title": "여성기업지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "이언주의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B6J0I6H0G5O1N1M1L1T3S9R8Q2M0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }
