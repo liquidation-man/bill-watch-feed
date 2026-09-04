@@ -1,41 +1,29 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제673호(2026년 8월 4주) - 전작권 환수, 북한 전쟁 도발 위험성, 남북한 군사력, 핵무기 보유, 3군 사관학교 통합 (8월 통합 포함)",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1656",
-  "period": "2026년 8월 넷째 주(25~27일)",
+  "reportTitle": "데일리 오피니언 제674호(2026년 9월 1주) - 선호 장래 정치 지도자,&nbsp;행정수도/청와대/국회 세종시 이전, 공공기관 비수도권 이전",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1657",
+  "period": "2022년 6월부터 이번까지 선호도 1.0% 이상 기록한 인물 총 24명<br />\r\n[행정수도] '세종시로 이전하는 것이 좋다' 48%, '서울시로 유지하는 것이 좋다' 44% <br />\r\n&middot; 2003년, 2020년과 마찬가지로 전국적으로는 팽팽, 지역별 견해차 <br />\r\n[청와대] 세종시 이전 찬성 38%, 반대 53% - 6년 전과 비슷 <br />\r\n[국회] 세종시 이전 찬성 2013년 35% &rarr; 2020년 47% &rarr; 2026년 52%, 반대 38% <br />\r\n&middot; 행정수도&middot;청와대&middot;국회 이전에 20대 거부감 가장 큰 편 <br />\r\n[수도권 공공기관] '비수도권으로 이전하는 것이 좋다' 57%, '이전하지 않는 것이 좋다' 34% <br />\r\n<br />\r\n<br />\r\n<b><font color=\"crimson\"><u>조사 결과</u></font></b><br />\r\n<br />\r\n<a name=\"A\"></a> <font color=\"#009FF4\">────────────</font><br />\r\n<b><font color=\"#009FF4\">대통령 직무 수행 평가: 긍정 40%, 부정 51%</font></b><br />\r\n<font color=\"#7DCCFD\">────────────</font><br />\r\n<br />\r\n한국갤럽이 2026년 9월 첫째 주(1~3일)",
   "approval": {
-    "approvePct": 42,
-    "disapprovePct": 50,
-    "undecidedPct": 8
+    "approvePct": 40,
+    "disapprovePct": 51,
+    "undecidedPct": 9
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 39
+        "pct": 38
       },
       {
         "name": "국민의힘",
-        "pct": 25
+        "pct": 30
       },
       {
         "name": "조국혁신당",
-        "pct": 4
-      },
-      {
-        "name": "개혁신당",
         "pct": 3
-      },
-      {
-        "name": "진보당",
-        "pct": 1
-      },
-      {
-        "name": "정당/단체",
-        "pct": 2
       }
     ],
-    "undecidedPct": 26
+    "undecidedPct": 25
   },
-  "fetchedAt": "2026-09-03T21:25:34.882Z"
+  "fetchedAt": "2026-09-04T04:43:42.989Z"
 }

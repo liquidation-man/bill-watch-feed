@@ -1,7 +1,7 @@
 {
   "billId": "PRC_F2G6E0D8D2L7L1K7L0J2H5I9Q8Q2P0",
   "title": "건설산업기본법 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "김남근의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2G6E0D8D2L7L1K7L0J2H5I9Q8Q2P0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }
