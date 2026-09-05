@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2Q6P0P8O3O1N1N1J4H1I2G3H9F7G7",
   "title": "자본시장과 금융투자업에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "이정문의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2Q6P0P8O3O1N1N1J4H1I2G3H9F7G7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }

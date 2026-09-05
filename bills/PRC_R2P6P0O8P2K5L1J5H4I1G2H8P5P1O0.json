@@ -1,7 +1,7 @@
 {
   "billId": "PRC_R2P6P0O8P2K5L1J5H4I1G2H8P5P1O0",
   "title": "자원의 절약과 재활용촉진에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "김은혜의원 등 15인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P6P0O8P2K5L1J5H4I1G2H8P5P1O0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_M2U6V0T8U1S3S1R6Z1Z2Y2Z8X2X5W3",
   "title": "고용정책 기본법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "정태호의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2U6V0T8U1S3S1R6Z1Z2Y2Z8X2X5W3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
