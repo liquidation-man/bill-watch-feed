@@ -1,7 +1,7 @@
 {
   "billId": "PRC_L2M6K0L8T1T8R1Q4Q0O9P3X5Y5W2U5",
   "title": "고압가스 안전관리법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "장철민의원ㆍ김종민의원ㆍ정혜경의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2M6K0L8T1T8R1Q4Q0O9P3X5Y5W2U5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }
