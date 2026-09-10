@@ -1,7 +1,7 @@
 {
   "billId": "PRC_H2I6Q0O9P0N3O1M3N3V9V4T0S1S6R1",
   "title": "공연법 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "박수영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I6Q0O9P0N3O1M3N3V9V4T0S1S6R1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }
