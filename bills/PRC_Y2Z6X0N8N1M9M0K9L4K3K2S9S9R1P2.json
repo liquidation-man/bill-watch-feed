@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Y2Z6X0N8N1M9M0K9L4K3K2S9S9R1P2",
   "title": "스마트농업 육성 및 지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "박성훈의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2Z6X0N8N1M9M0K9L4K3K2S9S9R1P2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }
