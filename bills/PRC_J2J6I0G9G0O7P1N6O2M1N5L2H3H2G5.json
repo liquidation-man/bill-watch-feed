@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2J6I0G9G0O7P1N6O2M1N5L2H3H2G5",
   "title": "모자보건법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "임종득의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2J6I0G9G0O7P1N6O2M1N5L2H3H2G5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

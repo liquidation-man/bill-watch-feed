@@ -1,7 +1,7 @@
 {
   "billId": "PRC_D2E6C0B9B0X7X1W3X4V4V1T7C7C2A2",
   "title": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "김용만의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2E6C0B9B0X7X1W3X4V4V1T7C7C2A2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }
