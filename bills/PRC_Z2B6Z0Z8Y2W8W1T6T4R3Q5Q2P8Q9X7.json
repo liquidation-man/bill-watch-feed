@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Z2B6Z0Z8Y2W8W1T6T4R3Q5Q2P8Q9X7",
   "title": "법원조직법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "송영길의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2B6Z0Z8Y2W8W1T6T4R3Q5Q2P8Q9X7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

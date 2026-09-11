@@ -1,7 +1,7 @@
 {
   "billId": "PRC_P2P6N0O9N0L6L2T1U4S9T4R3R2Q1M8",
   "title": "공항시설법 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "임문영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2P6N0O9N0L6L2T1U4S9T4R3R2Q1M8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "교통"
+  ]
 }

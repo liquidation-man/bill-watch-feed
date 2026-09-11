@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2P6X0X9V0W3V1V5T1U4J4H6I8H9H9",
   "title": "기초연금법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "곽규택의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2P6X0X9V0W3V1V5T1U4J4H6I8H9H9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
