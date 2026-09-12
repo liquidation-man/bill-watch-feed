@@ -1,7 +1,7 @@
 {
   "billId": "PRC_C2A6Z0Z9X0Y2U0V9T2T1S5Q6R7Y8Z6",
   "title": "부정경쟁방지 및 영업비밀보호에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "허성무의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2A6Z0Z9X0Y2U0V9T2T1S5Q6R7Y8Z6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }
