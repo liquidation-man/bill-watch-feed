@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2B6A0A8I2I7H1F4G4E3F4M1N7L3M9",
   "title": "전기사업법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "서왕진의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6A0A8I2I7H1F4G4E3F4M1N7L3M9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2C6S0R9R1D1E1C6G5I5V2K8S8X5P2",
   "title": "고위공직자범죄수사처 설치 및 운영에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "이광희의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2C6S0R9R1D1E1C6G5I5V2K8S8X5P2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3",
   "title": "전자금융거래법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "박상혁의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W6W0V9W1D1E1C6B1B8Z1A0W1W0V3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }
