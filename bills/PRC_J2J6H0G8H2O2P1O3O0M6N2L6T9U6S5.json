@@ -1,7 +1,7 @@
 {
   "billId": "PRC_J2J6H0G8H2O2P1O3O0M6N2L6T9U6S5",
   "title": "축산자조금의 조성 및 운용에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "송옥주의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2J6H0G8H2O2P1O3O0M6N2L6T9U6S5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

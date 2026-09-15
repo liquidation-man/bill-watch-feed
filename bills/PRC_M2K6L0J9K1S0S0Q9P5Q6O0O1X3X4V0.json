@@ -1,7 +1,7 @@
 {
   "billId": "PRC_M2K6L0J9K1S0S0Q9P5Q6O0O1X3X4V0",
   "title": "경찰공무원법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "이상식의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2K6L0J9K1S0S0Q9P5Q6O0O1X3X4V0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

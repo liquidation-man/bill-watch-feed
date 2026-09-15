@@ -12,6 +12,24 @@
       "date": "2026-09-11",
       "detail": "이해식의원 등 10인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M6K0L9T1R1S1Q4Q2P2Q2L5M4K2J1&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-15",
+      "detail": "행정안전위원회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M6K0L9T1R1S1Q4Q2P2Q2L5M4K2J1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-09-15",
+      "detail": "원안가결",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M6K0L9T1R1S1Q4Q2P2Q2L5M4K2J1&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
   "tags": [
