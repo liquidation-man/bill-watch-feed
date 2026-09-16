@@ -1,7 +1,7 @@
 {
   "billId": "PRC_T2T6P0Q8O2N7N1L6M2U4V4T8R2S2R9",
   "title": "도로교통법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "최은석의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T6P0Q8O2N7N1L6M2U4V4T8R2S2R9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
