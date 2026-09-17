@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2E6F0D9D0M7K0K9J1J9I1I9Q7Q7P0",
   "title": "건축물의 복합용도 활성화 지원 특별법안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "안태준의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E6F0D9D0M7K0K9J1J9I1I9Q7Q7P0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }

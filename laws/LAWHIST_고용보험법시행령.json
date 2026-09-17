@@ -355,14 +355,6 @@
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=208548&type=HTML"
     },
     {
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2019-07-02",
-      "detail": "고용노동부 · 대통령령 · 공포번호 제 29950호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=209615&type=HTML"
-    },
-    {
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
@@ -761,6 +753,14 @@
       "date": "2026-02-19",
       "detail": "고용노동부 · 법률 · 공포번호 제 21372호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=283373&type=HTML"
+    },
+    {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-17",
+      "detail": "고용노동부 · 법률 · 공포번호 제 21473호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284449&type=HTML"
     },
     {
       "stage": "일부개정",

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Q2Q6O0N9N0V2W1U3V4T1U0S4A9B6Z7",
   "title": "법원조직법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "최은석의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2Q6O0N9N0V2W1U3V4T1U0S4A9B6Z7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
