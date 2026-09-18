@@ -1,33 +1,25 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제675호(2026년 9월 2주) -&nbsp;법무부&middot;성평등가족부 장관 후보 적합 여부, 호르무즈 해협 파병 #중동 #이란",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1658",
-  "period": "2026년 9월 둘째 주(8~10일)",
+  "reportTitle": "데일리 오피니언 제676호(2026년 9월 3주) - 양대 정당 대표 역할 수행 평가, 경제 전망 (9월 통합 포함) #당대표",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1659",
+  "period": "2026년 9월 셋째 주(15~17일)",
   "approval": {
-    "approvePct": 38,
-    "disapprovePct": 51,
-    "undecidedPct": 11
+    "approvePct": 37,
+    "disapprovePct": 56,
+    "undecidedPct": 7
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 38
+        "pct": 40
       },
       {
         "name": "국민의힘",
-        "pct": 29
-      },
-      {
-        "name": "개혁신당",
-        "pct": 3
-      },
-      {
-        "name": "정당/단체",
-        "pct": 1
+        "pct": 27
       }
     ],
-    "undecidedPct": 26
+    "undecidedPct": 25
   },
-  "fetchedAt": "2026-09-17T21:51:59.170Z"
+  "fetchedAt": "2026-09-18T04:53:17.025Z"
 }
