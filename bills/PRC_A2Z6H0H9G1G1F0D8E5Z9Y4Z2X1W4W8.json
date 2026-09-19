@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2Z6H0H9G1G1F0D8E5Z9Y4Z2X1W4W8",
   "title": "가축전염병 예방법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "송옥주의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z6H0H9G1G1F0D8E5Z9Y4Z2X1W4W8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }
