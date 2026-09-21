@@ -1,7 +1,7 @@
 {
   "billId": "PRC_V2T6U0J7J2H3I1H7F3F4N3O1M3N2L2",
   "title": "선거관리위원회법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "한동훈의원 등 20인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T6U0J7J2H3I1H7F3F4N3O1M3N2L2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

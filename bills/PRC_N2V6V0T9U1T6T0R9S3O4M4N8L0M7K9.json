@@ -1,7 +1,7 @@
 {
   "billId": "PRC_N2V6V0T9U1T6T0R9S3O4M4N8L0M7K9",
   "title": "청년고용촉진 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "임종득의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2V6V0T9U1T6T0R9S3O4M4N8L0M7K9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

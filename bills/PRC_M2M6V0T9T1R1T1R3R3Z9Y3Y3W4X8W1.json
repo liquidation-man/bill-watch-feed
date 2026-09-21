@@ -1,7 +1,7 @@
 {
   "billId": "PRC_M2M6V0T9T1R1T1R3R3Z9Y3Y3W4X8W1",
   "title": "공직선거법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "윤상현의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2M6V0T9T1R1T1R3R3Z9Y3Y3W4X8W1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
