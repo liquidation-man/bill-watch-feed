@@ -1,7 +1,7 @@
 {
   "billId": "PRC_T2T6P0Q9O1P1N1L0M3U4U1S9T0R5S8",
   "title": "실종아동등의 보호 및 지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "김태호의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T6P0Q9O1P1N1L0M3U4U1S9T0R5S8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

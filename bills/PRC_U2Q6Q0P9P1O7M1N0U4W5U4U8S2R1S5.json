@@ -1,7 +1,7 @@
 {
   "billId": "PRC_U2Q6Q0P9P1O7M1N0U4W5U4U8S2R1S5",
   "title": "벤처투자 촉진에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "이성윤의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2Q6Q0P9P1O7M1N0U4W5U4U8S2R1S5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

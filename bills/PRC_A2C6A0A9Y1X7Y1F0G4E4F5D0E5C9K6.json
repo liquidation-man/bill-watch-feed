@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2C6A0A9Y1X7Y1F0G4E4F5D0E5C9K6",
   "title": "예금자보호법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "이성윤의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2C6A0A9Y1X7Y1F0G4E4F5D0E5C9K6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_K2I6J0F9D1E5C0D9B0C0J5I0J6H3H0",
   "title": "지방세특례제한법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "양부남의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2I6J0F9D1E5C0D9B0C0J5I0J6H3H0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
