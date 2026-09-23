@@ -1,7 +1,7 @@
 {
   "billId": "PRC_D2B6B0Z9B1Z0Z1H3F5G9F1F7D1M6M6",
   "title": "약사법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "정태호의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2B6B0Z9B1Z0Z1H3F5G9F1F7D1M6M6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
