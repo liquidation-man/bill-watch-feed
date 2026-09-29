@@ -1,7 +1,7 @@
 {
   "billId": "PRC_M2N6L0K4K2S2T1R2Q0Q5O0P6L4L7K1",
   "title": "국민기초생활 보장법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "이정헌의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N6L0K4K2S2T1R2Q0Q5O0P6L4L7K1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
