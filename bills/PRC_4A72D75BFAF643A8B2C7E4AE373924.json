@@ -1,7 +1,7 @@
 {
   "billId": "PRC_4A72D75BFAF643A8B2C7E4AE373924",
   "title": "대중교통의 육성 및 이용촉진에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "서천호의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_4A72D75BFAF643A8B2C7E4AE373924&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "교통"
+  ]
 }
