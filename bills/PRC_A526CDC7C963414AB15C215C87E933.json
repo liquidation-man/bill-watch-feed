@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A526CDC7C963414AB15C215C87E933",
   "title": "농작업재해 예방 및 안전·보건 증진에 관한 법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "임미애의원 등 22인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A526CDC7C963414AB15C215C87E933&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

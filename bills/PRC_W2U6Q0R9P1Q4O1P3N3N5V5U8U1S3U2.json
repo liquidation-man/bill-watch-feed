@@ -1,7 +1,7 @@
 {
   "billId": "PRC_W2U6Q0R9P1Q4O1P3N3N5V5U8U1S3U2",
   "title": "섬진강수계 물관리 및 주민지원 등에 관한 법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "안호영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U6Q0R9P1Q4O1P3N3N5V5U8U1S3U2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
