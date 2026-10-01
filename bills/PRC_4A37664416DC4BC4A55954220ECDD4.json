@@ -1,7 +1,7 @@
 {
   "billId": "PRC_4A37664416DC4BC4A55954220ECDD4",
   "title": "공익신고장려 및 불법행위 피해자 권익증진 기금법안",
-  "committee": "",
+  "committee": "재정경제기획위원회",
   "proposer": "정태호의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_4A37664416DC4BC4A55954220ECDD4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "세금"
+  ]
 }

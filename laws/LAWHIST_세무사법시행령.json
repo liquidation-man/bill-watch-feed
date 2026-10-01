@@ -259,6 +259,14 @@
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=61774&type=HTML"
     },
     {
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-04-10",
+      "detail": "재정경제부 · 재정경제부령 · 공포번호 제 00378호",
+      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=61790&type=HTML"
+    },
+    {
       "stage": "타법개정",
       "category": "개정",
       "administration": null,
@@ -777,14 +785,6 @@
       "date": "2026-03-20",
       "detail": "재정경제부 · 재정경제부령 · 공포번호 제 00020호",
       "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=284985&type=HTML"
-    },
-    {
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-06-09",
-      "detail": "재정경제부 · 대통령령 · 공포번호 제 36386호",
-      "sourceUrl": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=286849&type=HTML"
     },
     {
       "stage": "일부개정",

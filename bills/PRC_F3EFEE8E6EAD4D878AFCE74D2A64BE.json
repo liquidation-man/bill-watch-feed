@@ -1,7 +1,7 @@
 {
   "billId": "PRC_F3EFEE8E6EAD4D878AFCE74D2A64BE",
   "title": "한국투자공사법 일부개정법률안",
-  "committee": "",
+  "committee": "재정경제기획위원회",
   "proposer": "김태년의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F3EFEE8E6EAD4D878AFCE74D2A64BE&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "세금"
+  ]
 }

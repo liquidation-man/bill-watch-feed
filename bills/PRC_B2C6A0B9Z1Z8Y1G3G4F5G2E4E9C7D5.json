@@ -1,7 +1,7 @@
 {
   "billId": "PRC_B2C6A0B9Z1Z8Y1G3G4F5G2E4E9C7D5",
   "title": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "전용기의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C6A0B9Z1Z8Y1G3G4F5G2E4E9C7D5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }
