@@ -1,7 +1,7 @@
 {
   "billId": "PRC_T2A6B0A9A1Y6Z0Y9T3U8S5S0R6S6Q4",
   "title": "전통주 등의 산업진흥에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "이개호의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2A6B0A9A1Y6Z0Y9T3U8S5S0R6S6Q4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

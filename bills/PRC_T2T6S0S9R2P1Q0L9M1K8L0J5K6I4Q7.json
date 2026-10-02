@@ -1,7 +1,7 @@
 {
   "billId": "PRC_T2T6S0S9R2P1Q0L9M1K8L0J5K6I4Q7",
   "title": "수사정보의 보호 및 관리에 관한 법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "송영길의원 등 23인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2T6S0S9R2P1Q0L9M1K8L0J5K6I4Q7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

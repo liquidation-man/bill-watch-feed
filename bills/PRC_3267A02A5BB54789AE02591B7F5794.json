@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3267A02A5BB54789AE02591B7F5794",
   "title": "가축전염병 예방법 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "김용태의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3267A02A5BB54789AE02591B7F5794&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }
