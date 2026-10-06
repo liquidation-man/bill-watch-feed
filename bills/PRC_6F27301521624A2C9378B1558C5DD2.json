@@ -1,7 +1,7 @@
 {
   "billId": "PRC_6F27301521624A2C9378B1558C5DD2",
   "title": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "윤준병의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_6F27301521624A2C9378B1558C5DD2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }
