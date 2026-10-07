@@ -1,7 +1,7 @@
 {
   "billId": "PRC_E0BF388555884DB8B575E87EFF16C1",
   "title": "지방자치단체 보조금 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임호선의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E0BF388555884DB8B575E87EFF16C1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
