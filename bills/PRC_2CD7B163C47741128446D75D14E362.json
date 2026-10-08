@@ -1,7 +1,7 @@
 {
   "billId": "PRC_2CD7B163C47741128446D75D14E362",
   "title": "산업발전법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "김성원의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_2CD7B163C47741128446D75D14E362&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }
