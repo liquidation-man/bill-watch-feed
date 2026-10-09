@@ -1,25 +1,33 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제676호(2026년 9월 3주) - 양대 정당 대표 역할 수행 평가, 경제 전망 (9월 통합 포함) #당대표",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1659",
-  "period": "2026년 9월 셋째 주(15~17일)",
+  "reportTitle": "데일리 오피니언 제677호(2026년 10월 2주) - 분야별 정책 평가",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1661",
+  "period": "2026년 10월 둘째 주(6~8일)",
   "approval": {
     "approvePct": 37,
-    "disapprovePct": 56,
-    "undecidedPct": 7
+    "disapprovePct": 51,
+    "undecidedPct": 12
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 40
+        "pct": 35
       },
       {
         "name": "국민의힘",
-        "pct": 27
+        "pct": 26
+      },
+      {
+        "name": "조국혁신당",
+        "pct": 3
+      },
+      {
+        "name": "개혁신당",
+        "pct": 2
       }
     ],
-    "undecidedPct": 25
+    "undecidedPct": 31
   },
-  "fetchedAt": "2026-10-08T23:47:42.710Z"
+  "fetchedAt": "2026-10-09T06:10:27.328Z"
 }
