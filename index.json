@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:44:04.909Z",
+  "generatedAt": "2026-10-11T13:06:17.587Z",
   "items": [
     {
       "billId": "POLICY_148973210",
@@ -3387,6 +3387,17 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000286634",
+      "title": "과세가격 산출 시의 단수 계산방법에 관한 예규",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-06",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000286632",
       "title": "관세법 시행규칙 제49조 운용에 관한 예규",
       "stage": "제정",
@@ -3631,6 +3642,28 @@
     {
       "billId": "ADMRUL_2100000286572",
       "title": "유치 또는 예치된 휴대물품 보관에 관한 예규",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-06",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286570",
+      "title": "인양화물에 대한 사무취급에 관한 예규",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-06",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286568",
+      "title": "재수출조건 휴대 반입물품의 일시 출국 시 보세구역 보관에 관한 예규",
       "stage": "제정",
       "category": "개정",
       "administration": "이재명정부",
