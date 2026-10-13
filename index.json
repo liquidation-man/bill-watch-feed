@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-10-13T01:54:45.387Z",
+  "generatedAt": "2026-10-13T07:18:02.634Z",
   "items": [
+    {
+      "billId": "POLICY_148973396",
+      "title": "누리호 5차 발사 위성 9기, 모두 교신 성공…본격 임무 준비",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973391",
+      "title": "'통합돌봄 서비스 부족 시군구 59곳'…실태조사 첫 발표",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148973389",
+      "title": "미신고 불법 가상자산 취급 웹사이트 27곳 접속 차단…피해 예방",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
+      "billId": "POLICY_148973388",
+      "title": "IMF, 올해 한국 경제성장률 3.3% 전망…7월 대비 0.7%↑",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148973386",
+      "title": "모바일신분증, 은행 앱서도 이용…기업·신한·우리·하나 4곳",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148973385",
+      "title": "\"친일재산 끝까지 환수\"…법무부, 친일재산 환수 소송 1심 전부승소",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973384",
+      "title": "올해 쌀 6만 6000톤 초과 생산 전망…정부, 수확기 수급안정 추진",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148973342",
+      "title": "북극항로 시대를 열다…'팬스타 아크로호' 첫 왕복 시범운항 완료",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": [
+        "농업"
+      ]
+    },
     {
       "billId": "GWANBO_I0000000000000001791780305416000",
       "title": "법무부령제1130호(부패재산의 몰수 및 회복에 관한 특례법 시행규칙 일부개정령 중 정정)",
@@ -1294,6 +1378,15 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000286742",
+      "title": "군사기지 및 군사시설 보호구역 등 관리훈령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000286714",
       "title": "퇴직급여금 지급심의위원회 구성 및 운영에 관한 예규",
       "stage": "일부개정",
@@ -2306,6 +2399,115 @@
       "administration": "이재명정부",
       "date": "2026-10-12",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286844",
+      "title": "중대범죄수사청 공무원 행동강령",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286842",
+      "title": "중대범죄수사청 감찰규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286840",
+      "title": "중대범죄수사청 공무원 행동강령 운영지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286838",
+      "title": "중대범죄수사청 공무원의 범죄 및 비위 처리지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286796",
+      "title": "관세청장이 인정하는 원산지(포괄)확인서 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286790",
+      "title": "상수도소화설비의 화재안전기술기준(NFTC 401)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286788",
+      "title": "산업재해예방시설자금 융자금 지원사업 및 클린사업장 조성지원사업 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286780",
+      "title": "통계작성의 변경승인(협의) 고시(개인정보보호및활용조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286778",
+      "title": "통계작성의 변경승인(협의) 고시(소방산업통계조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286776",
+      "title": "통계작성의 변경승인(협의) 고시(아동종합실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286774",
+      "title": "통계작성의 작성승인(협의) 고시(영유아사교육비조사)",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": [
+        "통계"
+      ]
     },
     {
       "billId": "ADMRUL_2100000286708",
