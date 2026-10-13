@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-13T13:07:45.880Z",
+  "generatedAt": "2026-10-13T19:02:15.287Z",
   "items": [
+    {
+      "billId": "LAW_291203",
+      "title": "구직자 취업촉진 및 생활안정지원에 관한 법률 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291201",
+      "title": "공기업ㆍ준정부기관 계약사무규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "LAW_291199",
+      "title": "항만운송사업법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "LAW_291197",
+      "title": "근로복지기본법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": []
+    },
     {
       "billId": "POLICY_148973428",
       "title": "이 대통령 \"북극항로 시대 대비, 부산·동남권 미래 함께 열어가겠다\"",
@@ -2452,6 +2492,15 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000286846",
+      "title": "중대범죄수사청 감찰위원회 운영 규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000286844",
       "title": "중대범죄수사청 공무원 행동강령",
       "stage": "제정",
@@ -3674,6 +3723,28 @@
       "date": "2026-10-08",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286784",
+      "title": "통계작성의 변경승인(협의) 고시(대구광역시서구기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-08",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286782",
+      "title": "통계작성의 변경승인(협의) 고시(달성군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-08",
+      "tags": [
+        "통계"
       ]
     },
     {
