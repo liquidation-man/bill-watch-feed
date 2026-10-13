@@ -1,7 +1,7 @@
 {
   "billId": "PRC_EBAEC6C8640043C7B72787B9A4D380",
   "title": "공중방역수의사에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "이수진의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_EBAEC6C8640043C7B72787B9A4D380&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }
