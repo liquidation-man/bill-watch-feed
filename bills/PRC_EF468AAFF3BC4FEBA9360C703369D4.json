@@ -1,7 +1,7 @@
 {
   "billId": "PRC_EF468AAFF3BC4FEBA9360C703369D4",
   "title": "암관리법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "박용갑의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_EF468AAFF3BC4FEBA9360C703369D4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

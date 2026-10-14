@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3B48C0500DD34E7BBA963B50292C07",
   "title": "통합발전회사 설립 및 지원에 관한 특별법안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "최기상의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3B48C0500DD34E7BBA963B50292C07&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
