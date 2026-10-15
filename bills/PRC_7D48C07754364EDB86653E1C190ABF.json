@@ -1,7 +1,7 @@
 {
   "billId": "PRC_7D48C07754364EDB86653E1C190ABF",
   "title": "해양생태계의 보전 및 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "송옥주의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_7D48C07754364EDB86653E1C190ABF&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }
