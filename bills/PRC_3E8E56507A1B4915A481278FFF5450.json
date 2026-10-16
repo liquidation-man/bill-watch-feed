@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3E8E56507A1B4915A481278FFF5450",
   "title": "정당법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임문영의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3E8E56507A1B4915A481278FFF5450&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

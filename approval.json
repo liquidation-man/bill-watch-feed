@@ -1,22 +1,22 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제677호(2026년 10월 2주) - 분야별 정책 평가",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1661",
-  "period": "2026년 10월 둘째 주(6~8일)",
+  "reportTitle": "데일리 오피니언 제678호(2026년 10월 3주) - 내후년 국회의원선거 결과 기대, 정계 주요 인물별 호감 여부 #총선",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1662",
+  "period": "2026년 10월 셋째 주(13~15일)",
   "approval": {
-    "approvePct": 37,
-    "disapprovePct": 51,
-    "undecidedPct": 12
+    "approvePct": 39,
+    "disapprovePct": 52,
+    "undecidedPct": 9
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 35
+        "pct": 36
       },
       {
         "name": "국민의힘",
-        "pct": 26
+        "pct": 27
       },
       {
         "name": "조국혁신당",
@@ -27,7 +27,7 @@
         "pct": 2
       }
     ],
-    "undecidedPct": 31
+    "undecidedPct": 29
   },
-  "fetchedAt": "2026-10-15T18:57:30.998Z"
+  "fetchedAt": "2026-10-16T01:30:32.035Z"
 }
