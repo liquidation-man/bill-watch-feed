@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-10-16T07:11:08.198Z",
+  "generatedAt": "2026-10-16T13:06:26.137Z",
   "items": [
+    {
+      "billId": "POLICY_148973687",
+      "title": "이 대통령 \"부마·5·18 정신, 헌법 전문에\"…국회 개헌 논의 요청",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973686",
+      "title": "정부 \"우리 경제 견조한 경기회복세…민생부담·불확실성은 상존\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148973666",
+      "title": "가격·위약금 표시 위반 결혼 업체 17곳 적발…과태료 부과",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973658",
+      "title": "단풍철 국립공원 안전산행 비법?…체력에 맞는 탐방로 선택!",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973657",
+      "title": "연말까지 수도권 주택 21만 8000~23만 5000호 이상 착공",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "부동산"
+      ]
+    },
     {
       "billId": "POLICY_148973654",
       "title": "잘못 알려진 '공부 잘하는 약'…수능 앞두고 ADHD 치료제 집중 점검",
@@ -13,6 +62,15 @@
     {
       "billId": "POLICY_148973649",
       "title": "경찰, AI 조작물 정밀 탐지 시스템 구축…'AI 전문분석관' 전국 배치",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973648",
+      "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
       "stage": "정책뉴스",
       "category": "정책",
       "administration": "이재명정부",
@@ -44,6 +102,15 @@
       "title": "원자층 골라 바꿔 반도체 만든다…차세대 2D 반도체 제작기술 개발",
       "stage": "정책뉴스",
       "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001792135881311000",
+      "title": "산업통상부고시제2026-119호(석유판매가격의 최고액)",
+      "stage": "고시",
+      "category": "관보",
       "administration": "이재명정부",
       "date": "2026-10-16",
       "tags": []
@@ -1912,6 +1979,37 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287000",
+      "title": "국가인권위원회와 그 소속기관 직제 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286992",
+      "title": "2021년 4분기 손실보상 기준 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286990",
+      "title": "2021년 3분기 손실보상 기준 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000286954",
       "title": "자율기구 경찰개혁협력지원단 설치 및 운영에 관한 규정",
       "stage": "제정",
@@ -2945,6 +3043,28 @@
       "administration": "이재명정부",
       "date": "2026-10-14",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286996",
+      "title": "2022년 2분기 손실보상 기준 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286994",
+      "title": "2022년 1분기 손실보상 기준 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-14",
+      "tags": [
+        "산업"
+      ]
     },
     {
       "billId": "ADMRUL_2100000286956",
