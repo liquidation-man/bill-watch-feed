@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T07:02:59.207Z",
+  "generatedAt": "2026-10-17T13:00:20.808Z",
   "items": [
     {
       "billId": "POLICY_148973687",
@@ -2285,6 +2285,33 @@
     {
       "billId": "LAW_291397",
       "title": "군복 및 군용장구의 단속에 관한 법률 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2200000109377",
+      "title": "가족관계등록부의 재작성에 관한 사무처리지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2200000109351",
+      "title": "사망진단서에 다소의 차이가 있을 경우의 사무처리지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2200000109347",
+      "title": "한국인과 외국인 사이의 국제혼인 사무처리지침",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
