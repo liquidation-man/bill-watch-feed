@@ -1,7 +1,7 @@
 {
   "billId": "PRC_75E8355FA85245BEAEA6F83F88AB7F",
   "title": "야생생물 보호 및 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "박해철의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_75E8355FA85245BEAEA6F83F88AB7F&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

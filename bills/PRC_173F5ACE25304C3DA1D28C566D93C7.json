@@ -1,7 +1,7 @@
 {
   "billId": "PRC_173F5ACE25304C3DA1D28C566D93C7",
   "title": "용산공원 조성 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "김남근의원 등 13인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_173F5ACE25304C3DA1D28C566D93C7&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }

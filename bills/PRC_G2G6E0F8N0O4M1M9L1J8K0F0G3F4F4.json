@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2G6E0F8N0O4M1M9L1J8K0F0G3F4F4",
   "title": "건설산업기본법 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "박희승의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G6E0F8N0O4M1M9L1J8K0F0G3F4F4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }
