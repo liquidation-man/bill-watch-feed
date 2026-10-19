@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-10-19T07:25:09.922Z",
+  "generatedAt": "2026-10-19T13:08:36.237Z",
   "items": [
+    {
+      "billId": "POLICY_148973807",
+      "title": "이 대통령 \"AI 혜택 더 많은 사람에…불평등·격차 줄여야 지속 성장\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973781",
+      "title": "반도체 소부장기업에 2조 원 지원…상생 무역금융 출범",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973780",
+      "title": "부천 화재 순직 김진석 소방위, 국립서울현충원 충혼당 안장",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973772",
+      "title": "농식품부, 소셜미디어 가짜뉴스 엄정 대응…악의적 게시 법적 조치",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148973768",
+      "title": "'2026 한복문화주간'…국중박·경복궁 등 410여곳 체험·할인 행사",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "문화"
+      ]
+    },
     {
       "billId": "POLICY_148973765",
       "title": "복지 위기가구 19만 명 발굴·조사…생계위기 긴급 지원 체계 구축",
@@ -51,6 +100,17 @@
       "administration": "이재명정부",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "billId": "POLICY_148973758",
+      "title": "강남 3구 집값 상승 둔화…정부 \"공급 확대로 시장 안정 총력\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "POLICY_148973756",
@@ -669,6 +729,24 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287040",
+      "title": "국가정보자원관리원 발주 사업에 대한 제재부과 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287038",
+      "title": "공소청 사무분장 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000286946",
       "title": "외국인투자에 관한 규정",
       "stage": "일부개정",
@@ -711,6 +789,15 @@
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287048",
+      "title": "해양경찰교육원 학생생활규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-18",
       "tags": []
     },
     {
@@ -1764,6 +1851,117 @@
     {
       "billId": "LAW_291401",
       "title": "국유림의 경영 및 관리에 관한 법률 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287072",
+      "title": "통계작성의 변경승인(협의) 고시(전남광주통합특별시진도군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287042",
+      "title": "석유판매가격의 최고액",
+      "stage": "폐지제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287034",
+      "title": "(방송미디어통신위원회) 체납수입금정리위원회 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287032",
+      "title": "보건신기술(NET) 인증기술 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287030",
+      "title": "국립부곡병원 연구윤리심의위원회규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287028",
+      "title": "국립부곡병원 임상연구규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287022",
+      "title": "통계작성의 변경승인(협의) 고시(전국폐기물통계조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287018",
+      "title": "통계작성의 변경승인(협의) 고시(치안산업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286978",
+      "title": "대한민국 정부와 이스라엘 정부 간의 자유무역협정에 따른 협정관세가 적용되는 이스라엘 생산지역 및 확인 방법에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286974",
+      "title": "통계작성의 변경승인(협의) 고시(장애인경제활동실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000286972",
+      "title": "방송통신설비의 내진 시험방법",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -3031,6 +3229,15 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287008",
+      "title": "사연댐 안전성강화사업 실시계획",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287002",
       "title": "국가인권위원회 사무처 및 소속기관 업무분장에 관한 규정",
       "stage": "일부개정",
@@ -3096,6 +3303,17 @@
       "administration": "이재명정부",
       "date": "2026-10-15",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000286976",
+      "title": "통계작성의 변경승인(협의) 고시(보령시노인통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-15",
+      "tags": [
+        "통계"
+      ]
     },
     {
       "billId": "ADMRUL_2100000286970",
