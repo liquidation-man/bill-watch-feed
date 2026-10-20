@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-10-20T07:17:49.681Z",
+  "generatedAt": "2026-10-20T13:08:00.722Z",
   "items": [
+    {
+      "billId": "POLICY_148973974",
+      "title": "이 대통령, 3기 신도시 '인천 계양지구' 방문…주택공급 역량 집중 당부",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "POLICY_148973966",
+      "title": "프로야구 포스트시즌 '암표 의심자' 31명 수사 의뢰…7억 3000만 원 규모",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "POLICY_148973964",
+      "title": "내년부터 코스피·코스닥 전체 상장사에 정보보호 공시 의무화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148973954",
+      "title": "핼러윈 앞두고 10일간 '특별대책기간'…전국 28곳 인파 집중 관리",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148973952",
+      "title": "우수 민간구급차에 '인증마크' 부여…이송서비스 품질 평가",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "보건"
+      ]
+    },
     {
       "billId": "POLICY_148973950",
       "title": "지방우대지수 최초 마련…서울에서 멀수록 더 지원",
@@ -24,6 +77,15 @@
       ]
     },
     {
+      "billId": "POLICY_148973945",
+      "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
       "billId": "POLICY_148973944",
       "title": "해외 우수 한식당 5년간 1000곳으로 확대…지정제 개편·맞춤형 지원",
       "stage": "정책뉴스",
@@ -42,6 +104,17 @@
       "administration": "이재명정부",
       "date": "2026-10-20",
       "tags": []
+    },
+    {
+      "billId": "POLICY_148973936",
+      "title": "서울역 앞 동자동 쪽방촌 공공주택지구 지정…2150호 공급",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "POLICY_148973935",
@@ -1658,6 +1731,15 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000286898",
+      "title": "법교육 전문강사 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000284160",
       "title": "자율기구 문화전략담당관 설치 및 운영에 관한 규정",
       "stage": "일부개정",
@@ -2394,6 +2476,88 @@
       "administration": "이재명정부",
       "date": "2026-10-19",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287106",
+      "title": "민원처리기준표 일부개정고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287088",
+      "title": "전자정부 성과관리 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287086",
+      "title": "인구감소지역 및 인구감소관심지역 지정 고시",
+      "stage": "폐지제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287084",
+      "title": "병역의무자 국외여행 업무처리 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287082",
+      "title": "국립환경과학원 연구과제 관리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287062",
+      "title": "방송미디어통신위원회 소관 비상대비에 관한 법률 시행에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287058",
+      "title": "건강보험요양급여비용의 내역",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287056",
+      "title": "중소기업기술분쟁조정ㆍ중재 운영세칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "산업"
+      ]
     },
     {
       "billId": "ADMRUL_2100000287040",
@@ -3659,6 +3823,24 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287080",
+      "title": "중대범죄수사청 위임전결 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287078",
+      "title": "특허·실용신안 심사사무취급규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287072",
       "title": "통계작성의 변경승인(협의) 고시(전남광주통합특별시진도군기본통계)",
       "stage": "일부개정",
@@ -3668,6 +3850,15 @@
       "tags": [
         "통계"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287050",
+      "title": "카르텔 사건 형벌감면 신청 처리절차에 관한 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-16",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287042",
