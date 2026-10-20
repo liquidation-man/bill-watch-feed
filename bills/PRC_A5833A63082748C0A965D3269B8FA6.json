@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A5833A63082748C0A965D3269B8FA6",
   "title": "한국발전공사법안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "신정훈의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A5833A63082748C0A965D3269B8FA6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
