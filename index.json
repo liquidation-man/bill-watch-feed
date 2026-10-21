@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-10-21T01:34:58.040Z",
+  "generatedAt": "2026-10-21T07:24:32.586Z",
   "items": [
+    {
+      "billId": "POLICY_148974030",
+      "title": "닭고기 가공품 베트남 첫 수출…내년까지 70톤 공급",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974027",
+      "title": "이 대통령 \"관계성·무차별 범죄, 사후 대응서 사전 예방으로 대전환\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974026",
+      "title": "병무청, 병역판정검사 활용해 청년 정신건강 지원 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974021",
+      "title": "대구·경북 통합 지역성장펀드 출범…모펀드 1300억 원 결성",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "POLICY_148974017",
+      "title": "농지은행 임대수탁 신청 간소화…서류 없애고 처리시간 절반 단축",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148974015",
+      "title": "'AI 헬스케어 서울선언문' 발표…\"AI 혁신 혜택, 전 인류가 공평하게\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": [
+        "보건"
+      ]
+    },
     {
       "billId": "POLICY_148973663",
       "title": "600년 백토의 역사 천 개의 백자로 만나다",
@@ -15,6 +75,15 @@
       "title": "맛있게 건강 챙긴다, 스무디의 재발견",
       "stage": "정책뉴스",
       "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001792493572080000",
+      "title": "대통령령제36782호(정보통신공사업법 시행령 일부개정령)",
+      "stage": "대통령령",
+      "category": "관보",
       "administration": "이재명정부",
       "date": "2026-10-21",
       "tags": []
@@ -673,6 +742,24 @@
       "title": "국가기술표준원고시제2026-0354호((예)한국산업표준 제정 예고)",
       "stage": "고시",
       "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287156",
+      "title": "법무정책 홍보 우수 기관 및 공무원 포상 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287100",
+      "title": "환경친화적 자동차의 요건 등에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
       "administration": "이재명정부",
       "date": "2026-10-21",
       "tags": []
@@ -2416,6 +2503,17 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000287154",
+      "title": "중대범죄수사청수사관 인사 관련 권한 위임 규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000286898",
       "title": "법교육 전문강사 운영규정",
       "stage": "일부개정",
@@ -3353,6 +3451,15 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287150",
+      "title": "국립농업과학원 정보공개 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287106",
       "title": "민원처리기준표 일부개정고시",
       "stage": "일부개정",
@@ -3362,6 +3469,26 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287098",
+      "title": "문화유산 및 미술품 물납 심의에 관한 규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287096",
+      "title": "위조상품 신고포상금 지급규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-19",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287088",
