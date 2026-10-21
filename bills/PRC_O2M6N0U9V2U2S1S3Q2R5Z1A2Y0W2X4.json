@@ -1,7 +1,7 @@
 {
   "billId": "PRC_O2M6N0U9V2U2S1S3Q2R5Z1A2Y0W2X4",
   "title": "국가를 당사자로 하는 계약에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "재정경제기획위원회",
   "proposer": "김영환의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M6N0U9V2U2S1S3Q2R5Z1A2Y0W2X4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "세금"
+  ]
 }
