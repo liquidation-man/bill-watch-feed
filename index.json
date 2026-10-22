@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-22T07:12:29.260Z",
+  "generatedAt": "2026-10-22T13:06:21.582Z",
   "items": [
+    {
+      "billId": "POLICY_148974150",
+      "title": "정부, 양자·우주 등 '7대 SEED 프로젝트' 전략 수립 본격화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974147",
+      "title": "[정책 바로보기] 소방관 순직 재발방지 대책은?",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974145",
+      "title": "'핼러윈' 이태원·홍대 등 전국 인파밀집지역 28곳 안전관리 총력",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974140",
+      "title": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974123",
+      "title": "9월까지 누적 방한객 1711만 명…지난해 연간 1894만 명 돌파 눈앞",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": [
+        "문화"
+      ]
+    },
     {
       "billId": "POLICY_148974116",
       "title": "이 대통령, 초등학교 가을운동회 깜짝 방문…학생들과 소통의 시간",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974113",
+      "title": "과기부, 'PHP' 심각한 보안 취약점…'보안 업데이트' 즉시 적용",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974110",
+      "title": "지난해 공공기관 폭력예방교육 실시율 99.9%…부진기관 감소",
       "stage": "정책뉴스",
       "category": "정책",
       "administration": "이재명정부",
@@ -18,6 +83,17 @@
       "administration": "이재명정부",
       "date": "2026-10-22",
       "tags": []
+    },
+    {
+      "billId": "POLICY_148974106",
+      "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "POLICY_148974105",
@@ -1657,8 +1733,64 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287188",
+      "title": "소년사건 검사의 결정 전 조사 처리 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287184",
+      "title": "분류처우 업무지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287182",
+      "title": "분류센터 운영지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287180",
+      "title": "피보호감호자 분류처우 업무지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287178",
+      "title": "창업벤처규제혁신위원회 운영지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000287156",
       "title": "법무정책 홍보 우수 기관 및 공무원 포상 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287128",
+      "title": "목포항 예선의 대기장소에 관한 기준",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -3787,6 +3919,15 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287190",
+      "title": "법제처 정보화업무 기본지침",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-20",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287158",
