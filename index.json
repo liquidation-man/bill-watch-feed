@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-10-23T07:19:56.074Z",
+  "generatedAt": "2026-10-23T13:02:57.908Z",
   "items": [
+    {
+      "billId": "POLICY_148974228",
+      "title": "국방부, 북에 '군사당국회담' 제안…\"군사분계선 위치 확인 협의\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974225",
+      "title": "이 대통령 \"신산업 막는 낡은 규제 과감히 개선…필요한 규제는 강화\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974224",
+      "title": "부총리, 영등포 행복주택 방문…\"주거안정에 가용자원 집중 투입\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "부동산",
+        "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148974220",
+      "title": "[정책 바로보기] 정보보호 공시제도, 해킹 악용 우려?",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974219",
+      "title": "탄소중립 영향 선제 지원…'정의로운전환 특별지구' 지정 기준 마련",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974204",
+      "title": "첫 '한식의 날' 기념식…\"한식의 새로운 미래 선언\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974201",
+      "title": "경주·북한산·팔공산 국립공원 '야경 관광' 첫 선…한 달간 운영",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974200",
+      "title": "금융위, 여신전문금융사의 부동산·건설업 관련 대출한도 규제 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "부동산",
+        "금융"
+      ]
+    },
     {
       "billId": "POLICY_148974197",
       "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
@@ -11,6 +89,24 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "POLICY_148974194",
+      "title": "정부, '초광역특구법 제정' 추진…역대 최대 320여개 규제특례 담는다",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974193",
+      "title": "병역·출산 땐 창업지원 최대 5년 연장…행정서류 2756개 줄인다",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
     },
     {
       "billId": "POLICY_148974185",
@@ -885,6 +981,15 @@
     {
       "billId": "LAW_291289",
       "title": "출입국관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287200",
+      "title": "국립정신건강센터 연구개발사업 관리규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -1840,6 +1945,53 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287234",
+      "title": "감염병 신고를 위한 진단기준 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287232",
+      "title": "무선국 및 전파응용설비의 검사업무 처리기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287230",
+      "title": "항공위험물운송기술기준",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287228",
+      "title": "대구지방환경청 당직운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287206",
+      "title": "감염병의 예방 및 관리 업무 위탁에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-22",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287174",
@@ -2926,8 +3078,37 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287250",
+      "title": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터 및 지방세무관서 정원규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000287224",
       "title": "생활수준에 따른 지원에 관한 기준 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287214",
+      "title": "대통령기록물 복제본 관리 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287198",
+      "title": "공소청 청사관리 규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
