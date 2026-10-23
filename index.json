@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-23T01:44:13.138Z",
+  "generatedAt": "2026-10-23T07:19:56.074Z",
   "items": [
+    {
+      "billId": "POLICY_148974197",
+      "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148974185",
+      "title": "한성숙 총리 \"도심 내 가용부지 추가 발굴, 주택공급에 적극 활용\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "POLICY_148974183",
+      "title": "이 대통령 \"강력범죄, 사후 대응 넘어 사전 예방으로 대대적 전환해야\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974181",
+      "title": "개인정보위 \"PHP 보안 취약점 주의\"…개인정보 보호조치 당부",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
     {
       "billId": "POLICY_148973664",
       "title": "도둑 잡으려다 벌금 200만 원? 무인점포 절도, 어떻게 대응할까",
@@ -845,6 +885,55 @@
     {
       "billId": "LAW_291289",
       "title": "출입국관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287192",
+      "title": "신용정보업감독규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287152",
+      "title": "선불식 할부거래에서의 소비자보호 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287142",
+      "title": "초고층건축물등 총괄재난관리자 교육운영기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287140",
+      "title": "금융기관검사및제재에관한규정",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287124",
+      "title": "항공ㆍ철도사고조사위원회 운영규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -2812,6 +2901,24 @@
     {
       "billId": "LAW_291429",
       "title": "정보통신공사업법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2200000109387",
+      "title": "법관의 의원면직 제한에 관한 예규",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2200000109385",
+      "title": "법원공무원 징계양정 등에 관한 예규",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
