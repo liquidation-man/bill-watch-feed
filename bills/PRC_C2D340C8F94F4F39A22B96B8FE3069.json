@@ -12,6 +12,24 @@
       "date": "2026-10-21",
       "detail": "안상훈의원 등 11인 발의",
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D340C8F94F4F39A22B96B8FE3069&ageFrom=22&ageTo=22"
+    },
+    {
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D340C8F94F4F39A22B96B8FE3069&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
+    },
+    {
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "detail": "철회",
+      "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D340C8F94F4F39A22B96B8FE3069&ageFrom=22&ageTo=22",
+      "webcastUrl": "https://www.webcast.go.kr/"
     }
   ],
   "tags": [

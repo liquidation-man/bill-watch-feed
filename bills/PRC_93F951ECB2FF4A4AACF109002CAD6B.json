@@ -1,7 +1,7 @@
 {
   "billId": "PRC_93F951ECB2FF4A4AACF109002CAD6B",
   "title": "공공보건의료에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "김교흥의원 등 15인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_93F951ECB2FF4A4AACF109002CAD6B&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
