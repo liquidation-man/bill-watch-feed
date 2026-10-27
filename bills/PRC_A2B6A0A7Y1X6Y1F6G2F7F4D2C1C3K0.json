@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A2B6A0A7Y1X6Y1F6G2F7F4D2C1C3K0",
   "title": "노인복지법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "허종식의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6A0A7Y1X6Y1F6G2F7F4D2C1C3K0&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

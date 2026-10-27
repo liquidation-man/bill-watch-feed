@@ -1,7 +1,7 @@
 {
   "billId": "PRC_256ABCA24B8F4E8D8902F122D733A8",
   "title": "경찰관 직무집행법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "이상식의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_256ABCA24B8F4E8D8902F122D733A8&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

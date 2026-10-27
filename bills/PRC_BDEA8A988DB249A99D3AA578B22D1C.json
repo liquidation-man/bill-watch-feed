@@ -1,7 +1,7 @@
 {
   "billId": "PRC_BDEA8A988DB249A99D3AA578B22D1C",
   "title": "아동수당법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "허종식의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_BDEA8A988DB249A99D3AA578B22D1C&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3565AC15028E499EAC1BE9E2B7CF56",
   "title": "식품·의약품분야 시험·검사 등에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "허종식의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3565AC15028E499EAC1BE9E2B7CF56&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
