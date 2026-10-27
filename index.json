@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-27T07:14:39.957Z",
+  "generatedAt": "2026-10-27T13:08:13.227Z",
   "items": [
+    {
+      "billId": "POLICY_148974385",
+      "title": "'IAEA 원자력 장관회의' 한국서 첫 개최…\"글로벌 생산 거점 도약\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974368",
+      "title": "이태원참사 4주기…29일 광화문광장서 '기억식' 개최",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148974367",
+      "title": "대학 등록금 올리면 증액분 어디에 쓰나…등록금심의위가 확인",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
+    },
     {
       "billId": "POLICY_148974366",
       "title": "\"AI로 로드킬 막는다\"… 청주 국도 17호선에 시범 운영",
@@ -22,6 +51,26 @@
       ]
     },
     {
+      "billId": "POLICY_148974362",
+      "title": "외환위기 이후 투입된 공적자금 73.1% 회수…123.4조 원 규모",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
+      "billId": "POLICY_148974361",
+      "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
       "billId": "POLICY_148974360",
       "title": "금융위, 군부대 '찾아가는 재무상담소' 운영…1:1 맞춤형 재무상담",
       "stage": "정책뉴스",
@@ -40,6 +89,17 @@
       "administration": "이재명정부",
       "date": "2026-10-27",
       "tags": []
+    },
+    {
+      "billId": "POLICY_148974355",
+      "title": "'고흥 우주발사체' 국가산업단지 조성…2032년 준공",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "POLICY_148974354",
@@ -965,6 +1025,24 @@
       "tags": []
     },
     {
+      "billId": "LAW_291523",
+      "title": "헌법재판소 사무기구에 관한 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291521",
+      "title": "헌법재판소 기부심사위원회 규칙",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
+    },
+    {
       "billId": "LAW_291513",
       "title": "재외공관 무관주재령 시행규칙",
       "stage": "일부개정",
@@ -1135,6 +1213,15 @@
       "tags": [
         "농업"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287400",
+      "title": "재생에너지 설비의 지원 등에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-27",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287282",
@@ -2102,6 +2189,77 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287398",
+      "title": "(고준위 방사성폐기물 관리위원회) 사용후핵연료 저장·처분 안전성 확보를 위한 핵심기술개발사업 운영관리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287394",
+      "title": "관세청 감사에 관한 훈령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287338",
+      "title": "고령친화도시 지정 및 지원 등에 관한 고시",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287332",
+      "title": "개인정보보호위원회 적극행정 면책제도 운영 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287330",
+      "title": "국가유산수리업 등에 관한 관리지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287292",
+      "title": "관세청 공무국외출장등에 관한 훈령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287288",
+      "title": "사료검사기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-26",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000287246",
       "title": "보호관찰위원 운영규정",
       "stage": "일부개정",
@@ -2610,6 +2768,35 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-26",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287402",
+      "title": "항공기 등의 감항엔지니어 업무지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-25",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287340",
+      "title": "「수소경제 육성 및 수소 안전관리에 관한 법률의 운영에 관한 규정」",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-25",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287296",
+      "title": "「수소 안전관리기준 통합고시」",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-25",
       "tags": []
     },
     {
@@ -3592,6 +3779,15 @@
     {
       "billId": "LAW_291289",
       "title": "출입국관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-23",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287358",
+      "title": "국가보훈부 공무직 및 기간제근로자 관리규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
