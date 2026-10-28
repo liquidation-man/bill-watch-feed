@@ -1,7 +1,7 @@
 {
   "billId": "PRC_C78A0DBCBFB541C48092CDBCD37C5D",
   "title": "가사소송법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "허영의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C78A0DBCBFB541C48092CDBCD37C5D&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_DDDC0B9D24364EE0813A95D809D360",
   "title": "무형유산의 보전 및 진흥에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "이정문의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_DDDC0B9D24364EE0813A95D809D360&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }
