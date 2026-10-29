@@ -1,7 +1,7 @@
 {
   "billId": "PRC_FA78A322CFED4F9B9B0A1FC04B040C",
   "title": "장애인학대방지 및 피해장애인 권리구제 등에 관한 법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "서미화의원 등 16인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_FA78A322CFED4F9B9B0A1FC04B040C&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

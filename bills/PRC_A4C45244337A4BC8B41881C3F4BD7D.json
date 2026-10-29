@@ -1,7 +1,7 @@
 {
   "billId": "PRC_A4C45244337A4BC8B41881C3F4BD7D",
   "title": "가맹사업거래의 공정화에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "김용만의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A4C45244337A4BC8B41881C3F4BD7D&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }
