@@ -1,11 +1,93 @@
 {
-  "generatedAt": "2026-10-29T01:17:56.440Z",
+  "generatedAt": "2026-10-29T07:03:13.258Z",
   "items": [
+    {
+      "billId": "POLICY_148974546",
+      "title": "모든 사업장 '퇴직급여 사외적립' 의무화…2030년까지 단계 확대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974544",
+      "title": "K-제약바이오 프론티어기업 200개 육성…R&D·글로벌 진출 등 지원",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148974541",
+      "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "POLICY_148974537",
+      "title": "기초연금 온라인 신청 쉬워진다…서류 없어도 먼저 신청",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148974535",
+      "title": "'2027년 국가안전관리 집행계획' 확정…AI 재난관리·현장 대응 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148974531",
+      "title": "5월 인구감소지역 생활인구 3285만 명…상반기 최대 기록",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148974529",
+      "title": "이 대통령 \"다시는 국가 부재로 억울한 희생 없도록…진실 끝까지 밝힐 것\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": []
+    },
     {
       "billId": "POLICY_148974454",
       "title": "양육비 선지급제 소득기준 폐지 \"한부모가족 지원 대상 확대\"",
       "stage": "정책뉴스",
       "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793253051766000",
+      "title": "국토교통부공고제2026-1362호(토지거래허가구역 조정 공고)",
+      "stage": "공고",
+      "category": "관보",
       "administration": "이재명정부",
       "date": "2026-10-29",
       "tags": []
@@ -672,6 +754,48 @@
       "administration": "이재명정부",
       "date": "2026-10-29",
       "tags": []
+    },
+    {
+      "billId": "LAW_291551",
+      "title": "관광진흥법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "LAW_291527",
+      "title": "병역법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291525",
+      "title": "저작권법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287236",
+      "title": "자율기구 농업인공지능전환지원팀의 설치 및 운영에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "POLICY_148974483",
@@ -1487,6 +1611,73 @@
       "administration": "이재명정부",
       "date": "2026-10-28",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287480",
+      "title": "입건전조사사건 처리에 관한 규칙",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287476",
+      "title": "중대범죄수사청 보통징계위원회 운영 지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287472",
+      "title": "자동차압급기댐퍼의 성능인증 및 제품검사의 기술기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287470",
+      "title": "국가보훈부 법제업무 처리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287446",
+      "title": "비메모리반도체 범위에 관한 고시",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287444",
+      "title": "농림축산식품부 공무직 및 기간제근로자 등 공정채용 규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287440",
+      "title": "농림축산식품부 공무직 및 기간제근로자 등 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-28",
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "ADMRUL_2100000287428",
