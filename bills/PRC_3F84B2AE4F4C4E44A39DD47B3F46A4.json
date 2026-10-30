@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3F84B2AE4F4C4E44A39DD47B3F46A4",
   "title": "농수산물 유통 및 가격안정에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "농림축산식품해양수산위원회",
   "proposer": "이재관의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3F84B2AE4F4C4E44A39DD47B3F46A4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "농업"
+  ]
 }

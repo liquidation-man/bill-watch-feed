@@ -1,7 +1,7 @@
 {
   "billId": "PRC_Z2X6Y0W9X1T8T1S3Q2R8P4P8Y1Y2W3",
   "title": "장애인·노인·임산부 등의 편의증진 보장에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "김정재의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X6Y0W9X1T8T1S3Q2R8P4P8Y1Y2W3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_519C1D549437476E9664F82EAD0D9B",
   "title": "노인장기요양보험법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "이만희의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_519C1D549437476E9664F82EAD0D9B&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_CD174E58B4BC4F6591D118785A5B74",
   "title": "석유 및 석유대체연료 사업법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "권칠승의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_CD174E58B4BC4F6591D118785A5B74&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

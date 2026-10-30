@@ -1,22 +1,22 @@
 {
   "source": "한국갤럽",
-  "reportTitle": "데일리 오피니언 제679호(2026년 10월 4주) - 대법원장 탄핵, 경제, 국내 주가지수 전망&nbsp;",
-  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1663",
-  "period": "2026년 10월 넷째 주(20~22일)",
+  "reportTitle": "데일리 오피니언 제680호(2026년 10월 5주) - 오세훈 시장 정치자금법 2심 무죄 판결, 집값&middot;임대료 전망, 주택 정책 중점 방향, 재테크 방법 (10월 통합 포함)",
+  "reportUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1665",
+  "period": "2026년 10월 다섯째 주(27~29일)",
   "approval": {
-    "approvePct": 40,
-    "disapprovePct": 50,
-    "undecidedPct": 10
+    "approvePct": 39,
+    "disapprovePct": 49,
+    "undecidedPct": 12
   },
   "partySupport": {
     "parties": [
       {
         "name": "더불어민주당",
-        "pct": 37
+        "pct": 35
       },
       {
         "name": "국민의힘",
-        "pct": 28
+        "pct": 30
       },
       {
         "name": "조국혁신당",
@@ -27,7 +27,7 @@
         "pct": 2
       }
     ],
-    "undecidedPct": 27
+    "undecidedPct": 28
   },
-  "fetchedAt": "2026-10-29T18:54:59.545Z"
+  "fetchedAt": "2026-10-30T07:07:24.997Z"
 }
