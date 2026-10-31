@@ -1,7 +1,7 @@
 {
   "billId": "PRC_C959C9D73C4D4584A4CEECBB72AE87",
   "title": "디엔에이신원확인정보의 이용 및 보호에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "박형수의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C959C9D73C4D4584A4CEECBB72AE87&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_AA24DB5DE7C34410AA73C93816A437",
   "title": "평화경제특별구역의 지정 및 운영에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "허영의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_AA24DB5DE7C34410AA73C93816A437&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

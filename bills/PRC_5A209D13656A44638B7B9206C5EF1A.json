@@ -1,7 +1,7 @@
 {
   "billId": "PRC_5A209D13656A44638B7B9206C5EF1A",
   "title": "국제형사재판소 관할 범죄의 처벌 등에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "박형수의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_5A209D13656A44638B7B9206C5EF1A&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
