@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:09:39.554Z",
+  "generatedAt": "2026-10-31T07:00:08.029Z",
   "items": [
     {
       "billId": "POLICY_148974652",
@@ -2685,6 +2685,17 @@
     {
       "billId": "ADMRUL_2100000287490",
       "title": "통계작성의 변경승인(협의) 고시(통화금융통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-29",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287488",
+      "title": "통계작성의 변경 승인(협의) 고시(농업법인조사)",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
