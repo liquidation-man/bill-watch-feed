@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-02T01:13:04.007Z",
+  "generatedAt": "2026-11-02T07:07:37.394Z",
   "items": [
+    {
+      "billId": "POLICY_148974766",
+      "title": "[정책 바로보기] 제때 특별지원 못 받는 위기청소년?",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974760",
+      "title": "11월부터 미신고 숙박 중개 금지…전세사기 피해자 최소보장제 시행",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974757",
+      "title": "내년 장기요양 재가서비스 확대…1등급 방문요양 월 최대 48회",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148974754",
+      "title": "우리나라 수출 첫 9000억 달러 돌파…\"11월 중 1조 달성 확실시\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974746",
+      "title": "이 대통령 \"2027년 예산안은 성장확산 예산…'모두의 성장' 대전환\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974701",
+      "title": "난임치료휴가 유급 '2일→4일'로 확대…11월 달라지는 생활정책",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
     {
       "billId": "GWANBO_I0000000000000001793186838831000",
       "title": "형사보상결정공시(수원고등법원)",
@@ -680,6 +736,15 @@
       "title": "조약제2637호(대한민국과 보스니아헤르체고비나 간의 경제협력에 관한 협정)",
       "stage": "조약",
       "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287590",
+      "title": "법무보호위원 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
       "administration": "이재명정부",
       "date": "2026-11-02",
       "tags": []
@@ -1956,6 +2021,24 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000287668",
+      "title": "사회복무요원 소집업무 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287614",
+      "title": "재외동포청 위임전결규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287562",
       "title": "첨단재생의료 임상연구 및 첨단재생의료 치료 위험도 구분에 관한 고시",
       "stage": "제정",
@@ -1964,6 +2047,35 @@
       "date": "2026-10-30",
       "tags": [
         "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287540",
+      "title": "고위공무원단 인사규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287534",
+      "title": "기구 및 용기·포장의 기준 및 규격",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287526",
+      "title": "민자도로의 유지ㆍ관리 및 운영 기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": [
+        "교통"
       ]
     },
     {
