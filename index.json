@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-11-03T01:11:47.845Z",
+  "generatedAt": "2026-11-03T07:01:09.548Z",
   "items": [
+    {
+      "billId": "POLICY_148974885",
+      "title": "장애인전용주차구역 이용 대상 확대…가정위탁·주야간보호 포함",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148974880",
+      "title": "이 대통령 \"사이버보안, 사후 대응서 선제 예방으로…범정부 총괄기구 검토\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974879",
+      "title": "공시의무 반복 위반 가중 강화…3회 이상 땐 과태료 50%",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974877",
+      "title": "10월 소비자물가 2.8%↑, 상승폭 둔화…\"물가 관리에 역량 집중\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148974875",
+      "title": "가축전염병 보상금 상한 90%로…처분·이동제한 탄력 적용",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148974868",
+      "title": "김장재료 수급안정대책 발표…640억 원 투입, 최대 50% 할인",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
     {
       "billId": "GWANBO_I0000000000000001793326124633000",
       "title": "재정경제부공고제2026-267호(소득세법 시행령 일부개정령안 입법예고)",
@@ -791,6 +851,15 @@
       "billId": "LAW_291529",
       "title": "집행관규칙",
       "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287278",
+      "title": "청소년유해매체물(음반 및 음악파일) 고시",
+      "stage": "제정",
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-11-03",
@@ -3146,6 +3215,17 @@
       ]
     },
     {
+      "billId": "ADMRUL_2200000109417",
+      "title": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000287668",
       "title": "사회복무요원 소집업무 규정",
       "stage": "일부개정",
@@ -3175,6 +3255,15 @@
     {
       "billId": "ADMRUL_2100000287620",
       "title": "재외동포청의 영어명칭에 관한 예규",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287618",
+      "title": "우체국예금에 관한 사항",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
