@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-03T07:01:09.548Z",
+  "generatedAt": "2026-11-03T12:55:40.792Z",
   "items": [
+    {
+      "billId": "POLICY_148974932",
+      "title": "한-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 체결",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974930",
+      "title": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974922",
+      "title": "휴머노이드가 일하는 법 배우는 '데이터 생산기지' 국내 첫 개소",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974898",
+      "title": "불법사이트·대형화재·산불복구 등 현안에 R&D 예산 긴급 투입",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148974887",
+      "title": "생명·안전 규제 폐지·완화 때 심사 거쳐야…규제 합리화 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
     {
       "billId": "POLICY_148974885",
       "title": "장애인전용주차구역 이용 대상 확대…가정위탁·주야간보호 포함",
@@ -11,6 +56,15 @@
       "tags": [
         "보건"
       ]
+    },
+    {
+      "billId": "POLICY_148974881",
+      "title": "재취업지원서비스, 내년 7월부터 500인 이상 기업으로 확대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
     },
     {
       "billId": "POLICY_148974880",
@@ -39,6 +93,17 @@
       "date": "2026-11-03",
       "tags": [
         "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148974876",
+      "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "부동산"
       ]
     },
     {
@@ -850,6 +915,26 @@
     {
       "billId": "LAW_291529",
       "title": "집행관규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287678",
+      "title": "지방공무원 복무에 관한 예규",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287666",
+      "title": "심리치료 업무지침",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -1670,6 +1755,53 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287692",
+      "title": "병적증명서 발급 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287684",
+      "title": "개인위치정보사업 양수 및 법인의 합병 등의 인가 세부심사기준별 평가방법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287682",
+      "title": "개인위치정보사업등록 세부심사기준별 평가방법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287650",
+      "title": "항공기 등의 감항승인 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287648",
+      "title": "공정거래정책자문단 설치·운영에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287590",
       "title": "법무보호위원 운영규정",
       "stage": "일부개정",
@@ -1978,6 +2110,28 @@
       "administration": "이재명정부",
       "date": "2026-11-02",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287696",
+      "title": "2026년 적용 화물자동차 안전운송원가 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-01",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287694",
+      "title": "2026년 적용 화물자동차 안전운임 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-01",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "ADMRUL_2100000287438",
@@ -3226,6 +3380,26 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000287686",
+      "title": "지방자치단체 입찰시 낙찰자 결정기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287674",
+      "title": "특허ㆍ실용신안 우선심사의 신청에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287668",
       "title": "사회복무요원 소집업무 규정",
       "stage": "일부개정",
@@ -3237,6 +3411,15 @@
     {
       "billId": "ADMRUL_2100000287664",
       "title": "기후에너지환경부 소관 보조금 사업 위임사무",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-10-30",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287640",
+      "title": "한약(생약)제제 등의 품목허가·신고에 관한 규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
