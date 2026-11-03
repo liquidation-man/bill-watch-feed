@@ -1,6 +1,801 @@
 {
-  "generatedAt": "2026-11-02T18:51:20.219Z",
+  "generatedAt": "2026-11-03T01:11:47.845Z",
   "items": [
+    {
+      "billId": "GWANBO_I0000000000000001793326124633000",
+      "title": "재정경제부공고제2026-267호(소득세법 시행령 일부개정령안 입법예고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793263949892000",
+      "title": "경기도고양교육지원청공고제2026-326호(정보공개 청구에 따른 제3자 청구사실 통지 공시송달 공고)",
+      "stage": "지방자치단체",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793263063854000",
+      "title": "부산지방해양수산청고시제2026-215호(항로표지 현황변경(제주외항동방파제등대))",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793262339767000",
+      "title": "개인정보보호위원회공고제2026-143호(개인정보 보호위원회 직제 시행규칙 일부개정령안 입법예고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793261825488000",
+      "title": "기후에너지환경부고시제2026-278호(변산반도국립공원 고사포 자동차야영장 조성(3차) 공원사업시행계획 결정)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793261562208000",
+      "title": "기후에너지환경부고시제2026-277호(속리산국립공원 속리산 자연학습장 신축 공원사업시행계획 결정)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793261219583000",
+      "title": "산업통상부령제25호(외국인투자촉진법 시행규칙 일부개정령)",
+      "stage": "부령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793259860599000",
+      "title": "해양수산부공고제2026-1430호(수산생물질병관리법 시행규칙 일부개정령안 입법예고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793259464742000",
+      "title": "인천지방해양수산청고시제2026-168호(사설항로표지 기능복구)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793259146849000",
+      "title": "국방시설본부고시제2026-0282호(국방·군사시설사업 적합확인)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793259058344000",
+      "title": "국방시설본부고시제2026-0281호(국방·군사시설사업 적합확인)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793258941801000",
+      "title": "국방시설본부고시제2026-0280호(국방·군사시설사업 실시계획 승인)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793258022627000",
+      "title": "수도권서부환경본부공고제2026-6호(폐기물부담금 독촉고지서 반송에 따른 공시송달)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793257534309000",
+      "title": "법인해산명령신청공고(서울중앙지방법원)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793256563188000",
+      "title": "조달청공고제2026-542호(수요기관의 계약해지 요청 관련 의견조회 공시송달)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793254686475000",
+      "title": "금융위원회공고제2026-736호(「대부업 등의 등록 및 금융이용자 보호에 관한 법률」 위반자에 대한 과태료 부과통지(공시송달))",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793252119138000",
+      "title": "한강유역환경청고시제2026-346호(공공폐수처리시설 기본계획 통합 고시 일부개정)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793251163839000",
+      "title": "정선국유림관리소공고제2026-123호(산림분야 하천·계곡 불법행위 자진 신고 및 철거(복구) 대상지 행정대집행 2차 계고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793249694652000",
+      "title": "보건복지부공고제2026-823호(「장애인복지법 시행령」 일부개정령안 입법예고 중 정정)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793249004222000",
+      "title": "북부지방산림청고시제2026-17호(산림보호구역(제3종 수원함양보호구역) 지정해제 고시)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247982661000",
+      "title": "국방부공고제2026-497호(공시송달서(부정당업자로서 입찰참가자격 제한처분을 위한 사전의견청취))",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247463717000",
+      "title": "대통령령제36800호(청년 등의 사회진출 지원을 위한 실무경력 인정 확대에 관한 4개 법령의 일부개정에 관한 대통령령)",
+      "stage": "대통령령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247460883000",
+      "title": "대통령령제36799호(공항시설법 시행령 일부개정령)",
+      "stage": "대통령령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247456088000",
+      "title": "대통령령제36798호(부동산개발사업 관리 등에 관한 법률 시행령 일부개정령)",
+      "stage": "대통령령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247451145000",
+      "title": "대통령령제36797호(국가유산수리 등에 관한 법률 시행령 일부개정령)",
+      "stage": "대통령령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793247028636000",
+      "title": "대전지방국토관리청고시제2026-74호(도로구역 결정(변경) 고시)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793242751979000",
+      "title": "대전출입국.외국인사무소고시제2026-0046호(인지에 의한 국적취득)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793238220302000",
+      "title": "서울지방식품의약품안전청공고제2026-193호(화장품법 위반업체 행정처분 통지 공고[렉시, 구 렉시코리아])",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793238209159000",
+      "title": "부산대학교공고제2026-84호(관인(공인)등록)",
+      "stage": "기타",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793236662835000",
+      "title": "부산지방해양수산청공고제2026-178호(「해양환경관리법」 위반 과태료 납부 독촉 및 중가산금 부과 알림 공시송달 공고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793234765860000",
+      "title": "경인지방식품의약품안전청공고제2026-156호(수입식품안전관리 특별법 위반업체 과태료 처분 사전통지 공고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793234673385000",
+      "title": "과학기술정보통신부공고제2026-1044호(구축형연구개발사업 심사 운용지침 일부개정안 행정예고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793234651430000",
+      "title": "국토교통부공고제2026-1368호(도시재생 전문인력 양성기관 추가 지정 공고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793233595700000",
+      "title": "경북대학교공고제2026-10호(관인(공인)등록)",
+      "stage": "기타",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793233359984000",
+      "title": "기후에너지환경부공고제2026-990호(2025년 전국 물환경 목표기준 평가결과)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793229346609000",
+      "title": "서울출입국.외국인청고시제2026-102호(국적상실신고)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793179549583000",
+      "title": "서울지방국토관리청고시제2026-51호(도로구역 결정(변경) 및 지형도면 (변경) 고시(국도37호선 가평 설악 신천교차로 병목지점 개선공사) 중 정정)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793176082513000",
+      "title": "해양수산부령제834호(항만법 시행규칙 일부개정령)",
+      "stage": "부령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793171385049000",
+      "title": "북부지방산림청공고제2026-155호(산림보호구역(제3종 수원함양보호구역) 지정해제 예정지 공고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793169741810000",
+      "title": "외교부공고제2026-176호(비영리민간단체 등록증변경)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793167976846000",
+      "title": "국가기술표준원고시제2026-0388호(한국산업표준 제정(KSCIEC63403-2 등 2종))",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793166851879000",
+      "title": "금강유역환경청공고제2026-115호(하천구역 내 불법 행위 행정대집행 영장 공시송달)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793151495361000",
+      "title": "서울전파관리소공고제2026-97호(기간통신사업 등록조건)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793151354312000",
+      "title": "해양경찰청공고제2026-137호(미수납 채권 독촉장 반송에 따른 공시송달)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793149564330000",
+      "title": "기후에너지환경부령제66호(소음ㆍ진동관리법 시행규칙 일부개정령)",
+      "stage": "부령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793148325035000",
+      "title": "기후에너지환경부령제65호(인공조명에 의한 빛공해 방지법 시행규칙 일부개정령)",
+      "stage": "부령",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793147228336000",
+      "title": "국토교통부공고제2026-1363호(건설신기술 지정 신청(2833))",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793095943846000",
+      "title": "'세계표준 및 품질경영 유공' 정부포상 수여 (산업통상부)",
+      "stage": "상훈",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793080113231000",
+      "title": "서울남부출입국.외국인사무소고시제2026-63호(국적상실)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793079503473000",
+      "title": "서울남부출입국.외국인사무소고시제2026-61호(국적상실)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793078962908000",
+      "title": "서울남부출입국.외국인사무소고시제2026-60호(국적상실)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793078286803000",
+      "title": "대법원규칙제3300호(공직자윤리법의 시행에 관한 대법원규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793078067459000",
+      "title": "대법원규칙제3299호(판사가 아닌 재판연구관에 관한 규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077908704000",
+      "title": "대법원규칙제3298호(부동산등기규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077807374000",
+      "title": "대법원규칙제3297호(법무사규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077679819000",
+      "title": "대법원규칙제3296호(집행관규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077512486000",
+      "title": "대법원규칙제3295호(공탁규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077402339000",
+      "title": "대법원규칙제3294호(동산ㆍ채권의 담보등기 등에 관한 규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077285492000",
+      "title": "대법원규칙제3293호(상업등기규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077168214000",
+      "title": "대법원규칙제3292호(소년심판규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793077019358000",
+      "title": "대법원규칙제3291호(아동보호심판규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793076903899000",
+      "title": "대법원규칙제3290호(가정보호심판규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793076778890000",
+      "title": "대법원규칙제3289호(민사소송 등에서의 전자문서 이용 등에 관한 규칙 일부개정규칙)",
+      "stage": "법원",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001793062827483000",
+      "title": "금강홍수통제소고시제2026-41호(하천수 사용허가(변경 및 기간연장))",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001792967470021000",
+      "title": "서부지방산림청공고제2026-136호(산림보호구역 지정예정지 공고)",
+      "stage": "공고",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001792721870760000",
+      "title": "국가기술표준원고시제2026-0386호(한국산업표준 확인 고시)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "GWANBO_I0000000000000001792721787826000",
+      "title": "성평등가족부고시제2026-42호(청소년유해매체물(음반 및 음악파일) 고시)",
+      "stage": "고시",
+      "category": "관보",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291655",
+      "title": "소음ㆍ진동관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291619",
+      "title": "외국인투자 촉진법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291615",
+      "title": "인공조명에 의한 빛공해 방지법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291581",
+      "title": "공탁규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291579",
+      "title": "상업등기규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291577",
+      "title": "아동보호심판규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291575",
+      "title": "가정보호심판규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291561",
+      "title": "동산ㆍ채권의 담보등기 등에 관한 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291559",
+      "title": "소년심판규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291557",
+      "title": "판사가 아닌 재판연구관에 관한 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291555",
+      "title": "부동산등기규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "LAW_291553",
+      "title": "법무사규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291549",
+      "title": "학교 밖 청소년 지원에 관한 법률 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291547",
+      "title": "소음ㆍ진동관리법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291545",
+      "title": "농림수산식품투자조합 결성 및 운용에 관한 법률 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "LAW_291543",
+      "title": "군인의 지위 및 복무에 관한 기본법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291539",
+      "title": "공항시설법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAW_291533",
+      "title": "민사소송 등에서의 전자문서 이용 등에 관한 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291531",
+      "title": "공직자윤리법의 시행에 관한 대법원규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291529",
+      "title": "집행관규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-03",
+      "tags": []
+    },
     {
       "billId": "POLICY_148974819",
       "title": "국가 슈퍼컴 6호기 '한강' 본격 가동…연산성능 24배↑",
@@ -846,6 +1641,271 @@
       "title": "피치료감호자 분류 및 처우관리준칙",
       "stage": "일부개정",
       "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_T2U6T0O9P0N8N1M4N4L5L0U0S4S6Q8",
+      "title": "인공지능 및 데이터 기반 행정 활성화에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2M6N0D8B2C8A1B6Z3A9H3G3H8F7F8",
+      "title": "음악산업진흥에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_G2F6D0E9C1C6L1L5J0K6J1H5H2P7Q2",
+      "title": "한국해양과학기술원법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_G2E6F0E3M1L9J1K6P2N7O0N4V8U7S9",
+      "title": "집합건물의 소유 및 관리에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E3C58D5B149E4817AC479773A483FF",
+      "title": "생명공학육성법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_DAFD5F622B8743A59B540D3A040E63",
+      "title": "즉결심판에 관한 절차법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D5B89317CEDA4EE9A6CF1372B102CB",
+      "title": "양성평등기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2E6C0B9B2Z1A1I7J1H7H1G5G4F3T8",
+      "title": "특별감찰관법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_CECEA288D5FC416E9056CBD4B54511",
+      "title": "조세특례제한법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "PRC_C8756565EFB043F683575F6817938C",
+      "title": "환자기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_BD0FB67AAEB145B6AE7C7817FDDF45",
+      "title": "공익법무관에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_BC41BCAEA1C64683BD5E8EA79B6575",
+      "title": "집합건물의 소유 및 관리에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B13249EE9E27483E96C9B12CAB06A4",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_A2Y6Z0Y4Y2G1F1F0D4E8D3D2L3L1J1",
+      "title": "국민건강보험법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_9FABDAF66B724B40835153C4290125",
+      "title": "제대군인지원에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_974F5E9BB1444132804E4850332AD9",
+      "title": "조세특례제한법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "PRC_8107517D822D47B2B57FBFA2672612",
+      "title": "금융소비자 보호에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_7906DF42426E4182B232FD7071515E",
+      "title": "가족관계의 등록 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_76906B05D9BF477899FAD1D984D4DD",
+      "title": "기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_72908590D19448ED8CEA83FBA23616",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_5F25976A2C1740D4B570ED9F4B7216",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_541FEA35A8B645CBA722DDFBFE046D",
+      "title": "중재법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_4C70B37B0CAD4B608397DA4982D1CF",
+      "title": "공소청법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_490A14FACC0D4547A962BB98F30F57",
+      "title": "공무원범죄에 관한 몰수 특례법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_3F65E871A6874156932819F950AA73",
+      "title": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_39D3FD59FBE349719AA52EF1D130A9",
+      "title": "질서위반행위규제법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_34BE896598F24F87B68005E4C38211",
+      "title": "공익법인의 설립·운영에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_13D13E5C1AC146229BE09AA0DE44EB",
+      "title": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "billId": "PRC_05C21C79DDEF489ABF677F6AA6B937",
+      "title": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-02",
       "tags": []
@@ -2273,7 +3333,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_X2V5V0D8E2D6D1C5A0A8I2J7H6I2G6",
@@ -2282,7 +3344,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_V2U6K0I6H2U9U1T0S0A2Y5Z7Y5W9E4",
@@ -2291,7 +3355,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_F43EF0B230B2431E97A35E7C687001",
@@ -2300,7 +3366,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "PRC_ECE07F5DB5F343059B4AAA475885AE",
@@ -2318,7 +3386,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "PRC_CEBC1B984C1D4665B67880ED3BBB5D",
@@ -2327,7 +3397,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_CA8E341DA61C4FE5BF373775C80CE1",
@@ -2345,7 +3417,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "PRC_C2B5Z0A8J2H6G1E5A0Z8A5Y1X2F3E5",
@@ -2372,7 +3446,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_AFF8B7B69CE54654A6E58AB7C83389",
@@ -2381,7 +3457,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "PRC_AA22E0102B4B47FA98B8FB7EE74413",
@@ -2390,7 +3468,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "PRC_99B4494990E346C7ABB3A39BBB9EE7",
@@ -2435,7 +3515,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_7CA041118D014FA9973A3B4EEDD062",
@@ -2464,7 +3546,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "부동산"
+      ]
     },
     {
       "billId": "PRC_6C717AA1415042B4A7E6505585937A",
@@ -2473,7 +3557,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_68C9CBB5CE014804B9D9EE69A0549A",
@@ -2491,7 +3577,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "세금"
+      ]
     },
     {
       "billId": "PRC_6149BC44A8C34883BFFB0F8BFAF521",
@@ -2518,7 +3606,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "산업"
+      ]
     },
     {
       "billId": "PRC_550BFF2ED6144D21A393107B85DAE1",
@@ -2527,7 +3617,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_4C0B3241FCE5475A993619E4A83CAE",
@@ -2556,7 +3648,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_2B0ABEE59FD64281A353C804E10E48",
@@ -2565,7 +3659,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_29745ACE159F4081B26AE5B9E2AECE",
@@ -2574,7 +3670,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_28C5662B6BFC4229A3F4DAAFBA1562",
@@ -2601,7 +3699,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_1B77781CA8184AEB9770A369EE5FB9",
@@ -2619,7 +3719,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_14C22952E31745698689A63C67152C",
@@ -2646,7 +3748,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-10-30",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "POLICY_148974588",
