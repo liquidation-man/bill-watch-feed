@@ -1,7 +1,7 @@
 {
   "billId": "PRC_BD0FB67AAEB145B6AE7C7817FDDF45",
   "title": "공익법무관에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "서영교의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_BD0FB67AAEB145B6AE7C7817FDDF45&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

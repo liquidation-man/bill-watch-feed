@@ -1,7 +1,7 @@
 {
   "billId": "PRC_G2E6F0E3M1L9J1K6P2N7O0N4V8U7S9",
   "title": "집합건물의 소유 및 관리에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "최수진의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E6F0E3M1L9J1K6P2N7O0N4V8U7S9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
