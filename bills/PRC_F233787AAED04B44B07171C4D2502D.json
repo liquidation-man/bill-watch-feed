@@ -1,7 +1,7 @@
 {
   "billId": "PRC_F233787AAED04B44B07171C4D2502D",
   "title": "헌법재판소법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "주진우의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F233787AAED04B44B07171C4D2502D&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

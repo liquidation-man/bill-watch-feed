@@ -1,7 +1,7 @@
 {
   "billId": "PRC_BD17E43F2A62404C8DA439110432ED",
   "title": "공장 및 광업재단 저당법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "김의겸의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_BD17E43F2A62404C8DA439110432ED&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

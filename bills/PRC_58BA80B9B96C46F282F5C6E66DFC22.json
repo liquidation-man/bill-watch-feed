@@ -1,7 +1,7 @@
 {
   "billId": "PRC_58BA80B9B96C46F282F5C6E66DFC22",
   "title": "전자어음의 발행 및 유통에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "박은정의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_58BA80B9B96C46F282F5C6E66DFC22&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

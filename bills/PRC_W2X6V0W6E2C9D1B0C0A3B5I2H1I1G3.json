@@ -1,7 +1,7 @@
 {
   "billId": "PRC_W2X6V0W6E2C9D1B0C0A3B5I2H1I1G3",
   "title": "형의 집행 및 수용자의 처우에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "최혁진의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2X6V0W6E2C9D1B0C0A3B5I2H1I1G3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
