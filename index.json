@@ -1,6 +1,73 @@
 {
-  "generatedAt": "2026-11-06T01:17:03.014Z",
+  "generatedAt": "2026-11-06T07:08:45.310Z",
   "items": [
+    {
+      "billId": "POLICY_148975202",
+      "title": "고혈압·당뇨병 등 '만성질환 통합관리센터' 전국 단계적 확대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975200",
+      "title": "AI 시대 '스스로 선택할 힘' 키운다…'인문문화축제' 개막",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "POLICY_148975199",
+      "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975198",
+      "title": "이 대통령 \"한·동티모르 협력 확대…미래 위한 동행으로 발전\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975196",
+      "title": "국산 사료첨가제 브라질 첫 수출…양국 정부 간 협력 결실",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148975195",
+      "title": "'단원고 4.16 아카이브' 유네스코 아태목록 등재",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975187",
+      "title": "이형일 부총리 \"미 중간선거 이후 시장 변동성에 선제 대응\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
     {
       "billId": "POLICY_148974973",
       "title": "\"이걸 우리가 만들었어?\"…KF-21 첫 조종사들이 말하는 '보라매'",
@@ -1436,6 +1503,17 @@
       ]
     },
     {
+      "billId": "LAW_291645",
+      "title": "기후에너지환경부와 그 소속기관 직제",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
       "billId": "LAW_291643",
       "title": "무역위원회직제",
       "stage": "타법개정",
@@ -1502,6 +1580,86 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000287826",
+      "title": "고용노동부와 그 소속기관 위임전결규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287782",
+      "title": "비행절차설계요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287778",
+      "title": "자율기구 \"소속특수법인설립추진단\" 설치 및 운영에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287776",
+      "title": "중국 및 대만산 고체 수산화나트륨에 대한 잠정덤핑방지관세 부과",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287750",
+      "title": "무역위원회 직제운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287646",
+      "title": "지방자치단체 입찰 및 계약집행기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287634",
+      "title": "고용노동부 공무원 정원배정표",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287592",
+      "title": "가석방 업무지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": []
     },
     {
       "billId": "POLICY_148975150",
