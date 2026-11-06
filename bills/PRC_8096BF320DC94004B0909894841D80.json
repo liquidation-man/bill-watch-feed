@@ -1,7 +1,7 @@
 {
   "billId": "PRC_8096BF320DC94004B0909894841D80",
   "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "조지연의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_8096BF320DC94004B0909894841D80&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

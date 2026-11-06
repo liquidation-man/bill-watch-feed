@@ -1,7 +1,7 @@
 {
   "billId": "PRC_8EFAA17A38504361967BDF0FD887CE",
   "title": "의용소방대 설치 및 운영에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "권영진의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_8EFAA17A38504361967BDF0FD887CE&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_FFC6D3CE9F1F4614B9D23F1F1EAFB2",
   "title": "공익신고자 보호법 일부개정법률안",
-  "committee": "",
+  "committee": "정무위원회",
   "proposer": "박성훈의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_FFC6D3CE9F1F4614B9D23F1F1EAFB2&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "금융"
+  ]
 }
