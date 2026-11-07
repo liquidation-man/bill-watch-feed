@@ -1,7 +1,7 @@
 {
   "billId": "PRC_45A56BBD83E1439580F59DCD95F7B9",
   "title": "남북협력기금법 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "정청래의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_45A56BBD83E1439580F59DCD95F7B9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

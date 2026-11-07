@@ -1,7 +1,7 @@
 {
   "billId": "PRC_9A63B4AA4C6647CABDAFAB67810C6C",
   "title": "출입국관리법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "손솔의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_9A63B4AA4C6647CABDAFAB67810C6C&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
