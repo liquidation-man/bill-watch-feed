@@ -1,7 +1,7 @@
 {
   "billId": "PRC_6EDF59CD992B4E38B50A0278198278",
   "title": "공공단체등 위탁선거에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "김미애의원 등 37인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_6EDF59CD992B4E38B50A0278198278&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }
