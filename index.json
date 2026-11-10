@@ -1,6 +1,109 @@
 {
-  "generatedAt": "2026-11-10T07:10:31.436Z",
+  "generatedAt": "2026-11-10T18:52:41.024Z",
   "items": [
+    {
+      "billId": "LAW_291907",
+      "title": "해양재난구조대의 설치 및 운영에 관한 법률 시행규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291905",
+      "title": "해양경찰청 소속 경찰공무원 특수지근무수당 지급규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291903",
+      "title": "해양경찰청과 그 소속기관 직제 시행규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291901",
+      "title": "수상에서의 수색ㆍ구조 등에 관한 법률 시행규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "LAW_291899",
+      "title": "수상레저안전법 시행규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975419",
+      "title": "24시간 '제설대응체계' 가동…\"겨울철 도로안전 빈틈없이\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "POLICY_148975396",
+      "title": "지식재산 거래정보 한곳에…내년 '통합 플랫폼' 새로 구축",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975389",
+      "title": "에너지바우처 끊긴 2만 5000가구, 정부가 찾아 재신청 돕는다",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975387",
+      "title": "겨울철 144만 가구에 에너지바우처 지급…위기가구 40만 명 발굴",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "POLICY_148975385",
+      "title": "성착취물 탐지에 AI 도입했더니…삭제 지원 9.7배 늘어",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975379",
+      "title": "초광역특구에 320여 개 규제특례…지역주도 성장 지원",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
     {
       "billId": "POLICY_148975374",
       "title": "'빚 때문에 생명 포기하지 않게'…자살예방-채무상담 연계 지원",
@@ -15,6 +118,15 @@
     {
       "billId": "POLICY_148975373",
       "title": "11일은 유엔참전용사 국제추모의 날…\"11시, 부산 향해 묵념\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975370",
+      "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정",
       "stage": "정책뉴스",
       "category": "정책",
       "administration": "이재명정부",
@@ -1143,6 +1255,15 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287974",
+      "title": "해외진출기업의 국내복귀 지원에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000287792",
       "title": "지방자치단체 출자·출연기관 지정 고시",
       "stage": "일부개정",
@@ -1904,8 +2025,82 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000287984",
+      "title": "기관생명윤리위원회 평가·인증 절차 및 방법 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000287976",
       "title": "패키지시설사업 관리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287964",
+      "title": "국가첨단전략산업 특성화대학 등 지정 및 지원에 관한 운영지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287962",
+      "title": "석면해체작업감리인 평가 등에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287960",
+      "title": "대체복무요원 교육규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287958",
+      "title": "육상 항공기 수색·구조 계획",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287902",
+      "title": "중소 소프트웨어사업자의 사업 참여 지원에 관한 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287898",
+      "title": "대체역 복무관리 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287896",
+      "title": "육상 항공수색구조 안전감독관 운영 규칙",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -2279,6 +2474,26 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000287996",
+      "title": "항공종사자 등 전문교육기관 지정 및 감독요령",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-08",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287990",
+      "title": "자율기구 산림재난피해임업현장지원단의 설치 및 운영에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-07",
       "tags": []
     },
     {
@@ -3917,6 +4132,17 @@
       "date": "2026-11-06",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000287986",
+      "title": "어업의 손실액 조사기관 지정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-06",
+      "tags": [
+        "농업"
       ]
     },
     {
