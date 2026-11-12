@@ -1,7 +1,7 @@
 {
   "billId": "PRC_552DA4F1C80A4C278AFA65F9E6867B",
   "title": "근로기준법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "이용우의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_552DA4F1C80A4C278AFA65F9E6867B&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

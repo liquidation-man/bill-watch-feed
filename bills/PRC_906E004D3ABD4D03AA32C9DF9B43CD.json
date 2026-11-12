@@ -1,7 +1,7 @@
 {
   "billId": "PRC_906E004D3ABD4D03AA32C9DF9B43CD",
   "title": "간선급행버스체계의 건설 및 운영에 관한 특별법 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "정동만의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_906E004D3ABD4D03AA32C9DF9B43CD&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }

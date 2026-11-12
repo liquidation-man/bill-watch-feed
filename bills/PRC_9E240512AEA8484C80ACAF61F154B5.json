@@ -1,7 +1,7 @@
 {
   "billId": "PRC_9E240512AEA8484C80ACAF61F154B5",
   "title": "이동로봇의 상용화 지원 및 안전관리에 관한 특별법안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "정동만의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_9E240512AEA8484C80ACAF61F154B5&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }
