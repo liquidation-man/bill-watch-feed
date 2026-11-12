@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-12T07:04:50.540Z",
+  "generatedAt": "2026-11-12T12:59:49.514Z",
   "items": [
+    {
+      "billId": "POLICY_148975614",
+      "title": "이 대통령 \"자본시장 개혁 속도…지방이 국가경제 발전의 주역 돼야\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975598",
+      "title": "이 대통령, 아세안·APEC 정상회의 참석…AI·공급망 등 협력 제안",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975590",
+      "title": "충청권 메가프로젝트 첫 삽…8대 앵커기업 투자 가속",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
     {
       "billId": "POLICY_148975587",
       "title": "자율주행차·로봇 등 탑재 AI칩 10종, 2030년까지 개발",
@@ -20,6 +47,46 @@
       "tags": []
     },
     {
+      "billId": "POLICY_148975583",
+      "title": "국방 분야 혁신제품 6개 최초 지정…민간 기술 적극 활용",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975582",
+      "title": "은행지주 CEO 연임 문턱 높인다…주총 의결요건 단계 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
+      "billId": "POLICY_148975580",
+      "title": "공공재개발 사업 수수료 3%→1%로 인하…약 130억 원 부담 ↓",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "부동산"
+      ]
+    },
+    {
+      "billId": "POLICY_148975578",
+      "title": "이 대통령 \"메가프로젝트, '모두의 성장'으로 완성되도록 역량 집중\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
       "billId": "POLICY_148975576",
       "title": "방한객 사상 첫 2000만 돌파…\"14년 만에 두 배\" 관광 새 역사",
       "stage": "정책뉴스",
@@ -29,6 +96,15 @@
       "tags": [
         "문화"
       ]
+    },
+    {
+      "billId": "POLICY_148975571",
+      "title": "국민이 직접 오류 찾아낸다…'AI 안전 지킴이' 출범",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
     },
     {
       "billId": "POLICY_148975563",
@@ -1735,6 +1811,77 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000288112",
+      "title": "국가정보자원관리원 정보자산 관리지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288108",
+      "title": "가축전염병 방역협의회 운영 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288106",
+      "title": "직업상담원 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288086",
+      "title": "내항화물운송사업자 유가보조금 지급지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288076",
+      "title": "국토교통부 인사관리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288060",
+      "title": "경제교육에 관한 업무 위탁기관 지정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288058",
+      "title": "특허ㆍ실용신안 우선심사의 신청에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000288034",
       "title": "자율기구 하천계곡불법시설정비지원단 설치 및 운영에 관한 규정",
       "stage": "일부개정",
@@ -1744,6 +1891,24 @@
       "tags": [
         "행정"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000288022",
+      "title": "(방위사업청) 적극행정공무원의 징계절차에서의 소명 또는 소송 등에 관한 지원 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288020",
+      "title": "국립환경과학원 배출영향분석 검토 및 처리 등에 관한 규정",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-11",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000287994",
@@ -3874,6 +4039,15 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000288104",
+      "title": "도로명주소 연계 우편번호 조정 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000288078",
       "title": "평화·통일·민주시민교육연구센터 운영 예규",
       "stage": "일부개정",
@@ -3899,6 +4073,35 @@
       "administration": "이재명정부",
       "date": "2026-11-10",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288070",
+      "title": "중대범죄수사청 보안업무규정 시행세칙",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288064",
+      "title": "저장시설·운송수단 등에 대한 검역 및 관리기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288062",
+      "title": "재외공관장 통합성과평가 지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-10",
+      "tags": [
+        "외교"
+      ]
     },
     {
       "billId": "ADMRUL_2100000288054",
