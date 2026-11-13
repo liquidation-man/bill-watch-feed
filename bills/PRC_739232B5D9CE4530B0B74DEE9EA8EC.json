@@ -1,7 +1,7 @@
 {
   "billId": "PRC_739232B5D9CE4530B0B74DEE9EA8EC",
   "title": "감사원법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "김미애의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_739232B5D9CE4530B0B74DEE9EA8EC&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }

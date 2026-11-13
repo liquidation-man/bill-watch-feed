@@ -1,7 +1,7 @@
 {
   "billId": "PRC_22CABFD9A5354D1E92A0A09D2DB65D",
   "title": "노인복지법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "남인순의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_22CABFD9A5354D1E92A0A09D2DB65D&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }
