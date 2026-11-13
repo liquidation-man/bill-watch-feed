@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-11-13T01:18:13.703Z",
+  "generatedAt": "2026-11-13T07:04:26.346Z",
   "items": [
+    {
+      "billId": "POLICY_148975680",
+      "title": "직장인 생활비 줄이고 가처분소득 늘린다…'월급방위대 TF' 가동",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "POLICY_148975675",
+      "title": "\"새벽 옥외작업 시 주의\"…한파 취약사업장 3만여 곳 집중 관리",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975674",
+      "title": "정부, 대설·한파 대비 농업재해 대응 강화…피해 농가 신속 지원",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "POLICY_148975672",
+      "title": "납품대금 지급 기준 명확해진다…유통분야 표준계약서 7종 개정",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975668",
+      "title": "신용카드 포인트, 내년 5월부터 지역화폐로 전환 사용 가능",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975667",
+      "title": "메가프로젝트 성과 중소기업으로 확산…상생 재원 2조 원 조성",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "POLICY_148975656",
+      "title": "이 대통령 \"자본시장 핵심은 신뢰…시장 신뢰 회복에 집중할 것\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975647",
+      "title": "9월 수출·투자 늘고 소비도 개선…정부 \"견조한 성장세 지속\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975638",
+      "title": "정부, '해외 운전 시 유의 사항' 문자 서비스 시행…원스톱 확인",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975631",
+      "title": "설탕 단서로 '7년 담합' 잡아낸 공정위 조사팀…\"물가 안정 큰 보람\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
     {
       "billId": "POLICY_148975449",
       "title": "15년 만의 군 '위문열차'…연평도 전체가 행복감으로 '들썩들썩'",
@@ -2075,6 +2171,195 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000288194",
+      "title": "통계작성의 변경승인(협의) 고시(계룡시아동복지통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288192",
+      "title": "매장유산 전문교육 운영 및 관리지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288188",
+      "title": "아프리카돼지열병 방역실시요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288158",
+      "title": "통계작성의 변경승인(협의) 고시(홍성군아동복지통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288156",
+      "title": "통계작성의 변경승인(협의) 고시(충청남도서천군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288154",
+      "title": "통계작성의 변경승인(협의) 고시(충청남도서산시기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288152",
+      "title": "통계작성의 변경승인(협의) 고시(청양군노인복지통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288148",
+      "title": "항만국 조치 협정 이행에 관한 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288144",
+      "title": "국가유산수리 감리대가 기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288138",
+      "title": "국가유산수리 설계 대가기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288136",
+      "title": "국가유산수리업등 손해배상보험 또는 공제업무 처리 요령",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288132",
+      "title": "통계작성의 변경승인(협의) 고시(경상북도주민등록인구통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288130",
+      "title": "통계작성의 변경승인(협의) 고시(공동주택실거래가격지수)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "부동산",
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288126",
+      "title": "통계작성의 변경승인(협의) 고시(광고산업조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288124",
+      "title": "통계작성의 변경승인(협의) 고시(고령친화용품제조업실태조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288122",
+      "title": "통계작성의 변경승인(협의) 고시(에너지총조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288118",
+      "title": "통계작성의 변경 승인(협의) 고시(인제군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288116",
+      "title": "강원경제자유구역 망상지구(국제복합관광도시) 개발계획 변경 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000288114",
       "title": "전원개발사업 실시계획 승인(하동복합 발전소 건설사업)",
       "stage": "제정",
@@ -2082,6 +2367,48 @@
       "administration": "이재명정부",
       "date": "2026-11-12",
       "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288098",
+      "title": "통계작성의 변경승인(협의) 고시(어류양식동향조사)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288096",
+      "title": "광양만권경제자유구역 갈사만조선산업단지 개발계획 변경 고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288094",
+      "title": "통계작성의 변경승인(협의) 고시(대기오염물질배출량)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288092",
+      "title": "통계작성의 변경승인(협의) 고시(국가유산관리현황)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
     },
     {
       "billId": "ADMRUL_2100000288090",
