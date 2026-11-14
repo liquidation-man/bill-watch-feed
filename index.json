@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:59:15.517Z",
+  "generatedAt": "2026-11-14T22:50:13.361Z",
   "items": [
     {
       "billId": "POLICY_148975687",
@@ -83534,6 +83534,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-09-15",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "일부개정",
@@ -163471,17 +163482,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-05-26",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -163575,6 +163575,17 @@
       "date": "2026-05-26",
       "tags": [
         "금융"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-05-26",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -190040,17 +190051,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-04-07",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화학물질관리법",
       "title": "화학물질관리법",
       "stage": "일부개정",
@@ -190102,6 +190102,17 @@
       "billId": "LAWHIST_응급의료에관한법률",
       "title": "응급의료에 관한 법률",
       "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-04-07",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-04-07",
@@ -219941,17 +219952,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-03-10",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
       "title": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률",
       "stage": "타법개정",
@@ -220050,6 +220050,17 @@
       "date": "2026-03-10",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-03-10",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -261499,6 +261510,17 @@
       "date": "2025-12-31",
       "tags": [
         "문화"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-12-30",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -322872,17 +322894,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2025-11-11",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_학교폭력예방및대책에관한법률",
       "title": "학교폭력예방 및 대책에 관한 법률",
       "stage": "일부개정",
@@ -322987,6 +322998,17 @@
       "administration": "이재명정부",
       "date": "2025-11-11",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-11-11",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_아동복지법시행령",
@@ -326883,17 +326905,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2025-10-31",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "타법개정",
@@ -326931,6 +326942,17 @@
       "date": "2025-10-31",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-31",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -332872,6 +332894,17 @@
       "date": "2025-10-02",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2025-10-01",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -491391,17 +491424,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2024-12-20",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_축산법시행령",
       "title": "축산법 시행령",
       "stage": "타법개정",
@@ -491444,6 +491466,17 @@
       "administration": "윤석열정부",
       "date": "2024-12-20",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-12-20",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_산림보호법",
@@ -533444,6 +533477,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-11-12",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화물자동차운수사업법",
       "title": "화물자동차 운수사업법",
       "stage": "타법개정",
@@ -543563,17 +543607,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2024-10-22",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "타법개정",
@@ -543679,6 +543712,17 @@
       "administration": "윤석열정부",
       "date": "2024-10-22",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-10-22",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_아동복지법시행령",
@@ -595422,6 +595466,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-07-23",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "타법개정",
@@ -598966,6 +599021,17 @@
       "date": "2024-07-17",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-07-16",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -697555,6 +697621,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-04-09",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_철도안전법",
       "title": "철도안전법",
       "stage": "일부개정",
@@ -701128,17 +701205,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2024-02-20",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
       "title": "혁신도시 조성 및 발전에 관한 특별법",
       "stage": "일부개정",
@@ -701201,6 +701267,17 @@
       "administration": "윤석열정부",
       "date": "2024-02-20",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-02-20",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_식품위생법시행령",
@@ -708280,25 +708357,14 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "일부개정",
       "category": "개정",
       "administration": "윤석열정부",
       "date": "2024-01-23",
       "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2024-01-23",
-      "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -708351,6 +708417,28 @@
       "date": "2024-01-23",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-23",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-23",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -713269,17 +713357,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2024-01-02",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_통계법",
       "title": "통계법",
       "stage": "일부개정",
@@ -713288,6 +713365,17 @@
       "date": "2024-01-02",
       "tags": [
         "통계"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2024-01-02",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -787262,14 +787350,25 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "일부개정",
       "category": "개정",
       "administration": "윤석열정부",
       "date": "2023-08-16",
       "tags": [
-        "보건"
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-08-16",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -787350,6 +787449,17 @@
     {
       "billId": "LAWHIST_응급의료에관한법률",
       "title": "응급의료에 관한 법률",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-08-16",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
       "stage": "일부개정",
       "category": "개정",
       "administration": "윤석열정부",
@@ -793574,6 +793684,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-25",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_식품위생법시행령",
       "title": "식품위생법 시행령",
       "stage": "일부개정",
@@ -797975,17 +798096,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2023-07-11",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "타법개정",
@@ -798027,6 +798137,17 @@
       "administration": "윤석열정부",
       "date": "2023-07-11",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-07-11",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_스토킹범죄의처벌등에관한법률",
@@ -841080,14 +841201,14 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "일부개정",
       "category": "개정",
       "administration": "윤석열정부",
       "date": "2023-04-18",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -841152,6 +841273,17 @@
       "administration": "윤석열정부",
       "date": "2023-04-18",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2023-04-18",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_민사소송법",
@@ -949097,17 +949229,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "윤석열정부",
-      "date": "2022-06-10",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "일부개정",
@@ -949157,6 +949278,17 @@
       "date": "2022-06-10",
       "tags": [
         "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "윤석열정부",
+      "date": "2022-06-10",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -952242,6 +952374,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2022-05-03",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_자원의절약과재활용촉진에관한법률",
       "title": "자원의 절약과 재활용촉진에 관한 법률",
       "stage": "일부개정",
@@ -953120,6 +953263,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2022-01-28",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화물자동차운수사업법",
       "title": "화물자동차 운수사업법",
       "stage": "일부개정",
@@ -953715,6 +953869,17 @@
       "administration": "문재인정부",
       "date": "2021-12-31",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-12-28",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_화장품법",
@@ -955207,28 +955372,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-10-08",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-10-08",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_지방자치단체에두는국가공무원의정원에관한법률시행령",
       "title": "지방자치단체에 두는 국가공무원의 정원에 관한 법률 시행령",
       "stage": "일부개정",
@@ -955249,6 +955392,28 @@
       "tags": [
         "부동산",
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-10-08",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-10-08",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -955575,17 +955740,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-09-10",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "타법개정",
@@ -955602,6 +955756,17 @@
       "administration": "문재인정부",
       "date": "2021-09-10",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-09-10",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -956087,6 +956252,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-07-27",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
       "title": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률",
       "stage": "일부개정",
@@ -956312,14 +956488,14 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
       "date": "2021-07-20",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -956392,6 +956568,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-07-20",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
       "billId": "LAWHIST_소송촉진등에관한특례규칙",
       "title": "소송촉진 등에 관한 특례규칙",
       "stage": "일부개정",
@@ -956432,6 +956619,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_유아교육법",
+      "title": "유아교육법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-07-16",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "일부개정",
@@ -956441,15 +956637,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_유아교육법",
-      "title": "유아교육법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-07-16",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -958318,17 +958505,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-03-09",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_지방세특례제한법",
       "title": "지방세특례제한법",
       "stage": "타법개정",
@@ -958347,6 +958523,17 @@
       "administration": "문재인정부",
       "date": "2021-03-09",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-03-09",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_건강기능식품에관한법률시행규칙",
@@ -958973,28 +959160,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-01-05",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2021-01-05",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_하도급거래공정화에관한법률시행령",
       "title": "하도급거래 공정화에 관한 법률 시행령",
       "stage": "타법개정",
@@ -959227,6 +959392,28 @@
       "date": "2021-01-05",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-01-05",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2021-01-05",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -959795,28 +959982,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2020-12-29",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2020-12-29",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_지방자치단체를당사자로하는계약에관한법률시행령",
       "title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
       "stage": "타법개정",
@@ -960003,6 +960168,28 @@
       "date": "2020-12-29",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-29",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-12-29",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -961532,6 +961719,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-11-24",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_지방자치법",
       "title": "지방자치법",
       "stage": "일부개정",
@@ -962592,17 +962790,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2020-08-11",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_중소기업협동조합법시행령",
       "title": "중소기업협동조합법 시행령",
       "stage": "일부개정",
@@ -962632,6 +962819,17 @@
       "administration": "문재인정부",
       "date": "2020-08-11",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-08-11",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_신용정보의이용및보호에관한법률시행령",
@@ -963161,6 +963359,28 @@
       "administration": "문재인정부",
       "date": "2020-06-11",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-06-09",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_화물자동차운수사업법",
@@ -1120514,6 +1120734,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-05-19",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_지방세특례제한법",
       "title": "지방세특례제한법",
       "stage": "타법개정",
@@ -1130482,17 +1130713,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2020-04-07",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -1130604,6 +1130824,17 @@
       "administration": "문재인정부",
       "date": "2020-04-07",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-04-07",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_아동복지법시행령",
@@ -1131157,17 +1131388,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2020-03-24",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
       "title": "혁신도시 조성 및 발전에 관한 특별법",
       "stage": "타법개정",
@@ -1131279,6 +1131499,17 @@
       "administration": "문재인정부",
       "date": "2020-03-24",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2020-03-24",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_식품위생법시행령",
@@ -1156509,6 +1156740,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-12-24",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_주차장법",
       "title": "주차장법",
       "stage": "일부개정",
@@ -1162303,6 +1162545,17 @@
       "administration": "문재인정부",
       "date": "2019-12-04",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-12-03",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_지방자치법",
@@ -1173863,6 +1174116,17 @@
       "date": "2019-11-27",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-11-26",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1226213,17 +1226477,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2019-08-27",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "일부개정",
@@ -1226294,6 +1226547,17 @@
       "billId": "LAWHIST_응급의료에관한법률",
       "title": "응급의료에 관한 법률",
       "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-08-27",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
       "category": "개정",
       "administration": "문재인정부",
       "date": "2019-08-27",
@@ -1258822,17 +1259086,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2019-07-02",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_학교폭력예방및대책에관한법률",
       "title": "학교폭력예방 및 대책에 관한 법률",
       "stage": "타법개정",
@@ -1258871,6 +1259124,17 @@
       "administration": "문재인정부",
       "date": "2019-07-02",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-07-02",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_아동복지법시행령",
@@ -1309360,6 +1309624,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-03-12",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -1321798,17 +1322073,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2019-01-15",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -1321895,6 +1322159,17 @@
       "date": "2019-01-15",
       "tags": [
         "외교"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-01-15",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -1330951,14 +1331226,14 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
       "date": "2018-12-24",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -1331131,6 +1331406,17 @@
       "administration": "문재인정부",
       "date": "2018-12-24",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-24",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_식품산업진흥법",
@@ -1334327,17 +1334613,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2018-12-11",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -1334424,6 +1334699,17 @@
     {
       "billId": "LAWHIST_응급의료에관한법률",
       "title": "응급의료에 관한 법률",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-12-11",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
       "stage": "일부개정",
       "category": "개정",
       "administration": "문재인정부",
@@ -1421575,6 +1421861,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-08-14",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화물자동차운수사업법",
       "title": "화물자동차 운수사업법",
       "stage": "일부개정",
@@ -1431135,6 +1431432,15 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_축산물위생관리법시행규칙",
+      "title": "축산물 위생관리법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-06-29",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "일부개정",
@@ -1431144,15 +1431450,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_축산물위생관리법시행규칙",
-      "title": "축산물 위생관리법 시행규칙",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2018-06-29",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -1446235,6 +1446532,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-04-24",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_축산물위생관리법시행령",
       "title": "축산물 위생관리법 시행령",
       "stage": "일부개정",
@@ -1454178,6 +1454486,17 @@
       "administration": "문재인정부",
       "date": "2018-03-28",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2018-03-27",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_직업교육훈련촉진법시행령",
@@ -1490632,17 +1490951,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "문재인정부",
-      "date": "2017-12-29",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
       "title": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률",
       "stage": "일부개정",
@@ -1490700,6 +1491008,17 @@
       "date": "2017-12-29",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-12-29",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -1492970,6 +1493289,17 @@
       "date": "2017-12-27",
       "tags": [
         "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-12-26",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1535159,6 +1535489,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-10-24",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화물자동차운수사업법",
       "title": "화물자동차 운수사업법",
       "stage": "타법개정",
@@ -1550181,6 +1550522,17 @@
       "date": "2017-09-20",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-09-19",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1582916,6 +1583268,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-26",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_학교폭력예방및대책에관한법률",
       "title": "학교폭력예방 및 대책에 관한 법률",
       "stage": "타법개정",
@@ -1587346,6 +1587709,17 @@
       "administration": "문재인정부",
       "date": "2017-07-18",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2017-07-17",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
@@ -1607632,6 +1608006,28 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2017-03-29",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2017-03-29",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_항공법시행령",
       "title": "항공법 시행령",
       "stage": "타법폐지",
@@ -1611703,6 +1612099,17 @@
       "date": "2017-03-22",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2017-03-21",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1645389,6 +1645796,17 @@
       "administration": "박근혜정부",
       "date": "2017-01-18",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2017-01-17",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_화학물질관리법",
@@ -1726167,6 +1726585,17 @@
       "date": "2016-07-20",
       "tags": [
         "산업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-07-19",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1838689,6 +1839118,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-03-29",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "제정",
@@ -1839186,6 +1839626,17 @@
       "administration": "박근혜정부",
       "date": "2016-03-23",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-03-22",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
@@ -1847521,14 +1847972,14 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
       "category": "개정",
       "administration": "박근혜정부",
       "date": "2016-01-19",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -1847692,6 +1848143,17 @@
       "date": "2016-01-19",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2016-01-19",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -1857603,6 +1858065,17 @@
       "date": "2015-12-30",
       "tags": [
         "법"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-12-29",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1916089,6 +1916562,17 @@
       "date": "2015-07-27",
       "tags": [
         "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-07-24",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -1983911,17 +1984395,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "박근혜정부",
-      "date": "2015-01-06",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화장품법",
       "title": "화장품법",
       "stage": "일부개정",
@@ -1984013,6 +1984486,17 @@
       "administration": "박근혜정부",
       "date": "2015-01-06",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2015-01-06",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_식품산업진흥법",
@@ -2011611,6 +2012095,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-11-19",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_학교폭력예방및대책에관한법률",
       "title": "학교폭력예방 및 대책에 관한 법률",
       "stage": "타법개정",
@@ -2037383,6 +2037878,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-08-06",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_항공법시행령",
       "title": "항공법 시행령",
       "stage": "타법개정",
@@ -2039494,6 +2040000,17 @@
       "date": "2014-07-15",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-07-14",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2042713,6 +2043230,17 @@
       "date": "2014-07-08",
       "tags": [
         "외교"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2014-07-07",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2205690,17 +2206218,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "박근혜정부",
-      "date": "2013-03-24",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_어선원및어선재해보상보험법",
       "title": "어선원 및 어선 재해보상보험법",
       "stage": "타법개정",
@@ -2205709,6 +2206226,17 @@
       "date": "2013-03-24",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-24",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -2205756,25 +2206284,25 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "타법개정",
       "category": "개정",
       "administration": "박근혜정부",
       "date": "2013-03-23",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "타법개정",
       "category": "개정",
       "administration": "박근혜정부",
       "date": "2013-03-23",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -2206553,6 +2207081,28 @@
       "date": "2013-03-23",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "박근혜정부",
+      "date": "2013-03-23",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -2257431,6 +2257981,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-09-07",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_낚시관리및육성법시행령",
       "title": "낚시 관리 및 육성법 시행령",
       "stage": "제정",
@@ -2274302,6 +2274863,17 @@
       "date": "2012-06-04",
       "tags": [
         "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2012-06-01",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2388664,6 +2389236,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_유아교육법",
+      "title": "유아교육법",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-10-25",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "타법개정",
@@ -2388673,15 +2389254,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_유아교육법",
-      "title": "유아교육법",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2011-10-25",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -2397913,6 +2398485,17 @@
       "date": "2011-08-22",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-08-19",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2418526,14 +2419109,14 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "타법개정",
       "category": "개정",
       "administration": "이명박정부",
       "date": "2011-06-15",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -2418555,6 +2419138,17 @@
       "administration": "이명박정부",
       "date": "2011-06-15",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-06-15",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -2423397,17 +2423991,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2011-06-07",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_축산물위생관리법시행령",
       "title": "축산물 위생관리법 시행령",
       "stage": "타법개정",
@@ -2423442,6 +2424025,17 @@
       "administration": "이명박정부",
       "date": "2011-06-07",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-06-07",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_아동복지법시행령",
@@ -2426662,6 +2427256,17 @@
       "administration": "이명박정부",
       "date": "2011-05-20",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2011-05-19",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_학교폭력예방및대책에관한법률",
@@ -2496136,6 +2496741,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-07-12",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
       "title": "혁신도시 조성 및 발전에 관한 특별법",
       "stage": "타법개정",
@@ -2497100,6 +2497716,17 @@
       "administration": "이명박정부",
       "date": "2010-06-30",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-06-29",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_통계법",
@@ -2515907,6 +2516534,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_화장품법",
+      "title": "화장품법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-19",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "타법개정",
@@ -2515916,15 +2516552,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_화장품법",
-      "title": "화장품법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2010-03-19",
-      "tags": []
     },
     {
       "billId": "LAWHIST_모자보건법",
@@ -2517302,6 +2517929,17 @@
       "date": "2010-03-16",
       "tags": [
         "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-03-15",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2532715,6 +2533353,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2010-01-07",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "PRC_S1K0R0W1R0A7M1A1I3Y3X1D2T0C7I1",
       "title": "국민건강보험법 일부개정법률안",
       "stage": "발의",
@@ -2536067,6 +2536716,17 @@
       "administration": "이명박정부",
       "date": "2009-12-30",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-12-29",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_즉결심판에관한절차법",
@@ -2555501,6 +2556161,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-11-20",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_중소기업협동조합법시행령",
       "title": "중소기업협동조합법 시행령",
       "stage": "타법개정",
@@ -2564106,6 +2564777,17 @@
       "administration": "이명박정부",
       "date": "2009-11-03",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-11-02",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_축산물위생관리법시행령",
@@ -2578870,17 +2579552,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2009-06-30",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_화학물질관리법",
       "title": "화학물질관리법",
       "stage": "타법개정",
@@ -2578897,6 +2579568,17 @@
       "administration": "이명박정부",
       "date": "2009-06-30",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-06-30",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_디자인보호법시행규칙",
@@ -2581684,6 +2582366,17 @@
       "administration": "이명박정부",
       "date": "2009-06-10",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-06-09",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_형사소송법",
@@ -2588857,6 +2589550,28 @@
       "administration": "이명박정부",
       "date": "2009-04-23",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-04-22",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2009-04-22",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
@@ -2617971,6 +2618686,28 @@
       "administration": "이명박정부",
       "date": "2009-01-02",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-31",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-12-31",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_혁신도시조성및발전에관한특별법",
@@ -2649912,6 +2650649,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-10-08",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_축산물위생관리법시행규칙",
       "title": "축산물 위생관리법 시행규칙",
       "stage": "타법개정",
@@ -2663310,6 +2664058,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-28",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_항공안전법시행령",
       "title": "항공안전법 시행령",
       "stage": "일부개정",
@@ -2663615,14 +2664374,14 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "전부개정",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
       "category": "개정",
       "administration": "이명박정부",
       "date": "2008-03-21",
       "tags": [
-        "보건"
+        "교통"
       ]
     },
     {
@@ -2663799,6 +2664558,17 @@
       "administration": "이명박정부",
       "date": "2008-03-21",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-21",
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "LAWHIST_신용정보의이용및보호에관한법률시행령",
@@ -2664277,28 +2665047,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2008-03-03",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": "이명박정부",
-      "date": "2008-03-03",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
       "title": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률",
       "stage": "타법개정",
@@ -2664343,6 +2665091,28 @@
       "date": "2008-03-03",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-03",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-03-03",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -2664474,14 +2665244,25 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
       "stage": "타법개정",
       "category": "개정",
       "administration": "이명박정부",
       "date": "2008-02-29",
       "tags": [
-        "보건"
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2665193,6 +2665974,17 @@
       "date": "2008-02-29",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이명박정부",
+      "date": "2008-02-29",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -2666501,6 +2667293,17 @@
       "date": "2008-01-03",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2007-12-31",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2670562,6 +2671365,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-12-28",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_헌법재판소공무원규칙",
       "title": "헌법재판소 공무원 규칙",
       "stage": "일부개정",
@@ -2671576,6 +2672390,17 @@
       "administration": null,
       "date": "2006-06-14",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2006-06-12",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_환경친화적자동차의개발및보급촉진에관한법률",
@@ -2673387,6 +2674212,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-08-25",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_근로자퇴직급여보장법시행령",
       "title": "근로자퇴직급여 보장법 시행령",
       "stage": "제정",
@@ -2673822,6 +2674658,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-06-30",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_하도급거래공정화에관한법률시행령",
       "title": "하도급거래 공정화에 관한 법률 시행령",
       "stage": "일부개정",
@@ -2674067,6 +2674914,17 @@
       "administration": null,
       "date": "2005-05-31",
       "tags": []
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2005-05-26",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "LAWHIST_신용정보의이용및보호에관한법률시행령",
@@ -2675767,6 +2676625,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_의료기기법시행규칙",
+      "title": "의료기기법 시행규칙",
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-05-25",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "타법개정",
@@ -2675776,15 +2676643,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_의료기기법시행규칙",
-      "title": "의료기기법 시행규칙",
-      "stage": "제정",
-      "category": "개정",
-      "administration": null,
-      "date": "2004-05-25",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -2675950,6 +2676808,17 @@
       "date": "2004-03-20",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2004-03-17",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2679919,6 +2680788,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "2001-01-29",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_한국교육방송공사법시행령",
       "title": "한국교육방송공사법 시행령",
       "stage": "타법개정",
@@ -2682204,6 +2683084,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-05-24",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_축산법시행령",
       "title": "축산법 시행령",
       "stage": "타법개정",
@@ -2682637,6 +2683528,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-08",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_화학물질관리법",
       "title": "화학물질관리법",
       "stage": "일부개정",
@@ -2682920,6 +2683822,39 @@
       "date": "1999-02-08",
       "tags": [
         "문화"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-05",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-05",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1999-02-05",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2683673,6 +2684608,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_축산물위생관리법시행규칙",
+      "title": "축산물 위생관리법 시행규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-08-01",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "타법개정",
@@ -2683682,15 +2684626,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_축산물위생관리법시행규칙",
-      "title": "축산물 위생관리법 시행규칙",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1998-08-01",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
@@ -2683755,6 +2684690,17 @@
       "date": "1998-06-30",
       "tags": [
         "세금"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1998-06-24",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2684341,6 +2685287,17 @@
       "tags": []
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-31",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_하도급거래공정화에관한법률시행령",
       "title": "하도급거래 공정화에 관한 법률 시행령",
       "stage": "타법개정",
@@ -2684633,6 +2685590,28 @@
       "date": "1997-12-17",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-13",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-12-13",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2685749,6 +2686728,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1997-05-07",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "전부개정",
@@ -2686394,17 +2687384,6 @@
       ]
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "타법개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1996-08-08",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_축산법시행령",
       "title": "축산법 시행령",
       "stage": "타법개정",
@@ -2686447,6 +2687426,17 @@
     {
       "billId": "LAWHIST_응급의료에관한법률",
       "title": "응급의료에 관한 법률",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1996-08-08",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
       "stage": "타법개정",
       "category": "개정",
       "administration": null,
@@ -2687592,6 +2688582,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-07-06",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_신용정보의이용및보호에관한법률시행령",
       "title": "신용정보의 이용 및 보호에 관한 법률 시행령",
       "stage": "제정",
@@ -2687772,6 +2688773,17 @@
       "date": "1995-02-27",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1995-01-05",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2688053,6 +2689065,39 @@
       "date": "1994-12-30",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-23",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-23",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1994-12-23",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2689305,6 +2690350,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1993-08-30",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_국방부와그소속기관직제",
       "title": "국방부와 그 소속기관 직제",
       "stage": "타법개정",
@@ -2689385,6 +2690441,17 @@
       "date": "1993-07-01",
       "tags": [
         "산업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1993-06-11",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2690079,6 +2691146,17 @@
       "tags": [
         "세금",
         "행정"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1991-12-14",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2692679,6 +2693757,17 @@
       ]
     },
     {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1984-12-31",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
       "billId": "LAWHIST_축산법시행령",
       "title": "축산법 시행령",
       "stage": "타법개정",
@@ -2694084,17 +2695173,6 @@
       "tags": []
     },
     {
-      "billId": "LAWHIST_약사법",
-      "title": "약사법",
-      "stage": "전부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1981-03-07",
-      "tags": [
-        "보건"
-      ]
-    },
-    {
       "billId": "LAWHIST_축산법시행령",
       "title": "축산법 시행령",
       "stage": "일부개정",
@@ -2694103,6 +2695181,17 @@
       "date": "1981-03-07",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "LAWHIST_약사법",
+      "title": "약사법",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1981-03-07",
+      "tags": [
+        "보건"
       ]
     },
     {
@@ -2694521,6 +2695610,17 @@
       "date": "1979-12-31",
       "tags": [
         "문화"
+      ]
+    },
+    {
+      "billId": "LAWHIST_교통안전법시행령",
+      "title": "교통안전법 시행령",
+      "stage": "제정",
+      "category": "개정",
+      "administration": null,
+      "date": "1979-12-28",
+      "tags": [
+        "교통"
       ]
     },
     {
@@ -2697353,6 +2698453,15 @@
       ]
     },
     {
+      "billId": "LAWHIST_축산물위생관리법시행규칙",
+      "title": "축산물 위생관리법 시행규칙",
+      "stage": "전부개정",
+      "category": "개정",
+      "administration": null,
+      "date": "1969-08-28",
+      "tags": []
+    },
+    {
       "billId": "LAWHIST_약사법",
       "title": "약사법",
       "stage": "전부개정",
@@ -2697362,15 +2698471,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_축산물위생관리법시행규칙",
-      "title": "축산물 위생관리법 시행규칙",
-      "stage": "전부개정",
-      "category": "개정",
-      "administration": null,
-      "date": "1969-08-28",
-      "tags": []
     },
     {
       "billId": "LAWHIST_동물용의약품등취급규칙",
