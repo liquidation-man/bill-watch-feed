@@ -1,7 +1,7 @@
 {
   "billId": "PRC_8F503181BB4044078A40A2EBAB7E9F",
   "title": "공직자윤리법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임호선의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_8F503181BB4044078A40A2EBAB7E9F&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

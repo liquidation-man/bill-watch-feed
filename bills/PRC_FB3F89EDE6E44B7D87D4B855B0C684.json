@@ -1,7 +1,7 @@
 {
   "billId": "PRC_FB3F89EDE6E44B7D87D4B855B0C684",
   "title": "민법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "곽규택의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_FB3F89EDE6E44B7D87D4B855B0C684&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
