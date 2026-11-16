@@ -1,6 +1,91 @@
 {
-  "generatedAt": "2026-11-16T06:34:56.211Z",
+  "generatedAt": "2026-11-16T16:02:54.046Z",
   "items": [
+    {
+      "billId": "POLICY_148975827",
+      "title": "한-메콩 정상회의 6년 만에 재개…초국가범죄·핵심광물 협력 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975826",
+      "title": "한-필리핀, 조선·AI·원전·우주 협력 확대…교역액 역대 최대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975823",
+      "title": "한-태국, CEPA 협상 가속…AI·방산·원전 등 전략협력 확대",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975814",
+      "title": "이 대통령, 아세안에 'AI 동행·문화 창조산업 이니셔티브' 제안",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975797",
+      "title": "3분기 '내가 뽑은 정책 소통 K' 1위…'고속철도 통합 홍보'",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": [
+        "문화"
+      ]
+    },
+    {
+      "billId": "POLICY_148975795",
+      "title": "한-투르크메니스탄 '세관상호지원협정' 발효…통관 협력 강화",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "POLICY_148975790",
+      "title": "정부, 해외 핵심광물 직접투자 재개…자원안보기금도 신설",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975789",
+      "title": "정부, 수능 시험장 모든 스마트기기 반납·공공 와이파이 차단 추진",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148975788",
+      "title": "중증 난치질환 학생 정기진료 결석, '출석 인정'…내년 3월부터",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": []
+    },
     {
       "billId": "POLICY_148975778",
       "title": "읍·면·동장 선발에 주민 직접 참여…내년부터 시범실시",
@@ -10,6 +95,17 @@
       "date": "2026-11-16",
       "tags": [
         "행정"
+      ]
+    },
+    {
+      "billId": "POLICY_148975777",
+      "title": "국토부, 겨울철 건설현장 안전점검…위반행위 엄중 조치",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-16",
+      "tags": [
+        "부동산"
       ]
     },
     {
@@ -1909,6 +2005,64 @@
       "tags": [
         "교통"
       ]
+    },
+    {
+      "billId": "ADMRUL_2100000288204",
+      "title": "항공교통업무증명기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288202",
+      "title": "민원처리기준표 일부개정고시",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": [
+        "행정"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288176",
+      "title": "석유판매가격의 최고액",
+      "stage": "폐지제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288174",
+      "title": "공소청 위임전결 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288172",
+      "title": "한국산 분재의 EU 수출검역요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288164",
+      "title": "광산안전업무 처리지침",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-13",
+      "tags": []
     },
     {
       "billId": "ADMRUL_2100000288014",
@@ -6763,6 +6917,17 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000288200",
+      "title": "관세인, 마약단속왕 및 핵심가치상 운영에 관한 훈령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000288194",
       "title": "통계작성의 변경승인(협의) 고시(계룡시아동복지통계)",
       "stage": "일부개정",
@@ -6791,6 +6956,28 @@
       "date": "2026-11-12",
       "tags": [
         "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288168",
+      "title": "통계작성의 변경 승인(협의) 고시(성주군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288166",
+      "title": "통계작성의 변경 승인(협의) 고시(김천시기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-12",
+      "tags": [
+        "통계"
       ]
     },
     {
