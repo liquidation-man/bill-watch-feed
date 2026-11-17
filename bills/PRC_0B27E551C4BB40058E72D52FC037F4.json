@@ -1,7 +1,7 @@
 {
   "billId": "PRC_0B27E551C4BB40058E72D52FC037F4",
   "title": "평화통일기반조성법안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "홍기원의원 등 15인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_0B27E551C4BB40058E72D52FC037F4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }
