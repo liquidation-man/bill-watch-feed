@@ -1,7 +1,7 @@
 {
   "billId": "PRC_38655702A95446689CDD46846A3080",
   "title": "지방의회법안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "임미애의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_38655702A95446689CDD46846A3080&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

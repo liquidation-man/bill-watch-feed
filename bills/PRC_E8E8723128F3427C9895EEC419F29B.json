@@ -1,7 +1,7 @@
 {
   "billId": "PRC_E8E8723128F3427C9895EEC419F29B",
   "title": "지방세법 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "주철현의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -15,6 +15,7 @@
     }
   ],
   "tags": [
+    "행정",
     "세금"
   ]
 }

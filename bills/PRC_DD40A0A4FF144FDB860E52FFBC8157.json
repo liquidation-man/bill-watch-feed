@@ -1,7 +1,7 @@
 {
   "billId": "PRC_DD40A0A4FF144FDB860E52FFBC8157",
   "title": "핵추진잠수함사업 외교지원에 관한 특별법안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "김건의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_DD40A0A4FF144FDB860E52FFBC8157&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }
