@@ -1,7 +1,7 @@
 {
   "billId": "PRC_BC22A1B1F7B84ACDA248C06B8CE9C6",
   "title": "국민연금법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "이소희의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_BC22A1B1F7B84ACDA248C06B8CE9C6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

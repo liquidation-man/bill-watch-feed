@@ -1,7 +1,7 @@
 {
   "billId": "PRC_D4EF4BEC9B914D299E332964619769",
   "title": "민법 일부개정법률안",
-  "committee": "",
+  "committee": "법제사법위원회",
   "proposer": "손솔의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D4EF4BEC9B914D299E332964619769&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "법"
+  ]
 }
