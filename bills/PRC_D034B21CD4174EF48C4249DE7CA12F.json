@@ -1,7 +1,7 @@
 {
   "billId": "PRC_D034B21CD4174EF48C4249DE7CA12F",
   "title": "기상법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "박지혜의원 등 14인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D034B21CD4174EF48C4249DE7CA12F&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

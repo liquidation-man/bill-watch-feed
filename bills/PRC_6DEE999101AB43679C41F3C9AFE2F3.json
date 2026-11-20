@@ -1,7 +1,7 @@
 {
   "billId": "PRC_6DEE999101AB43679C41F3C9AFE2F3",
   "title": "국민영양관리법 일부개정법률안",
-  "committee": "",
+  "committee": "보건복지위원회",
   "proposer": "김상훈의원 등 11인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_6DEE999101AB43679C41F3C9AFE2F3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "보건"
+  ]
 }

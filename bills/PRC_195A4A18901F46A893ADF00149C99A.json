@@ -1,7 +1,7 @@
 {
   "billId": "PRC_195A4A18901F46A893ADF00149C99A",
   "title": "경제안보를 위한 공급망 안정화 지원 기본법 일부개정법률안",
-  "committee": "",
+  "committee": "재정경제기획위원회",
   "proposer": "백혜련의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_195A4A18901F46A893ADF00149C99A&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "세금"
+  ]
 }
