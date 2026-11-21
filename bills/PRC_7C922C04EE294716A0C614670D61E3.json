@@ -1,7 +1,7 @@
 {
   "billId": "PRC_7C922C04EE294716A0C614670D61E3",
   "title": "남북교류협력에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "윤건영의원 등 14인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_7C922C04EE294716A0C614670D61E3&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

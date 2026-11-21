@@ -1,7 +1,7 @@
 {
   "billId": "PRC_DD51C6288C054000BA07CBF162A572",
   "title": "지방자치단체 출자·출연 기관의 운영에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "행정안전위원회",
   "proposer": "윤재옥의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_DD51C6288C054000BA07CBF162A572&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "행정"
+  ]
 }

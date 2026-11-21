@@ -1,7 +1,7 @@
 {
   "billId": "PRC_S2Q4R0Y7Y2X4W1V0D1C6A5Z2V7W9V4",
   "title": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "성일종의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q4R0Y7Y2X4W1V0D1C6A5Z2V7W9V4&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
