@@ -1,7 +1,7 @@
 {
   "billId": "PRC_6623A5288B2E4B8CBA6DB6267CB77A",
   "title": "국토의 계획 및 이용에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "국토교통위원회",
   "proposer": "한준호의원 등 17인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_6623A5288B2E4B8CBA6DB6267CB77A&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "부동산"
+  ]
 }

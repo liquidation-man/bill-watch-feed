@@ -1,7 +1,7 @@
 {
   "billId": "PRC_3FB7C20EFF7E4361A65B3420BF41CE",
   "title": "한국국제교류재단법 일부개정법률안",
-  "committee": "",
+  "committee": "외교통일위원회",
   "proposer": "김대식의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_3FB7C20EFF7E4361A65B3420BF41CE&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "외교"
+  ]
 }

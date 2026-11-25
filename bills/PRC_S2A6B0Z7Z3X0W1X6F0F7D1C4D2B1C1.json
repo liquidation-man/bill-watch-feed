@@ -1,7 +1,7 @@
 {
   "billId": "PRC_S2A6B0Z7Z3X0W1X6F0F7D1C4D2B1C1",
   "title": "중소기업 승계 활성화 지원에 관한 특별법안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "안도걸의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2A6B0Z7Z3X0W1X6F0F7D1C4D2B1C1&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

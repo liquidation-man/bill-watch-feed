@@ -1,7 +1,7 @@
 {
   "billId": "PRC_8DF9264F55C34C788C1F35C710169C",
   "title": "국가전략콘텐츠자산의 지정 및 육성 등에 관한 특별법안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "김성회의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_8DF9264F55C34C788C1F35C710169C&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }

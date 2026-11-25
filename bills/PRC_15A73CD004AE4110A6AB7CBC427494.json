@@ -1,7 +1,7 @@
 {
   "billId": "PRC_15A73CD004AE4110A6AB7CBC427494",
   "title": "국민체육진흥법 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "정준호의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_15A73CD004AE4110A6AB7CBC427494&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }
