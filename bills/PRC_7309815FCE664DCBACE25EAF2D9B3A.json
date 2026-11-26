@@ -1,7 +1,7 @@
 {
   "billId": "PRC_7309815FCE664DCBACE25EAF2D9B3A",
   "title": "공인노무사법 일부개정법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "이헌승의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_7309815FCE664DCBACE25EAF2D9B3A&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:31:46.944Z",
+  "generatedAt": "2026-11-26T21:57:36.372Z",
   "items": [
     {
       "billId": "ADMRUL_2100000287474",
@@ -8,6 +8,89 @@
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-12-01",
+      "tags": []
+    },
+    {
+      "billId": "LAW_292323",
+      "title": "검역법 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "LAW_292317",
+      "title": "공직선거관리규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "LAW_292079",
+      "title": "외무공무원임용령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "LAW_292077",
+      "title": "외교부와 그 소속기관 직제",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "외교",
+        "행정"
+      ]
+    },
+    {
+      "billId": "LAW_292075",
+      "title": "여객자동차 운수사업법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "LAW_292051",
+      "title": "외교문서 공개에 관한 규칙",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "LAW_292049",
+      "title": "외교부와 그 소속기관 직제 시행규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "POLICY_148976609",
+      "title": "보훈증명서 10종, 30일부터 무인민원발급기서 '무료' 발급",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
       "tags": []
     },
     {
@@ -58,6 +141,17 @@
       "tags": []
     },
     {
+      "billId": "POLICY_148976589",
+      "title": "은행권 '포용 온렌딩 대출' 추진…중저신용자 금리 3~5%p 인하",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "금융"
+      ]
+    },
+    {
       "billId": "POLICY_148976588",
       "title": "내년 수도권 공공주택 5만 6000호 모집…최근 5년 평균의 2배",
       "stage": "정책뉴스",
@@ -82,6 +176,15 @@
     {
       "billId": "POLICY_148976574",
       "title": "[정책 바로보기] 국민연금 지원 예산 동결? 사실은",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148976570",
+      "title": "전세사기 의심거래 88건 적발…혐의자 22명 경찰 수사의뢰",
       "stage": "정책뉴스",
       "category": "정책",
       "administration": "이재명정부",
@@ -966,6 +1069,26 @@
       "tags": []
     },
     {
+      "billId": "LAW_292071",
+      "title": "국립의학전문대학원 설립 및 운영에 관한 법률 시행령",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "LAW_292045",
+      "title": "첨단바이오의약품 안전 및 지원에 관한 규칙",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
       "billId": "LAW_292043",
       "title": "식품 등의 표시ㆍ광고에 관한 법률 시행규칙",
       "stage": "일부개정",
@@ -1008,6 +1131,29 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000288670",
+      "title": "통계작성의 변경승인(협의) 고시(외국인주택소유현황)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "부동산",
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288668",
+      "title": "통계작성의 변경승인(협의) 고시(엔지니어링사업자·기술자현황)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000288660",
       "title": "과학기술정보통신부 인사운영규정",
       "stage": "일부개정",
@@ -1026,6 +1172,1890 @@
       "tags": [
         "부동산"
       ]
+    },
+    {
+      "billId": "PRC_Z2Y5Z0X6X0W5W1S1T1R0R2Q9O4P3X8",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_Z2X6Y0T9U0T4T1R3S5R9Y5Z8X8Y6W2",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_Z2X6X0W9U0V4D1E3C5C8B3Z8A3I7I3",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_Z2X6X0V4W3E0F1D6B3C0B5B5J0J1I1",
+      "title": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_Z2A5Y1Z2H1H6G1E6F5D6D0M5M5K5L2",
+      "title": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_Y2Z5X1X0W1X0V1V6D4E0C0A2B5Z7A4",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_Y2F5E0D9J0I8H0C8K2H4G0O4M6L4T7",
+      "title": "스마트제조산업 육성에 관한 법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_X2T6S0Q4P2Y3X0V9U2C7D5C9B2Z4I4",
+      "title": "지역중소기업 육성 및 혁신촉진 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_X2N6M0K3J3K0S1R1P0N9W0X3W9U4W5",
+      "title": "군인 재해보상법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_X2F4G1E1F0D5E1C6D5K1J0J5I3J2H8",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_W2V6V0U5U0S4T0B9Z3A1Y0Z7X1Y8F4",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_W2V5V0D2D2C0D1B0B4A6I4I7G8H1G5",
+      "title": "발명진흥법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_W2V4T1U1Q2Q1P1N6O0M4N4V3V7T7S2",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_V2T5U1S2S1A5B1Z1A4Y3Z5X2F9G2E5",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_V2T5T1Q0Q0O9P1N5M5M4U2U2T9U2S7",
+      "title": "재외국민등록법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_U2U5C1C1A2B8A1Y0Z4G8H1F4G7E6F0",
+      "title": "국회도서관법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_U2C6B0C4B0A2I1G2H4G4E5A8Z3Y2Z5",
+      "title": "군인사법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_T2T5R1S2A2A9Z0X9Y1W4W2E2F7D9E6",
+      "title": "산업재산 정보의 관리 및 활용 촉진에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2Z6A0Y7Z0X3Y1W6E1F9D4E7C4D5B3",
+      "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2T6R0Q2Q1Y2Z1X3Y4W0W4V2R4R7P1",
+      "title": "벤처기업육성에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2S5R1P2P2L6M1K5L4J0J2I3Q3Q6P4",
+      "title": "특허법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2R6R0Z4Z2Y2W1H2F0G8F0F1U6V3T3",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2R6R0H1H3G0H0F9F4E8E3M1L6L5J6",
+      "title": "국방·군사시설 사업에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_S2Q6Q0O8N2O5V1W4U3V2T5U4S3T8B7",
+      "title": "전통시장 및 상점가 육성을 위한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_S2O6P0N7N2M0K1L1T4U8S3S7R6R9P6",
+      "title": "군인사법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_Q2X6W0W4V2W7U1U6D0B1B4A7A9Y1H2",
+      "title": "규제자유특구 및 지역특화발전특구에 관한 규제특례법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_Q2R5P1Q1O2O4N1V2V1U0V1T0T9R9A9",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_Q2R5P1Q0L3K1L0J9J2H9I0Q0R7P3Q0",
+      "title": "스마트제조산업 육성 및 경쟁력 강화 지원에 관한 법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_P2P6O0P2N1N0J1K2I0G6H5F9G9N4O5",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_P2P6O0P2N1N0J1K2I0G6H5F9G9N4O5",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_P2O6M0M6I3J0H1G5G0E1F5N1O0M7K4",
+      "title": "대·중소기업 상생협력 촉진에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_O2M6N0L1M0K9L1S6T2R1Q3Q5O9P3X5",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_O2L6M0K1L2J1K0I9I1R4P0P7N9O2M2",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2V6W0U8V2T0S1R3R1Q7Y1Y4W4X5W6",
+      "title": "소상공인기본법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2V5V0U4U3S0R1S1Z0A7Y0Z8X3Y3W8",
+      "title": "고압가스 안전관리법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2O6M0N7J2H2I1G0H3F1N2N9M5N0L6",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 전부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2N6M0B8B2Z2B1Z7Z3Y9G3G7E5F8E2",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_N2N6L0M8U2V0T1T3S1Q5R5Z9Z6Y6Y4",
+      "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2L6K0L2S2T4R1S7Q1R0P3P1X1W6X1",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_N2L4L0K9K0S4R1R6P0Q7O5P9X5X8W9",
+      "title": "국회법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_M2L6J0K1I2J1Q1R1P4Q0O4P5N1O7J5",
+      "title": "벤처기업육성에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_L2T6T0S8S2R6P0Q9F0F6E2E7D6B4B3",
+      "title": "예비군법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_L2M6K0S8S0R4R1Q5Q4P7P4L8J3K2I0",
+      "title": "국회법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_L2M5K0K9S2R3R1P9V1T4T3B2C0A8B5",
+      "title": "특허법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_L2L6K0I9I0Q3R1P1Q2O1N0N2J0J3I3",
+      "title": "국가자원안보 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_L2L5H1G2G0E5F1D8E1M1M5L7L4J1I1",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_K2K6J0Y2Z0H9F1G3E4E2M0N7L8M5K8",
+      "title": "남극활동 및 환경보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_K2K5T1T1R1S8Q0R8P3X1X4W2X6V2V3",
+      "title": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_K2I5Y0Y1W1X4V1W5U3V5D4B2C4A5B6",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_K2I5I1H2I1G1G1O2P3N7M2M3K9L8T5",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_J2Q6O0N6J1I5H1G3O1N9M2L6T4S2R4",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_J2K5I0J2R2R0P1Q4P3N7O0V3W3U5V9",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_J2J6H0I7G2O8P1N0O1M8N5L0T5T7S2",
+      "title": "군용항공기 운용 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_J2I6J0Q2R2P6Q1O0P3N7O1V5W8V4T4",
+      "title": "무역보험법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_J2I6I0E5F1D5B1C5A1B7J2J3H5G3H1",
+      "title": "특허법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_J2H5H1F2O2O9M0N9L1M3K2K9T4T6R1",
+      "title": "부정경쟁방지 및 영업비밀보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_I2J6R0S1Q2Q9P1P3O5W1W2U8V9T6U0",
+      "title": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_I2J6H0H9G0H1F1F3N1O6M2K9L6J9K1",
+      "title": "대한무역투자진흥공사법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_I2H6H0P8Q1O9P1N3O0M9U4U6T0U3S2",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_I2G6H0F4F1N6M1M5L3M2K1K1S3R6R1",
+      "title": "산업기술혁신 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_I2G5H0F6G0E5F1M1L0M9K4L6J0K6R7",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_H2P5P1N2O2N3N1L7M4H3G1H2F6F4E7",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_H2P5N0O5M0M2K1L4T0U3S1R4R0P5Q9",
+      "title": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_H2I6G0H1P2N9O1M3M5L2L0T4U4S6T2",
+      "title": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_H2I5P1Q2O1P1N1O0M0M3I1H6H1F4G3",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_H2G5E0E2C2D7L1M5K2K3J2H4I3E5E4",
+      "title": "부정경쟁방지 및 영업비밀보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_G2K5S0R3Q2R8P0Y9W3V2T0C7B2Z4Y7",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_F90555F8B77847148E405209EC2978",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_F90555F8B77847148E405209EC2978",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_F45D1328C90146E190A48952F93476",
+      "title": "문화산업진흥 기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_F2N6O0M7K2L3J1K1S1S2R2P6Q5O5P0",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_F2E4D0J9I2H4G1C4B4A9Y3H9G1E9D7",
+      "title": "고려인동포 합법적 체류자격 취득 및 정착 지원을 위한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_F2D6C0C3B2X0W1T6A5Z2Z2H7F8I1G9",
+      "title": "방위사업법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_F2D4E0D7B1B1J1K4J3H7H3G2G1O9P7",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_F2B6C0A8A0Z7X1Y8F0G4F5F9E8C1C0",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_F2B4Z0A8Y0Z7X1Y5G0G5E5F4D2C8C6",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_F247D8AEFA8541309BD3F287D4D603",
+      "title": "가정폭력범죄의 처벌 등에 관한 특례법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_EE8E2328034C418E94695EA11C36AE",
+      "title": "후천성면역결핍증 예방법 전부개정법률안",
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "PRC_EE8E2328034C418E94695EA11C36AE",
+      "title": "후천성면역결핍증 예방법 전부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "PRC_EC45ED9794914CB6B98CE83E89C2FC",
+      "title": "공인회계사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_EC1617D7408640FD9C44AB2EF83430",
+      "title": "문화예술진흥법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_EA82D25C7FC248BB8B2DD07AC26C04",
+      "title": "역사문화권 정비 등에 관한 특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E6F5368A5AA942D5B51098C9AF952B",
+      "title": "국회도서관법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E6BBA9818840409C920295A45C9EA5",
+      "title": "변리사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E5FE4C4EEEB74031830687B082EBBC",
+      "title": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E4F14F68937A464ABCD52A91612B69",
+      "title": "세계유산의 보존·관리 및 활용에 관한 특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E401830351654ABD807812773F8FD3",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E2M6N0L7K2K8J1J8R1Q3Q3O6P0N0O0",
+      "title": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_E2M5L0L5J0K2J1J4F0D4E4C6D3B7C3",
+      "title": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_E2F6D0C9C0A4B1J0K2I9I5H8F0G7C9",
+      "title": "예술인의 지위와 권리의 보장에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E2F5M0N7M3K1K0I9J2R9S3Q3R1P4P9",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_E2F5M0N7M3K1K0I9J2R9S3Q3R1P4P9",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_E2E5N1N1L1M8L1J2J3R4S3Q4R8P1Q1",
+      "title": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_E2C6E0C7C0K8L1J1H1I0H4H7P8N8O7",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_E098DD5DC025473EAD895985673CF4",
+      "title": "낚시 관리 및 육성법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_DE9119CD156E46D7A2F2478C3D17D3",
+      "title": "방위사업법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D9E3D420AB174156ABB871ED4E45E6",
+      "title": "고도 보존 및 육성에 관한 특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D7CBE37289CE4361A9415208F1380D",
+      "title": "군인보수법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D7CBE37289CE4361A9415208F1380D",
+      "title": "군인보수법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D5BD6C07B5484BB0989ED8EB04B59B",
+      "title": "디지털자산업의 혁신과 이용자 보호에 관한 법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D4F5F54501774AA5BEDE2976BF7B55",
+      "title": "관세사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "PRC_D3F0EDD0F7894084BE1E27B1C812EE",
+      "title": "가덕도신공항 건설을 위한 특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D367D23028094647BE5387CC2D6DF4",
+      "title": "사회복지사업법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2E6C0D1K2L3J1K4I3H1H0P7P5N1O4",
+      "title": "군인의 지위 및 복무에 관한 기본법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2D6B0D1B0B2Z1A0I0I2H5F8G6E7E1",
+      "title": "방위사업법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2D5L0M2K2J1J1H5I5Q6R3P6N9O9M0",
+      "title": "북한이탈주민의 보호 및 정착지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_D2C6C0B7C0J1K1I1G1I4G3G7O0N0N3",
+      "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_D2C5C0B2B2A5A1W0W2V1T2U3S1T8B2",
+      "title": "부정경쟁방지 및 영업비밀보호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_D1B60570D41549C49E6AEA264363A4",
+      "title": "국군포로의 송환 및 대우 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_CBA5A3622FE947D4A19A82774C7CB5",
+      "title": "근현대문화유산의 보존 및 활용에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_CB87F1F1AE6B44C6A894A26494533A",
+      "title": "성폭력범죄의 처벌 등에 관한 특례법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_C9091A0CD20740FC9F65A9DD2D6A5C",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 전부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_C9091A0CD20740FC9F65A9DD2D6A5C",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 전부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_C4BE90BE637B4033BCEE0BE8835AD0",
+      "title": "지속가능발전 기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_C4ADA5C0433A4E9B97D1818E854E12",
+      "title": "평생교육법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_C4753BA61A6B440486998BA4DC2BCF",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_C4753BA61A6B440486998BA4DC2BCF",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_C2Z6Y0H6D0D9Z1Y6V5H6O0N1J0F5F8",
+      "title": "소상공인기본법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_C2D6C0C1A2B0Z1V0W5U3V5T5U8S9S1",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_C2B5B1Z1A1Z1Z1H2F4G9E1F0D4E6M5",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_BEBF257618DB4B3C98F581F4AB3444",
+      "title": "문화예술교육 지원법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_BD6B3A6FE819461890643164D202C2",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B71B7F6B7A6E4C6F8AD6F4D7716E56",
+      "title": "방위사업법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B42F06E06EFE4CD5A458D87C9D9911",
+      "title": "문화다양성의 보호와 증진에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B40F7D39FE36487BA444478597673D",
+      "title": "자연유산의 보존 및 활용에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B2Z6Y0Z7G1H5F1G4E5F4D4L3M0K2L8",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_B2Z5A1I1I2G4F1F7E5E8A3B1Z1Y6Y7",
+      "title": "중소기업진흥에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_B2Z4H0G7P2N2M1K5T3U8S4R1P8X7W0",
+      "title": "국회법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B2C6B0B2J0J9I1G3H4F1G3N1O7M4N3",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_B2C6B0B2J0J9I1G3H4F1G3N1O7M4N3",
+      "title": "재외국민보호를 위한 영사조력법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_AE49697C1B424DAB914C1272EFA4FE",
+      "title": "서예진흥에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_ACAA2BB3B54B4EBA8F184CF95134A5",
+      "title": "매장유산 보호 및 조사에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_A3F5D4B8D3F84163A0C63DC4C926CC",
+      "title": "가정폭력방지 및 피해자보호 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_A2Z6Z0Y7U0S3R1S6R1Z9X2W3X0V6D4",
+      "title": "규제자유특구 및 지역특화발전특구에 관한 규제특례법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_A2Z6Z0Y6G1G8E1F5D2C2D3Y7Z9X4Y4",
+      "title": "특허법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_A2Y5Z1U0V2U4U1S7T0R6Z1A9Y3Z7X9",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_A2I5H0H5F0G2E1F4B3B8Z4A3Z2X9X8",
+      "title": "외국인투자 촉진법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_A2B6Z0Z9Y2U3U1S8T0S0S2Q9R2Z5X9",
+      "title": "초·중등교육법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_A2B6Z0W6U2S4R1S0A1Z0Y5W5X7F0D9",
+      "title": "재외국민등록법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "외교"
+      ]
+    },
+    {
+      "billId": "PRC_A239F144BFC94DCE85177B0EE9E52B",
+      "title": "전남광주통합특별시 설치에 따른 지방행정체제 개편 반영을 위한 행정안전부 소관 18개 법률의 일부개정에 관한 법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_9F904FCAE2F04361BEAAD92CC37B2B",
+      "title": "공인노무사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_9D94676747CE4565BE403CA6D9A00C",
+      "title": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_9BDE7419B04949A790EBDD0345F9F2",
+      "title": "국가유산영향진단법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_99B4494990E346C7ABB3A39BBB9EE7",
+      "title": "징발법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_973CEC93F2EB4CD2A67ECFD0669231",
+      "title": "국가유산기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_96D9986C20514657ABD21E3FB86FCC",
+      "title": "국가인권위원회법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_93CD8E7D51AA4851A0DD75A7A28516",
+      "title": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_92D91D15C64D4749BF297E147F7847",
+      "title": "한국국방연구원법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_9240482FE4634BD6BDC001A18BEEDD",
+      "title": "문신사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_89D048D07A80411AB3B09050034D71",
+      "title": "지뢰의 제거 등 지뢰대응활동에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_883857BC8E1745D094A54D8BB16B3E",
+      "title": "전쟁기념사업회법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_86230B7EF1884942857DC90FB63F2A",
+      "title": "무형유산의 보전 및 진흥에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_831AB1E086DC445C80CF73E64D2578",
+      "title": "변호사시험법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_8096BF320DC94004B0909894841D80",
+      "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_8096BF320DC94004B0909894841D80",
+      "title": "소상공인 보호 및 지원에 관한 법률 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_7CA479E9D9104547BD878ADA213BDC",
+      "title": "국방과학연구소법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_7C345F28676E483092F5537BDF887B",
+      "title": "전자장치 부착 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_7383F69C2665463E85CA6C9ECFF459",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 전부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_7383F69C2665463E85CA6C9ECFF459",
+      "title": "산업 디지털 전환 및 인공지능 활용 촉진법 전부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_6C1C9C69EEAE4989810098458E18E8",
+      "title": "대체역의 편입 및 복무 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_6C008D25DA2A4245870B1B3C5FDE68",
+      "title": "대기환경보전법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_6B268EC577AD489DA1BA3978438605",
+      "title": "군 공항 이전 및 지원에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_5F4D5E9145874D989764FAFBAC0023",
+      "title": "감정평가 및 감정평가사에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_56A852EA232A46B3B0EDB27837382C",
+      "title": "통신비밀보호법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_5052FB5EC92349A69BAFB68AB542C0",
+      "title": "소나무재선충병 방제특별법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_46E6E62E3C094DD481F5C360E8C998",
+      "title": "5·18민주화운동 진상규명을 위한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_419CF631A57C4460B2ABCB735866ED",
+      "title": "국방첨단과학기술사관학교 설치법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_3BA1FAE323954BD7B3E20CBDBDB322",
+      "title": "공직자 등의 병역사항 신고 및 공개에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_388333F2D1204EAE80C59610CF184D",
+      "title": "군무원인사법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_3752C639830F4062B745C904E4D2E3",
+      "title": "문화유산의 보존 및 활용에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_35AA4FF22FD641B890C16BC877AF8D",
+      "title": "군복 및 군용장구의 단속에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_35896B49E5234802B603FE37446F8A",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_35896B49E5234802B603FE37446F8A",
+      "title": "상표법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_2AF7545D9B9F42219E1B46793D46E1",
+      "title": "초·중등교육법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_27BF66CB87CF4E41B8602658B34863",
+      "title": "국가유산수리 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_257BB909E11A49FCB3EF1F59E09973",
+      "title": "산업안전보건법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_22852AAAFC6F47C58DF6D546961A5B",
+      "title": "대통령 등의 경호에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_21E0558400704B958D73B86D16050D",
+      "title": "세무사법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_21BFE1EA07D14ED8807DD548F8C0DB",
+      "title": "환자기본법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_20A1BFA8A50B40379B62187B276E60",
+      "title": "전남광주통합특별시 설치에 따른 지방행정체제 개편 반영을 위한 행정안전부 소관 31개 법률의 일부개정에 관한 법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_1B77781CA8184AEB9770A369EE5FB9",
+      "title": "통합방위법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_12A3F023C99443099C367E670ECA0B",
+      "title": "아동학대범죄의 처벌 등에 관한 특례법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_11414B6EE9204650A37C78EF0E22DC",
+      "title": "병역법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_0CC2C6DEB2124AB8AC4F4393D8B77C",
+      "title": "게임산업진흥에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_059A06EA1B534EFC985772EAC73425",
+      "title": "산업전환에 따른 고용안정 지원 등에 관한 법률 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "PRC_01B47C05060B463FA3C029146A84E3",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_01B47C05060B463FA3C029146A84E3",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
+      ]
+    },
+    {
+      "billId": "PRC_007F1B9BDC9D4C55845DD6619C1A31",
+      "title": "문화유산과 자연환경자산에 관한 국민신탁법 일부개정법률안",
+      "stage": "발의",
+      "category": "입법안",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
     },
     {
       "billId": "POLICY_148976503",
@@ -1956,6 +3986,88 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000288722",
+      "title": "소득세사무처리규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288718",
+      "title": "항공분야 행정처분 업무처리 절차에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288714",
+      "title": "해양경찰 구급업무에 관한 지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288706",
+      "title": "고용노동부 인사혁신규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288690",
+      "title": "항공안전 의무보고 및 자율보고 요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": [
+        "교통"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288680",
+      "title": "약제 급여 목록 및 급여 상한금액표",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288678",
+      "title": "종돈장 방역관리요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288676",
+      "title": "기술용역 적격심사 및 협상에 의한 낙찰자 결정기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
       "billId": "ADMRUL_2100000288596",
       "title": "납세업무 처리에 관한 고시",
       "stage": "일부개정",
@@ -2000,7 +4112,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_M2K6L0T8U3S1S1Q3P2Q2L2M0L5L0J8",
@@ -2009,7 +4123,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_K2J6H0H8F2H5O1P2N4L3M2L5L9H4F5",
@@ -2027,7 +4143,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_FA52516788F54FCAB91DF61E7E09BF",
@@ -2036,7 +4154,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_F36C30AC80C14FCA824E69B5A78ABD",
@@ -2045,7 +4165,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_F162C226EEB147E5858FCF0FDAEF8D",
@@ -2054,7 +4176,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_E931300DE6E84855B9C8F5FD130F86",
@@ -2072,7 +4196,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_E3FED092BC494EA7908CBB363E42DA",
@@ -2081,7 +4207,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_C90EAD3883814F29940286999DBB19",
@@ -2099,7 +4227,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_B7E8C6EEF11D4C09AB430CD3B01CF4",
@@ -2109,6 +4239,7 @@
       "administration": "이재명정부",
       "date": "2026-11-25",
       "tags": [
+        "행정",
         "세금"
       ]
     },
@@ -2119,7 +4250,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_AC1F916A9E6243FE98FBB35184D995",
@@ -2128,7 +4261,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_A96912C8F79A4DDBAB8277A1E9EA6E",
@@ -2137,7 +4272,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_9BBE7DB20C354D39A0129F654CA1BB",
@@ -2146,7 +4283,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_968664DC8A4C427EBED3FAFE6347DA",
@@ -2155,7 +4294,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_88815DA5082F4FE98C251AB4A63227",
@@ -2173,7 +4314,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_83D6FC3A8E7B44B18A674060625B3F",
@@ -2182,7 +4325,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_828606BDDE24472E87C73D82E335C9",
@@ -2191,7 +4336,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_822D420F0E3246A9A9A55A8EA65C1C",
@@ -2200,7 +4347,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_7D12F6D969434D4FBD2B972BCCA196",
@@ -2209,7 +4358,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_7CF1DE026C4C4AC78EA9939BDC07D9",
@@ -2218,7 +4369,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_7C004C19CA3D4C75BB99966730BE75",
@@ -2236,7 +4389,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_777C2AC8E31244CE84812312BDEE9C",
@@ -2245,7 +4400,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_762E961AB26546FFBA2867D07F835C",
@@ -2254,7 +4411,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_7309815FCE664DCBACE25EAF2D9B3A",
@@ -2263,7 +4422,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_72DE57CEFBD342D583FDBBDD0A97D9",
@@ -2272,7 +4433,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_69FC369D8DBD43C8826325FB358ECE",
@@ -2281,7 +4444,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "산업"
+      ]
     },
     {
       "billId": "PRC_687939FFD97742819DCCD073532519",
@@ -2290,7 +4455,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_5FA610763C39400D89CEC5BD027610",
@@ -2299,7 +4466,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "외교"
+      ]
     },
     {
       "billId": "PRC_5D24AA12C5D44483AB914989BE5B34",
@@ -2308,7 +4477,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_5CAE06BB69A9435CBEAB70EF6D30E8",
@@ -2317,7 +4488,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_52B0427892624779A7C72EBAE5F17E",
@@ -2326,7 +4499,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_4DDDEEE8A8E4440D8E7D15BD5D097E",
@@ -2335,7 +4510,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_4BACFC98096F426CB11D62C0FD91E0",
@@ -2362,7 +4539,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_3F5D6C33850441EA9815BF24D1C6D2",
@@ -2371,7 +4550,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_3B36A81E83844A34B2F2CE362C3FCA",
@@ -2380,7 +4561,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_35B603A1D5024F7A936228D9349ED2",
@@ -2389,7 +4572,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_20C83A9E73C34671A9F7FAD6715A44",
@@ -2398,7 +4583,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_1A18F4031A174242B1622C99E13F1A",
@@ -2407,7 +4594,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_1154AD77F0F747F2AEF6DFCB175981",
@@ -2416,7 +4605,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "환경"
+      ]
     },
     {
       "billId": "PRC_054D1C1784394C4F89381E7F2AF3D9",
@@ -2434,7 +4625,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-25",
-      "tags": []
+      "tags": [
+        "행정"
+      ]
     },
     {
       "billId": "PRC_012305D817F14B598A9F1F354935B3",
@@ -3220,6 +5413,24 @@
       "tags": []
     },
     {
+      "billId": "LAW_292015",
+      "title": "국가자원안보 특별법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "billId": "LAW_292001",
+      "title": "도시가스사업법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
       "billId": "LAW_291997",
       "title": "원자력 진흥법 시행령",
       "stage": "일부개정",
@@ -3249,8 +5460,39 @@
       ]
     },
     {
+      "billId": "LAW_291987",
+      "title": "첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-24",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
       "billId": "LAW_291933",
       "title": "직업안정법 시행령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288664",
+      "title": "육아휴직 결원보충 활성화를 위한 해양수산부와 그 소속기관에 두는 별도정원 운영규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-24",
+      "tags": [
+        "농업"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288656",
+      "title": "기후에너지환경부 자체규제심사위원회 운영규정",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -235091,15 +237333,6 @@
       "tags": [
         "보건"
       ]
-    },
-    {
-      "billId": "LAWHIST_고용보험법시행령",
-      "title": "고용보험법 시행령",
-      "stage": "일부개정",
-      "category": "개정",
-      "administration": "이재명정부",
-      "date": "2026-03-17",
-      "tags": []
     },
     {
       "billId": "LAWHIST_고용보험법시행령",
@@ -1282400,6 +1284633,15 @@
       "tags": [
         "보건"
       ]
+    },
+    {
+      "billId": "LAWHIST_고용보험법시행령",
+      "title": "고용보험법 시행령",
+      "stage": "타법개정",
+      "category": "개정",
+      "administration": "문재인정부",
+      "date": "2019-07-02",
+      "tags": []
     },
     {
       "billId": "LAWHIST_가축전염병예방법시행령",

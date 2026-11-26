@@ -1,7 +1,7 @@
 {
   "billId": "PRC_69FC369D8DBD43C8826325FB358ECE",
   "title": "변리사법 일부개정법률안",
-  "committee": "",
+  "committee": "산업통상자원중소벤처기업위원회",
   "proposer": "김위상의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_69FC369D8DBD43C8826325FB358ECE&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "산업"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_E85DD3B3E02A4171A7C2A52E3559F6",
   "title": "이산화탄소 제거의 촉진 및 관리에 관한 법률안",
-  "committee": "",
+  "committee": "기후에너지환경노동위원회",
   "proposer": "복기왕의원 등 12인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E85DD3B3E02A4171A7C2A52E3559F6&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "환경"
+  ]
 }
