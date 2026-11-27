@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:29:36.748Z",
+  "generatedAt": "2026-11-27T21:40:47.124Z",
   "items": [
     {
       "billId": "ADMRUL_2100000287474",
@@ -8,6 +8,15 @@
       "category": "개정",
       "administration": "이재명정부",
       "date": "2026-12-01",
+      "tags": []
+    },
+    {
+      "billId": "POLICY_148976680",
+      "title": "이 대통령 \"광장의 요구, 국민이 체감하는 변화로 만들어야\"",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
       "tags": []
     },
     {
@@ -56,6 +65,15 @@
       "tags": []
     },
     {
+      "billId": "POLICY_148976669",
+      "title": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
       "billId": "POLICY_148976668",
       "title": "창업·벤처 규제 전담 자문기구 출범…신산업 규제개선 속도",
       "stage": "정책뉴스",
@@ -72,6 +90,17 @@
       "administration": "이재명정부",
       "date": "2026-11-27",
       "tags": []
+    },
+    {
+      "billId": "POLICY_148976657",
+      "title": "저상 시내버스 보급률 51.8%…국민 3명 중 1명 '교통약자'",
+      "stage": "정책뉴스",
+      "category": "정책",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "POLICY_148976655",
@@ -1140,6 +1169,507 @@
       ]
     },
     {
+      "billId": "PRC_Y2X4V0V6U1V3C1D7C0A4A0Z8Z1I6G1",
+      "title": "교육공무원법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_Y2G6E0F5D0E4C1D0Y5W5W4U0W5D4E0",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_Y2G6E0F5D0E4C1D0Y5W5W4U0W5D4E0",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_X2X6W0U9V1T4U2C1A4B9Z0A1Y7G6H6",
+      "title": "교육발전특구의 지정 및 운영에 관한 특별법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_X2W6W0U7W1D0E1C6B3B6Z2A6I1J3H6",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_X2W6W0U7W1D0E1C6B3B6Z2A6I1J3H6",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_X2W4W1S1T2R0R1Q6O1P1X2X6W0W1U6",
+      "title": "교육발전특구의 지정ㆍ운영에 관한 특별법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_W2V6V0D8D2C1A1B4Z1A6P5P0O6M2N0",
+      "title": "학교복합시설 설치 및 운영·관리에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_U2S6T0S4Q0Q9M1M1L5L9K1K3J5J8R4",
+      "title": "지방교육재정교부금법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_U2S6T0S4Q0Q9M1M1L5L9K1K3J5J8R4",
+      "title": "지방교육재정교부금법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_U2S4S0A6Z1Z2X1Y1W4X1T2T7S4S1Q2",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_T2U6S0T5R1S2A1Y5Y5X0X2W0X6E7F6",
+      "title": "학교안전사고 예방 및 보상에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_T2S6S0Q4R0Z9X1Y1W2W1V5W8D0C3C1",
+      "title": "경제안보를 위한 공급망 안정화 지원 기본법 일부개정법률안",
+      "stage": "법사위심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "PRC_T2S6S0Q4R0Z9X1Y1W2W1V5W8D0C3C1",
+      "title": "경제안보를 위한 공급망 안정화 지원 기본법 일부개정법률안",
+      "stage": "법사위상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "세금"
+      ]
+    },
+    {
+      "billId": "PRC_S2S6Q0P5W2W2E1D9A5J9I2F7B4A6J3",
+      "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_R2Z4A0Y9X0X3V0W9E5F9D4B6C2A3B4",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_R2P6Q0O1O2W1X1V4W5U9V0T2B9C8A4",
+      "title": "지방교육재정교부금법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_Q2Z4W0V6E2B0A1J6F3Y9V4E1D4C4I5",
+      "title": "교육공무원법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2P5N0O2W0X5V1V6U2S0T0P6P3N7M9",
+      "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2N6M0U3U2T3R0Q9R3N5L0K1L6J0R1",
+      "title": "교육혁신선도지역의 지정ㆍ운영 및 육성에 관한 특별법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2N6M0U3U2T3R0Q9R3N5L0K1L6J0R1",
+      "title": "교육혁신선도지역의 지정ㆍ운영 및 육성에 관한 특별법안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2J6K0I2J2H7I2G1H0O0P3O2M1M5K8",
+      "title": "사립학교법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_O2J6K0I2J2H7I2G1H0O0P3O2M1M5K8",
+      "title": "사립학교법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_N2V6T0U4S2T9R1S3Z3Y1Z0X3X8W3X2",
+      "title": "학교안전사고 예방 및 보상에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_N2L5L0T4S1S0Q1R0Q2Q9M3M5K6L6K1",
+      "title": "가사소송법 전부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_M2N5J1H2I3G0H1F0F1O9O2M2N8L0K5",
+      "title": "교육공무원법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_L2T5R0S3R2Q5Y1W5V2U4U1D9B3A6Z5",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_J2I6J0E7F2D4C1C6B3B3J3J3I4G7H2",
+      "title": "학교안전사고 예방 및 보상에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_I2G4H1O2P0O3O1M1L1L8T2U4S9T7R0",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_H2G5G0E6N2N3L1M7K5L0J5K9R4Q6R6",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_H2G4G1E2F1N7O0M9M4K9L2K0F5G5F6",
+      "title": "교육발전특구의 지정 및 운영에 관한 특별법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_H2G4E0F6D1E3A1A7Y0Z4X4W2W2E0E8",
+      "title": "사립학교법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_G2H6F0G7E2F4K1L5J0K1R5S8R9P0P0",
+      "title": "학교안전사고 예방 및 보상에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_G2H5F0N6O0M4N1L6M4K0K0H2F1F8D7",
+      "title": "지역교육혁신 지원 특별법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_F2N5N0M9L0F5E1C5L3K0J0I2Q7P8O7",
+      "title": "교육균형발전지구법안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_ED58F84717A64423B91914B7BED8E3",
+      "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_ED58F84717A64423B91914B7BED8E3",
+      "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_E2F6D0E4C1B7B1J7K5I9H0H9F6G3C8",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_E2F6D0E4C1B7B1J7K5I9H0H9F6G3C8",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_E2C6C0K6J3J0H1I0G2H1D5B3C6A1B6",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_E2C6C0K6J3J0H1I0G2H1D5B3C6A1B6",
+      "title": "형사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_D2P6P0L5V2U0Q1N7M4L1K4T8A8Z2Y9",
+      "title": "학교안전사고 예방 및 보상에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2E6C0C2B2C0A1A0I4J8H1G8G8E0F3",
+      "title": "한국장학재단 설립 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_D2C4D0K6L1K2K1I1J4I2D3E1C5D1B0",
+      "title": "치료감호 등에 관한 법률 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_C78A0DBCBFB541C48092CDBCD37C5D",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_C78A0DBCBFB541C48092CDBCD37C5D",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_C41C63C41C0D48B3B0F8B91526AE51",
+      "title": "고등교육법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_C3EFF177DB6D487BBC6A6B44D52C00",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_C3EFF177DB6D487BBC6A6B44D52C00",
+      "title": "가사소송법 일부개정법률안",
+      "stage": "위원회상정",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": [
+        "법"
+      ]
+    },
+    {
+      "billId": "PRC_B6FEF9A8F8AC4F2DB3B816AB8A80A6",
+      "title": "양성평등기본법 일부개정법률안",
+      "stage": "본회의의결",
+      "category": "의결",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
+      "billId": "PRC_B6FEF9A8F8AC4F2DB3B816AB8A80A6",
+      "title": "양성평등기본법 일부개정법률안",
+      "stage": "위원회심사",
+      "category": "입법",
+      "administration": "이재명정부",
+      "date": "2026-11-27",
+      "tags": []
+    },
+    {
       "billId": "POLICY_148976609",
       "title": "보훈증명서 10종, 30일부터 무인민원발급기서 '무료' 발급",
       "stage": "정책뉴스",
@@ -2164,6 +2694,28 @@
       ]
     },
     {
+      "billId": "ADMRUL_2100000288786",
+      "title": "보건복지부 교육훈련 및 승진반영제도 운영기준",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288752",
+      "title": "요양급여의 적용기준 및 방법에 관한 세부사항(약제)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000288750",
       "title": "평안북도 상징물 관리 규정",
       "stage": "일부개정",
@@ -2173,8 +2725,61 @@
       "tags": []
     },
     {
+      "billId": "ADMRUL_2100000288746",
+      "title": "요양급여비용 청구방법, 심사청구서·명세서서식 및 작성요령",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "보건"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288742",
+      "title": "의료관련감염 자율보고 운영에 관한 규정",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "billId": "ADMRUL_2100000288740",
+      "title": "통계작성의 변경 승인(협의) 고시(울주군영유아통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288734",
+      "title": "통계작성의 변경 승인(협의) 고시(의성군기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
       "billId": "ADMRUL_2100000288732",
       "title": "통계작성의 변경 승인(협의) 고시(경주시기본통계)",
+      "stage": "일부개정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288728",
+      "title": "통계작성의 변경 승인(협의) 고시(안산시노인등록통계)",
       "stage": "일부개정",
       "category": "개정",
       "administration": "이재명정부",
@@ -2214,6 +2819,17 @@
       "date": "2026-11-26",
       "tags": [
         "통계"
+      ]
+    },
+    {
+      "billId": "ADMRUL_2100000288694",
+      "title": "중소벤처기업부 가명정보의 관리 및 제공에 관한 지침",
+      "stage": "제정",
+      "category": "개정",
+      "administration": "이재명정부",
+      "date": "2026-11-26",
+      "tags": [
+        "산업"
       ]
     },
     {
@@ -3010,7 +3626,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_F2N6O0M7K2L3J1K1S1S2R2P6Q5O5P0",
@@ -3083,7 +3701,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_EE8E2328034C418E94695EA11C36AE",
@@ -3114,7 +3734,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_EC1617D7408640FD9C44AB2EF83430",
@@ -3123,7 +3745,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_EA82D25C7FC248BB8B2DD07AC26C04",
@@ -3132,7 +3756,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_E6F5368A5AA942D5B51098C9AF952B",
@@ -3150,7 +3776,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "산업"
+      ]
     },
     {
       "billId": "PRC_E5FE4C4EEEB74031830687B082EBBC",
@@ -3168,7 +3796,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_E401830351654ABD807812773F8FD3",
@@ -3208,7 +3838,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_E2F5M0N7M3K1K0I9J2R9S3Q3R1P4P9",
@@ -3261,7 +3893,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "농업"
+      ]
     },
     {
       "billId": "PRC_DE9119CD156E46D7A2F2478C3D17D3",
@@ -3279,7 +3913,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_D7CBE37289CE4361A9415208F1380D",
@@ -3306,7 +3942,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_D4F5F54501774AA5BEDE2976BF7B55",
@@ -3326,7 +3964,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "교통"
+      ]
     },
     {
       "billId": "PRC_D367D23028094647BE5387CC2D6DF4",
@@ -3335,7 +3975,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "보건"
+      ]
     },
     {
       "billId": "PRC_D2E6C0D1K2L3J1K4I3H1H0P7P5N1O4",
@@ -3404,7 +4046,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_CB87F1F1AE6B44C6A894A26494533A",
@@ -3413,7 +4057,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_C9091A0CD20740FC9F65A9DD2D6A5C",
@@ -3444,7 +4090,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "금융"
+      ]
     },
     {
       "billId": "PRC_C4ADA5C0433A4E9B97D1818E854E12",
@@ -3517,7 +4165,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_BD6B3A6FE819461890643164D202C2",
@@ -3526,7 +4176,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "법"
+      ]
     },
     {
       "billId": "PRC_B71B7F6B7A6E4C6F8AD6F4D7716E56",
@@ -3544,7 +4196,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_B40F7D39FE36487BA444478597673D",
@@ -3553,7 +4207,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_B2Z6Y0Z7G1H5F1G4E5F4D4L3M0K2L8",
@@ -3615,7 +4271,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_ACAA2BB3B54B4EBA8F184CF95134A5",
@@ -3624,7 +4282,9 @@
       "category": "입법안",
       "administration": "이재명정부",
       "date": "2026-11-26",
-      "tags": []
+      "tags": [
+        "문화"
+      ]
     },
     {
       "billId": "PRC_A3F5D4B8D3F84163A0C63DC4C926CC",

@@ -1,7 +1,7 @@
 {
   "billId": "PRC_E2F6D0C9C0A4B1J0K2I9I5H8F0G7C9",
   "title": "예술인의 지위와 권리의 보장에 관한 법률 일부개정법률안",
-  "committee": "",
+  "committee": "문화체육관광위원회",
   "proposer": "김재원의원 등 10인",
   "assemblyTerm": 22,
   "events": [
@@ -14,5 +14,7 @@
       "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2F6D0C9C0A4B1J0K2I9I5H8F0G7C9&ageFrom=22&ageTo=22"
     }
   ],
-  "tags": []
+  "tags": [
+    "문화"
+  ]
 }
